@@ -18709,5 +18709,25 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-f73fe28483",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRkJWVzNvLUZ4dUxMbVdFMnlFdVI4QWt0LTR5SUVTZE0tbS1kTjd0UWtkTUo3X2Z5aGdxQ3pJUUFEeGlzZkRoLS0xU1BzN293bjg2VzBmaDhoR1JONC1QYWh5SWYxMS1HdDFoenJPS1k3TjRwM0NtLXpIQTUzSll3ampHMmpjUGV4YW1lRThleFlWLTFrUC1hQnJPX3JlLVRFX1V4aXQ3NWw4eFNvbHNmM29vWnp3YktOa0JfUFFuX3Y1dTdiQW12Rk43VFA4YjJaSTNFUWFlOFJyVGEwVjN4TF9BdUpUbU13ZnRDWnJQZw?oc=5",
+    "title": "\"Justice at last feels within reach\": Final hearing in Rockstar and fired GTA devs' legal battle will kick off with a union rally",
+    "publisher": "Rock Paper Shotgun",
+    "publishedAt": "2026-09-08T15:06:12.000Z",
+    "discoveredAt": "2026-09-08T16:17:12.028Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
