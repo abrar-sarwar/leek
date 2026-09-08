@@ -18729,5 +18729,80 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-9ddc49a10c",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNTVZkeDlvWHc3Z1BZNWNUN0Y0UzVXTlI4OHJLMFlmTndzeGJPWXl0WnluT2Fua3RmcjdQMXpsOHV6SlVUY2pVaTFGM1V2aDlkNXd1VHE0NnYycHBBUnQ1blRmRHpsXzhLeXZrZw?oc=5",
+    "title": "The GTA VI leak is unfortunate, but it doesn’t matter.",
+    "publisher": "Indianapolis Recorder",
+    "publishedAt": "2026-09-08T16:19:13.000Z",
+    "discoveredAt": "2026-09-08T20:53:33.053Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-fbfd775b52",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XVnNWMEIwNkJmRGtRanBxWXF3cE9HSkJaUnZKX0JuYXE3dFJETGdkMGNIdWFvbFVyakNvSFpiNDdmaC0zME0wbGFwdzBUX3ZCLTJqN2d3N3AwZXktSVBLdnRvbENyWTdXQTRCdFVvMFJHTmFzaWZQa1VkcmFSVUU?oc=5",
+    "title": "GTA VI Is Canada’s Most-Trending Game Search Right Now",
+    "publisher": "iPhone in Canada",
+    "publishedAt": "2026-09-08T18:23:20.000Z",
+    "discoveredAt": "2026-09-08T20:53:33.053Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-5cb925c3d0",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSkExY1M0cFlvNmhCemg4UWV2SjZLVU5FcWpOY25QejlFM0UtRUU4Z0tFQlBmNW5QRF9yQ2xlLTFVeXR1M1RQVklVT1lRcE9oZFFkejN1WmxCeXhHMkI0aDZUcTZiYi0yOUhyQ09JdVBfWDMxaGdMb0VMaUdDbmc5Q250Q09XbFpxNmd0SWYtd2loSldpcGRNZ1dpNVZzQl9hZUhr0gGwAUFVX3lxTE1vbW12azQxLUJ0TjBfZThKb04xWnIxRGltbXZnUUJMT0F0SFl1SGxNaC01b1VOQjhaU2p6UzFBVUx4ajQwNmZfTkd1MjEtRGZqZi1UX20xcEpyVHMwaEw3WXFiZzlXcUlBZDFMSThybUlRMmp6eXJXdlo3QmpfdmpBOVQ4X1YzNU5BSm9jbEhwbVhqZlBpX0I5N0J0Mzd3MzZ3Y2RPUFJRZzVhdFV2TFdX?oc=5",
+    "title": "GTA 6 India Launch Time Leaked: Check When You Can Start Playing",
+    "publisher": "analyticsinsight.net",
+    "publishedAt": "2026-09-08T17:15:00.000Z",
+    "discoveredAt": "2026-09-08T20:53:33.053Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-74b4e93022",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxdlVCbG9SYzhpVzFhMXJUYTY4NWxhcGtrb2RYZWNXTGVENmd0dFJaRnV2azk5a0hYdWExNTMtWXFINHlDRTJoVVpMdG40U3F1Mi1tNHRXVlU0c0xfMWJvV3hjdjhLZmozbThrY2FMQVgzSExpaFMw?oc=5",
+    "title": "How Much Did the GTA 6 Leaks Cost? The $2.83B Fallout",
+    "publisher": "Bleap",
+    "publishedAt": "2026-08-24T07:00:00.000Z",
+    "discoveredAt": "2026-09-08T20:53:33.053Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
