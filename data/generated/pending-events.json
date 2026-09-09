@@ -5638,5 +5638,77 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-33dd85c352",
+    "title": "Huge Steam leak shows achievement lists for hundreds of upcoming games, including Kingdom Hearts 4 and Persona 6",
+    "reportedAt": "2026-09-09T08:59:35.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOblhHejJoU1ZBQVQ0RXFZMkRjZFRfUDNnZkpNay1DY2REbG1rLUg3dTNNNElicHVJdUFwZ1pjb2ZINW5mSFRucG1VRzZ2ZDFpby1KMUJtYk15Y05FWkoxZTdYNG5nbk56OEJNeDNiYXJXMnEwTU5CYkJFX0hmd0lKUFl2MFBIaGJoeFZVbFRXQm85MUJpRU9ZRXdmSDlSQXJfaERlcDNKQUFGckFkZldaaGdoYnd2NFo5dWtpZU9ZS1prZWphNm93Y0RvanlBT2czTkpfZDdhN3pQQjJBekI5U2lFSXowRldC?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-786990c90c",
+    "title": "Steam may have leaked achievements for countless forthcoming PC games via a third party site",
+    "reportedAt": "2026-09-09T07:11:33.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMipAJBVV95cUxNOWNlVy15X1JFb1J1ekFHdVVzS1gzVURHaXg2eHN2ZTd3MWJ6S1o3SGlnOWpTSzZpVU5kV1h0dmppUXpNcENweHRMdzRvVnN2cGtSQVBhZG84UnBtd3VyNUhiQ3Jvb19MeFpWSE9VSU1yMEw4OTBrRUdLeDVFNzR1Rzd0Wnk5QUdlSjcxQ2k1SmZVdU9GclVIQlIwQjhhbDJYVXJUYzdYZkoxblUzYmc2NHdWNS1CcllXaTFFcWxyWEd1eGhNT0xyc2k1MTNCQXJBWk53dnBkWTZOX3A0OVZPRWg4cTFCaEJUNjlwYVFsRXJlcXdoTXM0M1g2cVpSQTRYdGhxUDJXeGtxS1RWR2lSZ0M1dHdjUUF5Q2dIYmtkdk9SNjZW?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-fca7b9968e",
+    "title": "Massive Steam Leak Outs Existence of Unannounced Games",
+    "reportedAt": "2026-09-09T03:26:27.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMikwFBVV95cUxObjROZ0U1bUtpd1JVUUdFbmtTUVdXMl9YUHJ1ZDJBNkdDMVdnTm5sT2ZfakRONEotUlp6UXFHQzNHbWU3QURQTzV2NkNsUTRJZ0hKOEg1WWxjTTl3VUpoSTN6VDVCOVN3NjRZb2IwUlRPbk1ab0xnUVB6T2JudWYyOEFTdHUzUDBlQkhjNzhVeXZpMlk?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-5712a55db3",
+    "title": "GTA 6 Developers Are \"Frustrated And Exhausted\" Over Ongoing Leaks",
+    "reportedAt": "2026-08-21T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwbFBPdGFUMVhhU1FiZ2JZR3RCa2ZwcVRJVVphV1ZVa3ZvUzd4c1pPQ0FwRTZGZkdsUzh6RVR0TDFDbngxUDl0LUdka1NoTWV0WENJNGhDZ0U1U1FfcTdhZ3F1WW5vVXh5N3lPSk5Ucw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-0238cffdc3",
+    "title": "Who is KINGJulien? GTA 6 leak investigator claims CyberLeek is a 'repeat threat actor' after an OSINT deep dive and evidence sent to Rockstar legal",
+    "reportedAt": "2026-08-21T07:00:00.000Z",
+    "category": "investigation",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMisAJBVV95cUxPZWZUcGFmMUIyNWhtaTBtNU5NTWNaTzNMLUVhTWJ6U1pFekRKSTRrU0s2SU1jN3lUV3d1YWZNZTIxS1Nza082TzU0clFzU3FFUXl3YUItMVdzbXlBU0ptdDBMMU9XVVp5NUFSSDQ0ZGU2TFc5dmQwVkdYcXRYVHFRVWVJOWwtM2F4LXdXcGZhV2xDMHlnc0dZVUNXbWs2RWpTVkJTYkdtX1FQUkdTcmZ4bWozeTdPaTY3LVNhT3dJeGYwdjJYT3ZwWGdZVTd0SHM2TnpkSzNYNFdYck5wdmVuV3VvUlZ2VjFIcVRyOXBYX2RsSVlaYzZkcG9KdnlfM1VORk1SeC1jTjdtUlAzUE9sdWpPcThUaVU4dW5SR2wwdHhCMkM2aEVJYzJCTzh6eTQ20gG2AkFVX3lxTE1iVGZlSmltejJtSUI3T2Z6cHIyNkdxUTFLM2YxNzdSY1ZzZFF2SU1EcmUyMGdvZndHZVVnUy14Zy1TODlhekdoOWVsVzl3cGN6NXlVZTkzUjdNWWd6b1kyTno2MU5reDlaa0hPdHM4cG9kbHlTcF93MFZ5X1VLU3ozaDVxRUtib2dNdU1CWkc5RnFXYks0akZORGNzTW56Q1VNNzdWWUFFcGRVY3daV2lKUkNmd2dQY1RucVNyNUhERGhPVEkxOU9ORDctRS1PN0R5YWNpT016cm43V2RSLVd1ZlExZFVoSE1CUTBTZ25qOHB4Tm4xVnU0eENpeURpZHA4VWF0a3hFQ1J5eUJRV1RJYUloNTFhMlZLa2txSUdzaXd3aEVtb1RERmtOcUVWT2Y0ZVBud2c?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-e56a8b2e7a",
+    "title": "GTA 6 live: New PS5 limited edition controller images 'leaked'",
+    "reportedAt": "2026-09-09T00:48:25.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa13bbbe235409a9b55874f8f09a57b&url=https%3a%2f%2fwww.msn.com%2fen-ca%2fnews%2fother%2fgta-6-live-new-ps5-limited-edition-controller-images-leaked%2far-AA2bRwVx&c=11650182577770679075&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
