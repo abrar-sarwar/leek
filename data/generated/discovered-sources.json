@@ -18995,5 +18995,23 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-bd7ca79a63",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRGtTdkRFa2xSV0hGU1hqcGN4OWZVWGgxRUJnSUJxTWtsZEs5VXR4ZTkwYThzQkNXV3BvSGRIYTh6TDJqSFJoWm8xdlh4ODlQTHJHZUFRRlUtbW9FVWFoSWZlTzk5RXZqQTBpcGowNTNfQ1J4Mjc3V1dGVTFWY0s0dEN0eGhhZDk1NGhWRV9VbkVrQWJXRjlEUjlMdVZoc21xS1BOb00zV1U?oc=5",
+    "title": "Software - Blog - Pagina 161",
+    "publisher": "NeoTeo",
+    "publishedAt": "2026-09-09T13:37:44.000Z",
+    "discoveredAt": "2026-09-09T16:11:48.022Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
