@@ -18804,5 +18804,28 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-f40cf6d1d6",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcjI1VEY1Wm02bzZfNDVNY2ticjExbGZMSnZzNmdYTWgtWDl2cU92OTlXS3JpVWhOeno1MWNhVzRUeUtsTWx4aDVKemVTRjVEMldoektGa3lmcTBfYmJ1LU9DdzJiY1F2NjRKVllHT3NDU2RXdHhHN0wxMVl1cjJ1Qk8xdzNCV3ZsRzZpLU5GdTN0Qkk?oc=5",
+    "title": "CyberLeek Puts a $169,000 Monero Price Tag on Talking to GTA VI Leakers",
+    "publisher": "eGamers.io",
+    "publishedAt": "2026-08-25T02:50:21.000Z",
+    "discoveredAt": "2026-09-09T03:49:01.263Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-022"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
