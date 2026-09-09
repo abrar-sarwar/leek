@@ -19013,5 +19013,63 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-fe9c905875",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FWm5VTXdaOG5aQkRFYnRmYVdNRWZ0c0pQSjhTcHhuZWczWTAycWM5dDlXUVQwSm4wY05wNTZYamRFZlBUcFlBaUdoV1NNSkhXeDRRMkJXR3VPSjNnQTBHSkRjMVVyMmE0d2UyMXFyQmVuUQ?oc=5",
+    "title": "Cyberleek Says GTA VI “Is Not Ready At All.” That Claim Lands Because Modern Gaming Trained Us to Believe It.",
+    "publisher": "Fandom Pulse",
+    "publishedAt": "2026-08-31T17:25:05.000Z",
+    "discoveredAt": "2026-09-09T20:41:26.580Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-213866ca3a",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMmZBTi1rVFlfMGtjMHlwVjNLYThkOWl0SVBsZjlPLVFjR1BVSndWZTVvMkJ6Ykg3RTFUbGJCOUlyVVBIY19xMUFsOE45R3dqZ052cDlac204MEhCMTk0ZEtmV0RXMkptMmF0UGZpWFNVX1FpdzRoczZ6VU1hMlpGcUJHNVdfWmgtbEFMWG5XSXJJLWRTSHMtRkJHTGk?oc=5",
+    "title": "Can You Really Play GTA 6 Early? Leaked Release Times and the Time Zone Trick",
+    "publisher": "PCMag",
+    "publishedAt": "2026-09-09T16:23:02.000Z",
+    "discoveredAt": "2026-09-09T20:41:26.580Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-32c1f0512f",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa1c47c17b34033bc24b6a294e8a2fe&url=https%3a%2f%2fbeebom.com%2fgta-6-collectors-edition-box-allegedly-leaks-with-a-disc-slot%2f&c=6879457468975115235&mkt=en-us",
+    "title": "GTA 6 Collector’s Edition Box Allegedly Leaks With a Disc Slot",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-09T03:00:00.000Z",
+    "discoveredAt": "2026-09-09T20:41:26.580Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

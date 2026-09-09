@@ -5710,5 +5710,29 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-213866ca3a",
+    "title": "Can You Really Play GTA 6 Early? Leaked Release Times and the Time Zone Trick",
+    "reportedAt": "2026-09-09T16:23:02.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMmZBTi1rVFlfMGtjMHlwVjNLYThkOWl0SVBsZjlPLVFjR1BVSndWZTVvMkJ6Ykg3RTFUbGJCOUlyVVBIY19xMUFsOE45R3dqZ052cDlac204MEhCMTk0ZEtmV0RXMkptMmF0UGZpWFNVX1FpdzRoczZ6VU1hMlpGcUJHNVdfWmgtbEFMWG5XSXJJLWRTSHMtRkJHTGk?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-32c1f0512f",
+    "title": "GTA 6 Collector’s Edition Box Allegedly Leaks With a Disc Slot",
+    "reportedAt": "2026-09-09T03:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa1c47c17b34033bc24b6a294e8a2fe&url=https%3a%2f%2fbeebom.com%2fgta-6-collectors-edition-box-allegedly-leaks-with-a-disc-slot%2f&c=6879457468975115235&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
