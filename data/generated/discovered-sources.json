@@ -19343,5 +19343,87 @@
       "suggestedStatus": "retracted",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-12d0021d07",
+    "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5fNjAzTWFXWHZrbndqNWNHYkV5OThicllzRGVHM0c3TUVMOU5TTFIzVzRUU0xEaVl2TlFDMzM2TW82UQ?oc=5",
+    "title": "Rockstar Built $1B Fortress. Cyberleek Destroyed It.",
+    "publisher": "YouTube",
+    "publishedAt": "2026-09-10T15:46:26.000Z",
+    "discoveredAt": "2026-09-10T20:36:22.323Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "Rockstar Games",
+        "Google / YouTube"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-894fe1df04",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNWFkZlpCTXhxMDFQOW90QjFlQ2txNkFBMUJSN25QMzBjSnNBNVZnUk9UeXUySGptTHdyM1FBYXRPM2piYzRSVERxODZmNXE5Yy14cEpJNVNrUFlhNlBBWkJaNG5ETkd1YnlnWWtHMFVvMFNYeV9heC0xOGV6c0UyS3B6aDM?oc=5",
+    "title": "GTA 6 Collector's Edition may have leaked, and Rockstar fans might not like what's in the box",
+    "publisher": "GAMINGbible",
+    "publishedAt": "2026-09-10T19:00:02.000Z",
+    "discoveredAt": "2026-09-10T20:36:22.323Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-bc8cf3a26a",
+    "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNMmZmYW03UmVqSVEwNFhKcU5RYkZyeXVkODJacUpFWFZORkpFY21GVUJFWk1kbFI4NDhxSkhOb0JwZjQ0QTVUSHhId0JfcEJpVGJfb21Ub28yMWUxQklhNzJqMWxvMU5aNlRNQXZCcGQ0S29LYjk4TG0yMG93NTJoUWxJZUNUVzFtWTVCN3RnamlhWEdxOWxDbnZVenNua1BGNXJ2bUNnWDllR3lmRFRGV21zVjhzZUIyMGFoSXEwMjVlOURfZExJV0p4ak9VdUQ2QllVTWF5ZmZQSUNkZ05zWXI3UFlDOG9MRkRSend1SjU5REdDQ0pVSmpwSDRLdkR2ajhVUUZNQTQ3cnpXaFZIVXZVanFvSjVRV3ZsTDlqNkJXYWF2N0pKMGNIaEFBTkNJWlpkei1ZMlM3RUZCc0lLNWl2aEEyQkZj?oc=5",
+    "title": "GTA 6 fans track down real-life nudist resort featured in leaks just to write unflattering fake reviews that are driving its owner to madness: \"A nudist resort DENYING exposure?\"",
+    "publisher": "GamesRadar+",
+    "publishedAt": "2026-09-10T17:53:23.000Z",
+    "discoveredAt": "2026-09-10T20:36:22.323Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-004"
+      ],
+      "category": "misinformation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-bd99df75a3",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNV2hNVmd3dXlNZmZEM0w3RDI5YXh4RlpPbFl5Tktycjhub3hrNUdGUWxjRGthN1lFZ1A5ZVNsWFlFd0hNVWZLdnd1NnNfWlAycHNDQmFCWlI0U0c3NFdKemhIUHdmN0p1S1JDLWJGdXJzTlRDWWxhRXlvbnUyOEJPSHpoV1VzMTZEOGdQT1cyU1U4SC1DLVVyZF84YWpLSmVONVpTU2hfWVNIOVZtTW5F?oc=5",
+    "title": "GTA 6 could single-handedly boost console sales revenue in 2026",
+    "publisher": "AltChar",
+    "publishedAt": "2026-09-10T15:31:00.000Z",
+    "discoveredAt": "2026-09-10T20:36:22.323Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

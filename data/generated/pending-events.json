@@ -5842,5 +5842,17 @@
     "suggestedStatus": "retracted",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-894fe1df04",
+    "title": "GTA 6 Collector's Edition may have leaked, and Rockstar fans might not like what's in the box",
+    "reportedAt": "2026-09-10T19:00:02.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNWFkZlpCTXhxMDFQOW90QjFlQ2txNkFBMUJSN25QMzBjSnNBNVZnUk9UeXUySGptTHdyM1FBYXRPM2piYzRSVERxODZmNXE5Yy14cEpJNVNrUFlhNlBBWkJaNG5ETkd1YnlnWWtHMFVvMFNYeV9heC0xOGV6c0UyS3B6aDM?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
