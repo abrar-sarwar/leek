@@ -19092,5 +19092,132 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-095a57eb72",
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPQ1FZeEtLdm9WT3ZES1Z6S2Q1WjdHMGlCTXZ6b2FFZUdTTnp6QkdqTXl0UGdENmJQdjM1Y2pmRjV0OGJBR2dkamJ5VmRDQjRQRGluZmphamplQ1RhZGp3dHFwanJtMThiWWM4V0ktTU5YUDlQRHJkUF9vTEtPaWc3bGFESUc4emMtUVp3UmYxbkZYNTJxeTVYa0dGNk5ibVdMYV9jelczZUY4UVBfU0pXbzZUVzhiWFV4Q21ieEI1TkJ0U2RxLXhQMjlIWEJiX2N1RW5tbzJscEZaVkJzcUJFMkFtNGNpZ3dkc05yZ1YyQ2VzbFl5RjJoU2RJSQ?oc=5",
+    "title": "As final hearing over GTA firings begins, Rockstar reiterate they \"reject the claims\" made by union and will defend themselves \"vigorously\"",
+    "publisher": "Rock Paper Shotgun",
+    "publishedAt": "2026-09-10T10:34:53.000Z",
+    "discoveredAt": "2026-09-10T10:54:45.611Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-028"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-c6ffed7588",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPY1d5dEh5WkVORTdCSUQ2YlFpN2JzVTVJU2UwOF9FelhYRXdJSU1SWnhqYXJTTTdpZGxLa1NpbEprNUNqV3RCcldoUWRKcDBMQjllTnlaN3hfVy1OMWRzTnlvelhsWWxPSVFhblVlNllYWGJ5dldmU1hoUGxMUV84SjRZbk5mUmtJbFQzZ1VNU0pqWHFiUWx4VnRkd3NpempqcmZPX2dzMUdaNzJpUnFuU2oxbHdVRHlPdzl1MU1CR0NuSWdibjVmRlJvMFZVdGVTZGd6elE4aEhVM1pwQUE?oc=5",
+    "title": "Take-Two's GTA VI Countdown: Leak Probe Tightens as Monetization Questions Loom",
+    "publisher": "AD HOC NEWS",
+    "publishedAt": "2026-09-10T09:30:50.000Z",
+    "discoveredAt": "2026-09-10T10:54:45.611Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-869f950a1f",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZ051ZzFxSTZfcFh6NkNBeWFTYmFKelIzUG1ydHg5bU9zeGFLUVlMVmtTZVE0OGVQMlZpNGgycV9DY0NBWXZiUHRoVnd6WHE0MzFMLURxRmFfNlRZMlJzRWF5VlgwVzYyQ0puVDRWY2xKeGFvVk5oNmFYczVDMWtYSU11RnE0X2IzTk9uWm1GZFdZdEEtWGhPb3MxdDcyaldPcnV5eWY4NVJPWXVWTjJ2YVN6bUNFNWZ4Sks4bnV5SmkwQndQT1hvdnpRVnNEbHpSME1TaTFmZw?oc=5",
+    "title": "Take-Two's GTA VI Countdown: Leak Hunt Narrows as Guidance Holds Firm",
+    "publisher": "AD HOC NEWS",
+    "publishedAt": "2026-09-10T06:10:55.000Z",
+    "discoveredAt": "2026-09-10T10:54:45.611Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-65c6a758c4",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQk81RGpiQXh5T2wwNDdZZXBGMkxCbnFDdzRjNmVsQUs1eW1wT05xaVRNZU1uRDdKX1BzTE1pUXJadXJNbmVRcVAyVG5PdVFFOF9CZGJ0bkE3a0Qxa29LR1lEQmFDZzZSbTduSzd3dHRHblFwRlJyVWxoYUZJelZWS0R2VQ?oc=5",
+    "title": "Smash Bros. Fans Just Got Trolled Accidentally By Nintendo's 45 Minute Direct",
+    "publisher": "Polygon.com",
+    "publishedAt": "2026-09-09T16:09:32.000Z",
+    "discoveredAt": "2026-09-10T10:54:45.611Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "community",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-a67bd08e02",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS284aXFiZXZQdGN6MVpBSTlkMVdma1EtMXd6czRoMkVQa0dESE5QSjJmS0RtNUxYSW9lb25ZcVpYRFpwSnhNcmx3dXg5MHZzbVhETS02cUFieFRMSWtpenF2SmJZcVQzYnJGRjR3cXBGLWlERWdfNmtONmd0TS0weFpkSFpveXY0cjZOQVhR?oc=5",
+    "title": "Take-Two Asks Court to Unmask 'GTA 6' Leaker",
+    "publisher": "invenglobal.com",
+    "publishedAt": "2026-08-21T07:00:00.000Z",
+    "discoveredAt": "2026-09-10T10:54:45.611Z",
+    "feed": "google-news",
+    "query": "Take-Two CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive"
+      ],
+      "claims": [
+        "LEEK-CLM-023",
+        "LEEK-CLM-016"
+      ],
+      "category": "legal",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-28a02390fc",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa28c7a1498404ea6ad616a7f12b800&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fgta-6-online-creator-pay-remains-a-prediction%2far-AA2bWJoC&c=522921829600334220&mkt=en-us",
+    "title": "GTA 6 online creator pay remains a prediction",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-10T03:22:00.000Z",
+    "discoveredAt": "2026-09-10T10:54:45.611Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

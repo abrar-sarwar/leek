@@ -5746,5 +5746,41 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-c6ffed7588",
+    "title": "Take-Two's GTA VI Countdown: Leak Probe Tightens as Monetization Questions Loom",
+    "reportedAt": "2026-09-10T09:30:50.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPY1d5dEh5WkVORTdCSUQ2YlFpN2JzVTVJU2UwOF9FelhYRXdJSU1SWnhqYXJTTTdpZGxLa1NpbEprNUNqV3RCcldoUWRKcDBMQjllTnlaN3hfVy1OMWRzTnlvelhsWWxPSVFhblVlNllYWGJ5dldmU1hoUGxMUV84SjRZbk5mUmtJbFQzZ1VNU0pqWHFiUWx4VnRkd3NpempqcmZPX2dzMUdaNzJpUnFuU2oxbHdVRHlPdzl1MU1CR0NuSWdibjVmRlJvMFZVdGVTZGd6elE4aEhVM1pwQUE?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-869f950a1f",
+    "title": "Take-Two's GTA VI Countdown: Leak Hunt Narrows as Guidance Holds Firm",
+    "reportedAt": "2026-09-10T06:10:55.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZ051ZzFxSTZfcFh6NkNBeWFTYmFKelIzUG1ydHg5bU9zeGFLUVlMVmtTZVE0OGVQMlZpNGgycV9DY0NBWXZiUHRoVnd6WHE0MzFMLURxRmFfNlRZMlJzRWF5VlgwVzYyQ0puVDRWY2xKeGFvVk5oNmFYczVDMWtYSU11RnE0X2IzTk9uWm1GZFdZdEEtWGhPb3MxdDcyaldPcnV5eWY4NVJPWXVWTjJ2YVN6bUNFNWZ4Sks4bnV5SmkwQndQT1hvdnpRVnNEbHpSME1TaTFmZw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-a67bd08e02",
+    "title": "Take-Two Asks Court to Unmask 'GTA 6' Leaker",
+    "reportedAt": "2026-08-21T07:00:00.000Z",
+    "category": "legal",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS284aXFiZXZQdGN6MVpBSTlkMVdma1EtMXd6czRoMkVQa0dESE5QSjJmS0RtNUxYSW9lb25ZcVpYRFpwSnhNcmx3dXg5MHZzbVhETS02cUFieFRMSWtpenF2SmJZcVQzYnJGRjR3cXBGLWlERWdfNmtONmd0TS0weFpkSFpveXY0cjZOQVhR?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
