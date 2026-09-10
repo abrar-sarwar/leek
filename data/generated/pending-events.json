@@ -5734,5 +5734,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-496152819e",
+    "title": "Alleged GTA 6 Collector's Edition pics leak despite lack of physical disc pre-orders",
+    "reportedAt": "2026-09-09T21:16:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUmZfTVk4LVMzVHJldkJ6ak1ndTl4a0E1SzBnM194b0lTNU5GSnAwRjRCd1dvcUg2aEJiaTZUWWpZWjVvb3VUczdteGlVT0VMYlpLYXlsSERxaW1hYzAyWEFKVTc1djBUczF4UlY5U3QtLVFaVzYtbWVmbHlOMVRIelBHTmkzZ2F6cXJLSmEyd1hjczFPd2M4RXNXOXczenpmZUl0U2JxNzFWZWtsMWxHX0plTDQzOXR4aUhYa2hZMmhtMlFaWldqNQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

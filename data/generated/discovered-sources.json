@@ -19071,5 +19071,26 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-496152819e",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUmZfTVk4LVMzVHJldkJ6ak1ndTl4a0E1SzBnM194b0lTNU5GSnAwRjRCd1dvcUg2aEJiaTZUWWpZWjVvb3VUczdteGlVT0VMYlpLYXlsSERxaW1hYzAyWEFKVTc1djBUczF4UlY5U3QtLVFaVzYtbWVmbHlOMVRIelBHTmkzZ2F6cXJLSmEyd1hjczFPd2M4RXNXOXczenpmZUl0U2JxNzFWZWtsMWxHX0plTDQzOXR4aUhYa2hZMmhtMlFaWldqNQ?oc=5",
+    "title": "Alleged GTA 6 Collector's Edition pics leak despite lack of physical disc pre-orders",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-09-09T21:16:00.000Z",
+    "discoveredAt": "2026-09-10T03:47:35.312Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-014"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
