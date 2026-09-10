@@ -19219,5 +19219,129 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-8d294a8308",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUENaZFhyT29sZEpRT1BBZW5FckpLNEc2aHhRM095OHdadlM3X2xvXy1ob0JKSnpuM01MaEV1b3ZRUWx6bUJEaEdhY0p5SHlGREFWZ2J6U3lyTURSaldkMlRoZjlMWEQybm9aOGllLWhNdDdMVnlyaV9uam1UOVhYelMwRlRwZzc3SERRNkdGSk91RFNXbXlvbEp5cEU0SDF0alE?oc=5",
+    "title": "GTA 6 Collector’s Edition reportedly spotted ahead of the game’s release",
+    "publisher": "The Shortcut | Matt Swider",
+    "publishedAt": "2026-09-10T11:40:50.000Z",
+    "discoveredAt": "2026-09-10T16:03:42.634Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-688f786ef3",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMjN4d1FId2I4dDgtcGpJTzhYcmFSdVJQWW10cWg0U05RaHpFUlJHQno5dGw1ZWFEbVIzSkFsRkpINFFJRjlNWHNQb1Y3SkE0bUZDS3B0S0hDOUU2ekZLR0RyWm1IdkhKTkNsbXlHUWl1QkYzMk5GanVoUDRKNmRBbjFvbXZTTkNZUmozUmlaUW0?oc=5",
+    "title": "Possible Images Of GTA VI Collector's Edition Or Influencer Kit Have Leaked, May Include Physical Disc",
+    "publisher": "TwistedVoxel",
+    "publishedAt": "2026-09-10T11:58:33.000Z",
+    "discoveredAt": "2026-09-10T16:03:42.634Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-014"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-d5da8cd88d",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iYi1TbTBWZ3dKS3JnQmFQTHJVZXR1bDh5UTNXaUN3SnAwRVpYRS1MNzBFTGExZEc4Q0JGUDQ4R216eGtPVkFwOHVKZlU4MkNYTFZsY1BB0gFbQVVfeXFMUEhncDNvRldzX2JhMWg0ZEJqd0ZpWUI3bU5PalJMZUFhaml2dDRPWVNsLWZac0VXWEwzRl80dGNRXzliTEZUdi11YnVoNHRLZ3d6QmcwNjJuVXVxSQ?oc=5",
+    "title": "Fake GTA 6 Installer Steals Browser Passwords, Discord Tokens and Crypto Data From Gamers",
+    "publisher": "gbhackers.com",
+    "publishedAt": "2026-09-10T12:35:33.000Z",
+    "discoveredAt": "2026-09-10T16:03:42.634Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Discord"
+      ],
+      "claims": [
+        "LEEK-CLM-004",
+        "LEEK-CLM-015"
+      ],
+      "category": "discord",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-c7e461351c",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQX0VyRC1xYU5ERVA0bENsMnh3X18tdEIyUzI1MEUzUjduUWI5czI2RkREVHVoX2dXNHRnSVFVbXdyRm0tSXhuWmo2VmdSa0Vya2hMNlpvRVJRbnZzU2RPakpRRXBqM3Fac0Y1VzI2VzlqTGVlcG9TVzZDZGl6b21TUGZoNHZYdTkzZG5JUTZhcnlrUm9iUFVsbGNqRzNyY2pNWkUyUF92eGtidGVQLXg0bzhyRVpzNi1WMnNNLVczMXVYSEJz?oc=5",
+    "title": "A leak has revealed the supposed packaging for the Collector's Edition of the action game Grand Theft Auto 6.",
+    "publisher": "GameGPU",
+    "publishedAt": "2026-09-10T11:57:11.000Z",
+    "discoveredAt": "2026-09-10T16:03:42.634Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-2a22850573",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX0pCTXdCTnNlV0NIeFpIZENiZEJXcG1fVGVMdGQxUnBIYzdTUWZnX1lzNVE0SGR2U1J2bkdXWHFKV3J6NW8tT29ZWVdsM3ZSeXlXMUc4WUlNbGY0YU04QnozSlpCY2N6aXpqZkltSW5qWXAwTndSak9JaHhqa3EzamtCemdEMzNfZWZsV3R2Z2NNajI3WGxxT1U0b25QZ3g4MjVfV2o1aWEwUk0?oc=5",
+    "title": "Controversial Streamer Slams GTA VI Leaks, Declares Viewers “Not Real Gamers”",
+    "publisher": "levelup.com",
+    "publishedAt": "2026-08-22T16:00:54.000Z",
+    "discoveredAt": "2026-09-10T16:03:42.634Z",
+    "feed": "google-news",
+    "query": "Rockstar CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-35822026a2",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa2d4e4e5714952a5e45c4f18d74dca&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fthe-gta-6-leak-story-was-huge-for-8-hours-then-someone-checked%2fvi-AA2bWSON&c=2280319744480481151&mkt=en-us",
+    "title": "The GTA 6 leak story was huge for 8 hours... then someone checked",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-10T06:54:40.000Z",
+    "discoveredAt": "2026-09-10T16:03:42.634Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-004",
+        "LEEK-CLM-013",
+        "LEEK-CLM-029"
+      ],
+      "category": "correction",
+      "suggestedStatus": "retracted",
+      "model": "rules-only"
+    }
   }
 ]

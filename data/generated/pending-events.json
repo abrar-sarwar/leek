@@ -5782,5 +5782,65 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-688f786ef3",
+    "title": "Possible Images Of GTA VI Collector's Edition Or Influencer Kit Have Leaked, May Include Physical Disc",
+    "reportedAt": "2026-09-10T11:58:33.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMjN4d1FId2I4dDgtcGpJTzhYcmFSdVJQWW10cWg0U05RaHpFUlJHQno5dGw1ZWFEbVIzSkFsRkpINFFJRjlNWHNQb1Y3SkE0bUZDS3B0S0hDOUU2ekZLR0RyWm1IdkhKTkNsbXlHUWl1QkYzMk5GanVoUDRKNmRBbjFvbXZTTkNZUmozUmlaUW0?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-d5da8cd88d",
+    "title": "Fake GTA 6 Installer Steals Browser Passwords, Discord Tokens and Crypto Data From Gamers",
+    "reportedAt": "2026-09-10T12:35:33.000Z",
+    "category": "discord",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iYi1TbTBWZ3dKS3JnQmFQTHJVZXR1bDh5UTNXaUN3SnAwRVpYRS1MNzBFTGExZEc4Q0JGUDQ4R216eGtPVkFwOHVKZlU4MkNYTFZsY1BB0gFbQVVfeXFMUEhncDNvRldzX2JhMWg0ZEJqd0ZpWUI3bU5PalJMZUFhaml2dDRPWVNsLWZac0VXWEwzRl80dGNRXzliTEZUdi11YnVoNHRLZ3d6QmcwNjJuVXVxSQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-c7e461351c",
+    "title": "A leak has revealed the supposed packaging for the Collector's Edition of the action game Grand Theft Auto 6.",
+    "reportedAt": "2026-09-10T11:57:11.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMixAFBVV95cUxQX0VyRC1xYU5ERVA0bENsMnh3X18tdEIyUzI1MEUzUjduUWI5czI2RkREVHVoX2dXNHRnSVFVbXdyRm0tSXhuWmo2VmdSa0Vya2hMNlpvRVJRbnZzU2RPakpRRXBqM3Fac0Y1VzI2VzlqTGVlcG9TVzZDZGl6b21TUGZoNHZYdTkzZG5JUTZhcnlrUm9iUFVsbGNqRzNyY2pNWkUyUF92eGtidGVQLXg0bzhyRVpzNi1WMnNNLVczMXVYSEJz?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-2a22850573",
+    "title": "Controversial Streamer Slams GTA VI Leaks, Declares Viewers “Not Real Gamers”",
+    "reportedAt": "2026-08-22T16:00:54.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX0pCTXdCTnNlV0NIeFpIZENiZEJXcG1fVGVMdGQxUnBIYzdTUWZnX1lzNVE0SGR2U1J2bkdXWHFKV3J6NW8tT29ZWVdsM3ZSeXlXMUc4WUlNbGY0YU04QnozSlpCY2N6aXpqZkltSW5qWXAwTndSak9JaHhqa3EzamtCemdEMzNfZWZsV3R2Z2NNajI3WGxxT1U0b25QZ3g4MjVfV2o1aWEwUk0?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-35822026a2",
+    "title": "The GTA 6 leak story was huge for 8 hours... then someone checked",
+    "reportedAt": "2026-09-10T06:54:40.000Z",
+    "category": "correction",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa2d4e4e5714952a5e45c4f18d74dca&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fthe-gta-6-leak-story-was-huge-for-8-hours-then-someone-checked%2fvi-AA2bWSON&c=2280319744480481151&mkt=en-us"
+    ],
+    "suggestedStatus": "retracted",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
