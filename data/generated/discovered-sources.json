@@ -19727,5 +19727,209 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-19094b7e39",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Tbzlpb3dmbUc4ZXVRZnpobk9FckhvLThKbFlRbkRxbWM5eWdhbWl0VWxCM2R2a1pRQUNDd2EtMk1fck1KSV9GVGdpaDdQMWlpWUtDT3pFZjJkVmYxZUJyVHd1a1l3cDhORHFwZy00WXc0X3o0QmNqbw?oc=5",
+    "title": "GTA 6 Fans Harass And Extort Real Nudist Resort Referenced In Leaks",
+    "publisher": "TheGamer",
+    "publishedAt": "2026-09-11T16:14:46.000Z",
+    "discoveredAt": "2026-09-11T20:42:58.392Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-bbd85be975",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wd25oT0NWMWdhS1lXcndXVDh4OXJqV2NmTjgzSy1KQ0VQOFFqczhzSWwybGhrMzVGOTJKRUo4eUZaWDNvT1hpUElDT1gxLVFO?oc=5",
+    "title": "GTA 6 Leak Spurs Fake Reviews, Extortion Attempts at Real-Life Nudist Resort Prototype - toy-people.com",
+    "publisher": "toy-people.com",
+    "publishedAt": "2026-09-11T17:58:50.000Z",
+    "discoveredAt": "2026-09-11T20:42:58.392Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-004"
+      ],
+      "category": "misinformation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-7d698eb1a5",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQenNEMUQ4VExhOGwzemFWMm1BeFQ2Mm9FMlRlOVgweGdOUmVMREVNMnJrQTVWX0lZWFd6cWo1T2Z3ZzlqR1hQb1E0bnRaemxhMkRYX2hGVjFydnRSZGY5dUJGU2VzelpUNDI5UDRiN3VvZGQ0bEMzVHR2SHZzWUVOcEc2VjJ2WGhNZkEySWNEMnlJSXZNbVpoNWM0Q1otbVplVnpmOFlrX2dmRVZpQ0NrNEVFai14UEZDRHNzcFlhVktHOEU2ZDY4Z1FMU1d0ejAxNlF4cWpZX3AxOHFCMnd4MERB?oc=5",
+    "title": "GTA 6: Rockstar Reveals Extreme Anti-Leak Security",
+    "publisher": "IGN",
+    "publishedAt": "2026-09-11T17:32:05.000Z",
+    "discoveredAt": "2026-09-11T20:42:58.392Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-5edefb2765",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQWFlLWxLZmtpNk1DVWpTVW0zWk4wYUJPa3pkdXdLQnE2ZjdJYlZjU0dMRC1FT3BnWjZ3cE5RQ1MtWjc4MzVyRUxFYnR4YmZfWW9oLU1kSXlLd0V4ZTdjYmRuSHRHeXltVHFORzRacFgwVnlvSkp4TWNvZnhsUkJKZg?oc=5",
+    "title": "GTA 6 finally adds a vehicle fans have wanted for years — and it could be huge for GTA Online 2",
+    "publisher": "GAMINGbible",
+    "publishedAt": "2026-09-09T22:28:41.000Z",
+    "discoveredAt": "2026-09-11T20:42:58.392Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "community",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-3830daada4",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORjRPYTh6TDRjMTlDajMxaWlQeEJTREktaXh5NlBSdllKamFEWktNTlNYOGhRUU5BdlgxSUpKUzVTVUJwTThDc0dCZU5SOXBZaGpDdjczM2Y0NkV1aEhlSWFBNGpabks5dnM0QVlUMlA0aExBUHdxZ3JMU3FzU1ZDMHdBcndQQQ?oc=5",
+    "title": "GTA 6 shares 7 new gameplay details as its November launch draws nearer",
+    "publisher": "GAMINGbible",
+    "publishedAt": "2026-09-10T09:30:01.000Z",
+    "discoveredAt": "2026-09-11T20:42:58.392Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-025"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-f680228153",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSkpkNzdIT0pTckhMOFFhT0lkQVRUM0NsRnF6QlRmOHVGaEMxQXpZRWM4ZmhNZU9GRjYwUmd1SWo1TzZ1R21NcERDUUVMWTJXQXdYSnFkWWlPODVWNDhqaUpoZU5pcjNseDJuTXF5M2FnV205UVpsazVyRHlUY25BblpuTld4dnNpandaZTI0YUQzbndmUkZublpSMA?oc=5",
+    "title": "GTA 6 to be playable early on Xbox, but PlayStation users will miss out",
+    "publisher": "GAMINGbible",
+    "publishedAt": "2026-09-08T09:01:59.000Z",
+    "discoveredAt": "2026-09-11T20:42:58.392Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-001",
+        "LEEK-CLM-006"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-5b420bd423",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa467d8e86a40df99146b92e7994a0e&url=https%3a%2f%2fwww.gamespot.com%2farticles%2fgta-6-developer-is-fighting-drones-and-hackers-to-keep-the-games-secrets-safe%2f&c=8967003830338288320&mkt=en-us",
+    "title": "GTA 6 Developer Is Fighting Drones And Hackers To Keep The Game’s Secrets Safe",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-11T10:12:00.000Z",
+    "discoveredAt": "2026-09-11T20:42:58.392Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-7cbd1c66e2",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa467d8e86a40df99146b92e7994a0e&url=https%3a%2f%2fbeebom.com%2fgta-6-leak-drama-has-reached-real-nudist-resort-in-florida%2f&c=4512618245910262795&mkt=en-us",
+    "title": "GTA 6 Leak Drama Has Somehow Reached a Real Nudist Resort in Florida",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-11T10:56:00.000Z",
+    "discoveredAt": "2026-09-11T20:42:58.392Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-567f8a9489",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa467d88d3d49f6a59aa4b6e8192ece&url=https%3a%2f%2fwww.rockpapershotgun.com%2fgta-6-online-mode-appears-to-receive-rockstars-first-public-acknowledgment-via-mention-of-in-development-32-player-format-in-legal-docs&c=15421993954010965629&mkt=en-us",
+    "title": "GTA 6 online mode appears to receive Rockstar's first public acknowledgment, via mention of in-development \"32 player format\" in legal docs",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-11T05:35:00.000Z",
+    "discoveredAt": "2026-09-11T20:42:58.392Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-023"
+      ],
+      "category": "legal",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-052"
+    }
+  },
+  {
+    "id": "DISC-3b40037370",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa467d88d3d49f6a59aa4b6e8192ece&url=https%3a%2f%2fwww.polygon.com%2fgta-6-nudist-resort-cypress-cove-florida-where-is-google-reviews%2f&c=17493768123302398997&mkt=en-us",
+    "title": "GTA 6 fans are harassing the IRL nudist resort that inspired the game",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-11T09:52:00.000Z",
+    "discoveredAt": "2026-09-11T20:42:58.392Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Google / YouTube"
+      ],
+      "claims": [],
+      "category": "community",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

@@ -5962,5 +5962,53 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-19094b7e39",
+    "title": "GTA 6 Fans Harass And Extort Real Nudist Resort Referenced In Leaks",
+    "reportedAt": "2026-09-11T16:14:46.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Tbzlpb3dmbUc4ZXVRZnpobk9FckhvLThKbFlRbkRxbWM5eWdhbWl0VWxCM2R2a1pRQUNDd2EtMk1fck1KSV9GVGdpaDdQMWlpWUtDT3pFZjJkVmYxZUJyVHd1a1l3cDhORHFwZy00WXc0X3o0QmNqbw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-7d698eb1a5",
+    "title": "GTA 6: Rockstar Reveals Extreme Anti-Leak Security",
+    "reportedAt": "2026-09-11T17:32:05.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQenNEMUQ4VExhOGwzemFWMm1BeFQ2Mm9FMlRlOVgweGdOUmVMREVNMnJrQTVWX0lZWFd6cWo1T2Z3ZzlqR1hQb1E0bnRaemxhMkRYX2hGVjFydnRSZGY5dUJGU2VzelpUNDI5UDRiN3VvZGQ0bEMzVHR2SHZzWUVOcEc2VjJ2WGhNZkEySWNEMnlJSXZNbVpoNWM0Q1otbVplVnpmOFlrX2dmRVZpQ0NrNEVFai14UEZDRHNzcFlhVktHOEU2ZDY4Z1FMU1d0ejAxNlF4cWpZX3AxOHFCMnd4MERB?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-3830daada4",
+    "title": "GTA 6 shares 7 new gameplay details as its November launch draws nearer",
+    "reportedAt": "2026-09-10T09:30:01.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMihgFBVV95cUxORjRPYTh6TDRjMTlDajMxaWlQeEJTREktaXh5NlBSdllKamFEWktNTlNYOGhRUU5BdlgxSUpKUzVTVUJwTThDc0dCZU5SOXBZaGpDdjczM2Y0NkV1aEhlSWFBNGpabks5dnM0QVlUMlA0aExBUHdxZ3JMU3FzU1ZDMHdBcndQQQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-7cbd1c66e2",
+    "title": "GTA 6 Leak Drama Has Somehow Reached a Real Nudist Resort in Florida",
+    "reportedAt": "2026-09-11T10:56:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa467d8e86a40df99146b92e7994a0e&url=https%3a%2f%2fbeebom.com%2fgta-6-leak-drama-has-reached-real-nudist-resort-in-florida%2f&c=4512618245910262795&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
