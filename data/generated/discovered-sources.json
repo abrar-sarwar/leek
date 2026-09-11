@@ -19425,5 +19425,72 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-cb50f8a01c",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTTVOM0p2ZzRTX1k1RFZwNDZnU3JQT3lFckhOb0Y1Z3IwclIyQXhIcmxsb2JyN0N3ZWY1Y3BDVzhpSTVKZnpBa1ZQSFlJYlZUV3oxb095RUhKVlU2S21qLVJ2NHhGeWhTcmxKY0hiU3h1cWRpSlYwZFZIYkI3S0Q0ekFDWkl6NXU0eE01bGRxSGktd0JvQ01LeUVfOFJxVWtCY0U0QjZtMA?oc=5",
+    "title": "Rockstar Games Breaks Silence After GTA 6 Gameplay Leaks Rock Social Media",
+    "publisher": "MotorBiscuit",
+    "publishedAt": "2026-08-26T07:00:00.000Z",
+    "discoveredAt": "2026-09-11T03:44:42.463Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-522d6da627",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnTWFlUm9CSE05Mk9LYmw1VFhwV1B0SmZhV0RYV2RJd0ZLak14dmxjWG1jV3d2d0hOdzB5QUFreFh0OXJVNFNndTJtOWNCcWtuSWE4NEM4LWk2SnVmVzhMTlp5N21ab19fOHJ2NUFHUmZHOGJZVVVPcWdMTkR3bTQ?oc=5",
+    "title": "Rockstar Games Releases Official Response to 'Heartbreaking' GTA 6 Leaks",
+    "publisher": "Polygon.com",
+    "publishedAt": "2026-08-26T07:00:00.000Z",
+    "discoveredAt": "2026-09-11T03:44:42.463Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-052"
+    }
+  },
+  {
+    "id": "DISC-886c05283a",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa3792e440f45d288191beb8b65f2ec&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fwas-gta-6-gameplay-leaker-cyberleek-identified-truth-behind-the-viral-courthouse-video%2far-AA2b4MFg&c=2872330696762168989&mkt=en-us",
+    "title": "Was GTA 6 gameplay leaker CyberLeek identified? Truth behind the viral courthouse video",
+    "publisher": "bing.com",
+    "publishedAt": "2026-08-27T16:58:00.000Z",
+    "discoveredAt": "2026-09-11T03:44:42.463Z",
+    "feed": "bing-news",
+    "query": "Cyberleek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-023",
+        "LEEK-CLM-016"
+      ],
+      "category": "legal",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
