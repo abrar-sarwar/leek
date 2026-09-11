@@ -5902,5 +5902,65 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-c3db3401a4",
+    "title": "Real-life nudist resort forced to speak out after appearing in GTA VI leak",
+    "reportedAt": "2026-09-11T15:00:03.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc0xwWGF3Y2VFcGtMZ2Q2NUJTNmdOY2Zxc3JZbV8yOWZtR0JrT1pHWFFBYnNjOWNiYmc5Y2Z5TlV0d012N2RzTUVDR1VZd2F5UTFsTmhaRmVCZmlPYnIwUlBTVGxNbHgxYi1KMFVFX2UzbEJuaGRVdjdWbTdndHVlMTU3ak1NMkg4QW1VZk9XQ2RMSXRxOURQTi11T21uaTB5LXEzVnlB?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-777eb8cf3c",
+    "title": "Rockstar says people seeking GTA 6 updates have led to hackers blackmailing over leaks and drones being used to spy on devs",
+    "reportedAt": "2026-09-11T11:00:57.000Z",
+    "category": "rockstar",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMihAJBVV95cUxPV0NlRWR1WjJpNHhFRkhnb1prZGczUzI0WWI0UDFaSndUWGtsbTk4cy12MERSYXd5ODFIcVBPYlJCbHBFek4xdUV2VUlnNGIxMGNDcjRZYnNLWkxSNFJaTG5QcEdsMFRCM3VCSWYtRHRZaHJHbWUtcFo2ZS1nT1ZzUTI2cnJxaFhOdGsyZzh5X1ZrZVJiT1FVLTV2RjhTU1ZzQmxEdWVyNWplOGliTzZwMWhYRjFXeEtIUHc4bk1DV09RM0dRNDd3RE1tQ01malVJbkZiR2JiSDIwY2pKTXdhMm5pbWxVRTh3dXJTWjVPck5mSWI0TG9BZFR3TnlwSHFDTzd2bg?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-c2b647bcdd",
+    "title": "Rockstar had a mole in the union worker Discord server \"for over two and a half years\", GTA 6 company reveals during legal battle",
+    "reportedAt": "2026-09-11T15:31:24.000Z",
+    "category": "discord",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOejdrSzJidkU2Y1U1eXBMRWE5QlJBT29KbEFmOFVDSldKZnBWamdXSHBNUWFCTmQxU01oMkh3WFlVRlBBSmU0VWRTNWE0ak9KMUZIajJHU0FQemRBbk9ZcVlib216VGJWRl9NVzlXSW1uVkhrMEpzUGpUOGZHUzFCXzVXSHFJQXoySlU4dnBCakUzaFhHTG53LWpYelExV084RUkxR2ZZQmM5RGNXZ2x6VkxZbXZZdTFKaWlicmtOMzhlMEpaWTZFYVRtbzlGTGd1ZXdDbk5UX1pVOV8zQmNvemhrZzN3UXpxWDQwUEFNdFo?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-573d3a62d1",
+    "title": "Rockstar Says Guarding the Secrets of GTA 6 Is Like Apple Protecting the iPhone or Coke Protecting Its Formula",
+    "reportedAt": "2026-09-11T15:28:53.000Z",
+    "category": "rockstar",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMigAJBVV95cUxNVUVKbWN3c1dZMDRUNFZpNkl3NFRpa1JHN2hPSzNsaVdYSnhTWDY0QlZUZDVhVzdmWXdBU0NXRUVGcmFSemc0UG9HU3dnX0podUhPWFJPRkRmQ095QlFTVFVpS1MyMTNGUGdKTjNQZDZLajZIcFpReHpfUDFYeks0ZmdBc05SdkhDSHh1QXRxT3JZb3VTZHJ6dmJ2OFRMdFNsUEVTUlJXelNmalBfd0pqRVdDcVRzQ1JvRUs3V3pGM1ZUMC16OF9oLTN3Q3lsRTBqQjQ4SS1NYzh0VGJHcXlrMDlfWF80Y25Cc1Nvdi03RE5CR05ubk9EelpGSHNSYnNq?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-d4d8d51735",
+    "title": "GTA 6 Online Player Count Leaked by Official Court Documents",
+    "reportedAt": "2026-09-11T08:10:00.000Z",
+    "category": "legal",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa427481393426fb1cf22799e3d3b49&url=https%3a%2f%2fgamerant.com%2fgta-6-online-player-count-leaked%2f&c=12007846478599065184&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
