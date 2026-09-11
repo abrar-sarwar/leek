@@ -5878,5 +5878,29 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-b74a372d13",
+    "title": "Ex-Rockstar Dev Says GTA 6 Leaks Are a Nothing Burger",
+    "reportedAt": "2026-08-23T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GbFh0WFNMZUZxeXhBRUktZDB6RjZTSGljTVNSbTVhMm9NcWJYN0pZMS1Ld2pYbG5vV1QwX0ZXM3FWS2FuMXJkRFFTMDZiaEdkd3F6ekQ0TllOUnRRVmJ4eg?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-5c11a99b1f",
+    "title": "GTA 6 Leonida map leaks explained: Full list of locations, counties, and what they mean for gameplay",
+    "reportedAt": "2026-08-19T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiigJBVV95cUxQOE90a09WMy1WVDJlRDRFSWY3M1Y1MnU1dFl1VUxia21PdEhoRVpyRHdla05LX0pfdFdNeXBtNnZRZURoaFkydGRzYndudUxJc2szM25kYm94aEw5QWRSb00tQU16bHd4YVI4bVNJeHMtQjZCSmVRVnktU3habExtRGVncXRRS2xWXzY1dG4tYWZGbWluUGNDa2w2T1BXbEFGVnFmWTNSaGVBUl8yTTMtWFJrbGVYMFpMX0xfTUFiQnI0NFlUbkNFZkFuSFdfQ3U1NTQ1aWhFRFBBUmlSUEN4M05xalV5Yzh1Q0UyaDFaZXNLdFItUVdnWDZ2elVUM21kb0FGYkZqWkFnZ9IBjwJBVV95cUxPTFkzYkNLRnplcmlUVkJ6SGtaT2MycW82NHpyUm1QLVphaHhYUzV2eFU5SndabS1PVTBpRGh4VE9yQzMzRFJyRmhtSm02VnU5THhPVkVrVHFsdHkxSXMxSVpBam5tc2lyVjhCTDdCdFMtLUYtVFdlal9DWXNmSTlnX0VJZ01kdHFwbWdsS1QwdFA0cmJoallEVFNtM1FtcWNIUGQtbmZya3doSEhvVTJHZ1NRNFVlSWRvYVJ6cERKRGhvdXRaby1DOWZYLWhqYWRfNEN3TjZTSnNGMkMyYzJtaUVpQ2tjbjE3RE9fQ0dvZ1ZjQmZ6S1plUm0xRmhiWTFqdnhpSFhQNlZmdmV4d1BF?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

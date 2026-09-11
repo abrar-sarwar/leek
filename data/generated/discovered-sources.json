@@ -19492,5 +19492,84 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-9f9c105467",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yX1lPbHhDY0xKaFVFT3pmalkzOVQzRDJKSjE5c2dmVURiVEY5Z1dxRk9uUHNadVZUdU1hYlFqOWxNbGowUjhMSDFIeTktUDZtTEJacmhBci11TncyUXliZnhaNWtNVjdHTmQ2eGtCUQ?oc=5",
+    "title": "GTA 6 LIVE: Huge new marketing proposals approved after heated exchanges",
+    "publisher": "Indy100",
+    "publishedAt": "2026-09-11T09:23:33.000Z",
+    "discoveredAt": "2026-09-11T10:52:31.091Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-b74a372d13",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GbFh0WFNMZUZxeXhBRUktZDB6RjZTSGljTVNSbTVhMm9NcWJYN0pZMS1Ld2pYbG5vV1QwX0ZXM3FWS2FuMXJkRFFTMDZiaEdkd3F6ekQ0TllOUnRRVmJ4eg?oc=5",
+    "title": "Ex-Rockstar Dev Says GTA 6 Leaks Are a Nothing Burger",
+    "publisher": "games.gg",
+    "publishedAt": "2026-08-23T07:00:00.000Z",
+    "discoveredAt": "2026-09-11T10:52:31.091Z",
+    "feed": "google-news",
+    "query": "Rockstar CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-5c11a99b1f",
+    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQOE90a09WMy1WVDJlRDRFSWY3M1Y1MnU1dFl1VUxia21PdEhoRVpyRHdla05LX0pfdFdNeXBtNnZRZURoaFkydGRzYndudUxJc2szM25kYm94aEw5QWRSb00tQU16bHd4YVI4bVNJeHMtQjZCSmVRVnktU3habExtRGVncXRRS2xWXzY1dG4tYWZGbWluUGNDa2w2T1BXbEFGVnFmWTNSaGVBUl8yTTMtWFJrbGVYMFpMX0xfTUFiQnI0NFlUbkNFZkFuSFdfQ3U1NTQ1aWhFRFBBUmlSUEN4M05xalV5Yzh1Q0UyaDFaZXNLdFItUVdnWDZ2elVUM21kb0FGYkZqWkFnZ9IBjwJBVV95cUxPTFkzYkNLRnplcmlUVkJ6SGtaT2MycW82NHpyUm1QLVphaHhYUzV2eFU5SndabS1PVTBpRGh4VE9yQzMzRFJyRmhtSm02VnU5THhPVkVrVHFsdHkxSXMxSVpBam5tc2lyVjhCTDdCdFMtLUYtVFdlal9DWXNmSTlnX0VJZ01kdHFwbWdsS1QwdFA0cmJoallEVFNtM1FtcWNIUGQtbmZya3doSEhvVTJHZ1NRNFVlSWRvYVJ6cERKRGhvdXRaby1DOWZYLWhqYWRfNEN3TjZTSnNGMkMyYzJtaUVpQ2tjbjE3RE9fQ0dvZ1ZjQmZ6S1plUm0xRmhiWTFqdnhpSFhQNlZmdmV4d1BF?oc=5",
+    "title": "GTA 6 Leonida map leaks explained: Full list of locations, counties, and what they mean for gameplay",
+    "publisher": "timesofindia.indiatimes.com",
+    "publishedAt": "2026-08-19T07:00:00.000Z",
+    "discoveredAt": "2026-09-11T10:52:31.091Z",
+    "feed": "google-news",
+    "query": "CyberLeek arrest",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-c20cce24d6",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa3dd74cf1a486c8d2fb826be683d08&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fgta-6-proves-it-can-print-money-for-netflix-in-just-6-hours%2far-AA2bZA8d&c=9663286323512194448&mkt=en-us",
+    "title": "GTA 6 Proves It Can Print Money For Netflix In Just 6 Hours",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-10T19:05:41.000Z",
+    "discoveredAt": "2026-09-11T10:52:31.091Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games",
+        "Netflix"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
