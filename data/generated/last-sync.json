@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-09-12T15:14:49.009Z",
+  "ranAt": "2026-09-12T20:20:42.496Z",
   "feeds": [
     {
       "name": "google-news:CyberLeek",
@@ -54,12 +54,12 @@
     {
       "name": "google-news:CyberLeek arrest",
       "ok": true,
-      "items": 22
+      "items": 21
     },
     {
       "name": "google-news:CyberLeek $CYBERLEEK",
       "ok": true,
-      "items": 45
+      "items": 46
     },
     {
       "name": "bing-news:CyberLeek",
@@ -85,7 +85,7 @@
       "name": "gdelt",
       "ok": false,
       "items": 0,
-      "error": "fetch failed"
+      "error": "HTTP 429"
     },
     {
       "name": "courtlistener",
@@ -94,7 +94,7 @@
     }
   ],
   "discovered": 927,
-  "newSinceLastRun": 1,
+  "newSinceLastRun": 0,
   "pending": 507,
   "analysisMode": "rules-only"
 }
