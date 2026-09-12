@@ -20028,5 +20028,68 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-0f9aff0315",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRG8wMWhJX2lPN2tJTEpreXI5Y1VuOFI0cnlYaDdLWTdXaDE0MVFLM0JRb0dHR25xRFFqLUVTUlAzUTMtS1h1c1RVT0w3T3lLcTB0VmtBT2RKS3ZPR1JYMDhGNm5ILWpNMmJLa0dNVmNJeEg5cXM4STZ5eE1pNlRIMTJPXzRlUEtmdV9fQWd6NFdlbFluS2Z1WWdiYlVtR0FZVmZ5N3dSTk5NYlVBb3dV?oc=5",
+    "title": "'We Will Not Pay, We Will Not Negotiate' — Nudist Resort Combats Wave of GTA 6 Reviews as Fans Trigger Response from Its Owner",
+    "publisher": "IGN",
+    "publishedAt": "2026-09-11T23:04:29.000Z",
+    "discoveredAt": "2026-09-12T10:20:19.464Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "community",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-bb16ce1e9b",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa52768966b43329adb3ebeab7852cb&url=https%3a%2f%2fwww.msn.com%2fen-us%2fgaming%2frockstar-games%2frockstar-says-fans-seeking-gta-6-updates-have-led-to-hackers-blackmailing-over-leaks%2far-AA2c1pkN&c=500362102515329893&mkt=en-us",
+    "title": "Rockstar says fans seeking GTA 6 updates have led to hackers blackmailing over leaks",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-11T04:01:00.000Z",
+    "discoveredAt": "2026-09-12T10:20:19.464Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-028"
+      ],
+      "category": "rockstar",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-0f77251a23",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa52768966b43329adb3ebeab7852cb&url=https%3a%2f%2fwww.yahoo.com%2fnews%2fus%2farticles%2fgta-6-developer-rockstar-says-152850734.html&c=12183837785421424338&mkt=en-us",
+    "title": "GTA 6 Developer Rockstar Says It Was Forced to Put Privacy Films on Its Buildings After Drones Were Used to Snap Photos Through Office Windows",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-11T08:28:00.000Z",
+    "discoveredAt": "2026-09-12T10:20:19.464Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "rockstar",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

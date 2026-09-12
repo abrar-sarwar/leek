@@ -6058,5 +6058,29 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-bb16ce1e9b",
+    "title": "Rockstar says fans seeking GTA 6 updates have led to hackers blackmailing over leaks",
+    "reportedAt": "2026-09-11T04:01:00.000Z",
+    "category": "rockstar",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa52768966b43329adb3ebeab7852cb&url=https%3a%2f%2fwww.msn.com%2fen-us%2fgaming%2frockstar-games%2frockstar-says-fans-seeking-gta-6-updates-have-led-to-hackers-blackmailing-over-leaks%2far-AA2c1pkN&c=500362102515329893&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-0f77251a23",
+    "title": "GTA 6 Developer Rockstar Says It Was Forced to Put Privacy Films on Its Buildings After Drones Were Used to Snap Photos Through Office Windows",
+    "reportedAt": "2026-09-11T08:28:00.000Z",
+    "category": "rockstar",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa52768966b43329adb3ebeab7852cb&url=https%3a%2f%2fwww.yahoo.com%2fnews%2fus%2farticles%2fgta-6-developer-rockstar-says-152850734.html&c=12183837785421424338&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
