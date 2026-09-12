@@ -19931,5 +19931,102 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-2d3e209433",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMkpLTlk5ZUUyV21XOWhBTU5VaW50SFVpRjEzaDJzWmhleXdseWl0R3pTM1BSWlNKdmYydWQyMmNOUldudnc3VTE3aFF0RXBjVkJhc2FLMUJ1QVNpUXN6dm4tb193NUtFS0k3S0t2QlhKZHg3bjJ6eGtHZUI0R3ZKa2F3ZU4tZi1tVVkxRA?oc=5",
+    "title": "Is the GTA 6 Collector's Edition Leak Real?",
+    "publisher": "Resell Calendar",
+    "publishedAt": "2026-09-12T00:22:52.000Z",
+    "discoveredAt": "2026-09-12T03:48:14.153Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-120a464f91",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ0J6TWRGY2dCd2dka1FST3g2WWFWTUJ0QUJ1amVKSkJwdjFGakhGd1JueEpfa2FxTV95NzBlbWY4dy1CMC1RRGlrWTdwMWg3X2dTZU5GdEVlNlNwMzh0TnpxVnlOTGxOd1NFcXZKOTlySjFTTWZIak5EVVhfTG15U2VzX1dmMnlQa1cwWm1ROVlzcGd1QlJfOHhnVnZoTWdBbTJkakloX2ZYTHdDV01PYzBhNlZpQQ?oc=5",
+    "title": "GTA 6 Fans Flood Florida Nudist Resort’s Reviews, Accused of Extorting the Owners",
+    "publisher": "Shane the Gamer",
+    "publishedAt": "2026-09-12T01:10:59.000Z",
+    "discoveredAt": "2026-09-12T03:48:14.153Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "community",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-f3e1fb8e04",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ09LdkFRWUxPRGJrQmc2SFdWbVF6Yld6ZEFaTDBDRk9Xem1KdnlNaVFLaEJlbEFQRDlNTmo0ZHBsRFNseElWNTZ3aEppV3NjTGNLYS15cS00U2tSc21NSmo4cGVWTWduMzFtMEgwR0psdDl4LVJsdkF4bXR1RVo0OUVKbUVGMEE1UmozakRERG41Wm5xbEhTQ01QbzVteC0wbnFEM0o2U3h5VE11NGhQYVJhWDdySGM?oc=5",
+    "title": "Rockstar Games Deployed Drones, Five-Person Leak Team to Protect GTA 6 Details",
+    "publisher": "northeasttimes.com",
+    "publishedAt": "2026-09-11T20:50:07.000Z",
+    "discoveredAt": "2026-09-12T03:48:14.153Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-64c6f68dc7",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMUR1NFZ5Z2MtZS1vV1pFeVpqYUQwdVFUNEExLTBOWU1JRzVhLUJ6aWhkemYtdXprYzBERktGNUo2ZXotZXVMS0hCRWFpRnc5NG1ld0IxSDlKaFV6MWxkREZwSzl2R1NqZ1V0XzFHN0tVTU9oLU42SjRpRnY1N0lVNENudjJ0VTdZeksxOWNYSElJSUdVYkcxZS1B0gGnAUFVX3lxTE1TdEdSUkdrbWh6bWNaSmtsamZuZGtuSUFSWGFwaU9OQmM3UXlwVjlxcHZpS0F5NnM0TDgzOFZVaGYtUGlBU2RiV20wR0F3R1FsX1huendDVjFLMzV4cWdtQmE1ZW9abEJPQW9BRUtHdi1vdUt5ZGRBQnlpS2R5RTdQcklwalEtRWZUODZ6VDVkTW5XSy1JdEJRNEw0SHFoeWZLeWo3X3Ew?oc=5",
+    "title": "Has GTA 6 Collector's Edition Leaked Online?",
+    "publisher": "Esquire India",
+    "publishedAt": "2026-09-12T03:11:16.000Z",
+    "discoveredAt": "2026-09-12T03:48:14.153Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-7965500d84",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTEJkZTlKQ3JrZUNrSUFpOEp1bk5xTkV0MTM2aGtXeXc0RVFEWFNXQkE4TlEyR25BVG1GUzRHaE01LTNUd1dFbnM0eWJLMU9iV0NGakJwcENzbjVXdUw0NFpQU2UtQzhEWTRxYkpEM05Yd0VuU2ptbGNiVm9DOUNocmhqSklyN2wtbjU1MzBkNXFnRUZ1dHYzbWUyRjJoYXdsODVBY1d4NnAzMjVaUkJaYnNWVm5Gc0lGN3VVZWM5eThJZzF3cjJCeVpMYXJWRFJaSVlLeXhnUFgxQQ?oc=5",
+    "title": "GTA 6 Reviews Plague Real-Life Nudist Resort After Fans Draw Comparisons to Leaks",
+    "publisher": "IGN Southeast Asia",
+    "publishedAt": "2026-09-12T00:03:13.000Z",
+    "discoveredAt": "2026-09-12T03:48:14.153Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
