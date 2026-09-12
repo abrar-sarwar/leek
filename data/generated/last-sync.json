@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-09-12T10:20:19.464Z",
+  "ranAt": "2026-09-12T15:14:49.009Z",
   "feeds": [
     {
       "name": "google-news:CyberLeek",
@@ -54,7 +54,7 @@
     {
       "name": "google-news:CyberLeek arrest",
       "ok": true,
-      "items": 23
+      "items": 22
     },
     {
       "name": "google-news:CyberLeek $CYBERLEEK",
@@ -74,7 +74,7 @@
     {
       "name": "bing-news:GTA VI leak",
       "ok": true,
-      "items": 11
+      "items": 12
     },
     {
       "name": "bing-news:GTA 6 leak",
@@ -93,8 +93,8 @@
       "items": 20
     }
   ],
-  "discovered": 926,
-  "newSinceLastRun": 3,
+  "discovered": 927,
+  "newSinceLastRun": 1,
   "pending": 507,
   "analysisMode": "rules-only"
 }
