@@ -6094,5 +6094,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-b1a0b1b90e",
+    "title": "Alleged Leak Claims To Reveal GTA 6 Collector's Edition Package and What's Inside It",
+    "reportedAt": "2026-09-13T07:05:13.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVGpDUEhQYnJMbkUwUlEtZnJwZXBackNxYWY4bXNHUU1wTGhmcTl0OV8yMS00aXhncTdoQnp4Q2VlUlNqcVF6bzFhbldDOGhheTVOTmlXcjZkRC1mX2JEdmdCTkZPUzR3SzRnM0s1RFJEcTJYeE1mLWJxa1hfaUotY01jOURPeDNzc25mQjJDTlpkd3k0SWFzR0RETFdaaUdEYjdMMlVmdlI2T25LRXVrNDh5LWw2aXU0TUlEekl5N2FzdVlVa3ZKMy1mNA?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

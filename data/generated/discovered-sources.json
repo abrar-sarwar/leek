@@ -20152,5 +20152,45 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-616653d21a",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdUdMaDc5TnNDWXU3Z1J6NXZLT3VoNkN1dUkwZ1A2MEV5NU9tck1RQ2pER29BanhCdm5SaFlNSjFSUUNCaEVhZ2stMUZrek5KaWtFMUhlWjRZc0lSeWFfYVdDTTZFZ2xPLWtrdkRadWFNMGR1TTVIYTdqSWZFQVFWMHlxaVZEQjZxbkhjY3Vzc0ZhZGt3c01TcnFpWkEzdll1RHpOVkxDZHFCdw?oc=5",
+    "title": "New Crypto Coins Are Heating Up: 5 Projects Worth Watching Now",
+    "publisher": "bitcoinfoundation.org",
+    "publishedAt": "2026-08-26T07:00:00.000Z",
+    "discoveredAt": "2026-09-13T11:20:25.971Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-b1a0b1b90e",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVGpDUEhQYnJMbkUwUlEtZnJwZXBackNxYWY4bXNHUU1wTGhmcTl0OV8yMS00aXhncTdoQnp4Q2VlUlNqcVF6bzFhbldDOGhheTVOTmlXcjZkRC1mX2JEdmdCTkZPUzR3SzRnM0s1RFJEcTJYeE1mLWJxa1hfaUotY01jOURPeDNzc25mQjJDTlpkd3k0SWFzR0RETFdaaUdEYjdMMlVmdlI2T25LRXVrNDh5LWw2aXU0TUlEekl5N2FzdVlVa3ZKMy1mNA?oc=5",
+    "title": "Alleged Leak Claims To Reveal GTA 6 Collector's Edition Package and What's Inside It",
+    "publisher": "autoevolution",
+    "publishedAt": "2026-09-13T07:05:13.000Z",
+    "discoveredAt": "2026-09-13T11:20:25.971Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
