@@ -1998,5 +1998,13 @@
     "domains": [
       "news.google.com"
     ]
+  },
+  {
+    "date": "2026-09-13",
+    "feed": "google-news:GTA 6 leak",
+    "count": 2,
+    "domains": [
+      "news.google.com"
+    ]
   }
 ]

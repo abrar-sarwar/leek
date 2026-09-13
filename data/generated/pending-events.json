@@ -6082,5 +6082,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-ebea061dda",
+    "title": "GTA 5 vs GTA 6: Map 2x Bigger, $20 Price Jump [2026] - tech-insider.org",
+    "reportedAt": "2026-09-12T11:47:42.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LdzBiQ3RhejF0eXkxMWtmblU0NUdpbEhXQ0dLeGFWOGNlMG5feF9BQjdBRE1weEhqM2JOTFZuRXNpd2Y1MzlUX2Nya0hNTWlpQkJlVy13bTE?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

@@ -20111,5 +20111,46 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-83fd4fa440",
+    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPV3RwQVhmU18xNFd1Zk1LUDRjS2s0M1VxT0taTkxNSURKTWxyWk1RMjM2eHRNTVI3NjhYbW1HZ0VFOXM0RmUwMW41UDFpbjJxZHdMQmNVeFhXRDdWUjJiMUpQSFpTdDh1M0JDZlJEVUhFM2VhakVJTVpsSUJUQWhiMlp0MDIyajRZMHN5NHJTeDlxcnBfNVFWb3c4cldFNUN6dmJqS2g5N3NoTEh5NjByMDYxRW02dHlzTGtva0Y2M2FGT0xpbHBFNHpwQWNxdDRDTW9uOUdBc1VNazU5MzBuWm95ODV2UC1MZUl2MFVkcmh0YUF3UXVuVE9SenM5SnhUUVdB0gGQAkFVX3lxTFBrTzNkdHU1TkpIUDJGTVBiQjJpbWJHMWw3c2lGUEZzSlY5QlR2M09DVHRraG8xZzBJS2VPT0ZDWVBJQi1NeGpPaGVKeFhra01yZGtNcGwxUFNsX2NzN2tGamJSRXk1cnJ6VXJjd3REYUJMTnM4OHhyNnJQaWd2T01TSEJhTENvd2doUXRwcHlWUFJrSWkxWE1KM3QzeGR4VEREcTVkVmg5Zm82QjgyLXY4WEk0Uk9lTjNDeHNleHBxbEo3UE1aU1Q5dC1RQmxDVTJveFRMNnUtNVNKNzFXRnRVYXlpSXUxeGxtclJmMnZac3hybjVmVF8yQnNpcl9vd2dWT2U3bVYwZWE0dFhpZ0d3?oc=5",
+    "title": "New GTA 6 Leak? Beware, Fake Installer Downloads RAT, Infostealer, Ransomware; Know How It Works And What To Do",
+    "publisher": "Esquire India",
+    "publishedAt": "2026-09-13T03:24:11.000Z",
+    "discoveredAt": "2026-09-13T03:56:13.139Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-004",
+        "LEEK-CLM-022"
+      ],
+      "category": "misinformation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-ebea061dda",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LdzBiQ3RhejF0eXkxMWtmblU0NUdpbEhXQ0dLeGFWOGNlMG5feF9BQjdBRE1weEhqM2JOTFZuRXNpd2Y1MzlUX2Nya0hNTWlpQkJlVy13bTE?oc=5",
+    "title": "GTA 5 vs GTA 6: Map 2x Bigger, $20 Price Jump [2026] - tech-insider.org",
+    "publisher": "tech-insider.org",
+    "publishedAt": "2026-09-12T11:47:42.000Z",
+    "discoveredAt": "2026-09-13T03:56:13.139Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
