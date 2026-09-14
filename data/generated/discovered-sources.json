@@ -20211,5 +20211,42 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-7ea2ba79f1",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOd3o5SzZkSTM1dlpncGtiek4xNllNbW9rekhDM2tSSG44LVlNTnNQT0NLby1NRmtJdWFPdC13bVpobHMtZ2g3SHFoZVViUE5xSW9vSEw0OS0xam1kWm05bWtadmU1Q0NYM2hCY1hDakxvNXhPUUtYaENEUm5mRklzLUJZaU1IT05QcFFfSnJXcV9oY2JkdDZ5V2d4bVlXMWw0amc?oc=5",
+    "title": "Actor Stephen Root will be part of the GTA VI cast",
+    "publisher": "Instant Gaming News",
+    "publishedAt": "2026-09-14T11:22:17.000Z",
+    "discoveredAt": "2026-09-14T12:12:48.680Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-59bc45d20e",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUENoMlZMRlpnUXJ4QTV0UGcwYzBkTE5qN05LWXpTQXh4alE1VURUWWR0Uk9uMVIwNmlHZHo0S2xUcHh4WVNQOHpRb19aTlBIUERHclN5aE1mVHlDdlF5UFZ5VzRwY2xUSFhQbkpRS0Fuc2FEUC04dDFiSU9wQzEwUHpZSUlzZ1FPUC01WDVCRmRxLTJSQk5HQ1o2R0s?oc=5",
+    "title": "GTA 6 Fans Track Down Real-World Version Of The Nudist Resort, Then Try To Extort It",
+    "publisher": "Kotaku",
+    "publishedAt": "2026-09-11T13:16:45.000Z",
+    "discoveredAt": "2026-09-14T12:12:48.680Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "community",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
