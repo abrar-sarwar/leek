@@ -20192,5 +20192,24 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-99c84fedc1",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcTA1eTBHczg5MEp3OEFsSmF0UW5tWFBYSDNJVWFTekVwVU5pR2tVajBoazNVMkhBd29VeXU5d3drc3pOcDhvbFdPMDRCa3JNWkdDUGRFenZnQ1E1SnF6eGhNTlRVWmV0eV8wQWdHWjI5aGtIUTRJWWUybGhHX1BQREx6Yk1zT01KZTNRbVpIaWVYTHMzWEY5emNHYlE4YXBsYmVmUTlsbDVTU1hwR0J4ZUlTQdIBwAFBVV95cUxNaWxlUG5Lamd0bExSYWU1aVRUbUF3dFZSVnNtNWlEZk1CUzhQUkNFSE5FQml3QkVUTjBwLS1oNUtyU21YYTFYVlZjOGVGcDdXZXVld2RxODlBY2hvSy1YWjBYa1VmSGFxdFRONU5CNG1iTmVkV3hSWG1EZG03MG5uRHZJSy1YWmd1aDczSjVVbDY1d0lEYzZKQTlVeDU2OUdQcmFoV3FaTXVfZEpWTndfLVM1Nm5hSW10NXRNOHZNcHM?oc=5",
+    "title": "GTA 6 Collector's Edition Image Just Leaked; How Reddit Reacted",
+    "publisher": "Esquire India",
+    "publishedAt": "2026-09-14T02:31:09.000Z",
+    "discoveredAt": "2026-09-14T04:03:40.068Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

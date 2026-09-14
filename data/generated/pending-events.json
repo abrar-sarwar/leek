@@ -6106,5 +6106,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-99c84fedc1",
+    "title": "GTA 6 Collector's Edition Image Just Leaked; How Reddit Reacted",
+    "reportedAt": "2026-09-14T02:31:09.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcTA1eTBHczg5MEp3OEFsSmF0UW5tWFBYSDNJVWFTekVwVU5pR2tVajBoazNVMkhBd29VeXU5d3drc3pOcDhvbFdPMDRCa3JNWkdDUGRFenZnQ1E1SnF6eGhNTlRVWmV0eV8wQWdHWjI5aGtIUTRJWWUybGhHX1BQREx6Yk1zT01KZTNRbVpIaWVYTHMzWEY5emNHYlE4YXBsYmVmUTlsbDVTU1hwR0J4ZUlTQdIBwAFBVV95cUxNaWxlUG5Lamd0bExSYWU1aVRUbUF3dFZSVnNtNWlEZk1CUzhQUkNFSE5FQml3QkVUTjBwLS1oNUtyU21YYTFYVlZjOGVGcDdXZXVld2RxODlBY2hvSy1YWjBYa1VmSGFxdFRONU5CNG1iTmVkV3hSWG1EZG03MG5uRHZJSy1YWmd1aDczSjVVbDY1d0lEYzZKQTlVeDU2OUdQcmFoV3FaTXVfZEpWTndfLVM1Nm5hSW10NXRNOHZNcHM?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
