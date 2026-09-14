@@ -20248,5 +20248,27 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-40c555bb3f",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeXRXUTg3QVNlbXp1aUJZM1hzMU54dWFEaFNKM0VmN0w0ZVdhNWZJOXVXQnpWYVFUeFl6cEh0b2wteGFoZEVMMUx6UXZGY2Z6QVRTcUZSYXBCYTlHOW50Z3ZfRG9LVjA3VjBZWDlxU2tuQjFPVHRVM1R1UkRZajU5YVhyLU9PWklEdWVCTGh4aXhTRVFOR2JTZUM3QzNJZw?oc=5",
+    "title": "Real Florida Resort Gets Bombarded With Fake Reviews Over a GTA 6 Leak",
+    "publisher": "GTA BOOM",
+    "publishedAt": "2026-09-14T21:34:52.000Z",
+    "discoveredAt": "2026-09-14T21:38:51.325Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-004",
+        "LEEK-CLM-028"
+      ],
+      "category": "misinformation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
