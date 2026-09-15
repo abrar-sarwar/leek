@@ -6118,5 +6118,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-62ae371d8b",
+    "title": "GTA 6’s Leaks Situation is a Total Mess",
+    "reportedAt": "2026-08-25T11:21:30.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMibkFVX3lxTE1INnhfRWh3T1ltV1N1OExkVWxlN3phbG15N1UxQmtoaUo1U0MycVRJRUlKUlhkZjE0SUl2SzhnbUtVbEc2cHdiS2tCcG1MdDBBdnI0Um44bm90V0NBR3lzRHRKUUJkd29zXy01dFFn?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

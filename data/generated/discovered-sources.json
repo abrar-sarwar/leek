@@ -20270,5 +20270,66 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-64126f2965",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSUNOYlVNQmgyTkw4TUNXSHcxd0E5ZkdKelplWlFoTmVvMkpPY1dPWUdCS3k5aHQtQXJEcXFEeWFYMVRtekdpQ1ZuaU5kX1l0VGJWUlZ4MURyS1cya2cyNkhQWWYwU2RZdFZ1N1d5ZU5HTWNxWG1TWTBMbmkxWm1DdFAzaVdJS1pPSDVRck44RldZM085MjBBNUhYUjR2Zw?oc=5",
+    "title": "Alleged GTA 6 Collector’s Edition Box Surfaces Online, Rockstar Silent",
+    "publisher": "Gadget Review",
+    "publishedAt": "2026-09-14T17:08:48.000Z",
+    "discoveredAt": "2026-09-15T04:02:35.311Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-a469c1386b",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT3pUbk45al9Ub2kzOGVBS3FSZ1lieHNBcjVJaTltOUJOdXRVQVAzTG83enIxT2otRURFeDAwVEpnM1YyZ2EyWjdUZWR4RzFXNnIwUDRpLUdxU2hMb2lyWloxVVl2akR3UnpaUlNLRzZhT3hUbVdmeHMyZGVhampMaGNiXzI4MkI4QXhNVlNweEtyY2hWd0ltZEc0X1pqanlZS0J5VmJhalJIWmlMc2VkM0hmcjI5c0hPX2RSMWFzcm9jZw?oc=5",
+    "title": "Rockstar Games issues statement on GTA 6 leaks: \"Experience the game for yourselves\"",
+    "publisher": "Inven Global",
+    "publishedAt": "2026-08-26T07:00:00.000Z",
+    "discoveredAt": "2026-09-15T04:02:35.311Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-052"
+    }
+  },
+  {
+    "id": "DISC-62ae371d8b",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1INnhfRWh3T1ltV1N1OExkVWxlN3phbG15N1UxQmtoaUo1U0MycVRJRUlKUlhkZjE0SUl2SzhnbUtVbEc2cHdiS2tCcG1MdDBBdnI0Um44bm90V0NBR3lzRHRKUUJkd29zXy01dFFn?oc=5",
+    "title": "GTA 6’s Leaks Situation is a Total Mess",
+    "publisher": "gamingbolt.com",
+    "publishedAt": "2026-08-25T11:21:30.000Z",
+    "discoveredAt": "2026-09-15T04:02:35.311Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
