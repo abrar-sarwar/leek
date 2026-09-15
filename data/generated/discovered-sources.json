@@ -20419,5 +20419,23 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-31dbf6fc7b",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aa9b1f5e59e42018aaf119959413b2b&url=https%3a%2f%2fwww.gamespot.com%2farticles%2fgta-6-soundtrack-all-confirmed-songs-so-far%2f&c=14516546606506234498&mkt=en-us",
+    "title": "GTA 6 Soundtrack – All Confirmed Songs So Far",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-15T10:52:00.000Z",
+    "discoveredAt": "2026-09-15T21:00:31.768Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
