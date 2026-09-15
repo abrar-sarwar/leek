@@ -20351,5 +20351,73 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-d3f812d593",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMkZxRFZ4Nll5MkJIRGJEMmVuR2NZT2V0SHQ0WENjSVVYMTExSW5EZFM2cGFIVlUtcUNrcjV5SzhUWThoYjVlVDl2WDcxUUI0MmpkVzVyQlEyNEltaDd3NUNpZ2syczJhV0UzUDJBcnRISXNnbWw5ME9JeG0tODYxQllHOFBacjFzRmZRN1dBeDJ6NzhZclJFSHlR?oc=5",
+    "title": "A Second Discord Subpoena Raises the Stakes in Take-Two’s GTA VI Leak Hunt",
+    "publisher": "TechStock²",
+    "publishedAt": "2026-09-15T15:02:43.000Z",
+    "discoveredAt": "2026-09-15T16:34:17.857Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive",
+        "Discord"
+      ],
+      "claims": [
+        "LEEK-CLM-023",
+        "LEEK-CLM-025"
+      ],
+      "category": "legal",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-019"
+    }
+  },
+  {
+    "id": "DISC-ba4766a136",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT3RZb1ZVZExmYmdMTnBwRzBlYzN1Z1NncE1mUlhpT0gydUVUVjJLY2JHZnZ4OVZyTG1XbnVFWHhST0Jsd3lRQjhybjBOWlRSMHBPT003eWU3MW9aNmZ4WFI2eXRBUE9RVkszVTJTeHRnTF9mNVBiXzFXczlLNEFsNzFudllJeU9YTXhLWV9BdDVneUtQZVlxd3Q1aWhPdw?oc=5",
+    "title": "[UPDATE] Take-Two Stock Price Takes a Hit as GTA 6 Leak Situation Keeps Getting Worse",
+    "publisher": "Windows Report",
+    "publishedAt": "2026-08-21T08:17:17.000Z",
+    "discoveredAt": "2026-09-15T16:34:17.857Z",
+    "feed": "google-news",
+    "query": "Take-Two CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive"
+      ],
+      "claims": [
+        "LEEK-CLM-025"
+      ],
+      "category": "take-two",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-9f4620f902",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWeUpmdWp3WGlHSUVpbUdkdnZUTmF0ajVsUHF1VXI2NGNabzJWY2MyMnJjN29wVDZhXzRIdjFFLU5MeElJQloxWEVLU1QtOE1JaDUteVhpS202S0R0MzNvTFp5R0VJSlRPSDdKQnJUaw?oc=5",
+    "title": "GTA 6 Leaker Reveals More Coming Soon",
+    "publisher": "GameRant",
+    "publishedAt": "2026-08-19T07:00:00.000Z",
+    "discoveredAt": "2026-09-15T16:34:17.857Z",
+    "feed": "google-news",
+    "query": "CyberLeek Discord",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

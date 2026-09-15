@@ -6130,5 +6130,29 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-ba4766a136",
+    "title": "[UPDATE] Take-Two Stock Price Takes a Hit as GTA 6 Leak Situation Keeps Getting Worse",
+    "reportedAt": "2026-08-21T08:17:17.000Z",
+    "category": "take-two",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMingFBVV95cUxPT3RZb1ZVZExmYmdMTnBwRzBlYzN1Z1NncE1mUlhpT0gydUVUVjJLY2JHZnZ4OVZyTG1XbnVFWHhST0Jsd3lRQjhybjBOWlRSMHBPT003eWU3MW9aNmZ4WFI2eXRBUE9RVkszVTJTeHRnTF9mNVBiXzFXczlLNEFsNzFudllJeU9YTXhLWV9BdDVneUtQZVlxd3Q1aWhPdw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-9f4620f902",
+    "title": "GTA 6 Leaker Reveals More Coming Soon",
+    "reportedAt": "2026-08-19T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWeUpmdWp3WGlHSUVpbUdkdnZUTmF0ajVsUHF1VXI2NGNabzJWY2MyMnJjN29wVDZhXzRIdjFFLU5MeElJQloxWEVLU1QtOE1JaDUteVhpS202S0R0MzNvTFp5R0VJSlRPSDdKQnJUaw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
