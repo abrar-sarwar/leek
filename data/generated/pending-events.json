@@ -6418,5 +6418,29 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-c7ce22bfca",
+    "title": "\"We absolutely did not want you to see the game this way\" — Rockstar responds to the massive GTA VI leak",
+    "reportedAt": "2026-08-26T07:00:00.000Z",
+    "category": "rockstar",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb0Y4d1RhcVVKLUdkd0pWVWNXU0tnQWFXV252SUhySFdtMmtzQjFQUjFyZFpPSENIcWR0b3dHNXBodXE0LVBEa2hsR2ZCRnFJRkZMUUhtYjI2bHVFUXVuSWNXOHZnckp4RG8ySUstSGtFcU5ET1RBcmFwQzZ6R0pHU2h6a3l2Tmd4MFZjMllTa1ZJVk9TVC1JMlRRakk1WHBRQUQzV2VhOHJBWkYwaU9FcFlsaEhRNS140gG3AUFVX3lxTE1ZQ0k3bVZaaEx1YWlEZk83bGI0cVJZbjJhTUc1aVdHQ3ZQbWQxbklOX2tjOEJoTzdNNFNNLTBNb3V6bjlqYkdsNUxrYnY0OTBvRG41OVFvVzBaM2gycGNDQUw1YkZMY19QZENxREZBWDc0VzVKbFhJakd0enV1XzdSUTVMM0p0eFdZVzE2S0ZWS3FESUlQM2QwVGY3N0k5NmhuMW93el92TG10NHJySUh6NkFkd2duUQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-86e049456c",
+    "title": "Rockstar officially responds to GTA 6 leaks: \"This is obviously not how we intended for you to see the game after all this time\"",
+    "reportedAt": "2026-08-26T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMihwJBVV95cUxPblB5MGNtdUNEYzhzbURzeW1QemVQcU4yWlRVS096Nl9ET0Z0STV3NlNDdkQzVURoZEsxZ3JBYVl1RUloejRvdjNyMTk3SURoNmx0aFdXS3plYVNrZF8yMWpncGhueGtVZHNGZGhuaUVNNkMzbG5UWHpic055UFhmTTEyc2Zobk5HUnhQRW5kTURGX2o0TDVEWExsMmJvMVFLcHZoR0lJaVNUV29GN0lZM29IZWQxVU8xRllDZUtqZGptd2FhWjJ2R1JGS0drNWxEdnpRb3lxQ2pON3BPdXpYSnNtbDhjbmJpZGZFd21kMS02Y0FVcXlxR0FrczMyMEtGbkFIZkMyWQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
