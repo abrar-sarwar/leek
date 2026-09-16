@@ -21014,5 +21014,95 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-25d4492969",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KUkl1TGxhZmkwa2k4LUFLVHBEVXZLNU1qMllOMTg4ZTc0MUpMbE9NVlItYWFxemRtYUxwNnRvX0Q1aTYyRG9iUUUzRGZEOVIydFdwV2dVTnlMcmgzVDNMcGlRM2N4aXp4SkFDbld3?oc=5",
+    "title": "All Confirmed & Leaked GTA 6 Radio Artists",
+    "publisher": "Insider Gaming",
+    "publishedAt": "2026-09-16T10:12:13.000Z",
+    "discoveredAt": "2026-09-16T11:06:31.059Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-4489834797",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdEpPVlRYSDdmSXN5ejVralptOVpUcUdMWGVMeVd0YncyQ2dXd2RWZThSNHNmQ3IwRHA0QnE5aXFZbDJwOWU2S0h0ZWpDcFV3OGJsNmFJa2NEaFNYaTRtcWg3N01sMUFITS05aDk4SkppOGdReGM2NGVOal9SS2FoTFNRNlFMQ2ZIM2Qxc2pwZXhqMFhfNFk0eDRZWVJGYXpjU3VWVXlydm9UZlhFUXZhcm40SdIBwAFBVV95cUxPVlZSc0Q1cXZmQ3FtSUxlM0x1c21POWE0WEFzdG1jRUlYVGdCYlRRNktZLTNyVE9iNFJSbGdJeTI0WmhnX3RGWl8zOU50M1N5WWx3bHRMSGM4cU9FUlJsRmlTeUMySDdvaEhnTGZMQ1ljV01aS3hETWFUNXp2S0c0UGRiN3oycWRiVXBEZWFQelVJb3p5ajlqdUhuMWlUdHV6b0k3MmlHRkctZTFGQURKVjhzeVVEMmZ2NFVkRDJwdGE?oc=5",
+    "title": "GTA 6 Fans Flood A Real Nudist Resort's Reviews Over Leak Comparisons; \"We Will Not Pay\", Says Cypress Cove",
+    "publisher": "Esquire India",
+    "publishedAt": "2026-09-16T04:48:50.000Z",
+    "discoveredAt": "2026-09-16T11:06:31.059Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-028"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-7775b7ff58",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRlIwa091YWZhMnVEcjhQMGxEeWVnRjZ1eU9TQ0pkRnNyQlpjWlB3OXdleXkyQm1sYzVpWXVQX2h1SjhjTkRMZ2hUQjVsQlFjdzFyTkZKSldnUk5obVFkZWFtSU5XSmpLd3VxZHFyU0gzZWtmY2oyaEJwVFZjc0s2Y2hnTExoVHBVaUhkWDRzN2dncExpVGJmRA?oc=5",
+    "title": "The GTA 6 leaks fiasco: What to make of a chaotic week for Rockstar?",
+    "publisher": "Telangana Today",
+    "publishedAt": "2026-08-24T07:00:00.000Z",
+    "discoveredAt": "2026-09-16T11:06:31.059Z",
+    "feed": "google-news",
+    "query": "Rockstar CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-0a145bcd42",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa783b4c1c4cfbbfaba64d1aa9b572&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2ftake-two-files-federal-subpoenas-against-microsoft-and-discord-to-unmask-gta-6-leaker-cyberleek%2far-AA2aGeQx&c=15510486419289151410&mkt=en-us",
+    "title": "Take-Two files federal subpoenas against Microsoft and Discord to unmask GTA 6 leaker Cyberleek",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-15T15:30:16.000Z",
+    "discoveredAt": "2026-09-16T11:06:31.059Z",
+    "feed": "bing-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "Take-Two Interactive",
+        "Microsoft / GitHub",
+        "Discord"
+      ],
+      "claims": [
+        "LEEK-CLM-023",
+        "LEEK-CLM-028",
+        "LEEK-CLM-016"
+      ],
+      "category": "legal",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-019"
+    }
   }
 ]

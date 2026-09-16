@@ -6382,5 +6382,41 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-25d4492969",
+    "title": "All Confirmed & Leaked GTA 6 Radio Artists",
+    "reportedAt": "2026-09-16T10:12:13.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KUkl1TGxhZmkwa2k4LUFLVHBEVXZLNU1qMllOMTg4ZTc0MUpMbE9NVlItYWFxemRtYUxwNnRvX0Q1aTYyRG9iUUUzRGZEOVIydFdwV2dVTnlMcmgzVDNMcGlRM2N4aXp4SkFDbld3?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-4489834797",
+    "title": "GTA 6 Fans Flood A Real Nudist Resort's Reviews Over Leak Comparisons; \"We Will Not Pay\", Says Cypress Cove",
+    "reportedAt": "2026-09-16T04:48:50.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdEpPVlRYSDdmSXN5ejVralptOVpUcUdMWGVMeVd0YncyQ2dXd2RWZThSNHNmQ3IwRHA0QnE5aXFZbDJwOWU2S0h0ZWpDcFV3OGJsNmFJa2NEaFNYaTRtcWg3N01sMUFITS05aDk4SkppOGdReGM2NGVOal9SS2FoTFNRNlFMQ2ZIM2Qxc2pwZXhqMFhfNFk0eDRZWVJGYXpjU3VWVXlydm9UZlhFUXZhcm40SdIBwAFBVV95cUxPVlZSc0Q1cXZmQ3FtSUxlM0x1c21POWE0WEFzdG1jRUlYVGdCYlRRNktZLTNyVE9iNFJSbGdJeTI0WmhnX3RGWl8zOU50M1N5WWx3bHRMSGM4cU9FUlJsRmlTeUMySDdvaEhnTGZMQ1ljV01aS3hETWFUNXp2S0c0UGRiN3oycWRiVXBEZWFQelVJb3p5ajlqdUhuMWlUdHV6b0k3MmlHRkctZTFGQURKVjhzeVVEMmZ2NFVkRDJwdGE?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-7775b7ff58",
+    "title": "The GTA 6 leaks fiasco: What to make of a chaotic week for Rockstar?",
+    "reportedAt": "2026-08-24T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRlIwa091YWZhMnVEcjhQMGxEeWVnRjZ1eU9TQ0pkRnNyQlpjWlB3OXdleXkyQm1sYzVpWXVQX2h1SjhjTkRMZ2hUQjVsQlFjdzFyTkZKSldnUk5obVFkZWFtSU5XSmpLd3VxZHFyU0gzZWtmY2oyaEJwVFZjc0s2Y2hnTExoVHBVaUhkWDRzN2dncExpVGJmRA?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
