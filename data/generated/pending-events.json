@@ -6442,5 +6442,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-0b1355ae73",
+    "title": "Take-Two Retracts GTA 6 DMCA Strike That Locked Journalist Out Of X Over Public Court Orders",
+    "reportedAt": "2026-08-29T07:00:00.000Z",
+    "category": "correction",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5lNUU3M2FabGVzQmdaLWJoQjNqYlpmSFI0Nl94MWhpNzZWWldxUTc1bG5wRHhkOUttVklXTUV5SldKcFp2enl4cWZ5bkNkYTZXOW1sNjFXRjhDdm5hUkNkUHdPTko?oc=5"
+    ],
+    "suggestedStatus": "retracted",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

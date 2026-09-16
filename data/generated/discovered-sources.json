@@ -21168,5 +21168,53 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-0b1355ae73",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5lNUU3M2FabGVzQmdaLWJoQjNqYlpmSFI0Nl94MWhpNzZWWldxUTc1bG5wRHhkOUttVklXTUV5SldKcFp2enl4cWZ5bkNkYTZXOW1sNjFXRjhDdm5hUkNkUHdPTko?oc=5",
+    "title": "Take-Two Retracts GTA 6 DMCA Strike That Locked Journalist Out Of X Over Public Court Orders",
+    "publisher": "Cosmic Book News",
+    "publishedAt": "2026-08-29T07:00:00.000Z",
+    "discoveredAt": "2026-09-16T21:03:02.935Z",
+    "feed": "google-news",
+    "query": "Take-Two CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive"
+      ],
+      "claims": [
+        "LEEK-CLM-023",
+        "LEEK-CLM-028"
+      ],
+      "category": "correction",
+      "suggestedStatus": "retracted",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-6391c7b034",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aab040cf7344b2995d874d75e2ac0d3&url=https%3a%2f%2fwww.polygon.com%2fgta-6-leaks-cyberleek-crypto-scheme%2f&c=14819137044146944411&mkt=en-us",
+    "title": "GTA 6 leaker could have an ulterior motive as big crypto scheme emerges",
+    "publisher": "bing.com",
+    "publishedAt": "2026-08-21T03:30:00.000Z",
+    "discoveredAt": "2026-09-16T21:03:02.935Z",
+    "feed": "bing-news",
+    "query": "Cyberleek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
