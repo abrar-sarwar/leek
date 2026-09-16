@@ -6154,5 +6154,233 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-0994b4de2c",
+    "title": "Rockstar Games addresses ‘heartbreaking’ Grand Theft Auto 6 gameplay leak",
+    "reportedAt": "2026-08-26T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNVNiWm9DYTFsSS1pTHBxaC15WXdweWg1NF9LNXAwNXVTSWVJakVSbWZRZDNMUVdwQUxMdXF4X3hPZ0NPRWhkYng4X3c4WnREeExxOVJpZDc4aWNfUkI1NjlveGJjMHNiRmprZVJIeF9zTWphZjViQld0TDlMd3ViZg?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-9b972f0e76",
+    "title": "A \"Russian trace\" has been added to GTA VI leaks - some decided that the hacker is hiding from justice in Russia",
+    "reportedAt": "2026-08-22T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQVZOR2hzYW5qSlNJck55N1pnaGFvaC1lbldtSm92YlZnejd6dF9ma0wyMEJ3RWNaVlp3eGtOcld5aGoyVHN0UGE2OFUxdWktU3AyWDdkYjNuS0xsVlQ4ZVBOM2w0eTdYQzhGb2l2Y1BpR0d0M09OcGk3el9JN19VY0g0dnVNMUJsQUR1eXNKbWNyZ1I4S29sTndjcy11QTRJTEg0bFRKRU5JQmZEZGJ3MVo3UnpjZGRTMHNCOUxYUTMwZG5Kanh1RzF30gHPAUFVX3lxTE9WV3lOaUZvNi01LWZuUU9zRTBQb19zXzBfcTBDOERjS1hzOE1zRnhQZE0yTGI2cWFkYjVFWk11ajlsVXlLazNUQ25ZRGFyNnU5M0lFYlM0SGRqMjBkZFhCcVUxOWlhMWJfTkR2eW10dGE0eEN5bVlvX1A0VTRtejNad3lfeTZHWDViZGNFdWt6MFpiOTRINzBhYmU5Q0xwWHlPU2ZNWUZYdkhhZ0lYTVRQNzZMYThqN0FMMy1MdXZEdmFlUFItZ1FvVkE5OHFvQQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-d4fe50a421",
+    "title": "Take-Two lleva a los tribunales las filtraciones de GTA 6 y busca descubrir qui&#233;n est&#225; detr&#225;s de Cyberleek",
+    "reportedAt": "2026-08-21T08:45:00.000Z",
+    "category": "microsoft",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa1433d6ff439ab86139e9fda4d9d4&url=https%3a%2f%2fes.kotaku.com%2ftake-two-lleva-a-los-tribunales-las-filtraciones-de-gta-6-y-busca-descubrir-quien-esta-detras-de-cyberleek-2000050040&c=1105384991035416603&mkt=es-mx"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-6a1269c21d",
+    "title": "Rockstar Games se pronuncia al fin sobre las filtraciones de GTA 6 por parte de Cyberleek: \"ha sido desgarrador para nuestro equipo\"",
+    "reportedAt": "2026-08-26T05:03:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa1433d6ff439ab86139e9fda4d9d4&url=https%3a%2f%2fwww.vidaextra.com%2faccion%2frockstar-games-se-pronuncia-al-fin-filtraciones-gta-6-parte-cyberleek-ha-sido-desgarrador-para-nuestro-equipo&c=4447558779061137812&mkt=es-mx"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-176a59675a",
+    "title": "Cyberleek, grupo detr&#225;s de la filtraci&#243;n de GTA VI: \"Los leaks no se detendr&#225;n hasta que cumplan nuestras exigencias\"",
+    "reportedAt": "2026-08-19T01:52:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa1433d6ff439ab86139e9fda4d9d4&url=https%3a%2f%2fareajugones.sport.es%2fvideojuegos%2fcyberleek-grupo-detras-de-la-filtracion-de-gta-vi-los-leaks-no-se-detendran-hasta-que-cumplan-nuestras-exigencias%2f&c=2696667067401077779&mkt=es-mx"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-0db527c134",
+    "title": "&#191;Qui&#233;n filtr&#243; GTA VI? Lo que se sabe de Cyberleek y los videos que desataron la pol&#233;mica",
+    "reportedAt": "2026-08-22T02:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa1433d6ff439ab86139e9fda4d9d4&url=https%3a%2f%2fwww.eleconomista.com.mx%2ftecnologia%2ffiltro-gta-vi-cyberleek-videos-desataron-polemica-20260822-829648.html&c=2074485492966190089&mkt=es-mx"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-db8ab0ffa7",
+    "title": "Filtrador del gameplay de GTA VI amenaza a Rockstar con nuevos v&#237;deos a d&#237;as del avance en Netflix",
+    "reportedAt": "2026-08-19T02:05:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa1433d6ff439ab86139e9fda4d9d4&url=https%3a%2f%2fwww.eleconomista.com.mx%2ftecnologia%2ffiltrador-gameplay-gta-vi-amenaza-rockstar-nuevos-videos-dias-avance-netflix-20260819-829050.html&c=1526546177524415538&mkt=es-mx"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-91b8af70f1",
+    "title": "Los filtradores del gameplay de GTA 6 amenazan a m&#225;s editoras si no se cumplen sus exigencias",
+    "reportedAt": "2026-08-19T16:54:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa1433d6ff439ab86139e9fda4d9d4&url=https%3a%2f%2fvandal.elespanol.com%2fnoticia%2f1350792388%2flos-filtradores-del-gameplay-de-gta-6-amenazan-a-mas-editoras-si-no-se-cumplen-sus-exigencias%2f&c=16991468869816062432&mkt=es-mx"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-df1d33bb81",
+    "title": "Se filtraron detalles in&#233;ditos de “GTA VI” antes del esperado estreno del tr&#225;iler",
+    "reportedAt": "2026-08-19T04:11:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa1433ffac4b8cb5211ce31c6159c7&url=https%3a%2f%2ftn.com.ar%2ftecno%2fjuegos%2f2026%2f08%2f19%2fse-filtraron-detalles-ineditos-de-gta-vi-antes-del-esperado-estreno-del-trailer%2f&c=13181869316441105049&mkt=es-mx"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-19ad626f43",
+    "title": "NUEVA filtraci&#243;n de GTA 6; excolaborador comparte FOTOS de edici&#243;n in&#233;dita del videojuego",
+    "reportedAt": "2026-09-09T06:14:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa1433ffac4b8cb5211ce31c6159c7&url=https%3a%2f%2fwww.tvazteca.com%2fazteca7%2fnoticias-videojuegos%2fel-videojuego-gtv-6-sufre-una-nueva-filtracion-esto-es-lo-que-se-sabe%2f&c=3503829933347166551&mkt=es-mx"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-e2077dc248",
+    "title": "Rockstar Games aborda las filtraciones de GTA 6 y anuncia un avance “hist&#243;rico” en Netflix",
+    "reportedAt": "2026-08-26T06:50:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa1433ffac4b8cb5211ce31c6159c7&url=https%3a%2f%2fwww.latercera.com%2ftecnologia%2fnoticia%2frockstar-games-filtraciones-gta-6-extended-gameplay-netflix%2f&c=8268480541618931526&mkt=es-mx"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-64407003a0",
+    "title": "Rockstar se pronuncia sobre los leaks de GTA 6: “Sabemos que debemos superar las expectativas”",
+    "reportedAt": "2026-08-26T05:46:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa1433ffac4b8cb5211ce31c6159c7&url=https%3a%2f%2fas.com%2fmeristation%2fnoticias%2frockstar-se-pronuncia-sobre-los-leaks-de-gta-6-sabemos-que-debemos-superar-las-expectativas-f202608-n%2f&c=18057010972097365980&mkt=es-mx"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-fff4661dab",
+    "title": "Es oficial, los filtradores de GTA 6 ya tienen el 'nivel m&#225;ximo de b&#250;squeda'",
+    "reportedAt": "2026-08-21T08:01:19.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa1433ffac4b8cb5211ce31c6159c7&url=https%3a%2f%2fwww.msn.com%2fes-es%2fentretenimiento%2fjuegos%2fes-oficial-los-filtradores-de-gta-6-ya-tienen-el-nivel-m%25C3%25A1ximo-de-b%25C3%25BAsqueda%2far-AA2aF2NR&c=8436642418679031245&mkt=es-mx"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-b3427ec035",
+    "title": "Filtraci&#243;n de GTA VI: Esto sabemos sobre el supuesto hackeo a Rockstar Games",
+    "reportedAt": "2026-08-19T20:02:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa1433ffac4b8cb5211ce31c6159c7&url=https%3a%2f%2fwww.elfinanciero.com.mx%2fentretenimiento%2f2026%2f08%2f19%2festo-sabemos-sobre-la-supuesta-filtracion-de-gta-vi%2f&c=13847241003885567342&mkt=es-mx"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-acecd6377e",
+    "title": "Rockstar Games rompe el silencio sobre la filtraci&#243;n de GTA VI y confirma que el juego est&#225; “casi listo”",
+    "reportedAt": "2026-08-25T21:10:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa1433ffac4b8cb5211ce31c6159c7&url=https%3a%2f%2fwww.radionica.rocks%2fmundogeek%2fvideojuegos%2ffiltracion-GTA-VI-Video-comunicado-rockstar&c=5052003577884382218&mkt=es-mx"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-2a8b0ecae8",
+    "title": "Mientras El Rubius visitaba las oficinas de Rockstar y ve&#237;a GTA VI antes que nadie, ElXokas fue denunciado por compartir las filtraciones del juego",
+    "reportedAt": "2026-08-26T14:23:04.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa1433ffac4b8cb5211ce31c6159c7&url=https%3a%2f%2fwww.msn.com%2fes-mx%2fnoticias%2fotras%2fmientras-el-rubius-visitaba-las-oficinas-de-rockstar-y-ve%25C3%25ADa-gta-vi-antes-que-nadie-elxokas-fue-denunciado-por-compartir-las-filtraciones-del-juego%2far-AA2aZg6T&c=370702198762215971&mkt=es-mx"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-27ad6af8a4",
+    "title": "GTA 6 sufri&#243; nuevas filtraciones: los gameplays que circulan en redes sociales",
+    "reportedAt": "2026-08-20T05:25:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa1433ffac4b8cb5211ce31c6159c7&url=https%3a%2f%2fwww.tycsports.com%2fgaming%2fgta-6-sufrio-nuevas-filtraciones-los-gameplays-que-circulan-en-redes-sociales-id755789.html&c=625280973075523290&mkt=es-mx"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-27d3457b45",
+    "title": "Rockstar denuncia a ElXokas por mostrar 5 segundos de uno de los leaks de GTA 6, y el streamer estalla: ''que m&#225;s les da, si ya lo ha visto todo el mundo''",
+    "reportedAt": "2026-08-26T11:22:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa1433ffac4b8cb5211ce31c6159c7&url=https%3a%2f%2fwww.hobbyconsolas.com%2fvideojuegos%2frockstar-denuncia-elxokas-por-mostrar-5-segundos-uno-los-leaks-gta-6-streamer-estalla-que-mas-les-da-si-ya-ha-visto-todo-mundo_7029698_0.html&c=3716769277813541511&mkt=es-mx"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-7df97f9fbb",
+    "title": "GTA 6 Collector's Edition: Leak zeigt Bilder der angeblichen Sammleredition",
+    "reportedAt": "2026-09-09T20:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaa143489c3411aa3a4b2a720cedb44&url=https%3a%2f%2fwww.notebookcheck.com%2fGTA-6-Collector-s-Edition-Leak-zeigt-Bilder-der-angeblichen-Sammleredition.1395053.0.html&c=12887863206628317575&mkt=es-mx"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
