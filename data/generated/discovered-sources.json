@@ -21216,5 +21216,46 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-9768653676",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNE9CNFBwaHZIRTNFQlk1VEoyUFNuSXR6dEZtM3g3bDJNbTRIZlhUT0RFcV9yZmliUVl2dEREd2sxTGNmdlpfQzVDZVc0THFtUEN3cERuMjRmMC1NUjNNU0UxUGZvVTdjUXd0QWZmaVI0RlBGSmpCTnkyaFZhekl4NEhyemZBcFlweWE5eGJ1UQ?oc=5",
+    "title": "Rockstar issues official statement on ‘heartbreaking’ Grand Theft Auto VI leaks",
+    "publisher": "9to5Toys",
+    "publishedAt": "2026-08-26T07:00:00.000Z",
+    "discoveredAt": "2026-09-17T04:06:17.467Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-052"
+    }
+  },
+  {
+    "id": "DISC-1cba4a5531",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbDZzV0o0RUhOMUtFa2ZvWlRQMW91YlVSTDRaX2FIckE5ZzRsN3laQ0x0WERFZkFMamhzSk5SY1VkZDY1NGxld083UF9ZSTZRd0UzVW1fc0QtQUZHOEllNHBTcTVMelR4dFZ1TlM3alBScEFWajNCWk5qZXZ4eDlaR3Y1MnF4SDZySFJOSDR1Znl2dDR0ZU1IZ3Rlelp1czcwRGx5bjdGZ05GaTRLWWtRSjJvMFVXT05BTHA4bE1uSmYtRHptWkp4RzhIb1ZMa1lqSkViOG9n0gHjAUFVX3lxTFB0X0lSQ2d5aERGTXFjQTlkU20xd1dXdUVmZ2FZV1BVTVVJV3lHamJDR2JMRmVqcHBEOUlWM19ZYmN2cmwyV0wyT1kzSVN5dlZJTzFiRFJwMWNaZUZOYVFWWkl4dl9GTDBGc1VFcjFRenVQTzluWmNTQUlNUWMySVVSSHplMXN2Z1BmMUdjYm11TndJQWJ6UFhCRkRjQlk2SVB1OFdTTk9zWkU3QVlhNVlXUTRhc1F3SFlkWmhGSmJvaThGb0ZPY3laQlZiRlpJNURsRHhrZUZsQVhqazcteklRUUFR?oc=5",
+    "title": "Latest GTA 6 Images Surface On Rapper Profiles, From Travis Scott, Morgan Wallen To Future And Fans Are Piecing It Together",
+    "publisher": "Esquire India",
+    "publishedAt": "2026-09-17T01:49:50.000Z",
+    "discoveredAt": "2026-09-17T04:06:17.467Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "community",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
