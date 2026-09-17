@@ -6454,5 +6454,29 @@
     "suggestedStatus": "retracted",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-237f29df2c",
+    "title": "Discord is not participating in the hunt for hackers leaking Grand Theft Auto VI footage",
+    "reportedAt": "2026-08-25T07:00:00.000Z",
+    "category": "discord",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiywFBVV95cUxPN0M1SjloX0p5SUQzZy1udWVZMEY1bmFzZFNLdmpCU0NmdEszaFYwOGxWUGVBaVRmd2taaHR4d21ZR1lPT1BYTzl1SDJYMjRNTDFXLTFMR1NIVTNCbWtHczF6NGZHZy04VTA5UE9LQ0Z3Zk5BbWpZci12dkZWWFpGSGF6WlpXc0gxTWlGalNuVzNSYl9ZSEE3Q0xSNDhZSDRUQnRFUkd6NjRoNy1WMmYyVnF5R2NqdGY4NFdDTzNpR2ZfOThrUWRUbWxONNIB0AFBVV95cUxQT205OWZuTm5heWgyeHR1QWllWmlUaTVSa3RiU1Faa2ItQktUV2ljT2ZPV1VDTVBzeXk5LXdZNmxlek9ueVZXT255SUo1el9ET3ZITVpQNUx3M2tnNXFtM3VDX2JpdjFDT1VjU1dZeWZod2pqd3IwT0Q3bnlHTXNvSlF1dE8zVS1UZTN6SElwUmc2Q0RGeUI0bGlrdDYtRmlfMFFiMjM1WGZQMnJ5NVpfQjJfNW0zZ29xcXJUMXl1M09xbWoxR3FtbXAwSm5uQkZs?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-69891e08b9",
+    "title": "GTA 6 leaks point to 60 FPS on PS5 Pro as Rockstar delays trailer 3 past pre-orders",
+    "reportedAt": "2026-09-16T20:21:51.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://www.msn.com/en-us/news/other/gta-6-leaks-point-to-60-fps-on-ps5-pro-as-rockstar-delays-trailer-3-past-pre-orders/ar-AA283IJo?ocid=BingNewsVerp"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

@@ -21257,5 +21257,71 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-deb4d7d97f",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOU5taXVTM0hsWHFnN2lJYU9rdnR6aUhUNzItdG5rMnktLWVJZEQxV0Q1Y2szLUVkVTk4dmxMeG9kWnB5VEkyU1JmVS1YS1I2SkpLak53U0RQQ3hqdE9hdmtoSzI3cElCUzVqT0pWNnBieC1VY191YWNhamxnVVhQWjduZ1ItUElyaFZRUVVkUHBtdVFyU2MxM0JmaHlCbXdxOVVQU1ZoTm1QUWlYb3ZFTTdoMGtpR2F0MXhpLU1Raw?oc=5",
+    "title": "Rockstar officially responds to Grand Theft Auto 6 leaks in new statement",
+    "publisher": "tweaktown.com",
+    "publishedAt": "2026-08-26T07:00:00.000Z",
+    "discoveredAt": "2026-09-17T11:15:55.912Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-052"
+    }
+  },
+  {
+    "id": "DISC-237f29df2c",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPN0M1SjloX0p5SUQzZy1udWVZMEY1bmFzZFNLdmpCU0NmdEszaFYwOGxWUGVBaVRmd2taaHR4d21ZR1lPT1BYTzl1SDJYMjRNTDFXLTFMR1NIVTNCbWtHczF6NGZHZy04VTA5UE9LQ0Z3Zk5BbWpZci12dkZWWFpGSGF6WlpXc0gxTWlGalNuVzNSYl9ZSEE3Q0xSNDhZSDRUQnRFUkd6NjRoNy1WMmYyVnF5R2NqdGY4NFdDTzNpR2ZfOThrUWRUbWxONNIB0AFBVV95cUxQT205OWZuTm5heWgyeHR1QWllWmlUaTVSa3RiU1Faa2ItQktUV2ljT2ZPV1VDTVBzeXk5LXdZNmxlek9ueVZXT255SUo1el9ET3ZITVpQNUx3M2tnNXFtM3VDX2JpdjFDT1VjU1dZeWZod2pqd3IwT0Q3bnlHTXNvSlF1dE8zVS1UZTN6SElwUmc2Q0RGeUI0bGlrdDYtRmlfMFFiMjM1WGZQMnJ5NVpfQjJfNW0zZ29xcXJUMXl1M09xbWoxR3FtbXAwSm5uQkZs?oc=5",
+    "title": "Discord is not participating in the hunt for hackers leaking Grand Theft Auto VI footage",
+    "publisher": "ixbt.games",
+    "publishedAt": "2026-08-25T07:00:00.000Z",
+    "discoveredAt": "2026-09-17T11:15:55.912Z",
+    "feed": "google-news",
+    "query": "CyberLeek Discord",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Discord"
+      ],
+      "claims": [],
+      "category": "discord",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-69891e08b9",
+    "url": "https://www.msn.com/en-us/news/other/gta-6-leaks-point-to-60-fps-on-ps5-pro-as-rockstar-delays-trailer-3-past-pre-orders/ar-AA283IJo?ocid=BingNewsVerp",
+    "title": "GTA 6 leaks point to 60 FPS on PS5 Pro as Rockstar delays trailer 3 past pre-orders",
+    "publisher": "msn.com",
+    "publishedAt": "2026-09-16T20:21:51.000Z",
+    "discoveredAt": "2026-09-17T11:15:55.912Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-014"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
