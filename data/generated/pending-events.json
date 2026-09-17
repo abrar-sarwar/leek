@@ -6478,5 +6478,29 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-a90a50556c",
+    "title": "GTA 6 Online Release Window Leaked By Surprising Source",
+    "reportedAt": "2026-09-17T18:50:58.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdDBsVGFJbmdzOVlvQ3RlQ2E0UUkxcGtlUUlER0FfX2JfMTFKWlVSc1JmMkdQZGVwd1lIVW12YzFjV0RReS1FZmdHMldybW9ZOHVCSG5yMURxdWt4QlNacGt5TTdJdm9hM2FPMXZIaHo0V2dMSlkwX0pERm41OExzdDdEamtfbndqNEMtVVhkUGg?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-50a597e312",
+    "title": "Sony’s Project Canis PS6 Handheld Leaks Unveil 540p Base Rendering, Yet PSSR 3.0 Nearly Matches PS5 Pro Power",
+    "reportedAt": "2026-09-17T08:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YQ1Z6bGRhOHFCM0FKd09kOXkxaUpKZ1RYOEdBMENBb3l4OXkwR2xNa2tYaEpqZUN3VDBIMEdJVDNCa3hZRVZ5OFpocWxLRmtVXzJNMk9JYmhrSkVPUWpPUDNSamN1V1JuQnFBX1R4N1NIeXRjV2NBNmlVZ0NZUdIBgwFBVV95cUxPOUNJSl9JeEtVSGlrd0tLOXI4d1FzQ2xsSkJPQkQ3QjQzZU5zU2Q1Rk1zMjVfa21oaXlycVFfSVI4VlFCUElaZ04yMy1ZUWRsSnhNTXlxTU4yck1XczVrUnZ0T3RCb0RVRDhMUmFrNnNPeFdpOEc2S1JnVGVMMHBnRF9tUQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

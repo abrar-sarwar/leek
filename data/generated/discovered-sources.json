@@ -21361,5 +21361,100 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-a1c27da223",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNLWstRUxheU83RW01WVNYTlpDdE8zYjhreDhYdFVQak16NWJDMWtMMU1MMnl3TDRSRnFXYjViX2dBMUZQeUlIcElhMGdodkw2TkZSYXhIOFVCR1BQbWtZS0UyWVlXZ3dhdVVVTEVCeVRxT1IyRXdvNWI1VlA0UXhTeEp6ZUVIcmNLb1FtS28xMlYxSmh1eGNqLTBBdG9VMUgzSXk0eWJhOTMzWnVGTE9ZMHZpTVNoN3U5ZnZ0UFo1Y2F3UQ?oc=5",
+    "title": "Take-Two hints GTA 6 Online release date is far off, with focus on single-player",
+    "publisher": "notebookcheck.net",
+    "publishedAt": "2026-09-17T16:16:00.000Z",
+    "discoveredAt": "2026-09-17T21:05:31.502Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-a90a50556c",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdDBsVGFJbmdzOVlvQ3RlQ2E0UUkxcGtlUUlER0FfX2JfMTFKWlVSc1JmMkdQZGVwd1lIVW12YzFjV0RReS1FZmdHMldybW9ZOHVCSG5yMURxdWt4QlNacGt5TTdJdm9hM2FPMXZIaHo0V2dMSlkwX0pERm41OExzdDdEamtfbndqNEMtVVhkUGg?oc=5",
+    "title": "GTA 6 Online Release Window Leaked By Surprising Source",
+    "publisher": "VICE",
+    "publishedAt": "2026-09-17T18:50:58.000Z",
+    "discoveredAt": "2026-09-17T21:05:31.502Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-4cea010fc5",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uYVlzdENhelRZUThwWVNCM0Q4Q1Z1YWxrNjRvV1dhbDFQbVg1M1BWZ2hUMEVZMmZvZ2RuNUZZXzkxSFJHT0FwQ29HYWE4QmQwMDhickNTa3NFb0k?oc=5",
+    "title": "GTA 6 soundtrack reveal revives digital release debate",
+    "publisher": "BBC",
+    "publishedAt": "2026-09-17T14:29:50.000Z",
+    "discoveredAt": "2026-09-17T21:05:31.502Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-50a597e312",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YQ1Z6bGRhOHFCM0FKd09kOXkxaUpKZ1RYOEdBMENBb3l4OXkwR2xNa2tYaEpqZUN3VDBIMEdJVDNCa3hZRVZ5OFpocWxLRmtVXzJNMk9JYmhrSkVPUWpPUDNSamN1V1JuQnFBX1R4N1NIeXRjV2NBNmlVZ0NZUdIBgwFBVV95cUxPOUNJSl9JeEtVSGlrd0tLOXI4d1FzQ2xsSkJPQkQ3QjQzZU5zU2Q1Rk1zMjVfa21oaXlycVFfSVI4VlFCUElaZ04yMy1ZUWRsSnhNTXlxTU4yck1XczVrUnZ0T3RCb0RVRDhMUmFrNnNPeFdpOEc2S1JnVGVMMHBnRF9tUQ?oc=5",
+    "title": "Sony’s Project Canis PS6 Handheld Leaks Unveil 540p Base Rendering, Yet PSSR 3.0 Nearly Matches PS5 Pro Power",
+    "publisher": "Wccftech",
+    "publishedAt": "2026-09-17T08:00:00.000Z",
+    "discoveredAt": "2026-09-17T21:05:31.502Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-8afe6da893",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aac5620bc36446597ba481d6c6aa995&url=https%3a%2f%2fcomicbook.com%2fgaming%2fnews%2fgta-6-album-physical-release-fan-backlash%2f&c=5996256200567629701&mkt=en-us",
+    "title": "GTA 6 Fans Can’t Believe New Music Album Is Getting a Physical Release But the Game Isn’t: “The Irony”",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-17T03:38:00.000Z",
+    "discoveredAt": "2026-09-17T21:05:31.502Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "community",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
