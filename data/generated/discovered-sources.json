@@ -21323,5 +21323,43 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-b8129bd618",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOE55TEw5NFo5VnI5MEs1cEY2ZWhHbU43WnFlcjdIbW00MWU4NUNXejN1WTBsSTJpZ2VMU0taMW9mNmhQTnVWaV9US1VQTkZFSTFQRUhBV05jV3ZmMXlwTUh1SUxqZVQ1bnhCRHVRU082T09UNGtHM2h5TUhUVDBjNzhndUx6b3Q3Q0JoaA?oc=5",
+    "title": "GTA 6 Soundtrack Gets Physical CD and Vinyl Release, Rockstar Confirms",
+    "publisher": "IGN",
+    "publishedAt": "2026-09-17T12:31:30.000Z",
+    "discoveredAt": "2026-09-17T16:32:50.188Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-8c5603953c",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQelFnZEpUQUkyb1p2eHVCNVJ0SGVUcVQ0alVmd05UQUlhVENWSXlDV2ZCWmg4eTI4a1BrLVBrOU5kUW03cXYyVnk2ci0zbGlFcXljcHBsNENldEVHc1NzT0ExYzA2YWU0U0hROWQ3YXpnRzB4Y25fVVhpQ1diZkkzc1JtQXozTGxtcG1BV2xZU2J5NmtYQmhMRHJyV0wtb2hqNWhjbUNwaUVncktyNDJRRklpUHZzQzA4LUVldHBEdHNZd2p2ZTMwRjk4RERDZEIzSzZFTFBOcC1ITGEtM2dr?oc=5",
+    "title": "Twitch Boss Says Game Companies Are Right to Avoid Competing With GTA 6 for Attention — Expects GTA Online 2 Next Year",
+    "publisher": "IGN Africa",
+    "publishedAt": "2026-09-17T12:33:44.000Z",
+    "discoveredAt": "2026-09-17T16:32:50.188Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
