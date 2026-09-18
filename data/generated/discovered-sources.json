@@ -21593,5 +21593,164 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-793506c346",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5KRzZkTWRYOWtlQTlCV1RhcjNlMTRwS1FGamlMYUE0WHpDdERnYUFaelEzNEMyeUVja1JBOGF3dWVDaHUxc3Y2TEZ6d3Z3VWpKV1k1S1RhLTVMdXQxbzBWQk9hemxrT1k?oc=5",
+    "title": "Massive GTA 5 Leak Reveals Cut DLC Plans and Early GTA 6 Assets",
+    "publisher": "Polygon.com",
+    "publishedAt": "2026-09-18T14:37:15.000Z",
+    "discoveredAt": "2026-09-18T16:04:23.897Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-4ca323762d",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRjNzaFFRSmp0WDZYLUlDSVZYTWdNck9qZ1Zmd29fRkMxNDYtV2hxbkMxSXJxWVRFWEJQQ2NBWUVWdF9yNnNNTk9Za2R4YkpUN1VqSEJFTzRNLVdMUUU5WGQzNzVlU0ZKSUdidXkwRndNNDJ6eXpPdWxHNGhEeHktNG9DR1NCaEdxdGlaMW9GdDQySk5W?oc=5",
+    "title": "Huge 192GB GTA 6 And GTA Online Leak Reveals Unreleased Content",
+    "publisher": "RockstarINTEL",
+    "publishedAt": "2026-09-18T12:56:34.000Z",
+    "discoveredAt": "2026-09-18T16:04:23.897Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-8b4b520eff",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZTZEN2R2RG1mWXJlcDd0US1FVmxKOUluaTJ5cE9fQ0ZDOE9yU0x4V095NElPN1FFZ0Q0T3BQaFVaQmQxdVYyRm93dnhscjdCU3FoWEZ6aURFQnk0UGg4SFktOC0zS1YzamRmVFlQYzRsNjc5dEtSNzdVVGVwUmotT1p2SHZXaWdYaEJ1MEYwT1pUZTJsU2xqaExFT1Q5aVMwNkRTNzlBaDhJRlRmblFhVnd4RW9tcTV1eUI0czMzZnF2VTlUcnMxMw?oc=5",
+    "title": "GTA V's Canceled Liberty City Expansion Revealed In Massive New Leak",
+    "publisher": "Kotaku",
+    "publishedAt": "2026-09-18T15:32:38.000Z",
+    "discoveredAt": "2026-09-18T16:04:23.897Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-bf63ccda04",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPemR3Y0VXNVBnRTNENXA1VW5raWlIWUpKLUd4akVWdGw5M0Z5TzlwbkNlTzItTDhJUXJkUHkxanNRcE5yV2hKOUYwSENNM3NURXE5dmlEdzZsOHlQSlh6LUdoblJfdnVkaThVZC0weUllSWhjcTZqTUhYVHNkZUxRWU5XWUVXWnM0VjNRUGJTZl9HZGY2bGhMWndkUkVPTkU3ZjBaYlc5c21MQmM?oc=5",
+    "title": "Reported GTA 5 Archive With Early GTA 6 Assets Traces Back to 2022",
+    "publisher": "GTA BOOM",
+    "publishedAt": "2026-09-18T10:56:52.000Z",
+    "discoveredAt": "2026-09-18T16:04:23.897Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-34ca743482",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTk5nVGZZQXVXampTLTY5WXJJbTZlN2pPM0VqU3pHbGhrWTVTd1lKaGQ0dk5vYzRYel9zWFlVZGNNQkszNGc1YmdIYmhwN2RydUx0ZDJXb0xmanpFN0xCTXpaUUFyOHR0bzdIOFpvRkFxcFQ4QkpZQktCZlZOeFhJYkNIVjJPUWJXWnBxM1VRaWlKS095ejhVTnpB0gGfAUFVX3lxTE9kemM0NDRoRUg3OER6Y25aUklfdm9yLWdpWndBa1htM0Ntdzg1bHpONkdkZlVZck9VdDl0TlMzRXlLYnRQbWdQRDJMbmFhVEdzOTQ2dTZLdEY5YS1ZUm9ZSmU5dkFLLWlfTUdvWGRCWl9QUkJDNGxFY3NFS28yZ3VtbnZuUUFPWWtpU0N6cVJqdFY4V2NraGc0Um9vTDVDQQ?oc=5",
+    "title": "A 192 GB Rockstar leak just dropped—and most of it isn't GTA VI",
+    "publisher": "Gagadget.com",
+    "publishedAt": "2026-09-18T11:16:48.000Z",
+    "discoveredAt": "2026-09-18T16:04:23.897Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-0db342394b",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcXR1X1d1NmJpS1NTNjctMV85b1hFN1FyNEo0VWRJTXdVWDRkc2NEODlCdGhwSmhFRWlnVi1rdWs4b0JqMlN3RnlXMGRiSUZxNnlJSjVyRElwS1pBalVtVFZrRl9OX2VoaW1RWnJJUlg5UjQzWEtrTVBlSDZPQ2VUV1JxNlUtck1CTlEwb09BdGtXbTRDVjF0dVlRN1dNRC1KbmFxbXVON2gtQkpFRjFMb052VDhObDNlWnZiX1d3Q1ROUG52?oc=5",
+    "title": "New GTA 5 Leak Suggests Rockstar Had Ambitious, City-Sized DLC Plans That Were Ultimately Scrapped",
+    "publisher": "IGN",
+    "publishedAt": "2026-09-18T11:34:32.000Z",
+    "discoveredAt": "2026-09-18T16:04:23.897Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-3d9cc5ccd4",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYmpWcy1JSzJrWmp1dU1ZNnJPVTdxQ1NsYVBDYjlNb2NTNUlsVEJMeXBjTkJMQm9GNUsyVkYwTG03M18wZGt1alNtWDdpNExQTEFBZ2MzZTRVMndNSEZVMTcwakNzZy1YMUFrSGtnMTM2aFJObjhNZFZoTlZaMTZGbjlnWndUTF9kcC0xSEZxcnVmckVrcS1IbnJRdFpvbFgxT2RqelZ2T001N096aXlRZmtCTjJ3VzBtcGhmbkdyWQ?oc=5",
+    "title": "192GB Rockstar leak exposes canceled GTA 5 DLC and early GTA 6 map assets",
+    "publisher": "TweakTown",
+    "publishedAt": "2026-09-18T15:50:11.000Z",
+    "discoveredAt": "2026-09-18T16:04:23.897Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-7e1174d82d",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbXlNYWRkV0Ewc2pkS194azJLemVaelJ3VDg1U2RxLU16MDNISGVSVm9naXZ1ZGwybzN3eWRSeVRGNEhBanhUMDdxV3Zfd3NKNGQxZ2FtdkdPcGtleHhEZXBXYlpqVkprRTZvcDV4T0FzS3NDeFJic3BtSzR2Sk91VHFSUGxIX1Q0eTFRR241Wmh2NDB4elg5Yi1aOGU?oc=5",
+    "title": "New GTA 5 Source Code Leak Is Uncovering A Ton Of Cut Content",
+    "publisher": "gamespot.com",
+    "publishedAt": "2026-09-18T10:00:10.000Z",
+    "discoveredAt": "2026-09-18T16:04:23.897Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
