@@ -21752,5 +21752,165 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-2a4a164a74",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdXExV20wZHZzRFdOYmszbDdZR2pzTmpxNVczc3IwcFMtX0FQMWs1WS1yVXM1ZUJzcXRhTi1LRE01SVFEbDJkWUpFR0FiVExXcURPUHQ0T01PTFdKMWUtR3NvNDJlREpjM3F3R05zSmpxaXo1aVVJWHhjNm50ekZwbE1udExCeFZaS3RnUU1WdkNENlJObnhZZUdua3ZrVUlwTFRDU2g4MHlOTmRxbEF6VlJ1cU9DZE5CWEt2V3lhSmNhM3hvQW9RM2d3ZDRhOE0?oc=5",
+    "title": "192 GB of GTA VI and GTA V content reportedly leaked, including cut Liberty City DLC",
+    "publisher": "GosuGamers",
+    "publishedAt": "2026-09-18T17:52:06.000Z",
+    "discoveredAt": "2026-09-18T20:37:39.265Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-d8d82c70c0",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMl9mWThMZEtNc3dSSF9pRjVIV012aDEwcGh4bEhUckY2VFE1dkxWdEl3OTFTSzNuZWdaMVF2ZkNkenpqRmNwdTVodXVoZnFtV1dpTkFkcy1UMVVBb01mTkRWQThzWUs2MnZOR3c2QkZwVndMNGV5MDUzaTJ5aG94STRjSWdoWkoycU5iOHA1bi1SYkc5UmtGVENfSTU3UmxYbE9meDMtc1N5YTE2alMzNE5oS0JBenRNZDIyeGhuTmlucFo10gHKAUFVX3lxTE5WcGt2Y01iWUpuMTJUMDZULUU4RXAtOU9VNzlvMUZRY1hTalB2c0Mtb0ExeTFMWFlKdTRoQkNmek44SHVXWHdIYjV5UWhMRnhVNjhtM3ZEb2VMTjVra0xRYWV6TDJ2YmdXclJZV3IxSzhzV25MbUVDX1ZHdXVtTURxOFVlUTFyWDFFX19IYWNqXzdhaXpLdzN2MTI2cXJEMTktbkNfNmdDZzFrV3hHbUJ3MnpCWmNqMjZpTkItbTE5NGhwUndEeDNwYnc?oc=5",
+    "title": "Massive 192 GB Rockstar Leak Surfaces, Including Cut Content For GTA 5 and Early GTA 6 Files",
+    "publisher": "TechPowerUp",
+    "publishedAt": "2026-09-18T16:02:15.000Z",
+    "discoveredAt": "2026-09-18T20:37:39.265Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-e6ecaf6ce5",
+    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQX3pDYmxTR25XMUl6RDVSaFFlWWtLZmRDWE5RcGowME51S01wUDJqbW80anJtSzBlb2I5UW9IVlNQM08yc3BqaHVwMV9MMlNqQkNkOVFJcERFcWlKV2xMbTYxZEhCeks0d1hTVm5SMFAwM29scnpqajJPZ2poSUc3UXhNSWRDQ0czNG41aVAyRkZCSjhmVHVDT0FVby1ONFN3a1cyZk1mRXc2dGdRaEdCeWM2RVNyNzFRVzBudDVnZTZYVjJ3QlVyTnJ2R29COEw2NGFiNmVHeGVmVW9xNzgwQjFRVkI1YkFJOEtUTEdJVjZ2ZnU0Z0HSAfsBQVVfeXFMUHZ1eWtqOW5CNWFCZjZkNGNBcjU3RUMwblpuS1VEalp6R1Bzdi1wZWZYXzRLcU96X2FFY0hweF9YUmNBbzFHTEczYVZURlhIZW10MEE3bWxQQ2E5RFRYYmwzV1hsQ1lPV01oSDNiRkdlbTJncHZOUTRYT05WaEVIUmNYS2RYMVdqLWh6RWh6OVY2QnhCN3ZmV1RoSDJQTzYwbXFPaUY0Sk1aTlJkSlNEYUtQbGdXd3VSTi11aW13WTlMVGJpWXdYV3RSWDJmVksyREhteEM2b0NiSFJ4VjRabVV2ZnVnV1B5U21taWlIeTh5YmZhVUVWbS03RjQ?oc=5",
+    "title": "Early GTA VI map, zombies, GTA V DLC, and frozen Trevor - almost 200 GB of Rockstar files leaked online",
+    "publisher": "ixbt.games",
+    "publishedAt": "2026-09-18T18:11:35.000Z",
+    "discoveredAt": "2026-09-18T20:37:39.265Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-6a9aebb6a4",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM1BIWmNOME9nZGtEV29KUWtGMTJrdThhZGpaMVd1SjRNVUFXUTVTNktKSUViaG1fVm9kRWIzTXNzQlVTeGcwQTZxdXVwLWF1UlVmMkxhaXV4RG1fY0MyWDdLNjc0SGRqczZ2ZUlDQ1RWUWs4Nm1RTGVKbzVCcGtsY2NZRDhrY3lnSEI0X3c3Y1FHNmtDdDVpY1E3V00?oc=5",
+    "title": "Massive GTA archive leak includes 2015 GTA VI data and cancelled DLC",
+    "publisher": "VideoCardz.com",
+    "publishedAt": "2026-09-18T18:21:39.000Z",
+    "discoveredAt": "2026-09-18T20:37:39.265Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-fd86aa2082",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRVlpdFNMTzJfb0Zaa3ZZZWVuUDA1cUc4dS1Ydm9FdmVyamN4RUVuck5iYXp0LUMyaWdXUzJ2VHZIbThPSy1PYXZnTDgwaXRlWjZ6RzB0bUp1YkNxVmEzcWJLSGhLbFp6TXdWc3ZGWVBmZ1l0YXAtWXI5Mm80X2JGaDNaUmo?oc=5",
+    "title": "New 200GB GTA 5 leak suggests Rockstar Games scrapped a massive Liberty City DLC, and reportedly includes very early GTA 6 work",
+    "publisher": "Eurogamer.net",
+    "publishedAt": "2026-09-18T18:19:10.000Z",
+    "discoveredAt": "2026-09-18T20:37:39.265Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-45ee209bd1",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPejZyMlZuRnFVTkZOdnk3Yy1BVU1oSVh6dzJybFkwRml3czNpQnoyU2pzQ0hvUWh3QnI2VmhqaXBnR2tTczNMR0RXUThVeU9vSklTRUVLMVZ6a0hIMzFhS3NBaDVJekp3eTc0YVlIQnFxWllGT0RzejlUM0hjWkZnMXl6N2lMdlFPNDV6Q3p1QWxaQldMUzYzaTN3RTc?oc=5",
+    "title": "GTA Suffers Yet Another Major Leak, Includes Early GTA 6 Assets",
+    "publisher": "thegamer.com",
+    "publishedAt": "2026-09-18T08:32:28.000Z",
+    "discoveredAt": "2026-09-18T20:37:39.265Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-7ab001f1d8",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aada11884d5459abbd780d95f753edf&url=https%3a%2f%2fwww.msn.com%2fen-us%2fgaming%2frockstar-games%2fnew-rockstar-leak-allegedly-reveals-gta-6-assets-and-cut-gta-5-dlc-with-nearly-200-gb-of-content%2far-AA2cvy11&c=16527904374132517172&mkt=en-us",
+    "title": "New Rockstar leak allegedly reveals GTA 6 assets and cut GTA 5 DLC, with nearly 200 GB of content",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-18T03:22:17.000Z",
+    "discoveredAt": "2026-09-18T20:37:39.265Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-8e0dbd1546",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aada11884d5459abbd780d95f753edf&url=https%3a%2f%2fbeebom.com%2fgta-6-leak-reveals-trevors-brutal-option-a-ending-in-grand-theft-auto-5%2f&c=9713186154196501675&mkt=en-us",
+    "title": "GTA 6 Leak Reveals Trevor’s Brutal Option A Ending in Grand Theft Auto 5",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-18T06:51:00.000Z",
+    "discoveredAt": "2026-09-18T20:37:39.265Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
