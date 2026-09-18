@@ -6502,5 +6502,65 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-3f6afa3f82",
+    "title": "Rockstar Games hit by another leak as potential GTA 6 DLC surfaces, teasing returning setting",
+    "reportedAt": "2026-09-18T09:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMikAFBVV95cUxQd29leHlhN2JDZWZZUlU4UEp2R3B3WFlpS0p0RkJtVHZJdHk0RDJPUEhveUFwd2xiTUVmSzRGTDFiaERieFRoanVWYnAxcnN1cFJzM1ctNF95aWUyc3psdFBpUFAzYzg1OXEya0dpTUw2TnRfanpIWmdVZWhvclZrMXVSZDc4Q2JCSjNsY3c1NjA?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-b000428d44",
+    "title": "Huge 192 GB Rockstar leak lands two months before GTA 6, but it has little to do with GTA 6",
+    "reportedAt": "2026-09-18T08:25:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdnpOUjFqUW9NTnBVcU1aN05wU1U3akw3Z3J3Y0NOYnp3Qlo0QnNBNkZkOEttZ2pQWmVQMVh5UVJTRHBLZGtJcXlSdnVBWUtmQk05X1dOOWZRY0ZnT3MxV1J0VjRoOExjQ0NBRDhIeDhGRGxfTFRETTFlVllPY09BSkNObzh1dWZSclEzejhiMWVZaWdkRzFLa1hqSFdmbU1UZjRKTVBmZEJFTE4ycnR3UDNQQXMtR2xteUJQZUtJMXBrcF9jZXMweU1OUk5FeWhQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-3aee103503",
+    "title": "New Rockstar leak allegedly reveals GTA 6 assets and cut GTA 5 Liberty City DLC, with nearly 200 GB of unseen content",
+    "reportedAt": "2026-09-18T10:22:17.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTWFaUzE2a0dVTTF3TUw2cnQtb1NRTmZpdTZmSVQ1eXl0N0c3clpON3VYY1RfSFpXeGZtWk82NTBVZlZaLTkyRmduU1oxUEFLbk15ZlNTMUFEdFVRQ2pvUTlIZWV6SnNDZTlLUGRGeE80OXYzcExjRzlVbmRKeDJRcEQwSXVjQUV2RktNRnl5c0ZPLWtWRC1XM29TYlFIa1hSTlFka04yODdjNmpGOFpDVnlkYXlKMFVNd0hic3B4ZmFjRkUzSmNtWWpUeTh6UTlGaGEzc3RfZklrVVdxazB3VWFfeHBCOHAtRHZ0amNxak9Rb2h3YWJMb0tqVQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-9c77498d34",
+    "title": "192 GB of Grand Theft Auto 5 and GTA 6 Content Leaks Online - insider-gaming.com",
+    "reportedAt": "2026-09-18T10:42:51.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMikAFBVV95cUxNb2Uxd1Mxd3RSZzBxeFd3SU10Zm5wa3ZiMkhmeFFwR2tZY3lXUmxReWRSaEN1TldWMDg1TVFLS0FkbGpYT19ZVjN1Z2ZuQ0FhcUFqYzdyTlRPYmc4akdnLW9zcTFzcmg2akd1MjUtN3o4bjgtRGxJUDFhenZyZ0MxZmZnUTV0OW1QaWM1OGUycXI?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-6c24713978",
+    "title": "GTA 5 was going to get Liberty City DLC as leak reveals early version of GTA 6",
+    "reportedAt": "2026-09-18T09:52:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQmxPWVF5RFl3QThGMlhBeXhROFBZQTdZTUNUazZCVlc0enk3Rm1RNjNRSXZQVkdKVFNrNWNhdzExZWVVdG93a2VwZEVrdGtLN3dzbk9ETEJvV0sxcUJfRXlKQ0JrbzJ3eVZORmU3RXB3OEZ1a1lzTWFhREo2cF8xU05HTENwOHFhS3dFZ1gwS18tUlNlSDI5eDh2eVRfS25fOVAyMlVSX1o1UdIBrwFBVV95cUxNdnp6N1lCanhmVTU1X1dPd3JkSTN0ZjZjb2xUT1ZPdTFJbmpxeUdLcjh2ZzB5c3lUQ0szYWV5eEdtTElOblc4S3BXT3R3TWNKSHYzODBOSmxWY0JYbnd1QjBoUll5T3NhTUJmRjdUM29mVTNMSkdKTDJTeFA0U1FrT2FtcTFyTy1YMkhuN0x4STNrODhxQVQ1Y3Q1ankxMVYyZW1PVGxGOUJZMzNJUDNZ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
