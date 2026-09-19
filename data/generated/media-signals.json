@@ -2342,5 +2342,13 @@
     "domains": [
       "ibtimes.co.uk"
     ]
+  },
+  {
+    "date": "2026-09-19",
+    "feed": "google-news:CyberLeek",
+    "count": 1,
+    "domains": [
+      "news.google.com"
+    ]
   }
 ]

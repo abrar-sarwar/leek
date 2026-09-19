@@ -21951,5 +21951,25 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-e625bc9439",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWllaMzJjNS1xSHJ0TFJwZm5EcmpERmxkbVY4a2lWckdLdmhvb0lEeWVFRmc2WkM1UUNSaDh0cXRXdFI0d2xfbnM5cy1hU0ZrZjRlbVlrY1dubXlKNWlvVUIwb3R6SDhWc0l2dEhQMFVqd3NxcWZCTk14QkQ4cXdia09rUy1meGtTSmtYWEVQX1NUbEFvUEstMnJiNjFmaXdSOEdlcFRkczhRdw?oc=5",
+    "title": "CyberLeek Claims It Is Preparing To Release The Entire GTA 6 Build",
+    "publisher": "wolfsgamingblog.com",
+    "publishedAt": "2026-09-19T12:26:38.000Z",
+    "discoveredAt": "2026-09-19T15:36:53.999Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
