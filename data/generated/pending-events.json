@@ -6754,5 +6754,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-5cb343e94c",
+    "title": "GTA VI is already being \"played\" on PC - modders launched the leaked map inside GTA V",
+    "reportedAt": "2026-09-19T17:24:04.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUlZDNnBSclROODhJeEZOS1JmdF9lQ0RFd25ERE5YUExuclkzNUZ2Vm52dDNBQUowd294T1l5NC04S1J1UWpEUERnUVdnbFp1TTE5VFA0MGRrSHo3TnRLcUF0TUZ4amtkSWtRNF9RUDJnNnNfSExWMFE4SUhXXzZXVGhxQkNkRmY3QkN3MDRPWGY0R0lCSjhtajZ5TmxtdXNTSDcwNTFFZVVLTkxoTjBWMExyd0EyUDTSAbwBQVVfeXFMTTFRajV1eWd0OVZmX2ZGa3JranRmR2hzUVZBZnJsMS1ycmhqVDBXOEo5TWZXeWp2cV83azhpcHpRRkc5eUpVMFRfM0xHMU5tdDFoNktIY29KNF9VNU0yalY0YUxvXzE5akNWemd4RWtDeDVHRjBTZWRvUWJTMVo3MDJFdHp0dWdkblNtaFpOTURMSHZUcmtkWV95R3drT0tNaXpwUk0yUHhlZTE4S2pPXzNMTC1WaVU4bnM1WDM?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

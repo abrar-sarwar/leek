@@ -21971,5 +21971,50 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-5cb343e94c",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUlZDNnBSclROODhJeEZOS1JmdF9lQ0RFd25ERE5YUExuclkzNUZ2Vm52dDNBQUowd294T1l5NC04S1J1UWpEUERnUVdnbFp1TTE5VFA0MGRrSHo3TnRLcUF0TUZ4amtkSWtRNF9RUDJnNnNfSExWMFE4SUhXXzZXVGhxQkNkRmY3QkN3MDRPWGY0R0lCSjhtajZ5TmxtdXNTSDcwNTFFZVVLTkxoTjBWMExyd0EyUDTSAbwBQVVfeXFMTTFRajV1eWd0OVZmX2ZGa3JranRmR2hzUVZBZnJsMS1ycmhqVDBXOEo5TWZXeWp2cV83azhpcHpRRkc5eUpVMFRfM0xHMU5tdDFoNktIY29KNF9VNU0yalY0YUxvXzE5akNWemd4RWtDeDVHRjBTZWRvUWJTMVo3MDJFdHp0dWdkblNtaFpOTURMSHZUcmtkWV95R3drT0tNaXpwUk0yUHhlZTE4S2pPXzNMTC1WaVU4bnM1WDM?oc=5",
+    "title": "GTA VI is already being \"played\" on PC - modders launched the leaked map inside GTA V",
+    "publisher": "ixbt.games",
+    "publishedAt": "2026-09-19T17:24:04.000Z",
+    "discoveredAt": "2026-09-19T20:15:49.940Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-3dcb035c8c",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSFl4WnFMWmhnMlJaeEwzdkRzdjNXOTNOWjNiS0cxeVhJUkhYLUZEMlZOcUhhM25va3p5dldwOWl0NXFwTzc2UUk3VExtWjFjZ2RJQWZhajh4TGNxbTFaUXZxZ0tmSjRfY19Od1UwS1NnYm5zSFhIYzFDaHJOSnJ3WXIwRWxOTGx1UnQyMm13THJPMVRDa25HekVQRThOMnVWUTZsWlR3Wi0wQQ?oc=5",
+    "title": "Rockstar Has Subpoenaed Microsoft and Discord to Try Track Down GTA VI Leaker",
+    "publisher": "glitched.online",
+    "publishedAt": "2026-08-24T07:00:00.000Z",
+    "discoveredAt": "2026-09-19T20:15:49.940Z",
+    "feed": "google-news",
+    "query": "CyberLeek Microsoft",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games",
+        "Microsoft / GitHub",
+        "Discord"
+      ],
+      "claims": [
+        "LEEK-CLM-023"
+      ],
+      "category": "legal",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-026"
+    }
   }
 ]
