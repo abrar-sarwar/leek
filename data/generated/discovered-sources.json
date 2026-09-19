@@ -21912,5 +21912,23 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-82167e3bfb",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JTTg2NklfWkI2Q3N0SjgxeHJ1V0E5Y1ZfUnVVbkR3bXo5cTJtTm4tSWxxU3I4S1NQM0NqM245cVJHdzdtb1NpVGktR0FFSFlsQzAzUnlGWk1IT1R0TDBRR21ta200VVJ2NE9QbWtpb0ZSVTlGNnVZQw?oc=5",
+    "title": "Every Song in Grand Theft Auto VI Revealed So Far",
+    "publisher": "Consequence of Sound",
+    "publishedAt": "2026-09-18T21:09:19.000Z",
+    "discoveredAt": "2026-09-19T03:49:15.993Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
