@@ -2334,5 +2334,13 @@
     "domains": [
       "news.google.com"
     ]
+  },
+  {
+    "date": "2026-09-19",
+    "feed": "bing-news:GTA VI leak",
+    "count": 1,
+    "domains": [
+      "ibtimes.co.uk"
+    ]
   }
 ]

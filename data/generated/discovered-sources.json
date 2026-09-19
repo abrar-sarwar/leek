@@ -21930,5 +21930,26 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-bfb7c3f98d",
+    "url": "https://www.ibtimes.co.uk/gta-v-leak-liberty-city-gta-vi-dlc-speculation-1820623",
+    "title": "Potential GTA 6 DLC Surfaces Following Source Code Leak Teasing Returning Setting Online",
+    "publisher": "ibtimes.co.uk",
+    "publishedAt": "2026-09-17T17:13:00.000Z",
+    "discoveredAt": "2026-09-19T10:32:55.295Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
