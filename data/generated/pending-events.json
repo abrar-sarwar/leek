@@ -6826,5 +6826,53 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-cea2836e43",
+    "title": "Massive 192GB GTA leak reveals early GTA VI map and canceled DLCs — files show liquid nitrogen death for Trevor and scrapped Liberty City expansion",
+    "reportedAt": "2026-09-20T12:35:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMilAJBVV95cUxNZ0JyclZKOEhQcWFwM25kTC1kZzl6NC02R3gtY2pEMjIwQjlZQlBFM2xyV040Ti12Smw2Z2ljLWhYS3lQcnBVMlNZY2tuNEIzQTRPb1lPVTlrZV91R3BCLTJfUVNIdnJXU1ZfemE5SWxhRGFwMkJyeUl0dVZPR19ZUnVNSl9qLW5VS3JnUmh1N2dIbXFOV3doOUVrRVloSWhVclQ0bVI1SmJJV3Q2WXNnM1NEMjlwQU1BYnp2cGUyeGR1MjFTaVNEX2hBaWNGU1pmWVBhZHZSNVk5S2RpZWpXUXNUd0llMXpDaWZjZnlLUnYxN3JkTjhUekhvOXA5LWl6V1VMYzRvYzZSMUZxeGV0OVpENFo?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-afe45edfcd",
+    "title": "Rockstar finally breaks its silence on the GTA 6 leaks; says the game is 'nearly there,' and requests fan",
+    "reportedAt": "2026-08-26T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMimAJBVV95cUxNU0pLcExKUDhSUUx5QjFFMDNNYWM5Nkx5WWdvZHhiWjZsUi1QVEFXa295RUhvYWF6ZjZrSjE1b0pPOWJqbkxlMFB5RkhHZ1FzNzZra0VQenZGS3VWb2ZQM1QyWnRZRHBvWDZ3dXpZTzhiZ3l2aE5oVWw2RWxhbEIxVDZobjJEWllSSHBRQ3hiZlhRYjIwLWtxLTh2MlEtT1IzcXFrN0pPZXJ6OFBuTkVCeWVPMVRuYklPUGNMTk8wYXN1RFNjOEw2alRKMHh3Qzg4dnNxa05odHFjNVZ1ZXlyNzZnX3pKOVNXQ3RLNWZXSlI4WGNXX3FhRUpzUVB4VTNGUnl1bXNCdl9OZlZDWFR6dVd2cGpwMEtV0gGeAkFVX3lxTFBsNWhqQjVIaFNYRXpFdzFLZ0x3eVdrMEZCS0oyNkNOWUtmeVNaWDdzNXRnYkRTZXk1OTBBME1xR0FvWXV1R3dfV3M5VktjclNhMW1SUzRCRDE3NUw2SDEtU1AyYnJqdnRKekU4RlRWV2lRSDJpSHZqLWlYa1J1Qk9PaVhQTzNwYkVBRldvUUdTX0JyTi1YNHR0YkpzSWpoOWJhZXM0VS1qVktPRGRTZE9HUkluMVRRZ1ZpX1BvcUlkYTM2OXNkM2JkajRUbFVWQ2lqdFJtYzQwSGoyVGNhbTVLdllqUnh6cXk3djBuRXBFZEpaaEhnWS1UdG5kZU5TSm1nR0I3Ml9hbU5mcnBqQU8zbThHc3JHdHFhcl85cXc?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-07b590a67a",
+    "title": "Massive 192GB GTA leak reveals early GTA VI map and canceled DLCs",
+    "reportedAt": "2026-09-20T05:35:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaffef24bd6460aa142bc12e289e7a6&url=https%3a%2f%2fwww.msn.com%2fen-us%2fgaming%2fpc-games%2fmassive-192gb-gta-leak-reveals-early-gta-vi-map-and-canceled-dlcs%2far-AA2cBPM9&c=17736802161713235514&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-9dc40e1749",
+    "title": "GTA 6 map playable in GTA 5 thanks to leak",
+    "reportedAt": "2026-09-20T03:34:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaffef24bd6460aa142bc12e289e7a6&url=https%3a%2f%2fwww.sportskeeda.com%2fgta%2fgta-6-map-playable-gta-5-thanks-leak&c=7340117156530920480&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
