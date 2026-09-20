@@ -22016,5 +22016,43 @@
       "model": "rules-only",
       "matchedEventId": "LEEK-EVT-026"
     }
+  },
+  {
+    "id": "DISC-f025311b5d",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVDhUT2ExV2tKeWo0Sk0yMVJraGFZQUoyaU5selM4dWtkTHZsZ1oxc3g2RGxxdXJuVmR1N2JNSTFtZ20tV0d6UTNZRUlMZ3ZVazRvZmdrNFZITDU4MFlYNmhlcGVpNzJJV1hwYllFek1pY2Q5Q2tTbXVlYWttUTl5TnNseTk?oc=5",
+    "title": "Massive 200GB Source Code Leak Reveals Unfinished GTA 6 Map",
+    "publisher": "TheGamer",
+    "publishedAt": "2026-09-19T15:56:20.000Z",
+    "discoveredAt": "2026-09-20T04:05:39.984Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-2f8ad416f3",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aaf5b99d1184cb3ad0285c524bdcbcc&url=https%3a%2f%2fwww.msn.com%2fen-us%2fgaming%2frockstar-games%2fmajor-leak-reveals-new-details-about-gta-6%2fvi-AA2cA8Go&c=4691056953802914856&mkt=en-us",
+    "title": "Major leak reveals new details about GTA 6",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-19T17:25:55.000Z",
+    "discoveredAt": "2026-09-20T04:05:39.984Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
