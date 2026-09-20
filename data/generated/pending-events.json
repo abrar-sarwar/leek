@@ -6790,5 +6790,41 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-5fcb127aea",
+    "title": "GTA 6 map recreated in GTA 5 using assets from Rockstar's 2022 breach",
+    "reportedAt": "2026-09-20T03:43:13.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa21EdlhfbE1MU1VtWERfN1N1ZHRhNVRTSTk2MkgtSVF2TXJjYzRDOTh5eDFFcTRsNUx1aHAxZWxBUDlDLV9tQWFteVp3bkpSdDB4ZmNuQnRwUmp4eW4tc3JqQ25McURxQzZ6YmgwVnlYMjRrM05HQzVZOV9DRml4T0dkaUhJNEcwejFMSWszWE9tVl8yTEtXUWNiSF9vQTQyVzhfMTFjT0lOdEFMS00wdnQzdVRVcF9m?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-8849a41045",
+    "title": "Devastating: New GTA 6 Leak Exposes Scrapped DLC and Early Vice City Map",
+    "reportedAt": "2026-09-19T17:04:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aafbba3dfeb43ff97ee9aa5b6e674ff&url=https%3a%2f%2fwww.thetechedvocate.org%2fdevastating-new-gta-6-leak-exposes-scrapped-dlc-and-early-vice-city-map%2f&c=4972166964415778305&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-b680a3e38b",
+    "title": "Massive 200GB Rockstar leak makes GTA 6 map playable inside GTA 5",
+    "reportedAt": "2026-09-19T08:56:20.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aafbba3dfeb43ff97ee9aa5b6e674ff&url=https%3a%2f%2fwww.msn.com%2fen-us%2fgaming%2frockstar-games%2fmassive-200gb-rockstar-leak-makes-gta-6-map-playable-inside-gta-5%2far-AA2cAVhi&c=697676023352388344&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

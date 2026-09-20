@@ -22054,5 +22054,95 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-5fcb127aea",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa21EdlhfbE1MU1VtWERfN1N1ZHRhNVRTSTk2MkgtSVF2TXJjYzRDOTh5eDFFcTRsNUx1aHAxZWxBUDlDLV9tQWFteVp3bkpSdDB4ZmNuQnRwUmp4eW4tc3JqQ25McURxQzZ6YmgwVnlYMjRrM05HQzVZOV9DRml4T0dkaUhJNEcwejFMSWszWE9tVl8yTEtXUWNiSF9vQTQyVzhfMTFjT0lOdEFMS00wdnQzdVRVcF9m?oc=5",
+    "title": "GTA 6 map recreated in GTA 5 using assets from Rockstar's 2022 breach",
+    "publisher": "TweakTown",
+    "publishedAt": "2026-09-20T03:43:13.000Z",
+    "discoveredAt": "2026-09-20T10:55:26.537Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-3ddae963c0",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aafbba385364ff0b88b1c7f49379657&url=https%3a%2f%2fwww.albawaba.com%2fentertainment%2freddit-user-who-guessed-gta-6-leak-had-rockstar-cyberleek-1635648&c=888343055704991059&mkt=en-us",
+    "title": "Reddit user who 'guessed' GTA 6 leak had Rockstar on his doorstep over Cyberleek ties",
+    "publisher": "bing.com",
+    "publishedAt": "2026-08-24T00:16:00.000Z",
+    "discoveredAt": "2026-09-20T10:55:26.537Z",
+    "feed": "bing-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-028"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-046"
+    }
+  },
+  {
+    "id": "DISC-8849a41045",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aafbba3dfeb43ff97ee9aa5b6e674ff&url=https%3a%2f%2fwww.thetechedvocate.org%2fdevastating-new-gta-6-leak-exposes-scrapped-dlc-and-early-vice-city-map%2f&c=4972166964415778305&mkt=en-us",
+    "title": "Devastating: New GTA 6 Leak Exposes Scrapped DLC and Early Vice City Map",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-19T17:04:00.000Z",
+    "discoveredAt": "2026-09-20T10:55:26.537Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-b680a3e38b",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aafbba3dfeb43ff97ee9aa5b6e674ff&url=https%3a%2f%2fwww.msn.com%2fen-us%2fgaming%2frockstar-games%2fmassive-200gb-rockstar-leak-makes-gta-6-map-playable-inside-gta-5%2far-AA2cAVhi&c=697676023352388344&mkt=en-us",
+    "title": "Massive 200GB Rockstar leak makes GTA 6 map playable inside GTA 5",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-19T08:56:20.000Z",
+    "discoveredAt": "2026-09-20T10:55:26.537Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-001"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
