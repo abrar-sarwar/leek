@@ -22251,5 +22251,51 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-d326a4e1f2",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY2RqZG1GeHJhLTEtc3EwbjFSbjlvNEpOdTVqcWNFVHVxbjV6Q1J5ZEFCcU5RTV9KdVl1TGpEclhFcWptUVR2X1UzNnhWWXgzZU5jMDFIeV9KRlNERU5NdUZNVHdyMU5ZNWhrNnY5ajNJMm9PWWRWaVktcWV5YllrdnFtVjJOM2w4c2VkYjg5NVAyWUNu?oc=5",
+    "title": "Take-Two Subpoenas Microsoft, Discord Over GTA 6 Leaks",
+    "publisher": "Yahoo Tech",
+    "publishedAt": "2026-08-21T07:00:00.000Z",
+    "discoveredAt": "2026-09-20T20:31:31.248Z",
+    "feed": "google-news",
+    "query": "Take-Two CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive",
+        "Microsoft / GitHub",
+        "Discord"
+      ],
+      "claims": [
+        "LEEK-CLM-023",
+        "LEEK-CLM-028"
+      ],
+      "category": "legal",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-019"
+    }
+  },
+  {
+    "id": "DISC-cbf9e359fa",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQblFCUU9Bb05kWHY3S3JORFZYMUtCT1Z2amFRY2JFT1VvWWVEUjhmYktIMkNManVhaW9CZlRSa2xRbjZOVldjWkFVVWRkWHZkd19pZUlrNkxya21kZzkxR3UwR0hLTk9Xc2NDbXhQdU1xQ3ozUjJ3NlNodHpnLUZlRTVlaWxzemlXTDRuRDRaclJDTjZyRDhiVkp4aw?oc=5",
+    "title": "Grand Theft Auto 6: A Week Of Leaks",
+    "publisher": "Kakuchopurei",
+    "publishedAt": "2026-08-24T07:00:00.000Z",
+    "discoveredAt": "2026-09-20T20:31:31.248Z",
+    "feed": "google-news",
+    "query": "Take-Two CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

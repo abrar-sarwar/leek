@@ -6874,5 +6874,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-cbf9e359fa",
+    "title": "Grand Theft Auto 6: A Week Of Leaks",
+    "reportedAt": "2026-08-24T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMimwFBVV95cUxQblFCUU9Bb05kWHY3S3JORFZYMUtCT1Z2amFRY2JFT1VvWWVEUjhmYktIMkNManVhaW9CZlRSa2xRbjZOVldjWkFVVWRkWHZkd19pZUlrNkxya21kZzkxR3UwR0hLTk9Xc2NDbXhQdU1xQ3ozUjJ3NlNodHpnLUZlRTVlaWxzemlXTDRuRDRaclJDTjZyRDhiVkp4aw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
