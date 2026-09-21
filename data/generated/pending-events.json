@@ -6886,5 +6886,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-1d832322ff",
+    "title": "Evidence of canceled Grand Theft Auto 5 Liberty City and 'Agent Trevor' DLC, plus early version of GTA6's map surface online",
+    "reportedAt": "2026-09-19T19:47:25.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPNml5cW04Z3ptU01aTWNBVlAyVnZBOU1sWnRhWDd3R21tN0EzZGE3Zjg5Mzc0RlY4bGJ3RkZRY2N4RjVHRjh5V3pkaVdkQndaUWxGNG9kbWV5RlNId0tuTzQybEQySjBOTWlmdS11ZHZqM2kxU3Vyc3RYRkhSRzBDY01tY3d3YTlUd1IyaEc3SEs1NlEyUU1YNHZpNkFQcnhzSTZUUTZ4YkFMZmlSanB6WmUxdVFGWVROV1ZwM2FFM1E3M1I5d2E1dHdhZDY1dXp4aWUzY21GZWhjaFNVNE5IT29iUHRoaW1MV196azBVT1dPY21laGdmbGdtNEc?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

@@ -22297,5 +22297,69 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-67823b89bf",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMGJqLTNwdEpISFBySlRuSGJaT1M3S00wSkJ6YXhnaXkxWlM3akltQWFDbDRtQ1ZNNDJkVFhNREhaa1cxQkg5QVMxay04UndORk5Cb3lqTVFQdHZOTk1NZzJhbjNxRnJxaHExZXcxM3F2WlUtR0JhQ3NIYzZPc1dfNjdkRFdONmlmU09TZ3pLRFRGbW96aHpxZTU5dDV4MFc4Y1BRLWdFWVJyc294WERyMFIzZ0VmWTRwUG9xR1lOY2tDV2xvd3Y1Wm52YWhWb1RIMm1VcTlaeG5WUU5hbDVDa3Y4SjBIRjlnV0t2MzMwazJpZXZhWU1N?oc=5",
+    "title": "GTA VI Leaker Mocks Game’s 100% Digital Release, Insists They Are Fighting for Players, and Defends Cryptocurrency Scheme Amid Backlash",
+    "publisher": "levelup.com",
+    "publishedAt": "2026-08-26T14:38:44.000Z",
+    "discoveredAt": "2026-09-21T04:03:11.704Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-33cf2f63b6",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZnVqWU9tU1Y0NkdHME5Vd3ljM2xPc2kxMHVnLTlXbXllSWVjeEtobmNnVG90cVNoUzNEdm1KS0ExSHdLd2hSaWNpVEFJY1ZURzgzUjc4cUpkMmZlS21GR1FkckoxQXhuS3BXZy1ZeDU3OFhManAwT0RWX2xHejV0OWtZclVJSHVWTDFraHdkUzJBVUdGNGJiZkVwSDhCSEhmWTNsU0V2QUZSZmd6clEyNG5VUU1nZG9najhKMzdkZ2M2UzJUOUZCSA?oc=5",
+    "title": "Lucia reveal before GTA 6 release date unlikely, as Rockstar warns actors about leaks",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-09-21T00:07:00.000Z",
+    "discoveredAt": "2026-09-21T04:03:11.704Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-030"
+    }
+  },
+  {
+    "id": "DISC-1d832322ff",
+    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPNml5cW04Z3ptU01aTWNBVlAyVnZBOU1sWnRhWDd3R21tN0EzZGE3Zjg5Mzc0RlY4bGJ3RkZRY2N4RjVHRjh5V3pkaVdkQndaUWxGNG9kbWV5RlNId0tuTzQybEQySjBOTWlmdS11ZHZqM2kxU3Vyc3RYRkhSRzBDY01tY3d3YTlUd1IyaEc3SEs1NlEyUU1YNHZpNkFQcnhzSTZUUTZ4YkFMZmlSanB6WmUxdVFGWVROV1ZwM2FFM1E3M1I5d2E1dHdhZDY1dXp4aWUzY21GZWhjaFNVNE5IT29iUHRoaW1MV196azBVT1dPY21laGdmbGdtNEc?oc=5",
+    "title": "Evidence of canceled Grand Theft Auto 5 Liberty City and 'Agent Trevor' DLC, plus early version of GTA6's map surface online",
+    "publisher": "PC Gamer",
+    "publishedAt": "2026-09-19T19:47:25.000Z",
+    "discoveredAt": "2026-09-21T04:03:11.704Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
