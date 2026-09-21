@@ -22361,5 +22361,92 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-7b82841484",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9RMHBUV2R1OERHQ2R3VGZKUWl1OTk0T3daRXFYTTR0NVRkNThfaUYzVVZtbDRWVm9yT3ZpRC15QXZXdTNlNldoSFZtTGVLQWN3RnBNNGsxUEJPM3BWOVE?oc=5",
+    "title": "CyberLeek Price Today — CYBERLEEKUSD Chart",
+    "publisher": "TradingView",
+    "publishedAt": "2026-08-27T07:00:00.000Z",
+    "discoveredAt": "2026-09-21T12:21:08.616Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-ba2f9a1c61",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMHNoNkI5X1prMjQyT0JkQUFuVnhOZWZtMUJacnc5Wkc3bUlRMHVsZVQ2dEREanhUSnNvRDNHWTVrdFJoZUljT1RQb2xFSGN0eHMtdXN1YmVUQW9Yal9NaU1UeWlIX2pKUmNtSi1JVFhTOFpjUWJNRm5kbXdmTzJKUW16NXROUlp4ZGF5REd1clJ2VzZOQThCWFNSTEltQTFlV05JTkJ0V2kwME1mMF8yMEo5Rmp1Zl9QUzZndXFVeFJDQjdUQXIwYmlLLVZXN3ZueEVVTS01VUM?oc=5",
+    "title": "GTA 6's leaked map has reportedly been ported into FiveM, letting gamers play an early Leonida",
+    "publisher": "tweaktown.com",
+    "publishedAt": "2026-09-21T11:03:12.000Z",
+    "discoveredAt": "2026-09-21T12:21:08.616Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-cf24e2ad1e",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab1213a7c30425aa3c0e5073d162b8b&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fgta-6-leaks-grand-theft-auto-vi-lucia-reveal-before-release-date-as-rockstar-sends-gta-6-actors-reminder-to-keep-their-roles-secret-until-release-day%2far-AA2cEYBm&c=16701633973405392743&mkt=en-us",
+    "title": "GTA 6 leaks: Grand Theft Auto VI Lucia reveal before release date as Rockstar sends GTA 6 actors reminder to keep their roles secret until release day",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-20T15:48:00.000Z",
+    "discoveredAt": "2026-09-21T12:21:08.616Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-030"
+    }
+  },
+  {
+    "id": "DISC-3092664e04",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab1213a7c30425aa3c0e5073d162b8b&url=https%3a%2f%2fwww.notebookcheck.net%2fLucia-reveal-before-GTA-6-release-date-unlikely-as-Rockstar-warns-actors-about-leaks.1404087.0.html&c=14697404598281122859&mkt=en-us",
+    "title": "GTA 6 Lucia reveal before release date unlikely, as Rockstar warns actors about leaks",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-20T22:45:00.000Z",
+    "discoveredAt": "2026-09-21T12:21:08.616Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-030"
+    }
   }
 ]

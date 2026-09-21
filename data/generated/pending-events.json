@@ -6898,5 +6898,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-ba2f9a1c61",
+    "title": "GTA 6's leaked map has reportedly been ported into FiveM, letting gamers play an early Leonida",
+    "reportedAt": "2026-09-21T11:03:12.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMHNoNkI5X1prMjQyT0JkQUFuVnhOZWZtMUJacnc5Wkc3bUlRMHVsZVQ2dEREanhUSnNvRDNHWTVrdFJoZUljT1RQb2xFSGN0eHMtdXN1YmVUQW9Yal9NaU1UeWlIX2pKUmNtSi1JVFhTOFpjUWJNRm5kbXdmTzJKUW16NXROUlp4ZGF5REd1clJ2VzZOQThCWFNSTEltQTFlV05JTkJ0V2kwME1mMF8yMEo5Rmp1Zl9QUzZndXFVeFJDQjdUQXIwYmlLLVZXN3ZueEVVTS01VUM?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
