@@ -22448,5 +22448,65 @@
       "model": "rules-only",
       "matchedEventId": "LEEK-EVT-030"
     }
+  },
+  {
+    "id": "DISC-e891f2352f",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHN20tWkxxaXBDd2tIY1Y1Yk1kTERIbUFwTkJwODFaNUhuSVVKS1hiNkhRVWNhcVB2SXlOTzdsVnc4eW1KS0NieFppZVJwVTlTZ0FkeWg1QXp3R1VnSHl0czdQN3dwd2ZD?oc=5",
+    "title": "Grand Theft Auto 6 sleuths are torn on whether a famous Florida locale is in the game or not",
+    "publisher": "Eurogamer.net",
+    "publishedAt": "2026-09-21T15:48:09.000Z",
+    "discoveredAt": "2026-09-21T21:49:33.365Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-09595a5010",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab1a672de8e4aab8fcd6183b4570e16&url=https%3a%2f%2fwww.msn.com%2fen-in%2ftechnology%2fcybersecurity%2fbeware-gta-6-cyberleek-build-can-be-malware-stealing-your-sensitive-data-here-is-how-to-stay-safe%2far-AA2aD702&c=4669591884951764801&mkt=en-us",
+    "title": "Beware! GTA 6 Cyberleek build can be malware stealing your sensitive data, here is how to stay safe",
+    "publisher": "bing.com",
+    "publishedAt": "2026-08-20T23:30:00.000Z",
+    "discoveredAt": "2026-09-21T21:49:33.365Z",
+    "feed": "bing-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-004"
+      ],
+      "category": "misinformation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-165b9c5796",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab1a6721214411d83c22f7498467041&url=https%3a%2f%2fbeebom.com%2ffirst-gta-6-radio-song-revealed-in-gameplay-leak-footage%2f&c=17254978299255713014&mkt=en-us",
+    "title": "First GTA 6 Radio Song Revealed in Gameplay Leak Footage",
+    "publisher": "bing.com",
+    "publishedAt": "2026-08-18T12:29:00.000Z",
+    "discoveredAt": "2026-09-21T21:49:33.365Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

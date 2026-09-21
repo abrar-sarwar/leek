@@ -6910,5 +6910,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-165b9c5796",
+    "title": "First GTA 6 Radio Song Revealed in Gameplay Leak Footage",
+    "reportedAt": "2026-08-18T12:29:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab1a6721214411d83c22f7498467041&url=https%3a%2f%2fbeebom.com%2ffirst-gta-6-radio-song-revealed-in-gameplay-leak-footage%2f&c=17254978299255713014&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
