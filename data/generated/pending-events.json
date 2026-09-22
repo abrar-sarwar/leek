@@ -6970,5 +6970,29 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-fb44e6a8f2",
+    "title": "Take-Two removes alleged GTA V and GTA VI leak material",
+    "reportedAt": "2026-09-22T15:32:10.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZGd6a0pZSkZlUWJzT3lrZExQY25XWERTR2YzTGRfT3J2ZlltN183UVBVQU9ZTmpiaG9kTm5zSnhKSDVkbVJCY2x6MFl5S3FmU09qb2w3SUQtS1NzWlpTZ1UtQ3JVWjl2Um0tbmhkajdQaGNqY1l2UldxVWEzaEp3VTZGc0tXZTJQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-38f0542166",
+    "title": "GTA 6 Leaked Map: Early Leonida Prototype Report",
+    "reportedAt": "2026-09-21T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMmVkNnI0ZlRiWEZ2NW1faHRPSWliLUNWVzg1dUd2VWJmVjJJWEVpVFJnb2tiMVU3c3NCdTIwdHQ2QUxhRVFaVkV1eTNJRzZ3LXhmOVQ1N21HX3hNcENBLWJDTVQ3MDFHMHRMWnFFSi1XTEdqQXA0MEdNdWpEQkFHc2IwNUI4Rm44SGctVTF4ZnFkZmxxWmNwOTRCb3VyOElYNUZCdU5faw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

@@ -22632,5 +22632,63 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-fb44e6a8f2",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZGd6a0pZSkZlUWJzT3lrZExQY25XWERTR2YzTGRfT3J2ZlltN183UVBVQU9ZTmpiaG9kTm5zSnhKSDVkbVJCY2x6MFl5S3FmU09qb2w3SUQtS1NzWlpTZ1UtQ3JVWjl2Um0tbmhkajdQaGNqY1l2UldxVWEzaEp3VTZGc0tXZTJQ?oc=5",
+    "title": "Take-Two removes alleged GTA V and GTA VI leak material",
+    "publisher": "NeoTeo",
+    "publishedAt": "2026-09-22T15:32:10.000Z",
+    "discoveredAt": "2026-09-22T21:01:59.943Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-38f0542166",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMmVkNnI0ZlRiWEZ2NW1faHRPSWliLUNWVzg1dUd2VWJmVjJJWEVpVFJnb2tiMVU3c3NCdTIwdHQ2QUxhRVFaVkV1eTNJRzZ3LXhmOVQ1N21HX3hNcENBLWJDTVQ3MDFHMHRMWnFFSi1XTEdqQXA0MEdNdWpEQkFHc2IwNUI4Rm44SGctVTF4ZnFkZmxxWmNwOTRCb3VyOElYNUZCdU5faw?oc=5",
+    "title": "GTA 6 Leaked Map: Early Leonida Prototype Report",
+    "publisher": "NeoTeo",
+    "publishedAt": "2026-09-21T07:00:00.000Z",
+    "discoveredAt": "2026-09-22T21:01:59.943Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-2be1e06b9e",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1NNkd0MVNQa3g4OEw5OTd0eXFhSGhqNUNTVTF1ZEdHY1ltZXhwWDNpMU1GeUpSd0JPR0tsNFBPT3l6a0p6UkttNU11TTlfSXU2RHc0U2NEaVh1QTZ0NlBUR2FOa3Bsdm1LSWo1MWVFM3pla3c?oc=5",
+    "title": "GTA 6 soundtrack: All confirmed songs, albums and radio stations",
+    "publisher": "Red Bull",
+    "publishedAt": "2026-09-21T14:38:28.000Z",
+    "discoveredAt": "2026-09-22T21:01:59.943Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
