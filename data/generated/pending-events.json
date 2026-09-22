@@ -6958,5 +6958,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-24012cafaf",
+    "title": "GTA 6 Leak Chaos Deepens as Alleged Source Denies Setting Release Time for More Footage",
+    "reportedAt": "2026-08-19T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oandyUldibnVDS3FlaU5wbmJaTHgyVTRJT3FsaWczOGtLU2cteFFWckZiQkRkS3QydUFyZDZTT2xDMFpKZ19FSTNJM0plSDZwX3l1dWxZdmU1TDVhc3hjWGpSdmZxd0xyWmI5VXdQU19IX3lnbFE?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

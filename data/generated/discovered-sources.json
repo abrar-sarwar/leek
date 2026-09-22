@@ -22613,5 +22613,24 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-24012cafaf",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oandyUldibnVDS3FlaU5wbmJaTHgyVTRJT3FsaWczOGtLU2cteFFWckZiQkRkS3QydUFyZDZTT2xDMFpKZ19FSTNJM0plSDZwX3l1dWxZdmU1TDVhc3hjWGpSdmZxd0xyWmI5VXdQU19IX3lnbFE?oc=5",
+    "title": "GTA 6 Leak Chaos Deepens as Alleged Source Denies Setting Release Time for More Footage",
+    "publisher": "finance.biggo.com",
+    "publishedAt": "2026-08-19T07:00:00.000Z",
+    "discoveredAt": "2026-09-22T16:34:33.381Z",
+    "feed": "google-news",
+    "query": "CyberLeek arrest",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
