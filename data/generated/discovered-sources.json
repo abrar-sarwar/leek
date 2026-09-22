@@ -22549,5 +22549,69 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-277f1f917c",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HSmdiSzFiWXB3X1VxWmpyUm0xMjRTSFB4UlJqUldhbnpWRWgySlJHTEhGdGlxQ1g1MG1IZGhBU0JSQlNBd09mdG9OeEJ1QmpMM3NpTFZsUXRsZlF2QkdxUVd5bkxpbEFCLTlsMzhNczdwRkJH?oc=5",
+    "title": "CyberLeek Burns 270M Tokens in GTA 6 Rug Pull Exit [2026] - tech-insider.org",
+    "publisher": "tech-insider.org",
+    "publishedAt": "2026-08-30T07:00:00.000Z",
+    "discoveredAt": "2026-09-22T11:12:15.809Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-cfab5e74bf",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcEVfejJRbl9fMDJTOWtuTWkyVlUzVzU2TFlibGVVRjRaNjVOcF91RUY4YkxUWlVEeTFjek4xMGMzejhoSS12U09CTlNJSGJhRUtKOEREQ3g5bHhZd1drZUtFV29mM1hIa3g1VXg1NEhSVE41dFRtT25tc0RObVlmck9vdm9BeVpjM2ZQMFJXOXpzQmFhWXoySWw2WkJBWExIbVg5UFNzOUdTU0tHNjBmLWFvWDZXcHdWamQ4?oc=5",
+    "title": "Rockstar Parent Take-Two Removes Leaked GTA 5 DLC Footage and Early GTA 6 Map Images",
+    "publisher": "ghacks.net",
+    "publishedAt": "2026-09-22T06:45:52.000Z",
+    "discoveredAt": "2026-09-22T11:12:15.809Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games",
+        "Take-Two Interactive"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-0cb6baba6d",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab26295e7b64e7f9987b9265adcd580&url=https%3a%2f%2fwww.dsogaming.com%2fmods%2fgta-6-early-map-for-gta-5-legacy-is-now-available-for-download%2f&c=13883059262630196219&mkt=en-us",
+    "title": "GTA 6 Early Map for GTA 5 Legacy Is Now Available for Download",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-22T03:34:00.000Z",
+    "discoveredAt": "2026-09-22T11:12:15.809Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

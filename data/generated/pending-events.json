@@ -6934,5 +6934,29 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-cfab5e74bf",
+    "title": "Rockstar Parent Take-Two Removes Leaked GTA 5 DLC Footage and Early GTA 6 Map Images",
+    "reportedAt": "2026-09-22T06:45:52.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcEVfejJRbl9fMDJTOWtuTWkyVlUzVzU2TFlibGVVRjRaNjVOcF91RUY4YkxUWlVEeTFjek4xMGMzejhoSS12U09CTlNJSGJhRUtKOEREQ3g5bHhZd1drZUtFV29mM1hIa3g1VXg1NEhSVE41dFRtT25tc0RObVlmck9vdm9BeVpjM2ZQMFJXOXpzQmFhWXoySWw2WkJBWExIbVg5UFNzOUdTU0tHNjBmLWFvWDZXcHdWamQ4?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-0cb6baba6d",
+    "title": "GTA 6 Early Map for GTA 5 Legacy Is Now Available for Download",
+    "reportedAt": "2026-09-22T03:34:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab26295e7b64e7f9987b9265adcd580&url=https%3a%2f%2fwww.dsogaming.com%2fmods%2fgta-6-early-map-for-gta-5-legacy-is-now-available-for-download%2f&c=13883059262630196219&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
