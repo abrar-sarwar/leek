@@ -22508,5 +22508,46 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-0a75c8c2b4",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWTY5NTZfU1FZRElGTVJlT3NqSXhfT0lGdmZROVFDM2lXczZzTHNVMzBKOHF2RXA1WlFsclBQMm45N0NLcWMyZi11UU9BR0hzVmtZRUIzRW8xNXBwSWZFMTFJd1dGU28tVmd1VnpzaHN1aGs4YWNFVS1Pb2dKS0FDWmNhYnM?oc=5",
+    "title": "Rockstar unveils GTA 6 vinyl, but the game itself has no disc",
+    "publisher": "Pasquale Pillitteri",
+    "publishedAt": "2026-09-21T21:52:35.000Z",
+    "discoveredAt": "2026-09-22T04:00:20.861Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-460ce9d76c",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYXRMY0MySEZkcktRWjd0cG9aTmd0dTJXRU1rM01ZUGt0WEQwU2J6Wi10YkhpaXBCM3EwSEN2UGFUZnlJQlJPT0lmaXdodXFKQkFaY2g1YXU1ajNQRW9OMkJ1N0piNXpNcmx3YkdXanJDbHd0Wjc5dlhRcTBhSHdsbzdXV3dfbUlSN3FJNFFtMlZzb3UyTmpsNmgyUVFkTExDdzZiQS1wSVUtcEFnSHF3X0E4ZXFwQTYtRTZOTFR3aVNFTndNQWhVOGtlVDkwMHhaUWJR?oc=5",
+    "title": "Rockstar Games Is Taking Down Leaked Assets for GTA 5's Canceled Liberty City Expansion and GTA 6 Map",
+    "publisher": "IGN",
+    "publishedAt": "2026-09-21T21:48:49.000Z",
+    "discoveredAt": "2026-09-22T04:00:20.861Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

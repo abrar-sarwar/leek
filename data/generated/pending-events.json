@@ -6922,5 +6922,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-460ce9d76c",
+    "title": "Rockstar Games Is Taking Down Leaked Assets for GTA 5's Canceled Liberty City Expansion and GTA 6 Map",
+    "reportedAt": "2026-09-21T21:48:49.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYXRMY0MySEZkcktRWjd0cG9aTmd0dTJXRU1rM01ZUGt0WEQwU2J6Wi10YkhpaXBCM3EwSEN2UGFUZnlJQlJPT0lmaXdodXFKQkFaY2g1YXU1ajNQRW9OMkJ1N0piNXpNcmx3YkdXanJDbHd0Wjc5dlhRcTBhSHdsbzdXV3dfbUlSN3FJNFFtMlZzb3UyTmpsNmgyUVFkTExDdzZiQS1wSVUtcEFnSHF3X0E4ZXFwQTYtRTZOTFR3aVNFTndNQWhVOGtlVDkwMHhaUWJR?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
