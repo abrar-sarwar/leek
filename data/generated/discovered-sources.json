@@ -22758,5 +22758,24 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-5dcfe6285e",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeWlZSEZuS0pOZko4eWpWdXcyVWRTMzhkT2V4V2NtWFN5dENTQVJWQVBkZlNRM0NVNUxSUmJ3ek1CMjdfbV9ocDU1RjF4SE1waFF5ZEtDSTBQZmRSdFhOQVlLN05WaGdIVDFvbHFQVS1qWG02UWJyWkNMOWltU2Y2OHMtYVBIVjc4NXJMQk1uV1dHUDJISmlBdkUwMzZXVkQzZGV1V0FHcm9LNHpDdGRtddIBtgFBVV95cUxOZnc4c3BHZ2hMYkRvUXZZbXBxRlllQWtxcmJTNFNZdmQ4WEM1ZlhWcEJhQS0yU3ZRUkVaZXR0R3ZzV1pwNzlOSUx3ZlhVUVFvVG9QU3BmVmtEakJIUW5jZkdlUDdwNExWd1RMWWxqMFV3X2Nub0NsMzN0b2JERU9qSUhGN0dGVDJicGYwaU9JMEdQME0xVDIwY1RQSE5YSzg1aThHMFZLalJHa0ZFaldsNkFxNnVzdw?oc=5",
+    "title": "Newly Public GTA 5 Leak Reveals Massive Liberty City Plans and Early GTA 6 Assets",
+    "publisher": "mxdwn Games",
+    "publishedAt": "2026-09-19T19:23:27.000Z",
+    "discoveredAt": "2026-09-23T16:25:01.525Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
