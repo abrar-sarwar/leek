@@ -22735,5 +22735,28 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-20055aeac3",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55VEozcE9vS2xlREwxalBic1plc2d4Qk5uOTdoemh3dTMzdjZ0b3lXSU5ac291QVlSM2RzeWpXQUdGZGpjTlMzaS1FamNReEZZdjZndmxzSmoxU1FVVDEwY0hmNVdEazg?oc=5",
+    "title": "CyberLeek Price, CYBERLEEK Price, Live Charts, and Marketcap: cyberleek coin, cyberleek crypto, cyberleek",
+    "publisher": "Coinbase",
+    "publishedAt": "2026-08-24T13:55:01.000Z",
+    "discoveredAt": "2026-09-23T11:03:49.136Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
