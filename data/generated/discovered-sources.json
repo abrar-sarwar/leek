@@ -22777,5 +22777,48 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-fd553a3532",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQenRMNWdxRm9jOGNlX3dlOFFyZHVqN191SWFIaTdvdzJpMENxdWpHMkwyakZTSXNjU09kbjl3TlpCZWJYaThWaF9BeTIyLVdmcUFvZm82VmdFaTBaWEg4QzhVdlA3VnVCaGhwM21GWWk4T2xiX09fbDdkVUNScnVCeWhodTJraHdONVN6b0FHVmdfLXpzZ2dpV1lRTdIBowFBVV95cUxNTnNPZ3lkSHdDNEFEWkpNNVI0bUpGLVF5bTlMY19obG1wLVM1VEJFdzVqWXJTeWpncm1LSFJjV1ptaDBLekUxdHJPb05uN0ZmV1ZUZG5HUl9Lc2F4UERnZkNsQmlVamtJV3hOaWVSU3gtalFiV3VkbHJmUGVYWFpuQzVlQjM2cFgxMjFZUGtVOGhhdC1FUzV6emVjazRUa0E0WVc4?oc=5",
+    "title": "GTA 6 publisher files subpoenas in bid to unmask video game leaks",
+    "publisher": "Khaleej Times",
+    "publishedAt": "2026-08-23T07:00:00.000Z",
+    "discoveredAt": "2026-09-23T21:16:40.858Z",
+    "feed": "google-news",
+    "query": "CyberLeek subpoena",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-023",
+        "LEEK-CLM-016"
+      ],
+      "category": "legal",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-3284193695",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab441be2cc840f7a5bdc67d2c2223d8&url=https%3a%2f%2fwww.polygon.com%2ffbi-hacked-gta-6-leak-shinyhunters-data-agents-jobs%2f&c=15173924911158505515&mkt=en-us",
+    "title": "Hackers behind flopped GTA 6 leak are officially threatening the FBI now",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-23T01:34:00.000Z",
+    "discoveredAt": "2026-09-23T21:16:40.858Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-019"
+      ],
+      "category": "investigation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
