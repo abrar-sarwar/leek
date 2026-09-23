@@ -22690,5 +22690,50 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-87e3e73410",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab34e37460e430bb5b7b3fa2a60a255&url=https%3a%2f%2fwww.msn.com%2fen-us%2fgaming%2fgaming-platforms%2fgta-6-standard-edition-could-cost-80-if-pricing-leak-holds-up-says-wesnemo%2far-AA283kec&c=2228715530570869232&mkt=en-us",
+    "title": "GTA 6 standard edition could cost $80 if pricing leak holds up, says WesNemo",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-22T19:30:15.000Z",
+    "discoveredAt": "2026-09-23T03:57:39.254Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-028"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-8d56d22d34",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab34e383fdf46328b1403c908449699&url=https%3a%2f%2fme.ign.com%2fen%2fgrand-theft-auto-v%2f248228%2frockstar-games-is-taking-down-footage-and-images-of-scrapped-gta-5-dlc-and-early-version-of-leaked-g&c=11982009851575528748&mkt=en-us",
+    "title": "Rockstar Games Is Taking Down Footage and Images of Scrapped GTA 5 DLC And Early Version of Leaked GTA 6 Map",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-21T14:48:00.000Z",
+    "discoveredAt": "2026-09-23T03:57:39.254Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games",
+        "Take-Two Interactive"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
