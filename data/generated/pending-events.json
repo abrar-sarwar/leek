@@ -7210,5 +7210,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-dcec45d9df",
+    "title": "GTA 6 Vice City Collection Leaked [UPDATE]",
+    "reportedAt": "2026-09-24T07:36:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab5939fdcfc4bc6b5850aac896e2063&url=https%3a%2f%2fgamerant.com%2fgta-6-collectors-edition-vice-city-leak%2f&c=4289185124479113727&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

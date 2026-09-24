@@ -23268,5 +23268,78 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-ef8244bd73",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOFUtME5OWXd2cHFkNjZnRVJEcU02Tl9PdlZDTTk5cTQ1RmQ1b0VwSXJuV1Fabnp1SEdDVlFGTWZfQmRxcnlmc09yM1BVWTVhOVVaRlZLRVVxNTFabkhQVnNib0FYMzdvTzlBQnRGNjlvOUZSMTNWWUpNNUFGSmJfQTV3Z2M?oc=5",
+    "title": "First look at GTA 6’s PS5 case confirms what buyers actually get inside",
+    "publisher": "GAMINGbible",
+    "publishedAt": "2026-09-24T12:00:00.000Z",
+    "discoveredAt": "2026-09-24T21:18:18.354Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-aaa0a61560",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdHFoUndwb0VKd0N0T1FEMmdTUW1ncVJUclhRNHFUOF91VGlJNXJIZzd3Y3V5TVpmdkNISGM2TV9jczFVd1h5SzJ0QzJJdTNPZFRqNWhvWFBvbDhDamczZWMtbUctelN3c2F4SXJBNmRWMG5xdjZ3c1dQTndxLXFmZXQxc1VHYktKR3Q1TlBfWTBCc2taNVkw?oc=5",
+    "title": "GTA 6 confirms $400 Collector's Box which features 'all the essentials' except the game",
+    "publisher": "GAMINGbible",
+    "publishedAt": "2026-09-24T15:43:05.000Z",
+    "discoveredAt": "2026-09-24T21:18:18.354Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-6bb3dbc43f",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWmE1TnV0Q2NnaTVWREtiUVpYMXQzcWZYdzMxWXZDZ2MwTGhEMlBHU19oUzlmS0J5NjBQM3RlY1BsWEM2aWtjVXBYYUlEcU9wT3pwakdDWlgzVXV3X250LUNGM3JPZGVJWGMzTW5yWDVuZ3VBY2RwS2NPLUJSaFNncWlhNXBWRUVVclhNdTYxN0lPUTlJemhGcXh2eEN3ZUF3Z1JkRVN3VzdhYkU0VkE?oc=5",
+    "title": "GTA 6 Collector’s Edition costs $400, but doesn’t include the game",
+    "publisher": "AltChar",
+    "publishedAt": "2026-09-24T18:30:00.000Z",
+    "discoveredAt": "2026-09-24T21:18:18.354Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-dcec45d9df",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab5939fdcfc4bc6b5850aac896e2063&url=https%3a%2f%2fgamerant.com%2fgta-6-collectors-edition-vice-city-leak%2f&c=4289185124479113727&mkt=en-us",
+    "title": "GTA 6 Vice City Collection Leaked [UPDATE]",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-24T07:36:00.000Z",
+    "discoveredAt": "2026-09-24T21:18:18.354Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
