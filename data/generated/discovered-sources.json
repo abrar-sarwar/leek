@@ -22820,5 +22820,90 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-cc6e269293",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWklVR25lN3VXSk5KWXdvNWlzdzd0a1h2eVdvN1BLMlMzaVdmYXd0X0dpd0NPQnBXR0lzQ1ZfSWlrNlFGSV9reEE5cDg5UXBhLUhkaU5Ta0N1UHRaNXA2VUdwV3o0U015ODUwczlHZkZWZXhtaDVFX05CUnJlcEVqUjQya2tLdWl5OGE0TEJhenV4S183RHhTT0VEUFlDVU82MzZUYWNXS1VXcmZybXBqNHVTbVdKNGJFR2huQnpR?oc=5",
+    "title": "GTA VI gameplay reportedly leaks from older build, shows six-star wanted level and fuel system",
+    "publisher": "VideoCardz.com",
+    "publishedAt": "2026-08-18T07:00:00.000Z",
+    "discoveredAt": "2026-09-24T03:51:15.247Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-ea326366fe",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbV9ZTk55SXBXNU1mMjRGREY4RjdoMEFRWVFKZW1OUTdrYXBKZnprbUhsU2ljZm9hSy14MUl4cGpUbGxQelQzNEFYVXM0TDNKWVlaOEQxamFyVUVqbjZxLVJ4bHAxTUFsUE5jX1ZOUWFPWnM2XzhHSVBNc2loaWR1T1VtZ1NhU3RMRHRRZU1LQ0xMM1JQY21wVUt2NTdCT2M1Z2ZXWklSejFJSS1nQlQyRHJiS3VrcEd3V2w3YS1qSDZud1J5bS1j?oc=5",
+    "title": "GTA 6 Collector's Edition hopes raised after Rockstar prepares for merch pre-orders",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-09-24T00:57:00.000Z",
+    "discoveredAt": "2026-09-24T03:51:15.247Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-014"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-75a2304f63",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQ2drUGN0YjVDTWZ4VzV2OWgwTEc2SUR4VGVNS24wSU8tMDBwRXAyMmJIRjJCTjNydGRGWnV0R19vV3RLXzZOVkpidGFvelFrSkJoU25Zc2VjQ2c3UW1FTVNVdjFsUmdEN1lWdUNyVEl5Skk2VUo5a1JKeEowYnJNQTJB?oc=5",
+    "title": "Hackers Behind Flopped 'GTA 6' Leak Officially Threatening the FBI Now",
+    "publisher": "Polygon.com",
+    "publishedAt": "2026-09-23T20:35:48.000Z",
+    "discoveredAt": "2026-09-24T03:51:15.247Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "investigation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-0d3dc8c30c",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab49e372f4447ffb04d32a1c8096abc&url=https%3a%2f%2fwww.msn.com%2fen-us%2fgaming%2fgame-reviews-and-previews%2finside-the-gta-6-cyberleek-saga-real-footage-a-crypto-token-and-a-dead-man-s-switch-nobody-can-prove%2far-AA2bvJMs&c=278343626287389021&mkt=en-us",
+    "title": "Inside the GTA 6 'CyberLeek' saga: Real footage, a crypto token, and a dead man's switch nobody can prove",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-23T16:30:14.000Z",
+    "discoveredAt": "2026-09-24T03:51:15.247Z",
+    "feed": "bing-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-012",
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

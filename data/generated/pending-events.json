@@ -7054,5 +7054,29 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-cc6e269293",
+    "title": "GTA VI gameplay reportedly leaks from older build, shows six-star wanted level and fuel system",
+    "reportedAt": "2026-08-18T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWklVR25lN3VXSk5KWXdvNWlzdzd0a1h2eVdvN1BLMlMzaVdmYXd0X0dpd0NPQnBXR0lzQ1ZfSWlrNlFGSV9reEE5cDg5UXBhLUhkaU5Ta0N1UHRaNXA2VUdwV3o0U015ODUwczlHZkZWZXhtaDVFX05CUnJlcEVqUjQya2tLdWl5OGE0TEJhenV4S183RHhTT0VEUFlDVU82MzZUYWNXS1VXcmZybXBqNHVTbVdKNGJFR2huQnpR?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-75a2304f63",
+    "title": "Hackers Behind Flopped 'GTA 6' Leak Officially Threatening the FBI Now",
+    "reportedAt": "2026-09-23T20:35:48.000Z",
+    "category": "investigation",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQ2drUGN0YjVDTWZ4VzV2OWgwTEc2SUR4VGVNS24wSU8tMDBwRXAyMmJIRjJCTjNydGRGWnV0R19vV3RLXzZOVkpidGFvelFrSkJoU25Zc2VjQ2c3UW1FTVNVdjFsUmdEN1lWdUNyVEl5Skk2VUo5a1JKeEowYnJNQTJB?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
