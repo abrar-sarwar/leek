@@ -22905,5 +22905,195 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-a3abec0419",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQczQ2eG45X0lZOTVvbm9oZWNpRUZ1XzgyUk42a3ZpVXZYNTRRY1d1VG55dmFfalhUVDNNTVhXUW5ERjBGS0IzY0hxV1J1ZElwRjNSeXR4ZWYtdldCMmxRSDJfNTk5aDU4WklFMzZsb1EyVG1OVVg5V2Y2clc5ekd6UA?oc=5",
+    "title": "GTA VI leaks leave fans vulnerable",
+    "publisher": "tntechoracle.com",
+    "publishedAt": "2026-09-23T15:28:43.000Z",
+    "discoveredAt": "2026-09-24T11:21:49.026Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-5617135eba",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1VOXdqTGVKWmhSY0ZPb2ZhUUU4T3NXSFpKQ3o4RDc5T2R1MG5NT0ZHRUc0SlNtMnVZLWppdlAwZXAwQlA0OWpkYkZUdFkzYVJMTzNsN25KTW5OV1VEcmNRVHZnMGJEV3hIWlhDTGkydlI2MmFtYUNLLXJuMA?oc=5",
+    "title": "GTA 6 Release Date: Nov. 19, 2026 Confirmed, 2 Delays - tech-insider.org",
+    "publisher": "tech-insider.org",
+    "publishedAt": "2026-09-23T21:56:04.000Z",
+    "discoveredAt": "2026-09-24T11:21:49.026Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-34f867b4b7",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab507d2b3704084a737167405cd6c15&url=https%3a%2f%2fwolfsgamingblog.com%2f2026%2f09%2f19%2fcyberleek-claims-it-is-preparing-to-release-the-entire-gta-6-build%2f&c=10096896345029831653&mkt=en-ca",
+    "title": "(UPDATED) Likely CyberLeek Impersantor Claims It Is Preparing To Release The Entire GTA 6 Build",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-19T05:26:00.000Z",
+    "discoveredAt": "2026-09-24T11:21:49.026Z",
+    "feed": "bing-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-002",
+        "LEEK-CLM-004"
+      ],
+      "category": "misinformation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-8d6a9fa18f",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab507d2b3704084a737167405cd6c15&url=https%3a%2f%2fbeincrypto.com%2fconvert%2fcyberleek-to-usd%2f&c=514899286978183226&mkt=en-ca",
+    "title": "1 CYBERLEEK to USD Calculator - How much Us dollar (USD) is 1 CyberLeek (CYBERLEEK)?",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-23T16:00:00.000Z",
+    "discoveredAt": "2026-09-24T11:21:49.026Z",
+    "feed": "bing-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-9845bf45a3",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab507d24bed4df6a2b7f8cbc20c9548&url=https%3a%2f%2fwww.talkesport.com%2fnews%2fgta-6-liberty-city-dlc-leak-gta-5-source-code%2f&c=4005610529984011631&mkt=en-ca",
+    "title": "GTA 6 Liberty City DLC Leak: What the New GTA 5 Source Code Files Reveal",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-18T19:15:00.000Z",
+    "discoveredAt": "2026-09-24T11:21:49.026Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-79b660f11b",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab507d24bed4df6a2b7f8cbc20c9548&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fgta-6-leak-hackers-now-targeting-the-fbi-with-threats%2far-AA2cTlcL&c=15513508029364381943&mkt=en-ca",
+    "title": "GTA 6 leak hackers now targeting the FBI with threats",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-24T03:40:28.000Z",
+    "discoveredAt": "2026-09-24T11:21:49.026Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-019"
+      ],
+      "category": "investigation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-7e39ace7a3",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab507d24bed4df6a2b7f8cbc20c9548&url=https%3a%2f%2fwww.latestly.com%2fgaming%2fgta-6-prologue-leak-grand-theft-auto-vi-gameplay-footage-and-story-details-emerge-online-7577331.html&c=112543555466995532&mkt=en-ca",
+    "title": "GTA 6 Prologue Leak: Grand Theft Auto VI Gameplay Footage and Story Details Emerge Online",
+    "publisher": "bing.com",
+    "publishedAt": "2026-08-26T09:43:00.000Z",
+    "discoveredAt": "2026-09-24T11:21:49.026Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-054"
+    }
+  },
+  {
+    "id": "DISC-dee188473a",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab507d24bed4df6a2b7f8cbc20c9548&url=https%3a%2f%2fwww.heise.de%2fen%2fnews%2fGTA-6-ISO-Alleged-leak-image-file-full-of-malware-11423526.html&c=6020830491699898632&mkt=en-ca",
+    "title": "GTA 6 ISO: Alleged leak image file full of malware",
+    "publisher": "bing.com",
+    "publishedAt": "2026-08-24T07:31:00.000Z",
+    "discoveredAt": "2026-09-24T11:21:49.026Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-027"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-b63cbed8e8",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab507d24bed4df6a2b7f8cbc20c9548&url=https%3a%2f%2ftech4gamers.com%2fgta-6-map-recreated-in-gta-5%2f&c=14841360390941086317&mkt=en-ca",
+    "title": "GTA 6 Map Has Been Recreated In GTA 5 Thanks To Leaked Assets",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-19T01:51:00.000Z",
+    "discoveredAt": "2026-09-24T11:21:49.026Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-001"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

@@ -7078,5 +7078,65 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-a3abec0419",
+    "title": "GTA VI leaks leave fans vulnerable",
+    "reportedAt": "2026-09-23T15:28:43.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMigAFBVV95cUxQczQ2eG45X0lZOTVvbm9oZWNpRUZ1XzgyUk42a3ZpVXZYNTRRY1d1VG55dmFfalhUVDNNTVhXUW5ERjBGS0IzY0hxV1J1ZElwRjNSeXR4ZWYtdldCMmxRSDJfNTk5aDU4WklFMzZsb1EyVG1OVVg5V2Y2clc5ekd6UA?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-9845bf45a3",
+    "title": "GTA 6 Liberty City DLC Leak: What the New GTA 5 Source Code Files Reveal",
+    "reportedAt": "2026-09-18T19:15:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab507d24bed4df6a2b7f8cbc20c9548&url=https%3a%2f%2fwww.talkesport.com%2fnews%2fgta-6-liberty-city-dlc-leak-gta-5-source-code%2f&c=4005610529984011631&mkt=en-ca"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-79b660f11b",
+    "title": "GTA 6 leak hackers now targeting the FBI with threats",
+    "reportedAt": "2026-09-24T03:40:28.000Z",
+    "category": "investigation",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab507d24bed4df6a2b7f8cbc20c9548&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fgta-6-leak-hackers-now-targeting-the-fbi-with-threats%2far-AA2cTlcL&c=15513508029364381943&mkt=en-ca"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-dee188473a",
+    "title": "GTA 6 ISO: Alleged leak image file full of malware",
+    "reportedAt": "2026-08-24T07:31:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab507d24bed4df6a2b7f8cbc20c9548&url=https%3a%2f%2fwww.heise.de%2fen%2fnews%2fGTA-6-ISO-Alleged-leak-image-file-full-of-malware-11423526.html&c=6020830491699898632&mkt=en-ca"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-b63cbed8e8",
+    "title": "GTA 6 Map Has Been Recreated In GTA 5 Thanks To Leaked Assets",
+    "reportedAt": "2026-09-19T01:51:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab507d24bed4df6a2b7f8cbc20c9548&url=https%3a%2f%2ftech4gamers.com%2fgta-6-map-recreated-in-gta-5%2f&c=14841360390941086317&mkt=en-ca"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
