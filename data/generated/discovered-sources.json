@@ -23095,5 +23095,178 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-a796129563",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kVkVlcFhwaVVqa1Q4UjhPQV9sT3hpZ3VBVUlpbmFaaFd3cFVONDZzTEw2WDU5UENBT3hRNVE5MzJiZmFCQ2Vxa2JHbWVrWVBvRk9QdFRFci1GZWV2SjkybHVkcW5hUEM4VmhvZFg2VXFXSFYzMHVhNGU2aVZIMlU?oc=5",
+    "title": "GTA 6 Collector’s Edition and Merchandise Leak",
+    "publisher": "vice.com",
+    "publishedAt": "2026-09-24T12:02:56.000Z",
+    "discoveredAt": "2026-09-24T16:46:32.302Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-5f4f23d2d0",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSzBOTVZCN2RqUE41S0o4c18zYWxXR2hpRGI5QTU3SGlCOUpfeUJjVTVPNHEtclFOWVNJX0dub0U2Y1kwUDNrYXJjSnB4MjhobHFFWk9lcXdtampzSzhPaXdqWFFQcGVXR0dCZEJpNl9jYVF3aHpEdk1VS2o0MUM5ZXRrNF9aSFpDNkE0dXlQY1I1aHp0cFV2XzlETTlpTUwyOV81a0FEYmVYOUlwMDZYU19QcHJ5Y1hmRWZDWXlLc3Y0TnNOQ3JWOVdR?oc=5",
+    "title": "GTA 6 Collector's Edition is coming soon, according to a new leak, as 22 pieces of merchandise unveiled",
+    "publisher": "PC Guide",
+    "publishedAt": "2026-09-24T15:40:10.000Z",
+    "discoveredAt": "2026-09-24T16:46:32.302Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-a5fbc4de93",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcnpGRzFSTm5uNmlMVzNQTjJfUW1iQklTMFByR2htSU90Z1dfbjcxRXpaVHd6LWl3bE95YV9maXNtQ05wdG5zNjBOcFN4TFdXN2ZVejNNQjNyTTlqRVpNMm8xUkJ2SlNGZDBDQ0Nhd3ZFVWNGaEVmVFZHR2pBOGRxZFNHS1FxeVk?oc=5",
+    "title": "GTA 6 $400 Collector’s Edition Doesn’t Include the Game - insider-gaming.com",
+    "publisher": "insider-gaming.com",
+    "publishedAt": "2026-09-24T15:18:09.000Z",
+    "discoveredAt": "2026-09-24T16:46:32.302Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-43251d093b",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab553ee328f4961a5119fd5eba7907e&url=https%3a%2f%2fgamerant.com%2fgta-6-collectors-edition-vice-city-leak%2f&c=4289185124479113727&mkt=en-us",
+    "title": "GTA 6 Vice City Collection Leaked",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-24T07:36:00.000Z",
+    "discoveredAt": "2026-09-24T16:46:32.302Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-f5fbd1dbd6",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab553ee328f4961a5119fd5eba7907e&url=https%3a%2f%2fhappygamer.com%2fgta-6-loading-screens-leak-unverified-165580%2f&c=1540664552109770667&mkt=en-us",
+    "title": "GTA 6 Loading Screens Leak Draws 7,700 Likes, Unverified So Far",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-24T01:56:00.000Z",
+    "discoveredAt": "2026-09-24T16:46:32.302Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-af48f3957b",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab553ee328f4961a5119fd5eba7907e&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fgta-6-leak-contrasts-unconfirmed-mechanics-with-confirmed-vice-city-map%2fgm-GM94192BBB&c=14852574430999856735&mkt=en-us",
+    "title": "GTA 6 leak contrasts unconfirmed mechanics with confirmed Vice City map",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-17T17:00:00.000Z",
+    "discoveredAt": "2026-09-24T16:46:32.302Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-ca9366cdec",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab553ee328f4961a5119fd5eba7907e&url=https%3a%2f%2fgameranx.com%2fupdates%2fid%2f564181%2farticle%2frumor-gta-merchandise-leaked-via-api-including-gta-6-collectors-edition%2f&c=891624774923548254&mkt=en-us",
+    "title": "Rumor: GTA Merchandise Leaked Via API, Including GTA 6 Collector’s Edition",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-24T05:19:00.000Z",
+    "discoveredAt": "2026-09-24T16:46:32.302Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 11,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-028"
+      ],
+      "category": "misinformation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-402f4e59bd",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab553ee328f4961a5119fd5eba7907e&url=https%3a%2f%2fwww.sportskeeda.com%2fgta%2fnews-gta-6-collector-s-edition-may-allegedly-leaked&c=16725306550875550573&mkt=en-us",
+    "title": "GTA 6 Collector's Edition may have allegedly leaked",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-24T06:53:00.000Z",
+    "discoveredAt": "2026-09-24T16:46:32.302Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-51ead18391",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab553ee328f4961a5119fd5eba7907e&url=https%3a%2f%2fbeebom.com%2fgta-6-merch-price-how-to-buy%2f&c=17006607690802266394&mkt=en-us",
+    "title": "All GTA 6 Merch, Prices, and How to Buy",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-24T05:37:00.000Z",
+    "discoveredAt": "2026-09-24T16:46:32.302Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

@@ -7138,5 +7138,77 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-a796129563",
+    "title": "GTA 6 Collector’s Edition and Merchandise Leak",
+    "reportedAt": "2026-09-24T12:02:56.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kVkVlcFhwaVVqa1Q4UjhPQV9sT3hpZ3VBVUlpbmFaaFd3cFVONDZzTEw2WDU5UENBT3hRNVE5MzJiZmFCQ2Vxa2JHbWVrWVBvRk9QdFRFci1GZWV2SjkybHVkcW5hUEM4VmhvZFg2VXFXSFYzMHVhNGU2aVZIMlU?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-5f4f23d2d0",
+    "title": "GTA 6 Collector's Edition is coming soon, according to a new leak, as 22 pieces of merchandise unveiled",
+    "reportedAt": "2026-09-24T15:40:10.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSzBOTVZCN2RqUE41S0o4c18zYWxXR2hpRGI5QTU3SGlCOUpfeUJjVTVPNHEtclFOWVNJX0dub0U2Y1kwUDNrYXJjSnB4MjhobHFFWk9lcXdtampzSzhPaXdqWFFQcGVXR0dCZEJpNl9jYVF3aHpEdk1VS2o0MUM5ZXRrNF9aSFpDNkE0dXlQY1I1aHp0cFV2XzlETTlpTUwyOV81a0FEYmVYOUlwMDZYU19QcHJ5Y1hmRWZDWXlLc3Y0TnNOQ3JWOVdR?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-43251d093b",
+    "title": "GTA 6 Vice City Collection Leaked",
+    "reportedAt": "2026-09-24T07:36:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab553ee328f4961a5119fd5eba7907e&url=https%3a%2f%2fgamerant.com%2fgta-6-collectors-edition-vice-city-leak%2f&c=4289185124479113727&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-f5fbd1dbd6",
+    "title": "GTA 6 Loading Screens Leak Draws 7,700 Likes, Unverified So Far",
+    "reportedAt": "2026-09-24T01:56:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab553ee328f4961a5119fd5eba7907e&url=https%3a%2f%2fhappygamer.com%2fgta-6-loading-screens-leak-unverified-165580%2f&c=1540664552109770667&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-af48f3957b",
+    "title": "GTA 6 leak contrasts unconfirmed mechanics with confirmed Vice City map",
+    "reportedAt": "2026-09-17T17:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab553ee328f4961a5119fd5eba7907e&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fgta-6-leak-contrasts-unconfirmed-mechanics-with-confirmed-vice-city-map%2fgm-GM94192BBB&c=14852574430999856735&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-402f4e59bd",
+    "title": "GTA 6 Collector's Edition may have allegedly leaked",
+    "reportedAt": "2026-09-24T06:53:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab553ee328f4961a5119fd5eba7907e&url=https%3a%2f%2fwww.sportskeeda.com%2fgta%2fnews-gta-6-collector-s-edition-may-allegedly-leaked&c=16725306550875550573&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
