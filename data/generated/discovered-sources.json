@@ -23341,5 +23341,28 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-b02d99043e",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNc3p3a2pjY1lHS3VfUFp1QzRHTV9WMmdrTkZHMHhfYlE3MFdvemhCRHR1VHR0cTNYa1JneVM5aXM4QU5QaTZxaHNlUGQ1YW9OM1BRQTkwMFp2OXQ5RDRTd01pLWcwWjh1TEp5Q1JUMWgzTEpNWjdKZjI2UjFaR1VMYTZTS3ZkRWZUV2xMU2tLd2tGWUpiNXotMTE4Rm1RWGd2c21vdHB6cEU5bjBUY0JZOTItd1pQVEJ4U0pkWVd4SFltM1JqSmNvd3VYcw?oc=5",
+    "title": "Rockstar leaks GTA 6 map with Collector's Edition pre-order, exposing Leonida locations",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-09-24T22:08:00.000Z",
+    "discoveredAt": "2026-09-25T04:06:17.598Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-014"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

@@ -7222,5 +7222,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-b02d99043e",
+    "title": "Rockstar leaks GTA 6 map with Collector's Edition pre-order, exposing Leonida locations",
+    "reportedAt": "2026-09-24T22:08:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiywFBVV95cUxNc3p3a2pjY1lHS3VfUFp1QzRHTV9WMmdrTkZHMHhfYlE3MFdvemhCRHR1VHR0cTNYa1JneVM5aXM4QU5QaTZxaHNlUGQ1YW9OM1BRQTkwMFp2OXQ5RDRTd01pLWcwWjh1TEp5Q1JUMWgzTEpNWjdKZjI2UjFaR1VMYTZTS3ZkRWZUV2xMU2tLd2tGWUpiNXotMTE4Rm1RWGd2c21vdHB6cEU5bjBUY0JZOTItd1pQVEJ4U0pkWVd4SFltM1JqSmNvd3VYcw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
