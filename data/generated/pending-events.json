@@ -7234,5 +7234,29 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-3fd32a536c",
+    "title": "Rockstar Officially Reveals GTA 6: The Goodtime State – Vice City Collection – At $ 400",
+    "reportedAt": "2026-09-25T03:08:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab65a95d77b4a02bbf88832f7b3506f&url=https%3a%2f%2fgameranx.com%2fupdates%2fid%2f564192%2farticle%2frockstar-officially-reveals-gta-6-the-goodtime-state-vice-city-collection-at-400%2f&c=7264718678649002857&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-27127bf3c2",
+    "title": "GTA 6 Merch Leaks 22 Items Include T-Shirts Repping In-Game Brands",
+    "reportedAt": "2026-09-24T04:42:23.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab65a95d77b4a02bbf88832f7b3506f&url=https%3a%2f%2fwww.msn.com%2fen-us%2fgaming%2frockstar-games%2fgta-6-merch-leaks-22-items-include-t-shirts-repping-in-game-brands%2far-AA2cVCmI&c=2970049500201767026&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
