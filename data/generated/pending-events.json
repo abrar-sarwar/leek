@@ -7258,5 +7258,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-1f364e4e5e",
+    "title": "Official GTA 6 Merch Might Confirm Leaked Map Wasn't Final",
+    "reportedAt": "2026-09-25T14:20:16.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOThPTW1iWURQRHM2N1BDYldYeWtBd19JeXA2cFRwZ3BJbkJya09EcHRIODlhWHRmZW5DcFk3RlNEcEVCQXBOQjNyc3BNQm5NbHBNMWxxa2EzN0RBUVQ1MlhfUXRKVzhpZGVJR3lTMzI3bnJRRkdnSG0wSXFQdkNDc2tyN2dDaDhwc0ZLVjlPblZMNllHdW9VaDFYbw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

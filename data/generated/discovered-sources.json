@@ -23406,5 +23406,24 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-1f364e4e5e",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOThPTW1iWURQRHM2N1BDYldYeWtBd19JeXA2cFRwZ3BJbkJya09EcHRIODlhWHRmZW5DcFk3RlNEcEVCQXBOQjNyc3BNQm5NbHBNMWxxa2EzN0RBUVQ1MlhfUXRKVzhpZGVJR3lTMzI3bnJRRkdnSG0wSXFQdkNDc2tyN2dDaDhwc0ZLVjlPblZMNllHdW9VaDFYbw?oc=5",
+    "title": "Official GTA 6 Merch Might Confirm Leaked Map Wasn't Final",
+    "publisher": "TheGamer",
+    "publishedAt": "2026-09-25T14:20:16.000Z",
+    "discoveredAt": "2026-09-25T16:51:23.531Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
