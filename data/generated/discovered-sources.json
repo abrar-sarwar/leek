@@ -23425,5 +23425,66 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-cc2d103db8",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOb2o1Q1d5NWs5MHhLcXhFNHNkM3V0VURta21QR0ZIMVBxTnBBYUNISTkwaTFaY0FqNzM5Wlk0ZEtCeldFT0FCYmQycTJFTmJnYi1NX0RHRGJDaVBjT2pidUF1ZDRWcHZtV1ZxeE9TT04zeUY2dFRZb1JXUkpXLVBsa1BtLXNkaXM2ck0zRVoyOGZvU2JnblV1YUVPeVlTLVh0dE01VGRaSzdiRmJUUm9yY3JSQ2tQbXg1SHdsMEo4WkhmWjFMdFRGNzNB?oc=5",
+    "title": "GTA 6 screenshots and weather system info imminent in pre-release date marketing push",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-09-25T21:17:00.000Z",
+    "discoveredAt": "2026-09-26T04:11:19.513Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-549412041d",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8wZlpjRkh2X1c4MlVzSWJKWTNyWDFEUllha1hZYXFRaHhJVzctR29KYXBsUGJpRVhqNHRtYmlSTm00WWVmcHFpc0FZMkdsYU5D?oc=5",
+    "title": "GTA 6 Countdown: Rockstar Tightens Mod Rules as Take-Two Scrubs Leaked Material",
+    "publisher": "玩具人 TOY PEOPLE",
+    "publishedAt": "2026-09-22T16:10:42.000Z",
+    "discoveredAt": "2026-09-26T04:11:19.513Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games",
+        "Take-Two Interactive"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-009"
+    }
+  },
+  {
+    "id": "DISC-a1b512573f",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sQ1lkcHZpRFFoNTVCU3RGYkRKdDBIb0ZITDI2TzFJZ1VaaGlsd3FvSjI5T2NCdUcySXR3WFlXaE5JREZPM0NQbW5aYzN6RWs3ekNoektHZWZwZG5MS3NR?oc=5",
+    "title": "CyberLeek (CYBERLEEK) Kurs Live, Charts, Marktkapitalisierung",
+    "publisher": "CoinMarketCap",
+    "publishedAt": "2026-08-23T23:42:52.000Z",
+    "discoveredAt": "2026-09-26T04:11:19.513Z",
+    "feed": "google-news",
+    "query": "CyberLeek $CYBERLEEK",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
