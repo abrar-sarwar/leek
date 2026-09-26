@@ -7270,5 +7270,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-ce39172eb8",
+    "title": "Rockstar unveils GTA 6 police that remember your car and clothes",
+    "reportedAt": "2026-09-26T14:59:38.000Z",
+    "category": "investigation",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMimgFBVV95cUxORHlkNEFfaFpJOEVCYnlRQ3g2d2d6RHpadXFvNGN1WGVpOHBBbXVlT3QyY0lyT09NWEltYnBuRjI1elRCODhTS1ktVHJGOS1QaTRzNnNvZ3hSaWl3WUp6VmVjUVR5MkJXeThQc0pwYVkxT3V5Q29Icy14cU9kLU1tUk5YS1g5M3BrY01EdDhHdnE0NHlySFRPSWFn?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
