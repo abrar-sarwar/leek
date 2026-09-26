@@ -23561,5 +23561,25 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-4ce1f19926",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab82fad7f904a14977c0b7c0f9a5fc8&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fgta-6-marketing-is-ramping-up-fast-with-new-game-informer-coverage-and-a-400-collectors-box-on-the-way%2far-AA2d2jK6&c=8635534813566566019&mkt=en-us",
+    "title": "GTA 6 marketing is ramping up fast, with new Game Informer coverage and a $400 collector's box on the way",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-26T13:30:27.000Z",
+    "discoveredAt": "2026-09-26T20:48:38.895Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-007"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
