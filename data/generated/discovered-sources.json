@@ -23486,5 +23486,41 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-14ea988cbe",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZjJqLUJ6R055TndrTTFmYUU0OVZPRkZxcG9rNXhqOGNVOUZZQVlYaXZmd04ybU5obTZkWjF0c1Z4TFJkYS1UOTRlNEhMallUSmpkblYwSm52Rl81LWp0RTF1S0FldVM4QzVVSVE4QU1KTkdqYldkU1FreHVLMTQyOWVFeHM2MjgxaW5sZkRLQU10QUNfYVpwLVFyQWpSQy0wSHk1QjR1alUyeGdrejg0RkU0VnlJZHlONk5GcXRwN3pKRTQ?oc=5",
+    "title": "The GTA 6 Collector's Set Is Official: Ridiculously Expensive, Game Not Included",
+    "publisher": "autoevolution",
+    "publishedAt": "2026-09-26T08:35:17.000Z",
+    "discoveredAt": "2026-09-26T11:02:40.567Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-efbe994811",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNY2Q1dUFubWhmMXluZ0R1aV9kbUdOTEJaZlVWVWNfMVFUaTdYOHdVbGNsd3VNX2gzZjF6bjNGMTNLWnpFNzdUd1gyc0F3Zk9SbkhBMzdSbDYxZnd5bmZCZGdlRGRGb3lwM1NXMm00X0RXZmxnV0tveE5EZkU5U3QyQU5hSXZkVlBjOXJTVXZFVTFQWUNicDF1WEEwY2FOSGUy?oc=5",
+    "title": "$400 GTA 6 Collector's Edition Is Missing One Important Item - IGN Daily Fix",
+    "publisher": "IGN",
+    "publishedAt": "2026-09-24T19:56:03.000Z",
+    "discoveredAt": "2026-09-26T11:02:40.567Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
