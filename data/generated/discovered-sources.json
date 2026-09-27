@@ -23643,5 +23643,24 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-c9172e2845",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab946c129c243fc8fd10f85f3c7fa29&url=https%3a%2f%2fwww.forbes.com%2fsites%2fbrianmazique%2f2026%2f08%2f24%2fgta-vi-leaks-everything-cyberleek-has-shown-and-what-we-know-is-real%2f&c=11159547612451440412&mkt=en-us",
+    "title": "GTA VI Leaks Keep Piling Up, Here’s What You Should Actually Believe",
+    "publisher": "bing.com",
+    "publishedAt": "2026-08-24T17:23:00.000Z",
+    "discoveredAt": "2026-09-27T16:39:23.959Z",
+    "feed": "bing-news",
+    "query": "Cyberleek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
