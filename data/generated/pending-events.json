@@ -7282,5 +7282,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-86340006dd",
+    "title": "Rockstar leaks GTA 6 map locations with Collector's Edition pre-order photo",
+    "reportedAt": "2026-09-25T11:46:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab89af802a448cd9f896a11c7f68c5c&url=https%3a%2f%2fwww.notebookcheck.net%2fRockstar-leaks-GTA-6-map-with-Collector-s-Edition-pre-order-exposing-Leonida-locations.1407703.0.html&c=4554577971644778526&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
