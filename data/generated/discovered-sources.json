@@ -23622,5 +23622,26 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-9d3acbd0aa",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRl85YXRBcmRrMTdwUUtLUU1ST2Jpa2dkQ2pVY1kyZ214aU5QWmpwelBkWmtEQmxWQVNXNDN4TDhYRExjbmRvS2ZTenpubkdpRkc0Wk1wQ05YQU9DeVI3b2NjNXdpM2x6RUZHQmhCcy01N3FaRXJEajRsc1FWRWQ5VGZla1JJSjU3VWNfTHFFWFJKZS1ERkQ2Ri1hRWpwUHpCNjFV?oc=5",
+    "title": "Grand Theft Auto 6 Leaks Are Fueling A Crypto Pump-And-Dump Scheme",
+    "publisher": "GameSpot",
+    "publishedAt": "2026-08-21T07:00:00.000Z",
+    "discoveredAt": "2026-09-27T11:41:16.319Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
