@@ -23796,5 +23796,86 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-0ee949cb64",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdWJlLVQ5Z3BYSW1fbG1PNW9hTTNCV21sZHNKZ0pTMGRDbU9zS2tyUHhLM1ZUTE83SVR3REZoS0JBdHZXeU14TjNEc1F2ZGxaeVJobzJmTlVmWEZpUi12MFpmQm1VZEY5NGV5dUtiMjVtZGE0dmx5VW95NmlVNUVNVVlCdTJTdDZtaDVlQmRJRkFZdnR6b3RPTmtUZGlwRVhWd0tSZGE5OVpSMUdBbTBWODBTczlvU3c?oc=5",
+    "title": "Why Is Everyone Talking About LA Noire 2 All of a Sudden?",
+    "publisher": "IGN Pakistan",
+    "publishedAt": "2026-09-28T17:40:22.000Z",
+    "discoveredAt": "2026-09-28T23:03:25.456Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-9dce0cafde",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNkhxRlZfOUlGUkc1T2hqV0xNSmNGTnRmUkY0X0VwSmpiXzZUdWNTLVJkMFpKWUZTalRFVXhuZm1yaDU1MHk4U2dLNXl0aU9YdE9iQXNtSjJBa3hnbGRBT0hPanloQUlmTklYZnFaZTNBdkQ0Qnl3RFBmUFc2aWRpTlpKQlFrM3k2SVJmRTNB?oc=5",
+    "title": "Rumors of an LA Noire 2 Are Gaining Steam, But Do They Have Any Validity?",
+    "publisher": "IGN",
+    "publishedAt": "2026-09-28T17:27:59.000Z",
+    "discoveredAt": "2026-09-28T23:03:25.456Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "misinformation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-ea86331701",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kU2hXcGF2S2hLQjZJdm9tVEQyYUNiQlNLYzVrdHZjbmJrc3VoamtDNnNNbTEzZTc1ejlXdnhzVDI4NWZUdnpiVUNEeW5IZVM5MnNpYy1qdE9JaDV3Nnlua1gzT0ZTLW9BaS0wYzd5Ujc3RGw1ckNLUg?oc=5",
+    "title": "L.A. Noire Sequel Reportedly Rockstar’s Next Project After GTA 6",
+    "publisher": "eXputer.com",
+    "publishedAt": "2026-09-28T11:55:09.000Z",
+    "discoveredAt": "2026-09-28T23:03:25.456Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-11d3d5797d",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abaf242011648589c44c2c72b0e6fdc&url=https%3a%2f%2fwww.msn.com%2fen-us%2fentertainment%2fcelebrities%2fla-noire-2-could-be-rockstar-s-next-big-game-after-gta-vi-and-it-would-focus-on-one-of-history-s-most-infamous-criminals%2far-AA2d8B68&c=13018545754361910033&mkt=en-us",
+    "title": "LA Noire 2 could be Rockstar’s next big game after GTA VI, and it would focus on one of history’s most infamous criminals",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-28T10:59:08.000Z",
+    "discoveredAt": "2026-09-28T23:03:25.456Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-028",
+        "LEEK-CLM-029"
+      ],
+      "category": "community",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
