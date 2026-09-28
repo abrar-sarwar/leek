@@ -7318,5 +7318,41 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-67a9f4d089",
+    "title": "L.A. Noire 2 Leak Claims 2030 Date, Rockstar Silent [2026]",
+    "reportedAt": "2026-09-28T11:26:15.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuSGRkbzdxZnZwN09iUFlEd08zaGhIZWg5bjRYU2Y1MjVNZEh2QjJlMVAxRGpmN08tQ1hqaHhEWVdhbDM3T3hwWXlPcnpVa3JhblBGNjVPbGl1OXg5aF9CSGFWYkpwa09SOVg2UFFJTW1NSDEzR0Y0?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-a33798de0d",
+    "title": "GTA 6 Collectables And Merchandise Leaked As Rockstar Gears Up For Massive Launch",
+    "reportedAt": "2026-09-24T10:42:28.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMirAFBVV95cUxObzBPR2JVUU81QXBMR21kUlpUWEd0dmt2dHI3Z2xwOGNyT2pQSFU4Qk1XSjk5WmFmUG5XeThmcVdPWmxOcnpfRmNjNDlCelo5TloyV0JxaHpsOFVxTjdYSnZyek5mWU9Ba2gyOWQyM0pJY2ZOaG9OQ2xiT1plXzNzcTlrRkJkT1R3SDFJdmpHWlN4U28wTFBDbjRJQTJIa09zcGJ0WlFQYk4xSllI?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-b739e0f739",
+    "title": "LA Noire 2 is Rockstar’s next game after GTA 6 claims source",
+    "reportedAt": "2026-09-28T02:51:39.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aba68f25b4f4da2bb2502d426cbd468&url=https%3a%2f%2fwww.msn.com%2fen-au%2fnews%2fother%2fla-noire-2-is-rockstar-s-next-game-after-gta-6-claims-source%2far-AA2d6ZLU&c=5629662934641917082&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
