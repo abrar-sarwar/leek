@@ -23662,5 +23662,76 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-3aafd79068",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TMF9RQ09Ob3hDaFBHcDlkY3A4bHZadFRXRVpmbXU1LXIxOFZIcy1seHY1d1B0SlhFenV1dFdzRFhlQXNQOVU4UWt2ajM4a2RtRWVwTUxmVUdkRjg?oc=5",
+    "title": "Take-Two Issues DMCA Takedown Notices Over GTA 6 Gameplay Leaks",
+    "publisher": "Insider Gaming",
+    "publishedAt": "2026-08-19T07:00:00.000Z",
+    "discoveredAt": "2026-09-28T04:27:30.488Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive"
+      ],
+      "claims": [
+        "LEEK-CLM-023",
+        "LEEK-CLM-028"
+      ],
+      "category": "legal",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-010"
+    }
+  },
+  {
+    "id": "DISC-a69dd1c460",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PS2ZhRGJqNkdpVkhFbnZsc0tMSU0zSlJYNVI0OUFiRU1qeV9SZXFYNEZLTjFQQlYwQ0pLMndJLVJxSlJNRTBTZmV3NTJiekhZUGIwcnU2Wkx0cnl6OHBWY25TVVFxRVl1X1dsb0p4dnMzTG5DZ1E?oc=5",
+    "title": "Discover CyberLeek: The Solana Meme Coin Taking Crypto by Storm!",
+    "publisher": "Phemex",
+    "publishedAt": "2026-08-20T07:00:00.000Z",
+    "discoveredAt": "2026-09-28T04:27:30.488Z",
+    "feed": "google-news",
+    "query": "CyberLeek $CYBERLEEK",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "$CYBERLEEK holders"
+      ],
+      "claims": [
+        "LEEK-CLM-015",
+        "LEEK-CLM-028"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-4999748bd3",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab9ecb78a8549a78cf37eb4df52eafe&url=https%3a%2f%2fbeebom.com%2fla-noire-2-could-be-rockstar-next-major-game-after-gta-6%2f&c=14783239601132166363&mkt=en-us",
+    "title": "LA Noire 2 Could Be Rockstar’s Next Major Game After GTA 6",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-27T17:00:00.000Z",
+    "discoveredAt": "2026-09-28T04:27:30.488Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

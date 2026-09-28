@@ -7306,5 +7306,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-4999748bd3",
+    "title": "LA Noire 2 Could Be Rockstar’s Next Major Game After GTA 6",
+    "reportedAt": "2026-09-27T17:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ab9ecb78a8549a78cf37eb4df52eafe&url=https%3a%2f%2fbeebom.com%2fla-noire-2-could-be-rockstar-next-major-game-after-gta-6%2f&c=14783239601132166363&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
