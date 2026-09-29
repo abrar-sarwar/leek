@@ -23960,5 +23960,67 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-cf16e612fb",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ3VvcWhTTW9UM3Z0Z2gtd2ZvY0NxNGozYjRWWkVlbWNFMlBMbGh0cUE5MVRTR2dFNlhDTUxqY2NxMEpxeXgxN1ZLTWF3b013cGE0VUlfb3JJUVZKVUg5bHlPZExZVlhUOFNvaTJmRFlINjdPV2VyWUNNek1tcE50cUVaM3NrZHltOHB1RllNWGhiZjJW?oc=5",
+    "title": "GTA 6 leak reveals hilarious PlayStation Easter egg as The Last of Us roasted",
+    "publisher": "GAMINGbible",
+    "publishedAt": "2026-08-25T07:00:00.000Z",
+    "discoveredAt": "2026-09-29T22:01:22.683Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-e96188ca27",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abc35379a9547d6b7ab1757e7a5f56f&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fgta-6-leaker-says-they-won-t-stop-till-rockstar-says-sorry%2fvi-AA2ddJYA&c=7089876597916634950&mkt=en-us",
+    "title": "GTA 6 leaker says they won't stop till Rockstar says sorry",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-29T11:50:16.000Z",
+    "discoveredAt": "2026-09-29T22:01:22.683Z",
+    "feed": "bing-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-014",
+        "LEEK-CLM-022"
+      ],
+      "category": "rockstar",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-572f3c4a3d",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abc3538bcb645018b47eaeeecb177d1&url=https%3a%2f%2fbeebom.com%2fgta-6-age-rating%2f&c=12411599702022874926&mkt=en-us",
+    "title": "GTA 6 Is Going Beyond GTA 5 with an X 18+ Age Rating in Australia",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-29T10:57:00.000Z",
+    "discoveredAt": "2026-09-29T22:01:22.683Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

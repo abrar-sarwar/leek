@@ -7378,5 +7378,29 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-cf16e612fb",
+    "title": "GTA 6 leak reveals hilarious PlayStation Easter egg as The Last of Us roasted",
+    "reportedAt": "2026-08-25T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ3VvcWhTTW9UM3Z0Z2gtd2ZvY0NxNGozYjRWWkVlbWNFMlBMbGh0cUE5MVRTR2dFNlhDTUxqY2NxMEpxeXgxN1ZLTWF3b013cGE0VUlfb3JJUVZKVUg5bHlPZExZVlhUOFNvaTJmRFlINjdPV2VyWUNNek1tcE50cUVaM3NrZHltOHB1RllNWGhiZjJW?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-e96188ca27",
+    "title": "GTA 6 leaker says they won't stop till Rockstar says sorry",
+    "reportedAt": "2026-09-29T11:50:16.000Z",
+    "category": "rockstar",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abc35379a9547d6b7ab1757e7a5f56f&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fgta-6-leaker-says-they-won-t-stop-till-rockstar-says-sorry%2fvi-AA2ddJYA&c=7089876597916634950&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
