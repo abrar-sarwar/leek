@@ -23897,5 +23897,68 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-066c2c1f71",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03NnJRbWhkVEZQb29IVVRuRmJOckU0ZWFCWHhia0l5Yk5WSE1TVHBCU0Q2RTN6cXg1VUJIQ2VYRUFabjJMZDFCUTJmSDltSEs1Q08tN29ZVmp1dGNiN3pJRVlRdWtLeDhrNDh1RktmR3VSUGs0?oc=5",
+    "title": "GTA 6 Online Files Leak: Xbox Store Lists 4 Packages [2026]",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-09-28T22:27:28.000Z",
+    "discoveredAt": "2026-09-29T12:24:31.558Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-006"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-d4bc2331a4",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQblJWenNmZE5tUkRZVy1GWTNRSXNxbkVsT24tM0tORkxjeEV3NFdzZ2pFdHNLeUxlbmRiWHFBVWpFZ2tSMVJXd1JwbG9Sa2dpRG9laDdyQ3ZMZUJZVnh1UTdSSHNsSkUxVEtGaHprRGVwLVJnVkFTZkQ3RUVHTGFIcEd3UQ?oc=5",
+    "title": "L.A. Noire 2 After GTA 6? Leak Goes Viral Again, but Rockstar Confirms Nothing",
+    "publisher": "Pasquale Pillitteri",
+    "publishedAt": "2026-09-29T06:43:10.000Z",
+    "discoveredAt": "2026-09-29T12:24:31.558Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-ce20ca3a47",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04cU9MOGhBcnc4YWt1MGJQdnFTLXBCZjdjZlJHamJrQnhadVA5cnpOOUNMQUdidXV6V2JNWnJBdENMZVZMdkZuU3VEdVVoQnhqWnpMWVhvcjQ0NlB6STN2bQ?oc=5",
+    "title": "L.A. Noire 2 rumour: Rockstar has not confirmed a sequel",
+    "publisher": "tbreak.com",
+    "publishedAt": "2026-09-29T04:54:06.000Z",
+    "discoveredAt": "2026-09-29T12:24:31.558Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "misinformation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

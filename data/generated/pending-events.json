@@ -7354,5 +7354,29 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-066c2c1f71",
+    "title": "GTA 6 Online Files Leak: Xbox Store Lists 4 Packages [2026]",
+    "reportedAt": "2026-09-28T22:27:28.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMidEFVX3lxTE03NnJRbWhkVEZQb29IVVRuRmJOckU0ZWFCWHhia0l5Yk5WSE1TVHBCU0Q2RTN6cXg1VUJIQ2VYRUFabjJMZDFCUTJmSDltSEs1Q08tN29ZVmp1dGNiN3pJRVlRdWtLeDhrNDh1RktmR3VSUGs0?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-d4bc2331a4",
+    "title": "L.A. Noire 2 After GTA 6? Leak Goes Viral Again, but Rockstar Confirms Nothing",
+    "reportedAt": "2026-09-29T06:43:10.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMigwFBVV95cUxQblJWenNmZE5tUkRZVy1GWTNRSXNxbkVsT24tM0tORkxjeEV3NFdzZ2pFdHNLeUxlbmRiWHFBVWpFZ2tSMVJXd1JwbG9Sa2dpRG9laDdyQ3ZMZUJZVnh1UTdSSHNsSkUxVEtGaHprRGVwLVJnVkFTZkQ3RUVHTGFIcEd3UQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
