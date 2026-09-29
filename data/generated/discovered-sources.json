@@ -23877,5 +23877,25 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-2c54a582a5",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abb451b1aaf41178e89291eab42aa73&url=https%3a%2f%2fcomicbook.com%2fgaming%2fnews%2frockstar-games-gta-6-red-dead-redemption-3-la-noire-2%2f&c=16311228578709412575&mkt=en-us",
+    "title": "Rockstar Games’ Next Game After GTA 6 Reportedly Revealed",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-28T03:59:00.000Z",
+    "discoveredAt": "2026-09-29T04:56:54.530Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
