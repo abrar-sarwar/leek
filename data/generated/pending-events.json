@@ -7414,5 +7414,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-909245b22a",
+    "title": "L.A. Noire 2 Zodiac Leak: 6 Outlets, One 2023 Post [2026]",
+    "reportedAt": "2026-09-30T08:04:12.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMia0FVX3lxTE44RXBaSG5DUFJUckhGYXF2TURFX3J3OXlST1h4RlNFMnY4LXcyYzMya0JKNkF4LXNFcWFidzE1Tmt2cG9fMG9VeDBEbHpNeWRiUWVkMUlMZEVkTUZ3bF9PcE1pQzhPRTNFUVo0?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

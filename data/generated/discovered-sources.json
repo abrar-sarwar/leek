@@ -24061,5 +24061,70 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-be4621b8db",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMS1xQ09PSGtUQlItZ3Ixc0dqREpabzJXaElxaGpzdVR6Sko5QVVhRFlxaGtRYkd0alNpLUZxTGNLOGN6M2tJOWFwYTVGVjFtVlFJZnBac2ZObzM2WGl2ODJUYzJTQ3VlRXA2TUZuX29uWnN3R3lvQ3lERjN5ZllRaUhCU29rZWwwNjljamhqenpCd2dYdWZJNExnSzdHZFF6azlmRkFwckRMUQ?oc=5",
+    "title": "GTA6 leak drives Solana token trading, generating over $200K in fees via Raydium",
+    "publisher": "KuCoin",
+    "publishedAt": "2026-09-22T07:00:00.000Z",
+    "discoveredAt": "2026-09-30T12:09:29.953Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "$CYBERLEEK holders"
+      ],
+      "claims": [
+        "LEEK-CLM-015",
+        "LEEK-CLM-028"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-909245b22a",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44RXBaSG5DUFJUckhGYXF2TURFX3J3OXlST1h4RlNFMnY4LXcyYzMya0JKNkF4LXNFcWFidzE1Tmt2cG9fMG9VeDBEbHpNeWRiUWVkMUlMZEVkTUZ3bF9PcE1pQzhPRTNFUVo0?oc=5",
+    "title": "L.A. Noire 2 Zodiac Leak: 6 Outlets, One 2023 Post [2026]",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-09-30T08:04:12.000Z",
+    "discoveredAt": "2026-09-30T12:09:29.953Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-f9effb0c37",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abcfbff379745fe83b26242350ee470&url=https%3a%2f%2fgameranx.com%2fupdates%2fid%2f564234%2farticle%2fa-hacker-who-attacked-gta-6-dev-rockstar-games-has-been-caught-and-they-allegedly-committed-more-serious-crimes%2f&c=3996328752689557587&mkt=en-us",
+    "title": "A Hacker Who Attacked GTA 6 Dev Rockstar Games Has Been Caught – And They Allegedly Committed More Serious Crimes",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-30T01:59:00.000Z",
+    "discoveredAt": "2026-09-30T12:09:29.953Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 11,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-019"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
