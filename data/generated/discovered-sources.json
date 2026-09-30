@@ -24022,5 +24022,44 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-ee67d165a7",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbjloWnVpREdxbjdKM09NMi1hQ29xQVg3V1hRTkJMblEzd1MyT3B5NzQ3amJ6Y1NGMnNVM1lxSnVGdkEzYU9oeVJoUXZrQmdsSlBaYy04djlmZUUzcHM5bmNqVTVuamg2OV9xYXJ6ZHV4MzJUWk1DUG03Sm9YZ1VhQ2JyMVY4RDZEN3l5d1RRODlwY1RQdnZyTm5qenRvYmhaSERBMGVzeWJnUVlZN1EzeWd1aXI4U0RrQlgxTUVBQUxLdw?oc=5",
+    "title": "PlayStation Store leaks GTA 6 PS5 age ratings in vital step before release date",
+    "publisher": "notebookcheck.net",
+    "publishedAt": "2026-09-29T21:55:00.000Z",
+    "discoveredAt": "2026-09-30T04:43:34.587Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-25cc8cc958",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSVlUNjAwUE1YSnFURlJPOGJ4TXhzSjRjTEJrd0VabC0tTEpGeXRNRjNtS3UwOWprdU5tN2NhdzBnSnlsUllXaEt6WFI0dGpGQXRmejlQYjNpY1lKVmFYR3RVbW4wbmI4bjBJdk8wbThuOEVFMi0wM0psenpnbVNFSHZoRkVfMzJCMlN4WWJ4M2pSejliT0FDUEpDVQ?oc=5",
+    "title": "Rockstar Games highly anticipated sequel reportedly coming after GTA 6",
+    "publisher": "GAMINGbible",
+    "publishedAt": "2026-09-28T10:01:49.000Z",
+    "discoveredAt": "2026-09-30T04:43:34.587Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

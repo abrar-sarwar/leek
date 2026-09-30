@@ -7402,5 +7402,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-ee67d165a7",
+    "title": "PlayStation Store leaks GTA 6 PS5 age ratings in vital step before release date",
+    "reportedAt": "2026-09-29T21:55:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbjloWnVpREdxbjdKM09NMi1hQ29xQVg3V1hRTkJMblEzd1MyT3B5NzQ3amJ6Y1NGMnNVM1lxSnVGdkEzYU9oeVJoUXZrQmdsSlBaYy04djlmZUUzcHM5bmNqVTVuamg2OV9xYXJ6ZHV4MzJUWk1DUG03Sm9YZ1VhQ2JyMVY4RDZEN3l5d1RRODlwY1RQdnZyTm5qenRvYmhaSERBMGVzeWJnUVlZN1EzeWd1aXI4U0RrQlgxTUVBQUxLdw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
