@@ -24126,5 +24126,48 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-cb6d0dca2a",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeko3WGdkYWZFM0ZoNlc5QTM0X0JadnRxa3VSWkgxWWZHMUR6LWhyckQ3T19WNEo5emNfaFhyd1k2OERfTzFYWXNjcm1hQ0tBZWM5TFQzQy1ocDhOWFpxMFR2a2g4OVQxNHgzdldrTjl0QUw2U2t3bWRUZzhmYjJ6a0xHTG85V2VKT2ozUjBQbHFMb1VjTEEwcW9aNXVWOE00bXU1bU16Q1hpamdiY2U1YXpudmdyYlIzcWJaRTl3eTFodDg3X21NSA?oc=5",
+    "title": "Rockstar Reportedly Tells GTA 6 Voice Actors They Cannot Reveal Their Roles Before November 19",
+    "publisher": "gHacks",
+    "publishedAt": "2026-09-28T15:37:27.000Z",
+    "discoveredAt": "2026-09-30T22:00:35.106Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-5fc8104ea6",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abd868beb8f49c48d612fc3ba3bb747&url=https%3a%2f%2fwww.gamesindustry.biz%2falleged-hacker-arrested-over-leak-that-exposed-gta-onlines-daily-revenue&c=14820570266419518961&mkt=en-us",
+    "title": "Alleged hacker arrested over leak that exposed GTA Online's daily revenue",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-30T11:59:00.000Z",
+    "discoveredAt": "2026-09-30T22:00:35.106Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-019",
+        "LEEK-CLM-028",
+        "LEEK-CLM-016"
+      ],
+      "category": "investigation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
