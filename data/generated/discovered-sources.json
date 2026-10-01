@@ -24169,5 +24169,23 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-941a8f1b3b",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS1R5ODQwQU5qOElWa2laMVQtRnpPWDRSbjhiRHlnR3VHSGNjd1FBX21VSE9HRjN5c3RGWDRTYjFvQWFpNXBZRE5FXzdBOUtDWWQ1RkpIdVhrT1ZmcFZ0WU50NHBLM0Q2YUZOZGpNdEp3bGMxT3M5QUNvSFVfcThTQk9FX1dKdVFSODVZbg?oc=5",
+    "title": "New GTA 6 Merch Might Drop Tomorrow",
+    "publisher": "Resell Calendar",
+    "publishedAt": "2026-09-30T21:20:37.000Z",
+    "discoveredAt": "2026-10-01T04:55:39.115Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
