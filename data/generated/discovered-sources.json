@@ -24187,5 +24187,86 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-a15a371abd",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObHktWGdEY1NIY3g2UUhCTFh5RDBwNEFPTlpPYk5ZUGV6bkd5WlRqcU9Hd0ppVEduVE9tdGtuclhoWldrMG51dUhvNXRRNXRkUnZoX1Fyd0R2a0llVG51cndwc1oyRmxHbWg2ajhMc0sxRjE1Q1dKdUNGa1pidU1XVXRqeFNwbVhFbU1yaHZLTFVmMnJIRlRsUUZmZkdwOUxnQm11aGVTYW1tVTd1cE1mREduM2hSSGhCX05LUG9TME4ySFo3TnZycWJoUXFJVk9aY1ZFc21YVDJmMnpDaXRPZFo2RQ?oc=5",
+    "title": "Yes, Rockstar Staff Visited Florida Strip Clubs in Real Life as Part of GTA 6 Research",
+    "publisher": "IGN",
+    "publishedAt": "2026-09-30T10:18:20.000Z",
+    "discoveredAt": "2026-10-01T12:43:42.727Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-033"
+    }
+  },
+  {
+    "id": "DISC-3f8afeeac5",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWGw2RkxXZmp4MFk0WVpEeXoxdHhqZ29HTTY1cVJ5RlpVOW5peXlPcFhKckxmaVgwb2ZYMHlQeG0xbHFFLW9URXhEWHc4TlJUZnA2aWY4VHdZNHZ1SG43RHlXMUNVU0YtVEZfelF3ZzZNMUNCWHE3c0lhdEtjeWJyakZ4dmR4bXo5VE05UA?oc=5",
+    "title": "GTA 6 just confirmed 12 new features, and GOTY hype is getting serious",
+    "publisher": "GAMINGbible",
+    "publishedAt": "2026-09-30T09:30:00.000Z",
+    "discoveredAt": "2026-10-01T12:43:42.727Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-ad14afe638",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe55837a3f458f8caea52b673401d5&url=https%3a%2f%2fwww.msn.com%2fen-gb%2ftravel%2famusement-and-theme-parks%2fgta-6-map-details-confirm-absence-of-theme-parks-despite-all-previous-leak-speculation%2far-AA2dl1tP&c=5025680795797733268&mkt=en-us",
+    "title": "GTA 6 map details confirm absence of theme parks despite all previous leak speculation",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-01T04:26:15.000Z",
+    "discoveredAt": "2026-10-01T12:43:42.727Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-ecc59a3794",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abe55830dec40dc901a5c446615bf1e&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fgta-6-research-gets-wild-as-rockstar-reveals-strip-club-visits-and-rides-with-ex-cops%2far-AA2dkVe0&c=2646374997915800069&mkt=en-us",
+    "title": "GTA 6 research gets wild as Rockstar reveals strip club visits and rides with ex-cops",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-01T03:11:00.000Z",
+    "discoveredAt": "2026-10-01T12:43:42.727Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-033"
+    }
   }
 ]
