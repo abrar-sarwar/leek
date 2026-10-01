@@ -7450,5 +7450,41 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-562ea8801e",
+    "title": "Cyberleek Explained: The GTA 6 Leaks, 16 Clips [2026] - tech-insider.org",
+    "reportedAt": "2026-08-27T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pN1lTWDZYa1JMWmlfT2ZqVjByYXBrSkhycHJFX0hkaVpER0lvNWpUeHI5RzZnR181M2dmUUVvSnBZR2NTR2NMZlNXVVBwVUg1VXluZFRTYW53RUpOZGNVV1pGVTNDSXRoc1IwN2xOaw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-70bc227503",
+    "title": "The GTA 6 Leak Fallout, New Police AI, and What's Coming in the Game Informer Cover Story",
+    "reportedAt": "2026-10-01T21:25:08.000Z",
+    "category": "investigation",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcDBfMXEtSEJ2YnI3OXFVTWdBeE5FeUc4Q2FYNGkwX1UyNHVnZ3puVkpZbWF5ZWJ5d0hCZnFfRE1tWmNwTU93MENIYXZZbnRGcVU2ckVCNExGSWlZUlBWNGJmbS1OTkdUQ3RJNFdPemNMVWN3ZS1BN3F3ZXlJVGRhcGt0cmxuTG9CekdHUy1ycnBTX2g2RklaeXNvWW85RmFUNkI5ejhSWllJZ0M3VWN3eXhtSHF1Zw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-fe49d52b14",
+    "title": "Call of Duty's Apparent Leaked GTA 6 Parody Draws Backlash Over AI Use",
+    "reportedAt": "2026-10-01T08:09:33.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMilwFBVV95cUxORmw4U3Z0SDVUanF1MXQ0RFpfNGRGcmM0MFBpelkxVUNqX2ttOWdoSHVvOHdkT1Vha2xpVXFfcEt6YkN6MV9TY0ExeHRUUTdDdmVMWlBfUGxZTk1zQ1hxdWdzZXZRTm5pb19PZkl6MnNWOUhLd0xKamVtMVpMWW1pNGlaZUNFMVRyX2FOeVdYVTRncGd3Y0pR?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
