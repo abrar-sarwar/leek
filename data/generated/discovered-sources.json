@@ -24434,5 +24434,45 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-9fae9e28f3",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQmZidW9yNEp2OGVFY3d3QW9jSXgzNDNwWWJ3RnljVUlRV2kwLUs0TWZ0R2VWaE02YkxkVlBCSVQydlZSUG4xQk5lM3JsdGsxN0lGREcydjVlREFzNEtvdzdRT2VpUmZ2QXpOa2U0TnplekFfMjdzckxlQURzV1FfOWtvb0U3X09lWG0xbGhuWExwdzQ1QVZTUTJvZmJIalZKUUE?oc=5",
+    "title": "Want to Play GTA 6 Before Everyone Else? Here’s How the Time Zone Trick Works",
+    "publisher": "PCMag",
+    "publishedAt": "2026-09-29T07:00:00.000Z",
+    "discoveredAt": "2026-10-02T21:58:35.176Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-dba6c713f3",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ1NraDJ3czJNbzVKM2J3UE9ObEpHYUVSRFNaMTRNMmdRTlVxbURFbGdwNVJFcXJYdjcyeVl0TzI1bU5fU0VmOFNXM0FKWmRCb0NJTk1Rak5uZzRHRWhQOWxhNGlsSzZ6LW9iMnAtSkR0ZzRUa2FSZmtPbzNHR0c5WENoT01yUHVoTjE3aUlfT2VZOW8yOVNIYVl0S2M3ZDU4QjA1S2NtWFR0SjJ1bHVPcFhkUGpxZWdzcmc?oc=5",
+    "title": "GTA 6 gameplay leaks online as Rockstar scrambles to remove videos before Netflix reveal",
+    "publisher": "The Shortcut | Matt Swider",
+    "publishedAt": "2026-08-19T07:00:00.000Z",
+    "discoveredAt": "2026-10-02T21:58:35.176Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games",
+        "Netflix"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

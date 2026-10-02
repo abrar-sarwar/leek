@@ -7498,5 +7498,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-dba6c713f3",
+    "title": "GTA 6 gameplay leaks online as Rockstar scrambles to remove videos before Netflix reveal",
+    "reportedAt": "2026-08-19T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ1NraDJ3czJNbzVKM2J3UE9ObEpHYUVSRFNaMTRNMmdRTlVxbURFbGdwNVJFcXJYdjcyeVl0TzI1bU5fU0VmOFNXM0FKWmRCb0NJTk1Rak5uZzRHRWhQOWxhNGlsSzZ6LW9iMnAtSkR0ZzRUa2FSZmtPbzNHR0c5WENoT01yUHVoTjE3aUlfT2VZOW8yOVNIYVl0S2M3ZDU4QjA1S2NtWFR0SjJ1bHVPcFhkUGpxZWdzcmc?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
