@@ -7486,5 +7486,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-d4a9ebefdd",
+    "title": "Alleged GTA 6 Gameplay And Map Leak Online As CyberLeek Threatens More",
+    "reportedAt": "2026-08-19T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMid0FVX3lxTE1nbWF6VXMxTmxVSC1nT1NFZHVsc19qQ2x1SE5HbWNuRGJFVS16QXF5am1KazNiWHlLdkYyNjBXY1BLVFdueGR2SjVhb2RfcmFRSzZhZEdqR2NHZXNjZXNaQU1GdU5HbzNpRkNsZDVYTld2T1JQSHIw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

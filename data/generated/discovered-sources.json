@@ -24352,5 +24352,46 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-54e0595b8d",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fOFZrZllfSEpIcUJpZFdrY2hYU3BNX2k5alEtMzJDbWE1ZUNMVzBqanE4OUN5RHc5ZnZuakh6NjFpMmdwaVhyTmVDdlNPUnRxNXp6YnE1QnBLb1ctWExfOFJCbUYtOHZGZllJZnkyNndOMlZtUWc?oc=5",
+    "title": "Is L.A. Noire 2 Rockstar’s next game after GTA 6?",
+    "publisher": "upcomer.com",
+    "publishedAt": "2026-10-01T16:30:00.000Z",
+    "discoveredAt": "2026-10-02T04:46:17.903Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-d4a9ebefdd",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1nbWF6VXMxTmxVSC1nT1NFZHVsc19qQ2x1SE5HbWNuRGJFVS16QXF5am1KazNiWHlLdkYyNjBXY1BLVFdueGR2SjVhb2RfcmFRSzZhZEdqR2NHZXNjZXNaQU1GdU5HbzNpRkNsZDVYTld2T1JQSHIw?oc=5",
+    "title": "Alleged GTA 6 Gameplay And Map Leak Online As CyberLeek Threatens More",
+    "publisher": "CGMagazine",
+    "publishedAt": "2026-08-19T07:00:00.000Z",
+    "discoveredAt": "2026-10-02T04:46:17.903Z",
+    "feed": "google-news",
+    "query": "Take-Two CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
