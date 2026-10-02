@@ -24393,5 +24393,46 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-3ff63967d1",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPV1RLSGhrNkwzYlNfYW0wcnNGdHRsS2NfcXZCVGtrU0p5b0kxLU9rNHBCUmtQWEdyajcza0xCTW5OcGU2dXhHME9IdG1tYVNiTGJOaFB4VWdoenlnY2l2bEpnaHZaN1IteFByNmFTRDlJZFBsV2lCZUdueVNoMU5xckp4YW5rNTRjWHBrRUNXRlpRZ3g1aDJBNWQ2V09Ock0zNmNteU9kV2dPOVRwTl9fR2VqblJXSlNBYkhpWHFhNXBiV1prbmpvd19MVTB1Zw?oc=5",
+    "title": "After GTA 6 Collector's Edition falls flat, fans covet Rockstar merch sent to influencers",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-10-01T02:50:00.000Z",
+    "discoveredAt": "2026-10-02T12:07:55.039Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "community",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-1244b6c4cd",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6abf9ea084ec46f5bb2f00afc45c6aac&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fwhen-will-we-get-to-see-gta-6-on-pc-here-are-all-the-details%2far-AA2doZ1n&c=5475761862599484460&mkt=en-us",
+    "title": "When will we get to see GTA 6 on PC? Here are all the details",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-01T23:45:00.000Z",
+    "discoveredAt": "2026-10-02T12:07:55.039Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-007"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

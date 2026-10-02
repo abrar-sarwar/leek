@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-10-02T04:46:17.903Z",
+  "ranAt": "2026-10-02T12:07:55.039Z",
   "feeds": [
     {
       "name": "google-news:CyberLeek",
@@ -49,12 +49,12 @@
     {
       "name": "google-news:CyberLeek dead man switch",
       "ok": true,
-      "items": 26
+      "items": 27
     },
     {
       "name": "google-news:CyberLeek arrest",
       "ok": true,
-      "items": 39
+      "items": 40
     },
     {
       "name": "google-news:CyberLeek $CYBERLEEK",
@@ -93,7 +93,7 @@
       "items": 20
     }
   ],
-  "discovered": 1134,
+  "discovered": 1136,
   "newSinceLastRun": 2,
   "pending": 625,
   "analysisMode": "rules-only"
