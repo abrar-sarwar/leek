@@ -7570,5 +7570,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-fb3ab29e08",
+    "title": "GTA 6 leak claims explode as multiple 'CyberLeek full build' downloads appear online",
+    "reportedAt": "2026-10-03T17:38:09.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiywFBVV95cUxONlBYNFBqV2hCb0daVUxWU08tN3VmSjZPQ3RSdWtrRXRqQ3luY1FVUmNKRjZSVl9OMVRITDRqZlNvajVPUHVBeGhNaFY4TnNyZURfczJHRWpLSU5UQkRxUjF4RGtQamhIZjRtdjhWeXk0SHFOYXBORlNMUHFVUDZodjg0Vl9HZ1hoeWZ3S3pkZ1htUXZ1aGFPbktuQVE1RGZMT2lMR2dDTkREUzdoMFo1aXNrTFZLM0VwUmlvY0xUSk5GWnFZVHpDamxEVQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

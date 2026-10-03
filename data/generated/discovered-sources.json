@@ -24635,5 +24635,28 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-fb3ab29e08",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONlBYNFBqV2hCb0daVUxWU08tN3VmSjZPQ3RSdWtrRXRqQ3luY1FVUmNKRjZSVl9OMVRITDRqZlNvajVPUHVBeGhNaFY4TnNyZURfczJHRWpLSU5UQkRxUjF4RGtQamhIZjRtdjhWeXk0SHFOYXBORlNMUHFVUDZodjg0Vl9HZ1hoeWZ3S3pkZ1htUXZ1aGFPbktuQVE1RGZMT2lMR2dDTkREUzdoMFo1aXNrTFZLM0VwUmlvY0xUSk5GWnFZVHpDamxEVQ?oc=5",
+    "title": "GTA 6 leak claims explode as multiple 'CyberLeek full build' downloads appear online",
+    "publisher": "TweakTown",
+    "publishedAt": "2026-10-03T17:38:09.000Z",
+    "discoveredAt": "2026-10-03T20:46:24.187Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-002"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
