@@ -24552,5 +24552,46 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-d7f9e81149",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zZVZPdV9aVE1RSDRZaDVQbTBlWjNnZlIyYVA0d0F6b2hjQ0lPanh1cXd0ZjhhekdULVJ3U2s0V3p3emJCWGNpSDRvdldOZzdDR2twclFQOExLdU12a2hncnNn?oc=5",
+    "title": "CyberLeek (CYBERLEEK) Price Prediction for 2026 to 2031",
+    "publisher": "Bybit",
+    "publishedAt": "2026-10-03T03:03:40.000Z",
+    "discoveredAt": "2026-10-03T11:18:53.053Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-1621e9eb14",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPS3VFMFBJY3otcjFjWEJkc3VzVHJJTGpoY3lPWmJ4T2M5c0o4WTFxaUVfdTAwb0ppQXZiMlA0bnpnRWdFS2diTjE3cVpCSm9aWmlsWGstemkyVWZfazdQRER4eDVuN0ZxVTRGM0NJX3ZpemN6cUE5cTBKMGJQQzI5ZHF6aXFQTHdRMTctV01RTHU0V3JRWlV5Q2doZXRhZTdEQy1EMGZMOF9faXhxMWlIMXYtWWstR1hWX0Z2eWFpdE9MNGVJbmdv?oc=5",
+    "title": "GTA VI: What the Latest Leaks and Official Details Tell Us About Rockstar’s Biggest Game Yet",
+    "publisher": "SpeedwayMedia.com",
+    "publishedAt": "2026-08-20T07:00:00.000Z",
+    "discoveredAt": "2026-10-03T11:18:53.053Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

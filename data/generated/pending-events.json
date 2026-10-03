@@ -7534,5 +7534,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-1621e9eb14",
+    "title": "GTA VI: What the Latest Leaks and Official Details Tell Us About Rockstar’s Biggest Game Yet",
+    "reportedAt": "2026-08-20T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMixwFBVV95cUxPS3VFMFBJY3otcjFjWEJkc3VzVHJJTGpoY3lPWmJ4T2M5c0o4WTFxaUVfdTAwb0ppQXZiMlA0bnpnRWdFS2diTjE3cVpCSm9aWmlsWGstemkyVWZfazdQRER4eDVuN0ZxVTRGM0NJX3ZpemN6cUE5cTBKMGJQQzI5ZHF6aXFQTHdRMTctV01RTHU0V3JRWlV5Q2doZXRhZTdEQy1EMGZMOF9faXhxMWlIMXYtWWstR1hWX0Z2eWFpdE9MNGVJbmdv?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
