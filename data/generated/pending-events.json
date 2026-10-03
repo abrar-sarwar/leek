@@ -7546,5 +7546,29 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-3ab25404c9",
+    "title": "GTA 6 Leak Reveals Story, Gameplay, and Ending Details from the Alleged Rockstar Developer",
+    "reportedAt": "2026-10-03T15:22:12.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV0tiU1hXU3czX2cxUklDNkM2cE5oNDR2RXJUY1VFSmoxR2VoWGlPaWZYYW9IQ3ltLVJjNTQwNElXMVpWMHFFMnE4NXItY1hoeF9xS1FCM2xtMEduVmlqbXZYYkUyVlNZcGpCN1l6X3docW5Gelk1dzRuazZtYnFqeDh2NGZyS0lDenVjZUhWY29sMkpvcnlIeGRObw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-8f82da8370",
+    "title": "GTA 6 Gameplay Leaks: Deleted Rating Reportedly Reveals 'Detailed Decapitation' and Illegal Drugs",
+    "reportedAt": "2026-10-02T19:11:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac125b40d0f4b7db34d500772302201&url=https%3a%2f%2fwww.ibtimes.co.uk%2fgta-6-gameplay-leaks-deleted-rating-reportedly-reveals-detailed-decapitation-illegal-drugs-1823454&c=1219274104024636255&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
