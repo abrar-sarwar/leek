@@ -24474,5 +24474,83 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-cc364ba803",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaE5nYXJydmE2VzZnWjV5UW0yYXQ0YWVVSEJIUnpKVF95bW4weE5RTE51aDVOMjlLdzFQdmNCblE1N1RmbWpYZTh4ajN6T2NyOFQtSGp3N1J6dVZuVVlHMlJCYU5iX0xlS1B5OEJEZVdQZEVhcDVpUlhWSk5jT2NCaEFpNmlRUWJJQnZqMTJUYzVZRVVlMncwczdrbG11Sk9mN3hTQl9nbXBCU1lTTjJlRGNoNjJlTXVYZTNXZmR1NWI3bzZ5?oc=5",
+    "title": "GTA 6 blocks PS5 jailbreak and piracy on release date, requiring 14.10.00 firmware",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-10-03T02:13:00.000Z",
+    "discoveredAt": "2026-10-03T04:28:35.671Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-f185561bbb",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR2F0ckI2cy1MRVNndWJlcHdYbXhiRjF0TnV5ZU5pSURSYngtd2tyVmZZRWdCejc2cERUNjJEc3M5NFV5YjRLYUdKaWxFTjB0SGpzSUt1VjhpVG1rSGthMnFPUGl4X0dqXzItUmEtSEtGaEJxMmhEb0JzM1BsQlZ1bURQam54ZFpfNFhTOFhGWXNkWG5jeGI1Uk5lSDJveGNLVEg3ZjNza3NXc1ExSl9GWGhNeEZ1dw?oc=5",
+    "title": "'Nightmare Scenario' - GTA 6 Fans Fear The Worst As Leaks Become Far More Serious",
+    "publisher": "Pure Xbox",
+    "publishedAt": "2026-08-20T07:00:00.000Z",
+    "discoveredAt": "2026-10-03T04:28:35.671Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-006"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-62aacd3cd3",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQd0lIczVTX3FiZjlCS3dfYlBsaV91d1VWR1A1ZjR6T3FmNmNBOWRwVkV4bl9yV3pqajBiOWNwMXE2cURidWlhejVudVAxbGVsMFU3UmlkSWRCczZOSWFwakZzd181QzFKbjNMN3BYcFBwVHZ0b0NWN3hNTU5QWDl6NEQyUFBBd215aGxRMjY4cDZ2NzJsNnc?oc=5",
+    "title": "Hacker group leaks clips from hyped GTA 6 game",
+    "publisher": "The Copenhagen Post",
+    "publishedAt": "2026-08-21T07:00:00.000Z",
+    "discoveredAt": "2026-10-03T04:28:35.671Z",
+    "feed": "google-news",
+    "query": "CyberLeek arrest",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-4e4415d5bc",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac0847823dc43b2af575c7a5bfa6f82&url=https%3a%2f%2fwww.msn.com%2fen-us%2fentertainment%2fcelebrities%2fheat-x-gta-6-collab-miami-heat-partner-with-rockstar-games-for-official-gta-6-vice-city-night%2fvi-AA2drmkj&c=6681002236055592559&mkt=en-us",
+    "title": "Heat x GTA 6 collab: Miami Heat partner with Rockstar Games for official GTA 6 Vice City night",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-02T14:50:40.000Z",
+    "discoveredAt": "2026-10-03T04:28:35.671Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

@@ -7510,5 +7510,29 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-f185561bbb",
+    "title": "'Nightmare Scenario' - GTA 6 Fans Fear The Worst As Leaks Become Far More Serious",
+    "reportedAt": "2026-08-20T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR2F0ckI2cy1MRVNndWJlcHdYbXhiRjF0TnV5ZU5pSURSYngtd2tyVmZZRWdCejc2cERUNjJEc3M5NFV5YjRLYUdKaWxFTjB0SGpzSUt1VjhpVG1rSGthMnFPUGl4X0dqXzItUmEtSEtGaEJxMmhEb0JzM1BsQlZ1bURQam54ZFpfNFhTOFhGWXNkWG5jeGI1Uk5lSDJveGNLVEg3ZjNza3NXc1ExSl9GWGhNeEZ1dw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-62aacd3cd3",
+    "title": "Hacker group leaks clips from hyped GTA 6 game",
+    "reportedAt": "2026-08-21T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMilgFBVV95cUxQd0lIczVTX3FiZjlCS3dfYlBsaV91d1VWR1A1ZjR6T3FmNmNBOWRwVkV4bl9yV3pqajBiOWNwMXE2cURidWlhejVudVAxbGVsMFU3UmlkSWRCczZOSWFwakZzd181QzFKbjNMN3BYcFBwVHZ0b0NWN3hNTU5QWDl6NEQyUFBBd215aGxRMjY4cDZ2NzJsNnc?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
