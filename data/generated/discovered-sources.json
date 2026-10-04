@@ -24882,5 +24882,111 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-45248d7b4d",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSnk2TDdpRWdoUUpZRTZwLTRyZnN4SVB5Sk9NQmpCdFJ5cUM1NmJoUTM4R0MwVDh3WkZ6emNLazU2S1htR0FZak82UU1sN3c3cmRXWGJ2NWZoLXJtM180RHBzSFRhLWJOVDZ4TjVLRzNQNzBKVEJfU3FSV1ZueHpORFpkclY2aEdrTHRv?oc=5",
+    "title": "GTA 6 makers subpoena Google and X as Cyberleek hunt continues",
+    "publisher": "Mashable",
+    "publishedAt": "2026-08-24T07:00:00.000Z",
+    "discoveredAt": "2026-10-04T21:02:16.605Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "Google / YouTube"
+      ],
+      "claims": [
+        "LEEK-CLM-023"
+      ],
+      "category": "legal",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-0cf2a87d78",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbnBhQjI4TjBJdXZaTGc1OTZGbWxQRGQzVGgyR3RMVTItZGJLd200X1BQZ1RSZjJrUC1jVEZPd1pQNVFSN2VuUlNhWU1pNEg2V1NRNW1zUUYxa1pKOXV5eHNRUjBxZ0oyWnNZcHFjcjlhWVBDaThaeVhnb1NpcTBjcDVXaGZXU2FxM3YyTWhBb0V2S1VHdFA2S0lDMXNpd05uQWZF?oc=5",
+    "title": "GTA 6 Leak Reveals Cardi B and More",
+    "publisher": "comicbook.com",
+    "publishedAt": "2026-10-04T17:42:07.000Z",
+    "discoveredAt": "2026-10-04T21:02:16.605Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-5e44554f0e",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOEtCRHR2blpGdU5veUdLQTU3V0ZfUXRidVVjX2NoNEpnSTUtSm02ZUNueDZ5MkJUVjJNbXpsRHpCY2F3emVnWUI3QWQyWGtXQ0dIcFNUOWZKaFp3RU9nRXplUXZqNWxzNlhrZTE0a0RSUG9YaDZOQWJHZm10aDl6dm8weVQtNnFE?oc=5",
+    "title": "Discord says it hasn't been served Take-Two's GTA 6 leak subpoena, as some fear the requested user data is too broad",
+    "publisher": "Eurogamer.net",
+    "publishedAt": "2026-08-25T07:00:00.000Z",
+    "discoveredAt": "2026-10-04T21:02:16.605Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive",
+        "Discord"
+      ],
+      "claims": [
+        "LEEK-CLM-023"
+      ],
+      "category": "legal",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-049"
+    }
+  },
+  {
+    "id": "DISC-2e0309f74b",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVG5PMFFLTVIxbkVmWFI2VEdER3NyZEQxZTJXd21jU0RrSlNRMXpwQVVncVQ0OExUd1l0cms4VVNIZ2pJbWRqbTF2WUpKQWgzSTQ1dE4wQXBzTGwyWXFBaTE3c2NNMWlzTExjNFpTSnNQSlo4bUFheTl6MXlPZXF1UUVZNDBLcWM2S1FpNDJpbWMwV3ZteHZRSG10SHBFdGF4ZDBVZkRVRW14R3NOSGdodHV4MTE5eE45bkxxWlR6WWFVZw?oc=5",
+    "title": "Major artists on GTA 6 album leaked by Spotify, with soundtrack news anticipated",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-10-04T18:27:00.000Z",
+    "discoveredAt": "2026-10-04T21:02:16.605Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-746e72856a",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac2bedeac214bf78890c3eda3443c30&url=https%3a%2f%2farynews.tv%2fspotify-accidentally-leaks-cardi-b-and-fuerza-regida-for-the-gta-6-album&c=3755408265904256358&mkt=en-us",
+    "title": "Spotify accidentally leaks Cardi B and Fuerza Regida for the GTA 6 album",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-04T11:51:00.000Z",
+    "discoveredAt": "2026-10-04T21:02:16.605Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

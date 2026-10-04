@@ -7618,5 +7618,53 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-45248d7b4d",
+    "title": "GTA 6 makers subpoena Google and X as Cyberleek hunt continues",
+    "reportedAt": "2026-08-24T07:00:00.000Z",
+    "category": "legal",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSnk2TDdpRWdoUUpZRTZwLTRyZnN4SVB5Sk9NQmpCdFJ5cUM1NmJoUTM4R0MwVDh3WkZ6emNLazU2S1htR0FZak82UU1sN3c3cmRXWGJ2NWZoLXJtM180RHBzSFRhLWJOVDZ4TjVLRzNQNzBKVEJfU3FSV1ZueHpORFpkclY2aEdrTHRv?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-0cf2a87d78",
+    "title": "GTA 6 Leak Reveals Cardi B and More",
+    "reportedAt": "2026-10-04T17:42:07.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbnBhQjI4TjBJdXZaTGc1OTZGbWxQRGQzVGgyR3RMVTItZGJLd200X1BQZ1RSZjJrUC1jVEZPd1pQNVFSN2VuUlNhWU1pNEg2V1NRNW1zUUYxa1pKOXV5eHNRUjBxZ0oyWnNZcHFjcjlhWVBDaThaeVhnb1NpcTBjcDVXaGZXU2FxM3YyTWhBb0V2S1VHdFA2S0lDMXNpd05uQWZF?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-2e0309f74b",
+    "title": "Major artists on GTA 6 album leaked by Spotify, with soundtrack news anticipated",
+    "reportedAt": "2026-10-04T18:27:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVG5PMFFLTVIxbkVmWFI2VEdER3NyZEQxZTJXd21jU0RrSlNRMXpwQVVncVQ0OExUd1l0cms4VVNIZ2pJbWRqbTF2WUpKQWgzSTQ1dE4wQXBzTGwyWXFBaTE3c2NNMWlzTExjNFpTSnNQSlo4bUFheTl6MXlPZXF1UUVZNDBLcWM2S1FpNDJpbWMwV3ZteHZRSG10SHBFdGF4ZDBVZkRVRW14R3NOSGdodHV4MTE5eE45bkxxWlR6WWFVZw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-746e72856a",
+    "title": "Spotify accidentally leaks Cardi B and Fuerza Regida for the GTA 6 album",
+    "reportedAt": "2026-10-04T11:51:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac2bedeac214bf78890c3eda3443c30&url=https%3a%2f%2farynews.tv%2fspotify-accidentally-leaks-cardi-b-and-fuerza-regida-for-the-gta-6-album&c=3755408265904256358&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
