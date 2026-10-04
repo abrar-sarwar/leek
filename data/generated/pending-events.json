@@ -7606,5 +7606,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-6f99af4775",
+    "title": "Rockstar Games 'heartbroken' by Grand Theft Auto 6 leaks",
+    "reportedAt": "2026-08-26T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWFdiVGI0ZllzRE9RbkVmQy1Va0RTVXFrZXdPcE1vMVI2Yk9OZ2pBWU1uZUJqVzczS0otanRobk5MVGdsTGt5QTI5TTJ6cWRhclZEemZiS0psbUYyRGlWSkg2eDc1T0NvRV9OV2pfLVE4U2NHWGxRZ0ZDOHRiTU1pWGswT3VWUldybFJKVmlB?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

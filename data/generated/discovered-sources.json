@@ -24802,5 +24802,85 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-3eb2e5791f",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE94cXBXS0N6UGlhcDJieGh3V2ZyTTA4V0F0NVZKVHZ0VVhkb0piRWpMWHhfM2pOUnYzOS1lTmE3elZySDcyVkg2clhneE5KUQ?oc=5",
+    "title": "CyberLeek (CYBERLEEK) Price Today: CYBERLEEK Live Price, Charts, News",
+    "publisher": "Crypto.com",
+    "publishedAt": "2026-08-23T22:57:19.000Z",
+    "discoveredAt": "2026-10-04T16:48:10.560Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-30ed18626b",
+    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNcks0ZzlRRW4xUTB0b1Fva3FLVk9sY2E1c2dBQ09CYmtBc2VQMHByTTZFWG1oMjJRUDBDdk1SUnk2cHlEZFhxWS1YeG1KUGM4Zzl2REwtVk9zQl9QYlAxbTI5UTFsdWFnbm1reERnVVVOanpCZUYwYndta1RPWFFncnR3bFVyc0hjdGNLVF94X3IyU2NIS2g4UUdpTUFHSndKcG9GYTlBNU54ZXZKeTlWSjN2WVJQMldXYTFrUUY1Y09nVVhTYlcxd3lWcmdaa3JfSEU1SVNEU1p4cVdfaHltNEFJWFg4Q2VTdnRhZGt0bTFTanNlN3ZWblZ2QVc?oc=5",
+    "title": "New Grand Theft Auto 6 details have emerged, confirming a 're-engineered' weather system, 170 animal species, and 'the biggest range of garments and accessories we’ve ever made' — here are the top five new things we've learned about GTA 6",
+    "publisher": "TechRadar",
+    "publishedAt": "2026-10-01T16:40:36.000Z",
+    "discoveredAt": "2026-10-04T16:48:10.560Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-6f99af4775",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWFdiVGI0ZllzRE9RbkVmQy1Va0RTVXFrZXdPcE1vMVI2Yk9OZ2pBWU1uZUJqVzczS0otanRobk5MVGdsTGt5QTI5TTJ6cWRhclZEemZiS0psbUYyRGlWSkg2eDc1T0NvRV9OV2pfLVE4U2NHWGxRZ0ZDOHRiTU1pWGswT3VWUldybFJKVmlB?oc=5",
+    "title": "Rockstar Games 'heartbroken' by Grand Theft Auto 6 leaks",
+    "publisher": "GameDev.net",
+    "publishedAt": "2026-08-26T07:00:00.000Z",
+    "discoveredAt": "2026-10-04T16:48:10.560Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-026ba29a78",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac2834fa52b4378ac837c9fcbe10dc6&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fgta-6-gets-18-pegi-rating-with-graphic-violence-substance-use-and-sexual-content%2far-AA2dxT3l&c=2454535630913564223&mkt=en-us",
+    "title": "GTA 6 gets 18+ PEGI rating with graphic violence, substance use, and sexual content",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-04T05:27:50.000Z",
+    "discoveredAt": "2026-10-04T16:48:10.560Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
