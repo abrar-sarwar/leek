@@ -24720,5 +24720,87 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-b2c1188b7e",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QQ2RCMnktY09lX2lMY1NBZ200N0JVcG9Tcm9fU0NWaDV2anN1Zkw5SmN1NE9GUnZacXVfdWhuNHRSeURzRkt0QVdQUzFMSzBmWkxRckd4YUc?oc=5",
+    "title": "CyberLeek Price Today | CYBERLEEK to NZD Live Price, Market Cap & Chart",
+    "publisher": "Binance",
+    "publishedAt": "2026-10-02T03:37:00.000Z",
+    "discoveredAt": "2026-10-04T11:59:20.474Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-c5c36e5ff0",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nNW1vY01mVHhmcXZSRmpNdTJ1bkZGZGVQWmMwbVhTcUxIeWxmSGFOeUxMU3liakpVb01ieFpkUlY1V1U3NFBKSFlFWmxwNkpqbzBaRWlBVFRNLTVWSFozdQ?oc=5",
+    "title": "CyberLeek Price Today | CYBERLEEK Live Price, Chart & Market Cap",
+    "publisher": "OKX",
+    "publishedAt": "2026-08-23T22:49:46.000Z",
+    "discoveredAt": "2026-10-04T11:59:20.474Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-084a347942",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5haEVCMUhPZ0ZvLU02cFZ1ejRWTDZrb1N0SjM2VkJ4bXRySjZSU1RHZ1gtZ0lGQXIxQXNZNU5HUk44a1RIYlNiSkxvU09KcExXYVA0SUN3R3NGcjIxd1JKbXI4YmVaUQ?oc=5",
+    "title": "GTA 6 Leak: Lucia's Prologue Exposed in 4:38 Clip [2026]",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-08-26T07:00:00.000Z",
+    "discoveredAt": "2026-10-04T11:59:20.474Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-041"
+    }
+  },
+  {
+    "id": "DISC-c970a87e57",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jbmNxSDExUEZkTHlkbGNoMG94TnN3MHEzZldMYTBwdC1McTFGY0FJQ0VnLWVuTnlES3VQRHBIWHBtd2Y0NFJTUFFtTWFaYXFUVVNHNm1yMDB4TWtEV3pRUm41XzFRNU5lS3NZdw?oc=5",
+    "title": "GTA 6 Open World: Rockstar North Details 6 New Systems [2026]",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-10-04T10:18:45.000Z",
+    "discoveredAt": "2026-10-04T11:59:20.474Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

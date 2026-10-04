@@ -3214,5 +3214,21 @@
     "domains": [
       "news.google.com"
     ]
+  },
+  {
+    "date": "2026-10-04",
+    "feed": "google-news:CyberLeek",
+    "count": 3,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-10-04",
+    "feed": "google-news:GTA VI leak",
+    "count": 1,
+    "domains": [
+      "news.google.com"
+    ]
   }
 ]
