@@ -7582,5 +7582,29 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-5744a83006",
+    "title": "GTA 6 PEGI 18 Rating Deleted After Decapitation Leak [2026] - tech-insider.org",
+    "reportedAt": "2026-10-03T17:00:45.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaGwzQzM5TnhfcmJOYjVNTVlULUFrZVpQT2J4TVdrV2pwZ0xmVFE4d3VTMUdvX0tXeDF1WHFBdHhPSkM0V0JoTUJTS19DMmY0NTd6Qnd3MVJDbHBoamdRdXZPa1F4T0pBR1pPYW5OUnpFRjhPYTVGSVZDb2FIcXAxVHRjQQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-473f7f9be4",
+    "title": "GTA 6 leaker Cyberleek threatens more leaks after gameplay and map reveal",
+    "reportedAt": "2026-08-18T21:48:34.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMid0FVX3lxTE83YnEzYmhmS0F2ZHBiNTJLblp4QnltUDFMZ0FWVUNIQ2NDZkh2SnRJRXFnMElhVWVXUE56U1JRS0tCdktyaWVDSnNicThHME92dERpM2Q5OUJjV1h1MEZUZ2NaZk93akotTUx6VlVUZm1JMy1xZFFJ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
