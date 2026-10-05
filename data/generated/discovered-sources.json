@@ -24988,5 +24988,47 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-6d9752796c",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOczM5ZHo5T1hlcmx5M0JuZF9XR09OS1E2X1A0SjBRWnNEaTJTdGluVjdKVU1EbVpldGw4d25GMkp3MjlPZE9MMHkwTnhDSU9xMWFyMk03YnZrUFBfSndDcm9fOVg0WjFqdXY5ODZ5bUFrbEJUOTlaQlA2UnBwSXlWc21VR1J0Vk1Tc2M5MUZEdF9qQQ?oc=5",
+    "title": "Rockstar Are “Angry” And Can’t Find The GTA 6 Leaker Sources Say",
+    "publisher": "RockstarINTEL",
+    "publishedAt": "2026-08-21T07:00:00.000Z",
+    "discoveredAt": "2026-10-05T04:46:31.712Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-b8b2e0fc50",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac32bac7c6f401aaf0de51ba3de0840&url=https%3a%2f%2fbeebom.com%2fgta-6-spotify-leak-reveals-cardi-b-fuerza-regida-joining-soundtrack%2f&c=9107336538900015143&mkt=en-us",
+    "title": "GTA 6 Spotify Leak Reveals Cardi B and Fuerza Regida Could Be Joining the Soundtrack",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-04T17:00:00.000Z",
+    "discoveredAt": "2026-10-05T04:46:31.712Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
