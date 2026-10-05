@@ -7690,5 +7690,41 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-a6185f64ff",
+    "title": "GTA 6: Developers Rockstar Games breaks silence on dramatic leak of game",
+    "reportedAt": "2026-08-26T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdEVOdVRzX3R1UUtDQnRySGluWHZsdlpOZGY4QjMyS3E2S1BzTEdwRzNteHFxQ25xTmYzSFJ2V21MT0xJVEV2bWVlQTBKSnh1TVJrYVZuR1cxdlZLM2RYQjlhSnVhcUNfRDdYazR6QVpvU2RGWE5lMS1FTlhZVmZmUHF6MHdDMVk?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-aa6722be12",
+    "title": "GTA 6 Leaks: Complete CyberLeek Timeline & New Mechanics",
+    "reportedAt": "2026-08-26T02:06:13.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS1VIVTAxRHBzUHRLQjV6OU5aNmF3aGw4ZHNhYjFKNnlpclRYRl9NZlF5NHBvdUlZNjJZNldtSlY3RVZUdHo3WXY2UnB6eG5ySjZXbFhHSS1rdVhiLVNObVpkR3VRb242TkJJT2VDUlNlRmhIU1FMVi1IMTQyT2UzcXFkLVduT1R3UmJ6ZnNqbGZNRkU2aVJBanNaczc0aXVrWUpaSXVDWXFCY3ZkLWZsOU45MVdvVGs?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-f7cba36589",
+    "title": "GTA 6 TV Spot Reportedly Spotted on a News Station Schedule Leak",
+    "reportedAt": "2026-10-04T17:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac3ad8313674c509dc94a74a61c2954&url=https%3a%2f%2fbeebom.com%2fgta-6-tv-spot-leaked-news-station-schedule%2f&c=7475846024092688959&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
