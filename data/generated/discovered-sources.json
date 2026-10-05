@@ -25110,5 +25110,219 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-5f4b865458",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Kd3VBVE5ZRUxXcm9JOGVaWUp6SHdCM0JrcEUtcGNoeURmNTE1ZHZkLU5xbHJoT0pkNml0ZmZJckJkempHRDFhOHpJa3p2djFIbWtodUZ4aUE1YTRsYk9FY2ZzVF9CYXJ2cVNPT0JweDYwVzRhYk9LLWJrcmk?oc=5",
+    "title": "After Weeks Of Silence, Cyberleek Might Be Back With More GTA 6 Leaks",
+    "publisher": "TheGamer",
+    "publishedAt": "2026-10-05T14:50:30.000Z",
+    "discoveredAt": "2026-10-05T23:52:47.323Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-007"
+    }
+  },
+  {
+    "id": "DISC-a1aea87c22",
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNanh0YW05UXlvdnNsTHBkRHJPWGdObkp1YUdWeXlQQXFJNWtmeUJsOXpNZFR3ZlJyQUZfTEdjaFZlc1VjVnliVFNZUG5odHRqVXBVcC1oZjAwSHE0OTlWLWFFUXVkWEw4NE1Xbm5uSTNxNlAzWUNoMFFxcHBGc0FpQW8xSjZGa3B1WmVCYlZ4T1dWX2pYd2lKeHRPb1N3UDFOZEV5cjUtMHg3S3dzMFB6NVVNRzRMcmJaWVBaT3pyZ2tRV3JJcDNwekNBU1VtTmlmQkV3Rnh5NFJiTXZyUW5fNDJKOXFrclpMbnBkelJQVDVXSURta2x1ZVln?oc=5",
+    "title": "GTA VI Leaker CyberLeek Appears to Resurface and Teases a Return This Week With New Details on Rockstar Games’ Highly Anticipated Game",
+    "publisher": "levelup.com",
+    "publishedAt": "2026-10-05T17:24:21.000Z",
+    "discoveredAt": "2026-10-05T23:52:47.323Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-007"
+    }
+  },
+  {
+    "id": "DISC-598d0ae469",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOXJNWnctLW5IdkhfZTUycW5zVUJaNzE5WUwtc2pDcEZMUENpWkg2WnVPN1F4WUJ6akNSQ3p2VzU0cWtzZ2FfRm9zS3g4WmltSHVKZG1vQ01PTk8xbzdrUDQ0OTNsaFpTSGVHZzVIeUl2emZhSFhPaHh3dlhEZDNDMGwySWpsOFg1TlUtb3dDSGNSXzRfY2Jhc19TWFJvZjV5QXVhVFN3?oc=5",
+    "title": "Cyberleek Might Be Back, As The GTA 6 Leak Website Just Got A New Poll",
+    "publisher": "OpenCritic",
+    "publishedAt": "2026-10-05T20:48:45.000Z",
+    "discoveredAt": "2026-10-05T23:52:47.323Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-5400993b49",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOEhfRXE2Z1l2dEZJT1NhNE1QM1ZwV3BTR0pGNzdIcVNkNEFqeTYybnpHTzJncDRMREVXN2xCQURSZm41YWpOb2V1WS1FZ3ZzY0VGNkZMSkNFcS1PNnVQZ1RNTDdBcTZ1bjJoemNzRFJzSndrcFptZ2p5U1pDUUQxdzNIVFZuUUc4SWpTRVhjLWg2dEs1dENQMEFXZTBwdlB3NFYwSm54ck1wUHZ0VmlKdVp5allrYllDQ1hVOTIwdzl1dkk?oc=5",
+    "title": "GTA 6 leaker CyberLeek may be back, raising fears of spoilers before release date",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-10-05T16:20:00.000Z",
+    "discoveredAt": "2026-10-05T23:52:47.323Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-2f661c3e40",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa29HWFdkSDNZRmNhSWRSN3hLM0Y4R2VDbzN1dnY3Y3NyT0lRYWNwalVKalVYZk5EVndSN3AzWFVBRG56YVdIaE5Ua3U0QVU5UWVrWGlmYkZmU05iWHZuVW14ZE5vZS11c2o1YTRoTnl3V3ZrU1BsaGFrNnF2RTBHaXlpTWJobFNrTVdLdXdDcHRVQjQ?oc=5",
+    "title": "GTA 6 leaker CyberLeek may be back ahead of November release",
+    "publisher": "news.lavx.hu",
+    "publishedAt": "2026-10-05T16:30:01.000Z",
+    "discoveredAt": "2026-10-05T23:52:47.323Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-dab58e79bc",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYzVHUEt5TS0tWFZ2MHVyZzJBaGhDcTMwZkhjY1V2c0JPbmJoN3l5aDhiUW5KUTF4T2pkNmdLWnVhencxOVI1Wnoyb01uMlUwQms3VXlkdWpvQTZMZE1Fck50bjF6U2NUSmoyNklXTFlkMFdfQWJhcERIbmdoa2ttWTF3ZVhrdEhKd2dSUmNqc0VuM2s?oc=5",
+    "title": "GTA 6 Leaks Saga Continues! Cyberleek Reveals Nudist Town",
+    "publisher": "TechJuice",
+    "publishedAt": "2026-08-24T07:00:00.000Z",
+    "discoveredAt": "2026-10-05T23:52:47.323Z",
+    "feed": "google-news",
+    "query": "CyberLeek arrest",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-a7e3b9db46",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac438542b424047a617f84fa05d013b&url=https%3a%2f%2fwww.msn.com%2fen-xl%2fnews%2fother%2fcyberleek-is-back-gta-6-leaker-s-website-is-active-again-with-mysterious-poll%2far-AA2dClIp&c=250621902413329496&mkt=en-us",
+    "title": "Cyberleek is back? GTA 6 leaker’s website is active again with mysterious poll",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-05T11:24:34.000Z",
+    "discoveredAt": "2026-10-05T23:52:47.323Z",
+    "feed": "bing-news",
+    "query": "Cyberleek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-007"
+    }
+  },
+  {
+    "id": "DISC-5993e5f940",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac438542b424047a617f84fa05d013b&url=https%3a%2f%2fwww.sportskeeda.com%2fgta%2fnews-gta-6-leaker-cyberleek-may-resurfaced-mysterious-new-poll&c=13795687442947877540&mkt=en-us",
+    "title": "GTA 6 leaker Cyberleek may have resurfaced with mysterious new poll",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-05T10:53:00.000Z",
+    "discoveredAt": "2026-10-05T23:52:47.323Z",
+    "feed": "bing-news",
+    "query": "Cyberleek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-007"
+    }
+  },
+  {
+    "id": "DISC-d151e2cfa8",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac43854aed44b1e8c296d26dcb4e048&url=https%3a%2f%2fopencritic.com%2fnews%2f37177%2fgta-6-leak-reveals-even-more-artists-for-game-s-stacked-soundtrack&c=2621381629005372773&mkt=en-us",
+    "title": "GTA 6 Leak Reveals Even More Artists For Game’s Stacked Soundtrack",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-04T17:00:00.000Z",
+    "discoveredAt": "2026-10-05T23:52:47.323Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-4a3f4f2a09",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac438552b3445e4a04a83c6c2c47e1f&url=https%3a%2f%2fwww.gamespot.com%2farticles%2f10-new-things-we-just-learned-about-gta-6%2f&c=14714102293133665558&mkt=en-us",
+    "title": "10 New Things We Just Learned About GTA 6",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-05T07:04:00.000Z",
+    "discoveredAt": "2026-10-05T23:52:47.323Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

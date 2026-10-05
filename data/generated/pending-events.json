@@ -7726,5 +7726,65 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-598d0ae469",
+    "title": "Cyberleek Might Be Back, As The GTA 6 Leak Website Just Got A New Poll",
+    "reportedAt": "2026-10-05T20:48:45.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOXJNWnctLW5IdkhfZTUycW5zVUJaNzE5WUwtc2pDcEZMUENpWkg2WnVPN1F4WUJ6akNSQ3p2VzU0cWtzZ2FfRm9zS3g4WmltSHVKZG1vQ01PTk8xbzdrUDQ0OTNsaFpTSGVHZzVIeUl2emZhSFhPaHh3dlhEZDNDMGwySWpsOFg1TlUtb3dDSGNSXzRfY2Jhc19TWFJvZjV5QXVhVFN3?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-5400993b49",
+    "title": "GTA 6 leaker CyberLeek may be back, raising fears of spoilers before release date",
+    "reportedAt": "2026-10-05T16:20:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOEhfRXE2Z1l2dEZJT1NhNE1QM1ZwV3BTR0pGNzdIcVNkNEFqeTYybnpHTzJncDRMREVXN2xCQURSZm41YWpOb2V1WS1FZ3ZzY0VGNkZMSkNFcS1PNnVQZ1RNTDdBcTZ1bjJoemNzRFJzSndrcFptZ2p5U1pDUUQxdzNIVFZuUUc4SWpTRVhjLWg2dEs1dENQMEFXZTBwdlB3NFYwSm54ck1wUHZ0VmlKdVp5allrYllDQ1hVOTIwdzl1dkk?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-2f661c3e40",
+    "title": "GTA 6 leaker CyberLeek may be back ahead of November release",
+    "reportedAt": "2026-10-05T16:30:01.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa29HWFdkSDNZRmNhSWRSN3hLM0Y4R2VDbzN1dnY3Y3NyT0lRYWNwalVKalVYZk5EVndSN3AzWFVBRG56YVdIaE5Ua3U0QVU5UWVrWGlmYkZmU05iWHZuVW14ZE5vZS11c2o1YTRoTnl3V3ZrU1BsaGFrNnF2RTBHaXlpTWJobFNrTVdLdXdDcHRVQjQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-dab58e79bc",
+    "title": "GTA 6 Leaks Saga Continues! Cyberleek Reveals Nudist Town",
+    "reportedAt": "2026-08-24T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYzVHUEt5TS0tWFZ2MHVyZzJBaGhDcTMwZkhjY1V2c0JPbmJoN3l5aDhiUW5KUTF4T2pkNmdLWnVhencxOVI1Wnoyb01uMlUwQms3VXlkdWpvQTZMZE1Fck50bjF6U2NUSmoyNklXTFlkMFdfQWJhcERIbmdoa2ttWTF3ZVhrdEhKd2dSUmNqc0VuM2s?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-d151e2cfa8",
+    "title": "GTA 6 Leak Reveals Even More Artists For Game’s Stacked Soundtrack",
+    "reportedAt": "2026-10-04T17:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac43854aed44b1e8c296d26dcb4e048&url=https%3a%2f%2fopencritic.com%2fnews%2f37177%2fgta-6-leak-reveals-even-more-artists-for-game-s-stacked-soundtrack&c=2621381629005372773&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
