@@ -25368,5 +25368,67 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-3547b10953",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMHZHY2Y5d3VZczNsRHR6bFhqZVlnX0VFem54dV8tV0VjODRCelJyUUowWlRycGRRd3BjZFF2aHJyQ0Z5Q0hodmotZ0N6THpvRW1nRkVjMG1NbERfX1lieDVacHNOMnVFY0hwdTBjU05kV3BZU2VqTndJal9BdlIxd1pPUVV6SUxGUHFDUlNB?oc=5",
+    "title": "GTA 6 launch countdown threatened as Cyberleek teases sudden return",
+    "publisher": "GAMINGbible",
+    "publishedAt": "2026-10-06T12:00:00.000Z",
+    "discoveredAt": "2026-10-06T13:00:37.961Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-5c60687b48",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac4f0fac87a4bbfaba1ec0e2646e379&url=https%3a%2f%2fgameranx.com%2fupdates%2fid%2f564292%2farticle%2frumor-gta-6-leaker-cyberleek-is-back-with-a-new-poll%2f&c=10330038766191410789&mkt=en-us",
+    "title": "Rumor: GTA 6 Leaker Cyberleek Is Back With A New Poll (?)",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-06T02:32:00.000Z",
+    "discoveredAt": "2026-10-06T13:00:37.961Z",
+    "feed": "bing-news",
+    "query": "CyberLeek",
+    "suggestedTier": 11,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "misinformation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-007"
+    }
+  },
+  {
+    "id": "DISC-6e2219985f",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac4f0fbe8a0467386bf27c2aa6cbfe2&url=https%3a%2f%2fthesource.com%2f2026%2f10%2f06%2fgta-6-is-coming-reported-in-game-cocaine-use-wild-miami-life-research-and-more-ahead-of-release%2f&c=11201022895352013247&mkt=en-us",
+    "title": "GTA 6 is Coming: Reported In-Game Cocaine Use, Wild Miami Life Research and More Ahead of Release",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-06T04:42:00.000Z",
+    "discoveredAt": "2026-10-06T13:00:37.961Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

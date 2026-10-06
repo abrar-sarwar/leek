@@ -7810,5 +7810,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-6e2219985f",
+    "title": "GTA 6 is Coming: Reported In-Game Cocaine Use, Wild Miami Life Research and More Ahead of Release",
+    "reportedAt": "2026-10-06T04:42:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac4f0fbe8a0467386bf27c2aa6cbfe2&url=https%3a%2f%2fthesource.com%2f2026%2f10%2f06%2fgta-6-is-coming-reported-in-game-cocaine-use-wild-miami-life-research-and-more-ahead-of-release%2f&c=11201022895352013247&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
