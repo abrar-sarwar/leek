@@ -7786,5 +7786,29 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-d0b9bde908",
+    "title": "GTA 6 Leak Site Cyberleek Breaks 2-Month Silence [2026]",
+    "reportedAt": "2026-10-05T22:53:47.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TXzkwRlloVURSQXhyQVl4RnRHRkRxZWo0TlhrZmRmaXhyYU13QlRMV0tRWnVhN1hJaENOOTI4M1lNUTRLWlFnYUtYd3dTZXljaWZaZzd0VFhSdXpSQVExbl9tRkdyUEU?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-ee2d217d66",
+    "title": "Take-Two Issues Another Subpoena In GTA 6 Leaks Legal Battle",
+    "reportedAt": "2026-09-23T14:40:20.000Z",
+    "category": "legal",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwSE8zZWYxamwwQnk5MVVpVDBnQWc2WVl1SWstY080VUxFeFpZS1RoUUw4bzZOa3N1LWRSV1FYRWEyejlyUGJzVFRWUDVXNVNYSm5UbkNtblllMUZiWlpDSXo1VXA2XzA?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

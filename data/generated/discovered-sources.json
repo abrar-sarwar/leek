@@ -25324,5 +25324,49 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-d0b9bde908",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TXzkwRlloVURSQXhyQVl4RnRHRkRxZWo0TlhrZmRmaXhyYU13QlRMV0tRWnVhN1hJaENOOTI4M1lNUTRLWlFnYUtYd3dTZXljaWZaZzd0VFhSdXpSQVExbl9tRkdyUEU?oc=5",
+    "title": "GTA 6 Leak Site Cyberleek Breaks 2-Month Silence [2026]",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-10-05T22:53:47.000Z",
+    "discoveredAt": "2026-10-06T05:33:10.240Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-ee2d217d66",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwSE8zZWYxamwwQnk5MVVpVDBnQWc2WVl1SWstY080VUxFeFpZS1RoUUw4bzZOa3N1LWRSV1FYRWEyejlyUGJzVFRWUDVXNVNYSm5UbkNtblllMUZiWlpDSXo1VXA2XzA?oc=5",
+    "title": "Take-Two Issues Another Subpoena In GTA 6 Leaks Legal Battle",
+    "publisher": "IMDb",
+    "publishedAt": "2026-09-23T14:40:20.000Z",
+    "discoveredAt": "2026-10-06T05:33:10.240Z",
+    "feed": "google-news",
+    "query": "Take-Two CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive"
+      ],
+      "claims": [
+        "LEEK-CLM-023"
+      ],
+      "category": "legal",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
