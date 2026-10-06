@@ -25430,5 +25430,65 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-64fbda6d40",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNXzd4aU14VUpPaXdjUGd0cEl5aENMTlVYTE1KcG9wXzhOWmN6WFpqTjJpSWdBSmt2RVVCdUhhek11R2xWenNUYmRmandBZ1NidnVfRVpoTHdkc3p4a25tX0h1MWlaaFVNeVYxTTh2eXAtSEtQV2lreVNVQ0xQSzlBbTZGMnZHMGdZeXc?oc=5",
+    "title": "GTA 5 plays free in a browser, then the site vanishes within hours",
+    "publisher": "Pasquale Pillitteri",
+    "publishedAt": "2026-10-06T16:27:48.000Z",
+    "discoveredAt": "2026-10-06T22:29:42.908Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-4066e7b5c4",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdExkclhSRHVJbWpHcHR2NC0xNzFfaXpYbEQ3aTloZE9sVVVRU0R1MDZWUVRac09yRGhSWllqVkN4OUZ4QkJGQ0hudWlGUE12MktxU0hNcUwySi1FOVJYbkdnc0tDV1RsRjV2bXg1SE5UYjUyMDRVdGs0SGJYajVRczdqeFJNNTl6?oc=5",
+    "title": "GTA 6 Hacker Hits Back At Scam Allegations By Burning $1 Million",
+    "publisher": "TheGamer",
+    "publishedAt": "2026-08-23T07:00:00.000Z",
+    "discoveredAt": "2026-10-06T22:29:42.908Z",
+    "feed": "google-news",
+    "query": "Take-Two CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-73392062c1",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zSno5WC1HTS1wVlppNTlHVXZBa0RfLU9HdDFCRWY3RkctRldSZ2o4a0tILXNZSWRUQ1U2SHp6LTlyUEdqUVR1bE14MUhac1BEZTBMaElvejZjcHND?oc=5",
+    "title": "Hackers Leak GTA 6 and Launch a Token: Leaked Footage Becomes $CYBERLEEK Ad Space—Buy Tokens to Vote Before Watching th…",
+    "publisher": "深潮TechFlow",
+    "publishedAt": "2026-08-23T07:00:00.000Z",
+    "discoveredAt": "2026-10-06T22:29:42.908Z",
+    "feed": "google-news",
+    "query": "CyberLeek $CYBERLEEK",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-013"
+    }
   }
 ]
