@@ -25593,5 +25593,195 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-0d739dd382",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9aM0tSTFRqcVdMZHk0Qmk5M3o0RUVqbFlZYUhBQkRoakhRNVo2SFNHZnB5TTRKUm9tdGlGclBaVGNqblVWSjh4OGlhYkEwUU1RRWtUc0lGWG4?oc=5",
+    "title": "CyberLeek Price Today in India | CYBERLEEK to INR Live Price & Chart",
+    "publisher": "Binance",
+    "publishedAt": "2026-10-05T08:21:00.000Z",
+    "discoveredAt": "2026-10-07T12:54:55.072Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-3c67590f94",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPalM5bE5YYXdWc3R3NWlPdTcxOC1NaHRtTWo5NDN0LXFkRXAyWWhuSXNWdGtGZlRWRm1qaXRQNjVUUUZZbXBZdGp0ZlBUZlZCcEVyQzJfYllNbTBUbkd4M0JjS1oyN1JYMHNMM19qQnRxLURQaEs3eVNMektvQmx3VUwtV1ZRejdRVGJvdTVudEF0Q0NHNENQOTFzVkNjZHdIc0pIVW5ySGdSNWRUbk5jZzlCNURyT1g5UXYzU2hR?oc=5",
+    "title": "GTA 6 and Discord collaboration leak points to limited-time November event",
+    "publisher": "AltChar",
+    "publishedAt": "2026-10-07T08:41:00.000Z",
+    "discoveredAt": "2026-10-07T12:54:55.072Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Discord"
+      ],
+      "claims": [],
+      "category": "discord",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-eb1e30739c",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaEZoTHd1M3loQVBIRkRkdEoyaTFCNnJ0TEhDQWpfcHhYU1dhWXpubU1TcXBnSW1nWjZ3b05NMWo5N2Z4SHBpbVRMVUdjMUxtVFpzbEozaERqV1dfMFhZbHNyQmZpMzRuU3hlWGRVRXFUV01odldrWDJhY2s0MzBOU1hmSWhuZjZiN0toTGhyZ0VDVVh4Vm1ybVRLYlY3MFNyWWVuQzFDM2xpWHY0UHczaGZR?oc=5",
+    "title": "There's some confusiong regarding GTA VI and XBOX Cloud Gaming",
+    "publisher": "Instant Gaming News",
+    "publishedAt": "2026-10-07T08:58:10.000Z",
+    "discoveredAt": "2026-10-07T12:54:55.072Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-006"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-443e1e9202",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBvZTVFOEQ5RDY2TUxjeVZTakZqbzR3dzB2RDFxWGRiSFFaYTI5eDdKU0ozcl8tdEhyalhEUlVnWUd5QTBWMDVuQlBtN3daNDUtaE1OZVppRk5iY09mcF9ZTUtYb2ZkdHBzSmlCT1hrLTNaSFBYSElSaUtzd2s?oc=5",
+    "title": "GTA 6 before release: fake leaks, \"early access\", and other scams",
+    "publisher": "Kaspersky",
+    "publishedAt": "2026-10-06T15:21:40.000Z",
+    "discoveredAt": "2026-10-07T12:54:55.072Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-004"
+      ],
+      "category": "misinformation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-412ce1a9f2",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTVNjT2lsNndxZHBnV1phTXlXX3hRai0wSzR3ZE45dVpBVnVYSXN5bjEybHJta3JhYzBHNjhzSHJodjdsbG50R0tVYkxSN3N0elVTT2JtVklDS0lmNmlfLUVUV0VTZ2I0UUtJRGRxTEFRYjQtZGxuTENRdnZVVWcxNkNzNGl2WDBHb0ZXay15OGpNb2RDQ2l2Tk5POFZYNVF2VmNxMmdFdk14bjl0SUswT2IxQ1RCUQ?oc=5",
+    "title": "GTA 6: Leaked Discord promo sparks new speculation about the PC version",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-10-07T10:12:00.000Z",
+    "discoveredAt": "2026-10-07T12:54:55.072Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Discord"
+      ],
+      "claims": [
+        "LEEK-CLM-007"
+      ],
+      "category": "discord",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-e2e86eee5f",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdXJwZll6TjRBN3hhOGpraEVkZEZjMnNRQld2SjdqWk00NmxBYml1NXRIeXNZR2JWZkZpYXpsX3NfWlpDSDNxblFiWnJJQVJxX0hSNmF3NTY1Ui1wZmpmM212ak4xRWJfa21pMzVGVnJqZDdwMUZ4Z2MxZmZGbFIxdmVQMjIyVTJNSmpLbVFZWQ?oc=5",
+    "title": "New GTA 6 Leak Hints At Time-Limited Collaboration With Discord",
+    "publisher": "80 Level",
+    "publishedAt": "2026-10-07T12:23:45.000Z",
+    "discoveredAt": "2026-10-07T12:54:55.072Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Discord"
+      ],
+      "claims": [],
+      "category": "discord",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-29a3da0628",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac6412457974861b295481683ac1acc&url=https%3a%2f%2fwww.sportskeeda.com%2fgta%2fnews-gta-6-discord-campaign-leak-new-app-icon-theme-custom-font-reportedly-coming&c=2018331145577196527&mkt=en-us",
+    "title": "GTA 6 Discord campaign leak: New app icon, theme, and custom font reportedly coming",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-07T02:57:00.000Z",
+    "discoveredAt": "2026-10-07T12:54:55.072Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games",
+        "Discord"
+      ],
+      "claims": [],
+      "category": "discord",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-be779842c7",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac6412457974861b295481683ac1acc&url=https%3a%2f%2f80.lv%2farticles%2fnew-gta-6-leak-hints-at-limited-time-collaboration-with-discord&c=12479631280534974982&mkt=en-us",
+    "title": "New GTA 6 Leak Hints At Limited-Time Collaboration With Discord",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-07T05:21:00.000Z",
+    "discoveredAt": "2026-10-07T12:54:55.072Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Discord"
+      ],
+      "claims": [],
+      "category": "discord",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-9b4b46525c",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac6412457974861b295481683ac1acc&url=https%3a%2f%2fwww.gamespot.com%2farticles%2fgta-6-pc-release-date-estimate-rumors-and-news%2f&c=9173607717447809548&mkt=en-us",
+    "title": "GTA 6 PC Release Date Estimate, Rumors, And News",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-07T03:36:00.000Z",
+    "discoveredAt": "2026-10-07T12:54:55.072Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "misinformation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

@@ -7870,5 +7870,65 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-3c67590f94",
+    "title": "GTA 6 and Discord collaboration leak points to limited-time November event",
+    "reportedAt": "2026-10-07T08:41:00.000Z",
+    "category": "discord",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMivgFBVV95cUxPalM5bE5YYXdWc3R3NWlPdTcxOC1NaHRtTWo5NDN0LXFkRXAyWWhuSXNWdGtGZlRWRm1qaXRQNjVUUUZZbXBZdGp0ZlBUZlZCcEVyQzJfYllNbTBUbkd4M0JjS1oyN1JYMHNMM19qQnRxLURQaEs3eVNMektvQmx3VUwtV1ZRejdRVGJvdTVudEF0Q0NHNENQOTFzVkNjZHdIc0pIVW5ySGdSNWRUbk5jZzlCNURyT1g5UXYzU2hR?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-412ce1a9f2",
+    "title": "GTA 6: Leaked Discord promo sparks new speculation about the PC version",
+    "reportedAt": "2026-10-07T10:12:00.000Z",
+    "category": "discord",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTVNjT2lsNndxZHBnV1phTXlXX3hRai0wSzR3ZE45dVpBVnVYSXN5bjEybHJta3JhYzBHNjhzSHJodjdsbG50R0tVYkxSN3N0elVTT2JtVklDS0lmNmlfLUVUV0VTZ2I0UUtJRGRxTEFRYjQtZGxuTENRdnZVVWcxNkNzNGl2WDBHb0ZXay15OGpNb2RDQ2l2Tk5POFZYNVF2VmNxMmdFdk14bjl0SUswT2IxQ1RCUQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-e2e86eee5f",
+    "title": "New GTA 6 Leak Hints At Time-Limited Collaboration With Discord",
+    "reportedAt": "2026-10-07T12:23:45.000Z",
+    "category": "discord",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdXJwZll6TjRBN3hhOGpraEVkZEZjMnNRQld2SjdqWk00NmxBYml1NXRIeXNZR2JWZkZpYXpsX3NfWlpDSDNxblFiWnJJQVJxX0hSNmF3NTY1Ui1wZmpmM212ak4xRWJfa21pMzVGVnJqZDdwMUZ4Z2MxZmZGbFIxdmVQMjIyVTJNSmpLbVFZWQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-29a3da0628",
+    "title": "GTA 6 Discord campaign leak: New app icon, theme, and custom font reportedly coming",
+    "reportedAt": "2026-10-07T02:57:00.000Z",
+    "category": "discord",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac6412457974861b295481683ac1acc&url=https%3a%2f%2fwww.sportskeeda.com%2fgta%2fnews-gta-6-discord-campaign-leak-new-app-icon-theme-custom-font-reportedly-coming&c=2018331145577196527&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-be779842c7",
+    "title": "New GTA 6 Leak Hints At Limited-Time Collaboration With Discord",
+    "reportedAt": "2026-10-07T05:21:00.000Z",
+    "category": "discord",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac6412457974861b295481683ac1acc&url=https%3a%2f%2f80.lv%2farticles%2fnew-gta-6-leak-hints-at-limited-time-collaboration-with-discord&c=12479631280534974982&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
