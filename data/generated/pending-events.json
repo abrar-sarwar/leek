@@ -7930,5 +7930,41 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-7769dcad6d",
+    "title": "Fuerza Regida Tease Involvement in Grand Theft Auto VI Following Soundtrack Leak",
+    "reportedAt": "2026-10-07T20:37:48.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeWx6dTB0OGVoaEJveDZQdGw3REx6aFNyWUIxazFXdUhSUTdjaWFOWE9qRFhWcnA4RXNIa05scWtYUVlZTGVLVEdtX3BJUnlmX2MtQ3k2VWs3NHo5MHJLZEwxdzcxaVdMTmduSUhvRDZrQVB5U1hHeWlOWTBaYUJWTkdUNA?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-e6ebcef816",
+    "title": "GTA 6 Leak Reveals New Collaboration With Discord",
+    "reportedAt": "2026-10-07T09:24:41.000Z",
+    "category": "discord",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiggFBVV95cUxONWZoaUdMcHl3NmxENEl1YzhmUEFkUVRiODlBOUZ0MWVidFZIRm5iSWIwZ01LSlV6UmllLWdaMFlkNmE3aHhDSHlwTFVLbmJFVU5pTUJKbElrWV9yUnA3Ykk3UHBLbkNJaFljU29LRFc1TFV5TnNNVFE5c042MWJQdTRR?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-0962057dd3",
+    "title": "GTA V Playable In Browser And On Mobile With GTA 6 Map",
+    "reportedAt": "2026-10-06T08:48:28.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMHZNQWdfeHYyUHB0aTBzcHJYT0M3WXJrVFF1SnNxRWxma01jcDJSLU1RelJMS0JfWEtIUWt4WFVzVks4d3c5X2J6a3ZkN09ZTlJUOVE3NHBZZ0M1U1NzdWdWY2NQS0ZZVjBkMkJxcXFWT25hZU84TDZjV29BdUNZVkt6WUpYQWdI?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

@@ -25783,5 +25783,69 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-7769dcad6d",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeWx6dTB0OGVoaEJveDZQdGw3REx6aFNyWUIxazFXdUhSUTdjaWFOWE9qRFhWcnA4RXNIa05scWtYUVlZTGVLVEdtX3BJUnlmX2MtQ3k2VWs3NHo5MHJLZEwxdzcxaVdMTmduSUhvRDZrQVB5U1hHeWlOWTBaYUJWTkdUNA?oc=5",
+    "title": "Fuerza Regida Tease Involvement in Grand Theft Auto VI Following Soundtrack Leak",
+    "publisher": "Consequence of Sound",
+    "publishedAt": "2026-10-07T20:37:48.000Z",
+    "discoveredAt": "2026-10-07T22:53:35.221Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-e6ebcef816",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONWZoaUdMcHl3NmxENEl1YzhmUEFkUVRiODlBOUZ0MWVidFZIRm5iSWIwZ01LSlV6UmllLWdaMFlkNmE3aHhDSHlwTFVLbmJFVU5pTUJKbElrWV9yUnA3Ykk3UHBLbkNJaFljU29LRFc1TFV5TnNNVFE5c042MWJQdTRR?oc=5",
+    "title": "GTA 6 Leak Reveals New Collaboration With Discord",
+    "publisher": "RockstarINTEL",
+    "publishedAt": "2026-10-07T09:24:41.000Z",
+    "discoveredAt": "2026-10-07T22:53:35.221Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games",
+        "Discord"
+      ],
+      "claims": [],
+      "category": "discord",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-0962057dd3",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMHZNQWdfeHYyUHB0aTBzcHJYT0M3WXJrVFF1SnNxRWxma01jcDJSLU1RelJMS0JfWEtIUWt4WFVzVks4d3c5X2J6a3ZkN09ZTlJUOVE3NHBZZ0M1U1NzdWdWY2NQS0ZZVjBkMkJxcXFWT25hZU84TDZjV29BdUNZVkt6WUpYQWdI?oc=5",
+    "title": "GTA V Playable In Browser And On Mobile With GTA 6 Map",
+    "publisher": "RockstarINTEL",
+    "publishedAt": "2026-10-06T08:48:28.000Z",
+    "discoveredAt": "2026-10-07T22:53:35.221Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-001"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
