@@ -7822,5 +7822,53 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-24cd9dcbf5",
+    "title": "GTA 6 TV Commercial Leak: What We Know So Far, Is it Real?",
+    "reportedAt": "2026-10-06T23:57:18.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNGduN2hFbHQtNnpjNXFiT2RqZ243YlZVa216WEJLV2dlNjNKMVBkMURtb1otR0p3Q1lfTVdZMEZtMENZRi1hSldXS3RiOXlRdFBYSFRVaktpb3hpRVN3VEo1UkdZWVB3aFJGTTV1VHpxUU9lcm1TMWhDNzl0V0dsSUZoZWcyQ1UzTEFGZ3g2YV8wRzU2SHd6YmN4STFkX25SMjRTaEl0R3J1Rmk5MF9GdHoxVjBjU1VIc0drT09SYXZIVUFTZ0hZTHR1WGl1amhCdzVCaEtjTDBGcXVUWjRB?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-f61078a761",
+    "title": "GTA 6 Leak Reveals Limited-Time Promotion with Discord",
+    "reportedAt": "2026-10-07T00:48:32.000Z",
+    "category": "discord",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMigwFBVV95cUxNU256aGFvLTdEbkozb09La3hHMkhENDAxQVZVNjNFTnIwRU1fa0VvdHJ4QjdYcER0VlRUV25IdVpTLTFuODZGN2JaekQ5T0o2dkNrMUhKX28xUWg0YWtmeWFIY3o0ZU9tUVlybFVKMGN3RDVoTTRkYlEyek5uYjBOT3NTQQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-e3c8950386",
+    "title": "A GTA 6 TV Spot Just Showed Up On A Fox Affiliate Schedule — And Rockstar Hasn't Confirmed It",
+    "reportedAt": "2026-10-06T16:57:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac5d289e9354dc996ac9e72ef38f865&url=https%3a%2f%2fwww.forbes.com%2fsites%2fbrianmazique%2f2026%2f10%2f06%2fa-gta-6-tv-spot-just-showed-up-on-a-fox-affiliate-schedule---and-rockstar-hasnt-confirmed-it%2f&c=14566577341068453415&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-41a7aa105d",
+    "title": "GTA 6 Discord Campaign Leaked with Exclusive App Theme and a Possible Quest",
+    "reportedAt": "2026-10-06T17:00:00.000Z",
+    "category": "discord",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac5d289e9354dc996ac9e72ef38f865&url=https%3a%2f%2fbeebom.com%2fgta-6-discord-campaign-leaked-with-quest-app-theme%2f&c=9159146146024171732&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
