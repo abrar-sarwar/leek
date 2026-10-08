@@ -25907,5 +25907,511 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-9cc3d5f779",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYUZLOHZ4ek5BNE9yTTZOYTcybXlUSkx2djM5OEp0MkFCZGlTdEwwT2lzZkVaMGh0RjJzQm9qTFo2UktTYkxzcnVLQmFGdlliZVJMQk9lc0gxemFvRFNOM3RMMW1YRU9hcXFHRXZvX2dsbzBmOFNWWUJJMHFKcTdIdUFkbFN5TmtoREVxc01hUWNCWEJQYXc?oc=5",
+    "title": "Massive GTA 6 Leak Reveals Story Spoilers, Car Chases, And Jason’s Dong",
+    "publisher": "Kotaku",
+    "publishedAt": "2026-10-08T11:29:21.000Z",
+    "discoveredAt": "2026-10-08T13:03:24.453Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-4de61d0621",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNU9NUjB1ekdSa2VlcGwxS1FtSVNtZkc2OVFJU1o2MlpiQUw4N2JCbXAtUERTMUlrdUtoeDhENkY4S3NPWWF5Wl9FVmV4a2RQTDRJbDE2cWJaNW1PbW14cnJIU0VsYkVRaXRRT05ZemNtbGg5OVlWYXdCTVlEdEI5M3dSNDlsOGU2dUhiMXdoX0ljRzIwWGpFRkFmNnNiSE1Bd2stWTBSTUZsSVYy?oc=5",
+    "title": "Fans Issue GTA 6 Spoiler Warnings as 'Cyberleek' Returns With New 24-Minute Gameplay Video",
+    "publisher": "IGN",
+    "publishedAt": "2026-10-08T12:08:12.000Z",
+    "discoveredAt": "2026-10-08T13:03:24.453Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-007"
+    }
+  },
+  {
+    "id": "DISC-2a85c15138",
+    "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPSXFHLWs4aHRYU3JyNFlrdGZKX2MyeHZ6UWlpdzRYcS1pM2dISlpfVFZFeDN6cF9qQmFYWUlFUkRzbWlRMzRoUE15ZHhTOUc2RkgtdjNpRVE1bmJQU3JGeTRnTWFhZUZWbk5HSFQwWDl5c09vMUY1RFNNTE1oNWcwM2JjWlhhdHFadkQtemFFbkNGcFVSNWNSRGs3THJTMllhdHpJNWNQaXNubGdpZHNUSW40Q3A4R1dscm1wNGhQRDZLRUJQRVc5WkktREFURHlPWnR6VDFaMklEUEgtRkNPNFY0WVJBQUtzTHFkZzUxR29HaEcyZEx1VVczMXNNUno5R29MWXdQeVJHd0JFSnc?oc=5",
+    "title": "GTA 6 leaker Cyberleek returns with 25 minutes of new gameplay after over a month of silence, showing first-person footage and more",
+    "publisher": "GamesRadar+",
+    "publishedAt": "2026-10-08T11:59:00.000Z",
+    "discoveredAt": "2026-10-08T13:03:24.453Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-028"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-007"
+    }
+  },
+  {
+    "id": "DISC-629995d291",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVTBzejNQN29rQVk5Z0djQ3U1QmU4a3dOUHBJZ1o2RHZ0aHUzWEctZXR5SW8za3htZWxldnJkMHlMQUxxS1BBczJmYW1DVGxSRklIbl9ELTlXUXl2WHN0VS1adVBkRUlYRnpoY2lTbHZEMXdMLW1QS0hlQTF6NXRkdFczWUlueUJTNHU1R1U2MFI2eVk?oc=5",
+    "title": "GTA 6 leaker returns with 25-minute gameplay showcase, including Jason and Lucia customisation",
+    "publisher": "GAMINGbible",
+    "publishedAt": "2026-10-08T12:22:20.000Z",
+    "discoveredAt": "2026-10-08T13:03:24.453Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-ad9f8c4480",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQXlwVGJsOEd6WEYxa3dycng5eFdOWTBvOWp5RnI2MFB5ZmVoUmJpYXdjdmU0MXVSQS1hLW5ibXBLbXlSc2xtR1JEOGdfXzdXZ0doQ0R2WjZxR0MyRGNFMXdFaTJOMkpKdmV1MG1lbjdFLWxRZ2xIWFM4SE1pSzN6MzdDYUtsUDg4U09KRjRfeUN3MFRaOXZ6ZmxKODZkZTNQdGt3czBQWmh5eVhuU3kwcmdPUQ?oc=5",
+    "title": "Cyberleek is back to leaking GTA VI with 25 minutes of gameplay",
+    "publisher": "Instant Gaming News",
+    "publishedAt": "2026-10-08T12:09:18.000Z",
+    "discoveredAt": "2026-10-08T13:03:24.453Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-007"
+    }
+  },
+  {
+    "id": "DISC-fd828acb93",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcFRsc3dzb29jRVNuR3VBOXQ4amVuZ3ZYZ2ZNVU9ncEdQSm9UcUlsY3VhNkk4M2h2MVJnN2MweXZCT25zX1ZmSWxVcTVaUkVob1VNMzJkcVNTWENfY1JHV2ItVHRoY29NU3QyOFNjRC1LRk9TRHBYQ1pTWk5GSU5QR0IzRQ?oc=5",
+    "title": "Topless Lucia Features in New GTA 6 Gameplay Leak",
+    "publisher": "Insider Gaming",
+    "publishedAt": "2026-10-08T11:59:49.000Z",
+    "discoveredAt": "2026-10-08T13:03:24.453Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-d354d5c240",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObFRRdkdvcjdveG9MTFRQWEhiTEwzRXZNM1NMemlhVkRwaTItQVd3Tnc3Xy0tQzJHMEpERG9fNzFvOUpIV3ZMX3BaWkI4NHZxNXB1UDk5Z0FhZUx3cU5FN2F2V2ZDZlQ4bkd6T1IteHJVNG5iUzhqQjZIQmdGNkgzbHhYVG9EbnZvN3JyWXJlUkU0N0VXZWd1NkJKNW9HdTg1eFdMbtIBqgFBVV95cUxOMG9IOUVwb2lmNExaYVNvNzQydnBPN29JaXhPbzBkQWV3U2NkRjVfS2cxUjFReHJZbHZtZ3hGempHdWZRVGR3MlZYUWxGWUlKUUNERjNDYk9LbWU1LUIwdEJ6VC1sd2thQXRYeHI1b3RCWmdQY1NkVG94N1NvUHZHZkdyeExFZzZEVmJSNWNNQmlHZ2cxUGZablVncjF6QUpPZHhzdW5xdHNnQQ?oc=5",
+    "title": "GTA 6 leaker Cyberleek is back with 24 minute video and first person mode",
+    "publisher": "Metro.co.uk",
+    "publishedAt": "2026-10-08T12:39:00.000Z",
+    "discoveredAt": "2026-10-08T13:03:24.453Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-007"
+    }
+  },
+  {
+    "id": "DISC-909965f044",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNXNnaWs5MWxpZjRSOEZuVTJ2NG1FeW5fakI3V2FhdlpBTllGUmEyY3BkVE1raGY4dEJGSHRuNkRvaUFRSmhTUm9iX01Ec1Fjd0pGTFl0QnlYVmYwWkdTa2FCeU0yd0RraFp2MlNHUE5pbTlVNEJGZTVzQUFnS19ZbkctWUdyVjBHaWx1bWRNZFNUWnZwaE0xYlJWdnNzRHJSby1kR1c1NUxBbUJfMm9Qc3hnYlZnd0VfQV94bTBxMGRhdGVIdHhYQkR5VUZwWWo1MXl3akg5elBSb2pxem1HU2s4RQ?oc=5",
+    "title": "As Rockstar continues to hunt for the GTA 6 leaker, they’ve returned with 25 minutes of nudity-heavy gameplay",
+    "publisher": "Video Games Chronicle",
+    "publishedAt": "2026-10-08T11:37:26.000Z",
+    "discoveredAt": "2026-10-08T13:03:24.453Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-5bf0d946ff",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZR3VpQ3ltYUhqNjZPN0hMUDBHM1dpMjBTVzBqVXkxaWlrQWNpTXMtWnZ5SkZFVTh6eUhOd0c4Y0dfUEZJVFp4N1MyWC13NVNCQmVRVkRaWHVRa2tqWURSUExBa2lVVU54TDhZTE01aHY3WC1JR3poV3Uwdnc?oc=5",
+    "title": "Full-frontal nudity, dirt-biking, and a dev menu: GTA 6's infamous leaker is back with the most X-rated look at the game yet",
+    "publisher": "Eurogamer.net",
+    "publishedAt": "2026-10-08T12:09:17.000Z",
+    "discoveredAt": "2026-10-08T13:03:24.453Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-c8eb534159",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMGtvYjBsb2hhWlFadjg0YUtnQUVqcGV3TUc4LUpxY05JMFBHU1doQWFDRDl4NHhGRk5BNlNSSmw1SXRYSzE1RUViT0wwMVllaTF1LV9hYUN5WW9UOGc1eVlpNUhoY0NlWV84dnJhZThSN1JubTNNaDdZb2lGQ21MVDExTQ?oc=5",
+    "title": "New GTA 6 Leak Shows 25 Minutes of Gameplay",
+    "publisher": "OpenCritic",
+    "publishedAt": "2026-10-08T12:06:00.000Z",
+    "discoveredAt": "2026-10-08T13:03:24.453Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-587b5e86d1",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsT1RkN2JiZTVnQ1g3MmRKdW5Hdm5pN2c2d3QxVzhuWExhc1QxTUFubEpyOE10NFJXWUxrdnpZT0ViUzZLMFdNLUlHa3FKZWRJYUQ3TVM1MVV2Z19RTmlqQW1B?oc=5",
+    "title": "A New Massive Leak Reveals 25 Minutes of New GTA 6 Gameplay",
+    "publisher": "Insider Gaming",
+    "publishedAt": "2026-10-08T11:39:47.000Z",
+    "discoveredAt": "2026-10-08T13:03:24.453Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-5a58dbc4e9",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EZHJLZVhFaGxxTGlKM0NydnRzc2NsbXpNd21PeExKS0loS2lwZy1HdXpyeDhmbjBVRFMxRlNlM1p6dGtsWi1hX0xFanFFR1BkeUJHY2RFcmhaRmdhaXZtQmJLWk1rbEUzMi03X1ZwTEk1ZUZm?oc=5",
+    "title": "GTA 6 Leaker Returns and Continues to Confirm Game Is Awesome",
+    "publisher": "VICE",
+    "publishedAt": "2026-10-08T11:51:37.000Z",
+    "discoveredAt": "2026-10-08T13:03:24.453Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-6c41387837",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT2paNW15SmNhUkNTelNiM0NtM0E3blpFR0dWRXpNZTRTb3BZYzlQNnNZRDZGdmhucGtubmxzY3ZKODAyaVFOLXYxbFM4N3VlLUtKblZrNmtkbF9aZVE5T3puWFozR1c4blRGS1JISlktTFVmZjFMUnpfNVplVmg4OGEyNFdTUFlSaFNpOW54ZlIzUmlDa1dKUnM0T3Y2SC1sUGpJU0hB?oc=5",
+    "title": "GTA 6 Leaks Aren’t Over Yet, As New 25-Minute Gameplay Footage Appears",
+    "publisher": "GameSpot",
+    "publishedAt": "2026-10-08T11:56:01.000Z",
+    "discoveredAt": "2026-10-08T13:03:24.453Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-028"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-0228af1089",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYVpLSGtITE5EelB1dXlTejlpTXNYSnl2bUJ0R0Y2LTM3d3R4R2w4b3ZUOFdSak9xNDlsRTRkMk82b2QxaU4tVU5Mc1RJdDBXYWNuVnJZTk9FTGpxdmltdVE2emVYMFNmT2dDTXhacVhJYUJBRlhsZ2hnVGZuTVVjRm5VdEQ5VDYyd3lNdkZ1WFpkV242RnAwZjVQZml2Zw?oc=5",
+    "title": "New GTA 6 Details Reveal More Gameplay Systems, Naked Showers Confirmed",
+    "publisher": "RockstarINTEL",
+    "publishedAt": "2026-10-07T14:34:35.000Z",
+    "discoveredAt": "2026-10-08T13:03:24.453Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-f1ba675e00",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUWNVRTBaaFd5TWU4NEJab2UwODZTUklxd1RtS3pPcmtxR2VnUkFyaU5McFY4WkVvQTR1UFpkNENDaGJKTDdKSzAtLTVZb1dOcFpXNDVlODZOVHFQTnEyVUhqOGQxWnZnVUF5dDNsZVpDWXB2TE9Kd0ltSFFLNHFVdE81VXZkYUc4Sm41c3Y4REFocnV4WndybnBIWWF2UzVoNHNnM1NvMA?oc=5",
+    "title": "Delays, leaks and pre-orders: Which GTA VI events moved brand Buzz?",
+    "publisher": "YouGov",
+    "publishedAt": "2026-09-30T15:31:27.000Z",
+    "discoveredAt": "2026-10-08T13:03:24.453Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-014"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-15b0a14a89",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xc0V1dkdFRTVlbkViM3pjeHM3QkVaaTgxX0laU2ZCUjhOTi1oc1lLZ1FfajQ3MEppTGZUbHRlbkZSY0RLaXVWUFM1YzdILXhjTnFKNlFIbjFOVXVwemktV0lDVG9DWFhEN1VJUUdWU0ZvNU1EQ1NHMEd5cFA5b2M?oc=5",
+    "title": "GTA 6 First-Person Perspective Revealed in New Leak",
+    "publisher": "Insider Gaming",
+    "publishedAt": "2026-10-08T12:18:48.000Z",
+    "discoveredAt": "2026-10-08T13:03:24.453Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-92d248cb9a",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV2NCYzFBa0RMUlVhZVFPTEZOUVpNaWxwMlRuMUQtUFVIanVkSXc3c3pRV2d6Y3hLY0RTamlPMEVPdkYyb1pZX08zTnhtOW5uMHZDb0VCMzRESkhRd3VOejNKUkpsZTRJcUlva2Q3bElyOXlkM3FNc2ZpQUdnam9iTVVxZG1NeVNDQ19FUDg3SU53b3AwM25mSkhnc0hWeHFKNG01RE0xRlp0b3M?oc=5",
+    "title": "GTA 6 Gameplay Leak Shows 25 Minutes Of New Footage, Including Nudist Camp",
+    "publisher": "OpenCritic",
+    "publishedAt": "2026-10-08T12:06:01.000Z",
+    "discoveredAt": "2026-10-08T13:03:24.453Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-2bd9617b05",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoRXp1R3B4TEEzZmluN1pvZXNaUXhnZU94bUJuelhTWnlYYWxVVXdlZjRvcEtmTWNZcDFGTzE3WFJoQTdqR2twbWpZeDYwSmRZV0lxdEJJUmNCRm9SdXppaEkxUzFKejhl?oc=5",
+    "title": "CyberLeek Site Resurfaces With New GTA VI Poll",
+    "publisher": "SuaraGarut.ID",
+    "publishedAt": "2026-10-08T11:38:25.000Z",
+    "discoveredAt": "2026-10-08T13:03:24.453Z",
+    "feed": "google-news",
+    "query": "CyberLeek arrest",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-007"
+    }
+  },
+  {
+    "id": "DISC-29ae2bc6f6",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac794a10ba84dada5d3386268a28e4b&url=https%3a%2f%2fgameranx.com%2fupdates%2fid%2f564320%2farticle%2fcyberleek-has-returned-with-their-own-extended-leek-for-gta-6%2f&c=5304839613185448193&mkt=en-us",
+    "title": "Cyberleek Has Returned With Their Own “Extended Leek” For GTA 6",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-08T04:26:00.000Z",
+    "discoveredAt": "2026-10-08T13:03:24.453Z",
+    "feed": "bing-news",
+    "query": "CyberLeek",
+    "suggestedTier": 11,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-007"
+    }
+  },
+  {
+    "id": "DISC-32514d8532",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac794a10ba84dada5d3386268a28e4b&url=https%3a%2f%2fgameranx.com%2fupdates%2fid%2f564323%2farticle%2fcyberleek-calls-for-funding-for-gaming-related-project-after-leaking-gta-6%2f&c=18079584881124164002&mkt=en-us",
+    "title": "Cyberleek Calls For Funding For “Gaming Related” Project After Leaking GTA 6",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-08T04:59:00.000Z",
+    "discoveredAt": "2026-10-08T13:03:24.453Z",
+    "feed": "bing-news",
+    "query": "CyberLeek",
+    "suggestedTier": 11,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-e724cf8cf7",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac794a10ba84dada5d3386268a28e4b&url=https%3a%2f%2fpk.ign.com%2fgrand-theft-auto-vi-rumored-title%2f262202%2fgta-6-leaker-returns-with-new-24-minute-gameplay-video-sparking-spoiler-concern&c=9107162679504671223&mkt=en-us",
+    "title": "GTA 6 Leaker Returns With New 24-Minute Gameplay Video, Sparking Spoiler Concern",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-07T20:08:00.000Z",
+    "discoveredAt": "2026-10-08T13:03:24.453Z",
+    "feed": "bing-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-001",
+        "LEEK-CLM-029"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-7bfd7a7475",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac794a10ba84dada5d3386268a28e4b&url=https%3a%2f%2fwww.el-balad.com%2f17056089&c=3703569155928125225&mkt=en-us",
+    "title": "Cyberleek Offers US$1000 GTA VI Access as Release Nears",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-08T04:33:00.000Z",
+    "discoveredAt": "2026-10-08T13:03:24.453Z",
+    "feed": "bing-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-5bb02c62db",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac794a10ba84dada5d3386268a28e4b&url=https%3a%2f%2fpowerupgaming.co.uk%2f2026%2f10%2f08%2fcyberleek-is-back-with-gta-6-hints%2f&c=1690220147511408937&mkt=en-us",
+    "title": "CyberLeek Is Back With GTA 6 Hints and the Casino Question Is Still Unanswered: Here’s What the Best Online Casinos in the UK Look Like While We Wait",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-08T00:45:00.000Z",
+    "discoveredAt": "2026-10-08T13:03:24.453Z",
+    "feed": "bing-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-007"
+    }
+  },
+  {
+    "id": "DISC-008b3502ee",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac794a152694f1a85522c1dfe706780&url=https%3a%2f%2fwww.sportskeeda.com%2fgta%2fnew-gta-6-leak-shows-25-minutes-unusual-gameplay-spawning-tank-car-customization&c=14977619482257155787&mkt=en-us",
+    "title": "New GTA 6 leak shows 25 minutes of unusual gameplay: Spawning tank, car customization, and more",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-08T05:47:00.000Z",
+    "discoveredAt": "2026-10-08T13:03:24.453Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
