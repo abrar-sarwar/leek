@@ -7966,5 +7966,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-8bd9267875",
+    "title": "GTA 6 PEGI Leak Claims Decapitation, Cocaine Use [2026]",
+    "reportedAt": "2026-10-04T02:53:09.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiekFVX3lxTFA4MC1PX2llOFRmb1AxanMtUWJoMWFiWkJpdlRYZnBNbTVzN2JPQkJwUS1wSnlFY0dHWno5UGVjeWR0Y3EyMl9xZWtJcXRZcGQ1WUhFZjNLZ20zNWlpdkFBZlJ2dUR5cV80M2lyRkhQLWdzbC1xQWV5YXNB?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

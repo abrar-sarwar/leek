@@ -25847,5 +25847,65 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-c39cf6cf3b",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcG5JU3Z5ZzVzTWNYVzI1VzBnd2prbWRRN2lIa3VpLXdSeFYxTW90X2pnOVhvV3VhOURRWnFOMHdaTkYwdWlIOXUxUlFmMTJmODRVUlp5aHRHVmdrR3QxYXJob1ZkcnFZMEVWYnFkLVNOeXZuRWY3c1hRWVEzWWlpZEhZUFdtT2l2bEExMU9TbFo3OXNVT19FUzBodVRyLWRzcmpIeFpQT0I2TDZOZ0NwNlMtNnRpcTExcmNLM1hyeFpMUQ?oc=5",
+    "title": "GTA 6 trailer #3 anticipation rises after YouTube ad teases Rockstar Games title",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-10-08T01:58:00.000Z",
+    "discoveredAt": "2026-10-08T05:13:27.719Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games",
+        "Google / YouTube"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-8bd9267875",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA4MC1PX2llOFRmb1AxanMtUWJoMWFiWkJpdlRYZnBNbTVzN2JPQkJwUS1wSnlFY0dHWno5UGVjeWR0Y3EyMl9xZWtJcXRZcGQ1WUhFZjNLZ20zNWlpdkFBZlJ2dUR5cV80M2lyRkhQLWdzbC1xQWV5YXNB?oc=5",
+    "title": "GTA 6 PEGI Leak Claims Decapitation, Cocaine Use [2026]",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-10-04T02:53:09.000Z",
+    "discoveredAt": "2026-10-08T05:13:27.719Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-31783fa3b3",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYZVI3RVhaaFJtSi1qY3VHV0djNGNKc25HS3RtV2JibWpQVXRsUkZzaVdwSDB6cmhiSThfeTdHM3pCTUxFaXR6WTZtS1RhSGRZeDVqeVNXQndTSEtJeUlJMWZnOC1rTXBlNjRscFhTZGVTZmFjU25hcg?oc=5",
+    "title": "New GTA 6 Merch Previewed Ahead Of Release",
+    "publisher": "RockstarINTEL",
+    "publishedAt": "2026-09-30T14:14:43.000Z",
+    "discoveredAt": "2026-10-08T05:13:27.719Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
