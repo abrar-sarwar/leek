@@ -27745,5 +27745,149 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-6e14e8a0f4",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU3FlaG9ULUpURUNoeE02LWk3NnpZRmdCb0VVd0d5R1lqYjBESE1hYVZUbVdDRVFXc3BpZDlTNzJUZGdJeHE5LUZrcXAxWjc4M2d6WjBDUDJCdDFqWlBqR2ZCanJTYnV2MGJvbVBRT0VZUTRfMmJHM3FlRHRDSTFaZlUxRWF6MmtDTGV0Q1Q5dGdMeWZqZEpNbjJXaEtCQkRyVWhac3ZSOXc2SXVBNTlrcl9aNWZOX05YOHNsddIBxAFBVV95cUxQYkJZNFNRX2p2dEhwSExOUlB2NEE2SGdrUHljcWRhY1Y4bW5iQnZsZDMzZXBVUW4wamZsXzl0TmgtSXpDYUliOUNnUVVWcHZ6N3FreHRlWl83NldsVlNLRWVJZzVlZkhTZWFhVEZ0X3J6aW9IZmlUNy1pTHVzMFYwbDE3azFlQUJ0X0tKUVVFenRXdFRqZ1UxOWgwNHZqQmZsYUxlazdlbTFZYXBySlFybzZoMnM3U1pjQThBR2ctZ1FwWFVu?oc=5",
+    "title": "GTA 6 Leaks: What Cyberleek's Latest Gameplay Clips And Map Details Reveal",
+    "publisher": "NDTV Profit",
+    "publishedAt": "2026-10-09T08:22:01.000Z",
+    "discoveredAt": "2026-10-09T12:50:00.332Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-d4b98af7c2",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOTE1LWRfSmVrd2wwTmtLa2lCZlF4MWxGdFVjV2NGYm9VemQzNWhPbk1IX3RHNTF2d19mTHZsZjJNalBSblU3Wndtd2puZkU4YnlMV09BTUpCbVFiS2FMTGJ6SmxIUW80N0pYbmdESVZIU0h0UjBBZTUwM2k5blVBS0gta2VCYlRNaTdMX3hldDlGOG9YbEw1YzUyN1_SAZwBQVVfeXFMTzkxNS1kX0pla3dsME5rS2tpQmZReDFsRnRVY1djRmJvVXpkMzVoT25NSF90RzUxdndfZkx2bGYyTWpQUm5VN1p3bXdqbmZFOGJ5TFdPQU1KQm1RYkthTExiekpsSFFvNDdKWG5nRElWSFNIdFIwQWU1MDNpOW5VQUtILWtlQmJUTWk3TF94ZXQ5RjhvWGxMNWM1Mjdf?oc=5",
+    "title": "GTA 6 leaks: Every Cyberleek gameplay clip released so far",
+    "publisher": "The News International",
+    "publishedAt": "2026-10-09T11:18:54.000Z",
+    "discoveredAt": "2026-10-09T12:50:00.332Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-271801f365",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wSndabFJWbzlTVWV2Rk8xMGZUb3pPb2d5N29ya3E0eHZxZ2RHUUF4M21YZUhWWnN2aGduM3N3dXo5RUc2Y1NGVHlScDZ6R2JmWEZtQVNkV1ludw?oc=5",
+    "title": "GTA 6 Cyberleek Video Shows Nude Jason and Car Upgrades",
+    "publisher": "Techloy",
+    "publishedAt": "2026-10-09T10:41:30.000Z",
+    "discoveredAt": "2026-10-09T12:50:00.332Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-c24219912c",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9SSjNMRnp3eGFXZWNUb1l1ZXluMzJMY1NTejJRV0tCYTFQOEdtQmRvLXZlWmQ1T09MWUxzOGcyak5TQjlnckJ1WmdnZm5MSzEyZ1ZQUXZ4WmlNdVJiRnRBR0N6UWU0WVJDWHAyamZPNmpSTmhYOEV1M0hn?oc=5",
+    "title": "GTA 6 Leak Video Runs 24:49 vs Trailer’s 27 Min [2026]",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-10-09T08:03:55.000Z",
+    "discoveredAt": "2026-10-09T12:50:00.332Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-0abfb7cfb4",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUGRJSjFabU13WFgzYUNicVlpaDFXeVE0VWhOTlRQVEtGbElTcV92SFJNOGhoRVFMRlZwZ3BWb21rclBRcmVFdjhpdHZPeHZOZzZHenBabEVldTZLNFBUdlJ6OEpsTjRlSlNVTnZtVHI2VnM2amE0X3FhOFNET0NxLTU0WWJISHg4?oc=5",
+    "title": "GTA 6 leaked footage teases major gameplay feature yet to be mentioned by Rockstar",
+    "publisher": "GAMINGbible",
+    "publishedAt": "2026-10-09T12:00:00.000Z",
+    "discoveredAt": "2026-10-09T12:50:00.332Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-22d1767278",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV05oNzBXeXVwdHhJVzI2U2l5YnFSQUNjcGpLUFc3MUx1YUZEOVF4ZVFyTHBacXg4bzJwc21jQ1pLeXJ6SXh1NGV2TjFiNkd3OF9KYl9XS1R6bEpqMFphV3kzdlBWV0U0TGJHb1luQkFsVlBESGJJOUJBM1hKNWhjMVhSVklUYjhBcy14UUtwanItazFyVWZZcFVJS3JxYlRhcktkRG0xLTU5eEhMVkxjRg?oc=5",
+    "title": "GTA 6 New 25-Minute Gameplay Leak Shows Nudity, Street Racing, and Open-World Activities",
+    "publisher": "eTeknix",
+    "publishedAt": "2026-10-09T07:57:21.000Z",
+    "discoveredAt": "2026-10-09T12:50:00.332Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-0cbca767fe",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ac8e2fdb7a844e2ad45518eaa2a5c49&url=https%3a%2f%2fwww.analyticsinsight.net%2fnews%2fgta-6s-latest-leak-raises-new-concerns-about-rockstars-game-security&c=16492442744013963200&mkt=en-us",
+    "title": "GTA 6’s Latest Leak Raises New Concerns About Rockstar's Game Security",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-09T03:49:00.000Z",
+    "discoveredAt": "2026-10-09T12:50:00.332Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
