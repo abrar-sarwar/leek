@@ -8890,5 +8890,41 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-b3acff14cc",
+    "title": "Hacker who leaked GTA 6 gameplay goes on trial 10 days before release date",
+    "reportedAt": "2026-10-09T23:18:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcDk5T2hIcVdhV0hkWjVTcTA4bVcwdUctZjhYTHExc003OGtDY1MzZHNBT1RFai0yLWJWQzh0VlpCZldoaDVCeGl2dTFVN3FYREd1RWdxS3FLYWhRZ0RhZS1oLTYzOVB0WHdLY29rVVJOMEk1RGtPejFYeUllcWxUUzNXU2hIWHhRd1BpeHdxclRnQ1IxTkhFNGE3bFVYOEdZbC1ZdTJidnlMaC16NGprOENoQ2RrUjFoQ0dj?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-69d52a7823",
+    "title": "GTA 6 Official Free DLC Leaked Ahead Of November 19 Launch",
+    "reportedAt": "2026-10-09T09:37:48.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80RUU2cHlSck1NZzROV3YweEZ2bGdrQVFQZDd1ekdpZUJyZEFMRE43TXdnY0lKX0h2Q2R3T1Y1YU0zNkpfVjBXeElvN1IwVXJyTGhyQ3h4VFBrS3BDUjdKZGszRm0?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-5bc36d9bf2",
+    "title": "GTA 6 Leaks Reveal Jason And Lucia Nude Scenes; New Cyberleeks Video Clips Go Viral",
+    "reportedAt": "2026-10-10T03:32:03.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQb2taamE3ZVdVMkh0S1B2S1JHV1BBQ2xaVWdBZWFaN2tjZDBSaUQ5NHl4VXR5TGNmY05BZEFhdW53THlRdUMxNllHWDhHYVVIOTZHaTVXeE93NktiQUVkdFkzNEYxTnkyMF8tNzJtaVNhZVJlU0JvTVgxRldxXzMzYldhRk8zWkpvbzFOZnh2WG5kTzBwNVRxbE0xR1FoSmdlUEZVeVJQVmxTZWdLMmhJWThOWTd1OVpqRmphS1EzNXhEc1VraUVJUDN4SXg1amMyeFppRnBZWHl4MWVuUVdWc2xoZklBTVI4VkHSAfcBQVVfeXFMTm1feV9pZ3NMMW1uUzNrMndNcXBqLTFqLUxDLU5ZZEFiU3p6QmY3Um9DUUM4VTZPQVNDdmtXTVNyS3l5QUI1WWMwemdtck5pa21tc3p3d2ZLMWwtZXFGU2ltWVBaSjB2cktGXzRxVkNBUXgtNGo2bmEtNFBhRkFQTVZzUGtYUjhHTzZ5RkJHZGxzVkQ3N0s5ZXB3ajgzeUpLVXJtdlF5MHl5aHVFM1d5X3NrejQ5aUtoOVY5d1MwTHRQdXJuSkFreWtVUWFraHdhS2QzbmJaWGVYcmZIeFZwTGVHR25NZ0VHSnlJY1QyWmwtT3VheDg4QQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

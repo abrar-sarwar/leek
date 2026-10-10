@@ -28293,5 +28293,84 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-5ed8380cb0",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbnpzZ1FfMTI3ZjF5SFVsYXY2WG1lLXQ5aGFzUUZuY0U4SmxvSDZCQWVqbnhkeVIxN2hBRVZldEtUaXFOWmhLUGVFNUNidDdPekJiRngzNzZHVVpZOWIwYzlKd19jV0l6a3l1VXpnWDh0S3k3R19vakVNWWJpVmxkWUxB?oc=5",
+    "title": "GTA 6's Nudity Sure Sounds Hopelessly Outdated",
+    "publisher": "Polygon.com",
+    "publishedAt": "2026-10-09T22:19:54.000Z",
+    "discoveredAt": "2026-10-10T05:01:24.118Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-b3acff14cc",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcDk5T2hIcVdhV0hkWjVTcTA4bVcwdUctZjhYTHExc003OGtDY1MzZHNBT1RFai0yLWJWQzh0VlpCZldoaDVCeGl2dTFVN3FYREd1RWdxS3FLYWhRZ0RhZS1oLTYzOVB0WHdLY29rVVJOMEk1RGtPejFYeUllcWxUUzNXU2hIWHhRd1BpeHdxclRnQ1IxTkhFNGE3bFVYOEdZbC1ZdTJidnlMaC16NGprOENoQ2RrUjFoQ0dj?oc=5",
+    "title": "Hacker who leaked GTA 6 gameplay goes on trial 10 days before release date",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-10-09T23:18:00.000Z",
+    "discoveredAt": "2026-10-10T05:01:24.118Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-69d52a7823",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80RUU2cHlSck1NZzROV3YweEZ2bGdrQVFQZDd1ekdpZUJyZEFMRE43TXdnY0lKX0h2Q2R3T1Y1YU0zNkpfVjBXeElvN1IwVXJyTGhyQ3h4VFBrS3BDUjdKZGszRm0?oc=5",
+    "title": "GTA 6 Official Free DLC Leaked Ahead Of November 19 Launch",
+    "publisher": "ScreenRant",
+    "publishedAt": "2026-10-09T09:37:48.000Z",
+    "discoveredAt": "2026-10-10T05:01:24.118Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-5bc36d9bf2",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQb2taamE3ZVdVMkh0S1B2S1JHV1BBQ2xaVWdBZWFaN2tjZDBSaUQ5NHl4VXR5TGNmY05BZEFhdW53THlRdUMxNllHWDhHYVVIOTZHaTVXeE93NktiQUVkdFkzNEYxTnkyMF8tNzJtaVNhZVJlU0JvTVgxRldxXzMzYldhRk8zWkpvbzFOZnh2WG5kTzBwNVRxbE0xR1FoSmdlUEZVeVJQVmxTZWdLMmhJWThOWTd1OVpqRmphS1EzNXhEc1VraUVJUDN4SXg1amMyeFppRnBZWHl4MWVuUVdWc2xoZklBTVI4VkHSAfcBQVVfeXFMTm1feV9pZ3NMMW1uUzNrMndNcXBqLTFqLUxDLU5ZZEFiU3p6QmY3Um9DUUM4VTZPQVNDdmtXTVNyS3l5QUI1WWMwemdtck5pa21tc3p3d2ZLMWwtZXFGU2ltWVBaSjB2cktGXzRxVkNBUXgtNGo2bmEtNFBhRkFQTVZzUGtYUjhHTzZ5RkJHZGxzVkQ3N0s5ZXB3ajgzeUpLVXJtdlF5MHl5aHVFM1d5X3NrejQ5aUtoOVY5d1MwTHRQdXJuSkFreWtVUWFraHdhS2QzbmJaWGVYcmZIeFZwTGVHR25NZ0VHSnlJY1QyWmwtT3VheDg4QQ?oc=5",
+    "title": "GTA 6 Leaks Reveal Jason And Lucia Nude Scenes; New Cyberleeks Video Clips Go Viral",
+    "publisher": "Esquire India",
+    "publishedAt": "2026-10-10T03:32:03.000Z",
+    "discoveredAt": "2026-10-10T05:01:24.118Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
