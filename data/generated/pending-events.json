@@ -8926,5 +8926,77 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-cbb4b42e13",
+    "title": "Cyberleek Releases 25 Minute GTA 6 Gameplay Leak",
+    "reportedAt": "2026-10-08T16:59:41.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMic0FVX3lxTE9tV2E4RjZteFctaHlaVjlXVUZ3Y1lJWHNhOUdYelU0VXgyTE01UUlRckJybVRuWlN5UmF1cWdxdnZDQWFtd3d0UG0xbXVkYk9zYVB0N3lmb3k3RVRoM3VnUldUaDBJb3pGRnZUUnFucG40MTA?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-601c4e14a8",
+    "title": "'GTA 6' Fandom Is Officially Shook After The Nude Jason Leak",
+    "reportedAt": "2026-10-09T17:58:34.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUW9UdzZFeUl6Vzl6Sm4xM002V0hQclJTeDNKaDhGTUFrVFdtZTM0R2RaNGVVWk14YVlYU014anhOall1eWc4dTBHLXZTN1ZySE0wcHZHZmVrcEppelVvZXZfdnRRQV9NaVFFNXFkYk5OQ2JiTHY3YVBTemFsMnMzb2Y2MWlTMW9LMzBHZ1BjTllaWU43TVhj?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-ef44fc042c",
+    "title": "GTA 6 Gameplay Officially Confirms Uncensored Jason And Lucia Scenes",
+    "reportedAt": "2026-10-08T11:51:39.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tZVZLOEZYYUwyeDJhaFpDNl9pdG5hUlhHSHpSZEpxYWdENU5DMUFWN1dBV2FRRGJZeVJSOC14UmJycVlpVnA4VDBHT1lUU0NqLV80TlJCN2VzcGNjd0Exei1DZmdZejJrMnlpUFhNZldCOXB1Zl80?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-f7f53a5d34",
+    "title": "FBI Arrests GTA Leaks Suspect Behind Rockstar Hack",
+    "reportedAt": "2026-10-09T17:29:06.000Z",
+    "category": "investigation",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ha3pqSTZObFhhSHV2dUtXcW9zT2xSTVlkSVJSbndUUlVPWG9LVTFqUGRzM2s5SGQyaHdaV0xlV3hHdGZsSGdvS2k1MEZsUEgzdkJaZEd5R1BlWE9MQ2xTQlM5ektnT1diVlFZY2JZZ05PYU42UnNrYw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-0f3e4c62f7",
+    "title": "New GTA 6 Leaked Footage Showcases First-Person Gameplay",
+    "reportedAt": "2026-10-08T15:39:10.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaYzB3VUQxM2hQNmIwa0VkeGcwUTgtRlBUN252Y0VjQk56SUp0NjRNRUdjWEVZMFIwLU9hZ091VnVsM2VDNDB5czQ1NXB4UTFrczJka3cyZzk3cnhMMjlOS293?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-f402bcdee8",
+    "title": "Rockstar Hackers Reportedly Face an FBI Arrest and a November 9 Trial Before GTA 6",
+    "reportedAt": "2026-10-10T06:55:00.000Z",
+    "category": "investigation",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMihAFBVV95cUxNczk5M1Fib0ZscTlneFpuc05JOXFkZXN0WDNrZGt6dDJYYmw0MldzSmJNd25qMTlVQnY1TmZPd2FYWldpY0dWTV9ubFd1dGhxOXQ5ZnhLR294RVYxbDA4LXRuejl2cU9DNEdlSVFCZ0R2SUd6RzdpMzJNYWotamdmM3F0d2w?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

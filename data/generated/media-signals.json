@@ -3734,5 +3734,29 @@
     "domains": [
       "news.google.com"
     ]
+  },
+  {
+    "date": "2026-10-10",
+    "feed": "google-news:CyberLeek",
+    "count": 1,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-10-10",
+    "feed": "google-news:GTA 6 leak",
+    "count": 5,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-10-10",
+    "feed": "google-news:CyberLeek arrest",
+    "count": 1,
+    "domains": [
+      "news.google.com"
+    ]
   }
 ]
