@@ -3758,5 +3758,29 @@
     "domains": [
       "news.google.com"
     ]
+  },
+  {
+    "date": "2026-10-10",
+    "feed": "bing-news:CyberLeek",
+    "count": 6,
+    "domains": [
+      "bing.com"
+    ]
+  },
+  {
+    "date": "2026-10-10",
+    "feed": "bing-news:GTA VI leak",
+    "count": 2,
+    "domains": [
+      "bing.com"
+    ]
+  },
+  {
+    "date": "2026-10-10",
+    "feed": "bing-news:GTA 6 leak",
+    "count": 3,
+    "domains": [
+      "bing.com"
+    ]
   }
 ]

@@ -8998,5 +8998,65 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-6a3777ca7a",
+    "title": "GTA 6 leaker CyberLeek is now reportedly threatening to release a full, playable build of the game",
+    "reportedAt": "2026-10-10T12:42:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acaac6f10034e95be2fddcc54decd88&url=https%3a%2f%2fwww.eurogamer.net%2fgta-6-leaker-cyberleek-threatens-playable-build-leak&c=17719273416598514767&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-475e9ccfb2",
+    "title": "GTA 6 leaker Cyberleek threatens to release playable build from start to finish",
+    "reportedAt": "2026-10-10T01:08:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acaac6f10034e95be2fddcc54decd88&url=https%3a%2f%2fwww.dexerto.com%2fgta%2fgta-6-leaker-cyberleek-threatens-to-release-playable-build-from-start-to-finish-3417786%2f&c=3398222517389268483&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-2ecf8789a9",
+    "title": "GTA VI Leak Reveals 25 Minutes of Gameplay, Vehicle Tuning and Racing",
+    "reportedAt": "2026-10-08T22:06:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acaac703d1d4a3d9db411da94e713f0&url=https%3a%2f%2fwww.guru3d.com%2fstory%2fgta-vi-leak-reveals-25-minutes-of-gameplay-vehicle-tuning-and-racing%2f&c=16908306270204807341&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-7b270c10e4",
+    "title": "The ‘GTA VI’ Leak Controversy, Explained",
+    "reportedAt": "2026-08-20T13:59:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acaac703d1d4a3d9db411da94e713f0&url=https%3a%2f%2fwww.forbes.com%2fsites%2fdanidiplacido%2f2026%2f08%2f20%2fthe-gta-vi-leak-controversy-explained%2f&c=5452035269267798628&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-87ca38fb69",
+    "title": "Rockstar Has Six Weeks to Stop GTA 6’s Ending From Leaking",
+    "reportedAt": "2026-10-10T09:15:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acaac70bc1f41098e0037691e8a6bd6&url=https%3a%2f%2fwww.dualshockers.com%2frockstar-has-six-weeks-to-stop-gta-6-ending-from-leaking%2f&c=7804547195628771252&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
