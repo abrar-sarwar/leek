@@ -9058,5 +9058,197 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-ecdb10a4a7",
+    "title": "GTA 6 Leaker Threatens to Release Full PC Build of Game",
+    "reportedAt": "2026-10-10T15:45:09.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcENrcjVCZ1BuUG5JcUxlTTBPMHlvT2VKWXp1bkljbUVKR2RTa2QyMm5tZXlaUDJVS3RZVDJ3WEdIcDFUY2J2RHBidS1FRHYzaTVIUWVDYl8yeTFsbmJjZ0dBU28wWmdzamFpR05YUDhxdFhFQW1pSWp3SU1KMGpCT3VsaTJ0UmQtRW5BOGtXNVc?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-8f9962468b",
+    "title": "GTA 6 Leaker Cyberleek Threatens Full Story Build Leak Unless Take-Two Ships Discs",
+    "reportedAt": "2026-10-11T00:06:32.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd05hdnBlMWhURzNVdWw3c21NQzBpMUpfcmw3RHJmcTJhb2ItZDRMUEJvT2p0R3ZXek56c0FYUHRQUDJKd0pRM2lrR2V1N2UtRWdwbmVubkM2X1ZQcjdDdXlFaDNONWFjV3IwU0VBQmRVSl94c1ZaV0NKaEF5NTlrbWFpUmtYZF85NVJseE94OUFYQk9UdTJKRE1pblNYTmpoOFR4OEtzMW90UjVPQmszTUdvUVpjNjJGeWc?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-8bd649dbfb",
+    "title": "GTA 6 Leaker Threatening to Release Start-to-Finish Playable Build of the Game",
+    "reportedAt": "2026-10-10T17:04:52.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMisgFBVV95cUxON1g4YTVraElpMGpPWGZ2VXA0eXJ6YUhlVDZqRmQ2YW1IQUhoRWdQVWl3TkFkMXF2MVJhVUdrX1hoWW95dlV1Vy1NN2FNZXBVcFl3S2YwbmVTQ1B5b2JEaG1JUTJzdmJxQ0ptNThsaFhFZmdmOGY0UFNlYktJMHg1ZkJnQVBRRG1td2EzMTRhQUhmdmh6cmdOQ2MtRGJMcldmbjlyMl9DTEE0S1RaYnViZFJ3?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-07492441e5",
+    "title": "GTA 6 leaker threatens to release a playable build from start to finish",
+    "reportedAt": "2026-10-10T16:28:38.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBV3JXNFJKZzYzTzRwUlBFcjZnTVlHNmhIYkJWRGx4ODdlNTlLTVZNbzdSRGhpa01XVDdXZHE1b3pDNFRJSFRMdmJGaFc0ZEJCTG85bUtkXzkwTnRubnBWcnEtYjM?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-47b6502652",
+    "title": "GTA 6 Leaker Threatens to Leak Playable Build of Grand Theft Auto VI From 'Beginning to End'",
+    "reportedAt": "2026-10-10T16:17:59.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxX2ZNd09QZzhmNlZZYk5wLXZwc0xUbjZVQjNpTDZraEdkc1UtUjJJTjZUelBmdjBRdWpNb2h4RDNOZXQ3MGpwWUV2UWhkZEtzWFRLcFA4RVBXUjQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-830939a048",
+    "title": "Oh lord, now those GTA 6 leakers are saying if enough of you give them money they'll leak a playable build of the game",
+    "reportedAt": "2026-10-10T20:24:35.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQYVVqTWdBUjgzRlRfWDFVRDNUOXhmZE51X3JfNGNTUTR2WklJelFIaGtPalJ3cWtseURDanJaY1d0VDl5eXhpc1lOQ2ZjdUFtT0g4WEpoaUdEVVZHM0JRMHVoRjBJZDZJMDhnX2tXZnY4V1p2RHpUanpzcnZud3hqRXRKYnppUDdmX2QxaE9ZOFZ1RDJfa1pPT0o1WHZuUVZjM1NEV0p6X1VFR1Q4aGZUTzAyajhGcDVlLW5DenA5ejgzWUhYY19fWkd6bl9VdG52RlllbUR4c0ZIVVRJWjBqZkp4SQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-026065a296",
+    "title": "Hacker who leaked GTA VI to be tried shortly before game's release",
+    "reportedAt": "2026-10-10T19:18:27.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT1JCdnRRZnRyTGo4VXhhYi0yTzczMGN0V0lmMUJnTG1xWUc2ZHE1dnJLX3daMm5xMlJhMXk4TzJiQ2NSZFRyR1k4SWpSQWxKVzl1WXVZdFU5ZFpIblJteURnU0tlcU9RN3V0SjEwSm9fZTA0TGJnRV85VDNBRGl3Qy1iT1ZGdHBHVmp2cDh4TjkwWk9MRDJNRDV3NWF5ekFEYmNrdUNn?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-3aa50dc0ce",
+    "title": "GTA 6 Leaker Claims to Have Full Build, Threatens to Release It Unless Take-Two Apologizes",
+    "reportedAt": "2026-10-11T00:21:37.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ2M3LUJ2eE1HX2NzUTU3SXNlZ1ZyMUszN2g4N0JwOXd4Wk9pSkV1dFZsVXU2aWlaSHRud2c5YTQzUTg2RFprb0JkdFYxRUszMnJDYkNoZUY1UTV1NjB1Wkd1TU9zb2h0ZEhFTUgtUjhhOHJSUzFBWXM3dWFzRlFmZE9UZVhqa0sxN0RxQWptR05nT1dJNEpvTmxSclFGdVpnZk5jZEJBdjBHYVA4TFNvaVNUTkV2RmdNYzFrRFNUVGRCd9IBxwFBVV95cUxQV0pUSWpHWl9NZ2ZNTUFCekpSSWswMy1MMUcxTGhNN1BSTm5KWVhlTXViVXVFNklTZDk0MUJjVl9IQnVQOUhhTVZibW5ySWtlb1U5Y0dvcjJTZ2JaM1BUcmtEYWdmVWlqQmJCbjROeWtyam1zX0k2cVgtTFZnVnFnM1c0eEU4NFFaNlpVNjBDeDlpWEJ3cmxNZUh0SDZYWlNMejhDd0hBYnhFNWVkMlpaOUFKUi1pS1hJdEQxVUhybEpWRk92VVlN?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-c493c32f4c",
+    "title": "Cyberleek Threatens GTA 6 Build Leak Over Discs And An Apology",
+    "reportedAt": "2026-10-10T14:22:07.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZVjhVc0lSMllZWkNtZzZZaTNXQXNPdU9Zd2toMWwxRHpTTW5aeERFQUFyY1VMa3dEcldnU1hTT0VCODVaQUI3ajkxd0xoNS1xdVI2YlJrY0JjYnAxM3BuZWt3NlJFN3hRRWc?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-bd3940fc5d",
+    "title": "GTA VI leaker threatens to dump a full playable build",
+    "reportedAt": "2026-10-10T18:16:09.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdGg2elBudmxPdDdyNWZFRi1tamo2cW0xRkJtNjdJZ0J2Y09VZzd2Yk9GbzFSQVJTU1NCRi15dTJvaEpIdWdJd2Rtb0p2NU9Ob3BZZnJCajBOQ2xJMU5YeC1fdDlJVXVycEREQ200WjIwV0w3b05qM0xPV1F2VUdiMUQ3VVFuY1o1X1BaRElB0gGTAUFVX3lxTE9fcHRULU41UTZNc3VTNlBtSzl5dEIxU3RJZW9JQ1Z5elhHQWRGTTJxWnNSc3J5YWJLSldndmpJVWNXZUxCMmN1SlBvdmlnT3RIS3BhbWVQYW9PVkYxTUlrLWpyZUxuc1UyTmZXNGJkdGlwUnVlMnRRRFYxeXkycGZRSE9yMzMzaFNsZzFDVU8yY21hYw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-f8b7342e2f",
+    "title": "Jason appears fully nude in new GTA 6 leak",
+    "reportedAt": "2026-10-09T15:21:30.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMie0FVX3lxTE1QU0tKdVBUcjc4LXdYaG14dTVRN1NfUjJqVXRPN1V1Yzh5c1NkWERlQU5PQ2lYZU81UTFGbVN1UW52bFQtbEdSRHBTdXJKLVNiM24wSXFEeDM5THY1SHNkalU0elEyeWFhYVZZb2JBa3hRYndaZ2NjcHFxOA?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-7ac4e522d0",
+    "title": "GTA 6 leaker claims to have the entire playable game, threatens to release it before launch",
+    "reportedAt": "2026-10-10T18:31:31.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX1RFQ0diSGtkT3BndXV3Mk0zdHlBN0RFTkJSQnNpSXQxR3BmaWI3M3VMS3BhSjhKU2t3R281VDVaRFBidXpVbFZSd0t2NWQtcy1USlF4elVGTnowdGlWN1JWbWtXczRwbFlSd3hWNFZReWQ2cHNFTDJEVXdDRFVQd25wM1hCVjBzR1UxSlVfakRGVkVvQ2s5dm9BbmJITC1acVdTRjJqVlo1Q2l5YkpTb20wa3pNbUd0NUE?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-0dd5392e2f",
+    "title": "GTA 6 Leaker Threatens to Release a Full Story Mode Build Unless Take-Two Offers Physical Discs",
+    "reportedAt": "2026-10-11T03:50:19.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX0IxQzg4Q21oRjUxWkdpVU9faExvc2ROMl8xblhrLVVFalhBZWl3T05KNmxyTWx4YXJIWnlZMzdBSWF3LXgxXzBrVWl3cnk4YjF2aS1BY19DVU5ZY0ZIek5DOE5mb0pqc011TVRmeUdxRFVPeHZDX2dJYS16WWNRZEx6eDV0MWcxczRTTC1fS3RybFNJbGtHSVVTUUdBYVVIUXQ3WXpNaWRDMlZHb2FsSzIxRHA0STRULWJJaC1LbHFyVE9hWml6Sk53?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-a2163d93ce",
+    "title": "CyberLeek threatens full GTA 6 leak unless Take-Two releases physical discs",
+    "reportedAt": "2026-10-10T19:09:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CaDFvdWsyMG84bnBDMEZGeWt4SkFHd0hqeTdWNmNTcy10SDRMSGhUZUVyTlRKUWxHQW1SaHppMG9pTnVNdUh3WHJtTmVySDFQOHY1U2g5OXpZMUNaSksycHZ3eGJzSE5mVWJEZVJnbHZOYk9ocEZz?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-8718020bd3",
+    "title": "GTA 6: Cyberleek Can Reveal More Nude Leaks Soon - as Well as Full Story Mode",
+    "reportedAt": "2026-10-10T19:38:18.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcHhwQjJvMFoxVVowYXZzbkVTSjFreEtrYWNzOTlFTnZHOEU4UDhIajM5NTJxVEtoRUVuRzc5dS1iZTVRRTUwTXJBUUFnaDNXUjVVdG1yUWZHeGh0Y1Zrb0dnTS1iZkdHM1l6Rk16QW5qZ0l0NEE2TkVBMGVlRTFmT25SNG8wQVVvOGRycHJJOHZhdEN1bjJUQ1BGYw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-ad0c6da710",
+    "title": "GTA 6 Cyberleek Leaks: 24-Minute Video Reveals Races, Car Customisation and More",
+    "reportedAt": "2026-10-10T11:57:33.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMipAFBVV95cUxORzd2WUNFUUZCZmJ3QjJ0c3VqeTA4ejUwSmNicjVIMDdTeExGU1FyQ2ZNRjJjSXVCS29YVE11WUo4bm5QRVRRTkI4Zi1zZXo1d1JjMDJvbjFrYlgyeTdkNmxaUHg0VGE5ZFBQNzBNT0tCTW0wUlBMbFUtdjlVUzZ6aVlLUUxJYXBvbXBPLTM2THNkM3lEb1ZvRmxPcTVTN1VweEZHcA?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
