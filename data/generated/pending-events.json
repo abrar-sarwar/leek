@@ -9250,5 +9250,101 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-1717082d5c",
+    "title": "GTA 6 Leak Reveals Naked Lucia, Vintage Car, Parachuting, And More",
+    "reportedAt": "2026-10-11T11:50:07.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxcml1MVlScnJpYmgwSHdhWkw1X0x1N1BLQk9pR0QzNFJWajVYdzQ3Q2g1ZjBOcnBxWEpBMXdpYUFGRXdSTHV6ZVJwdHEtbmcydkJpYkVYdTVFek5x?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-fde00030c9",
+    "title": "GTA 6 Leaker CyberLeek Demands Physical Discs and Public Apology in Exchange for Holding Back Full Build",
+    "reportedAt": "2026-10-11T06:50:49.000Z",
+    "category": "actor-statement",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yT3Q3VlE4cXhrY3JuU3ZXTDc2NTFuU01zS1JMRkg2UEt2LWxmNjdVR1JPdEtPMzhCb2FkVU9Kcm10Z25vWjNKS21kN3BmQnEyUWZqd2tTSU5Mc0xXVTBNdlA0ekotMm50TnREWlkwZ0JHQnVaX2pn?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-e6092b9c4c",
+    "title": "GTA 6 NEW Gameplay Leak, Lucia Skyskraper, CyberLeek, Map Leaks, Extended Leek (Grand Theft Auto VI)",
+    "reportedAt": "2026-10-09T22:08:41.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02RmVYVHN1SHVDVVlkYU96c25feE05ME9YVDRKOFM1cVdIZEoxeVVTTllreDRZZHlLLWlhZFRaQzJYcXZfeEdrUmZXSDVESjgxVkxQZ19WcGowZHp6?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-5db4e32544",
+    "title": "GTA 6 NEW Gameplay Leak, ThrillBilly Mud Club, CyberLeek, Map Leaks. Trailer 3 (Grand Theft Auto VI)",
+    "reportedAt": "2026-10-08T15:59:47.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CbEVNSFRCYTFvVWg3cER6bi0zWXJPLWY4VXQ3elVZSmk0NzVlMU03N0ZPZVgzY2kyNnRqck1CY1VXSk50cExZZ0RpU1VLMkk1a3FwVTRtVmZ2MDI0?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-abdd2222a0",
+    "title": "What the GTA VI leaks can teach us about securing digital supply chains",
+    "reportedAt": "2026-10-11T07:43:51.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRkFyZkg5cWNYeWlkbzRvdnVWcUk4ZlJTMG9YQjdjVkxjZzlhaEZZVHFzc0w2eE1nclY4ZEJOTThuenptUlRteVd3UzJNWDY2UkxZaVRjRTJUZ19GMUwyaHRRZ0VjODl4SmZ4MDMwaUtDcmhiakc5TFFCcW1PTmhEN20tRjBjVnJhZUFidkV4SDRIaWxXQUdhQ0pDaG5MZWZmdk1nQnlXZkdFRmV0bE0wcA?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-451b2f1c4d",
+    "title": "Group threatens to leak ‘full’ GTA 6 build if physical plans aren’t reversed",
+    "reportedAt": "2026-10-11T10:35:55.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMitgFBVV95cUxQclVlNVlqRHN6TTRMNXAtWF9oU3FxQWxHenk1TjUyUnhGY3FQZTByUUItcXJqSW1TaDBucWVlRUJCY2x5V2xnOVF4UHlvQnc2MzdsbEFQdWw2d1RVZ0M1V3ZyY2pMWG42SGNvMjZCbmtYUFc0eE5wNWkxRnNndFBTU3R2OTM0RXZTVnIxUTI0UHNobnJZRkpBWlNMYmliSlRBVk5IZVBiNjhrbGF5LVZIS0gyUjhiZw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-c7060aa01f",
+    "title": "Cyberleek Threatens GTA 6 Build Leak Ahead of Release",
+    "reportedAt": "2026-10-11T09:32:31.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMibEFVX3lxTE13R3lraUkySGZMeHBObU5ESEs1MVVpQ2x3STVaaUl3SGFCSTJqZ1g0c3lWU2N4Y25fU2NzZkxPUm1CTHVRQ1J6Q19ReUJHcFM2OGJhQTItQWhrdlZsaWNTQVVaVXA2RUdud0VCTA?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-b092f5f170",
+    "title": "Fans Notice the Alleged GTA 6 Nude Leak Lacks NPC Reactions, Making the Game Look 'Childish'",
+    "reportedAt": "2026-10-11T04:33:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acb7f687fb54b9b8030a6d73cfeb1de&url=https%3a%2f%2fwww.inkl.com%2fnews%2ffans-notice-the-alleged-gta-6-nude-leak-lacks-npc-reactions-making-the-game-look-childish&c=9286837728717322087&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
