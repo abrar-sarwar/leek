@@ -3886,5 +3886,61 @@
     "domains": [
       "bing.com"
     ]
+  },
+  {
+    "date": "2026-10-11",
+    "feed": "google-news:CyberLeek",
+    "count": 22,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-10-11",
+    "feed": "google-news:GTA VI leak",
+    "count": 3,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-10-11",
+    "feed": "google-news:GTA 6 leak",
+    "count": 4,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-10-11",
+    "feed": "google-news:CyberLeek dead man switch",
+    "count": 1,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-10-11",
+    "feed": "bing-news:CyberLeek",
+    "count": 2,
+    "domains": [
+      "bing.com"
+    ]
+  },
+  {
+    "date": "2026-10-11",
+    "feed": "bing-news:GTA VI leak",
+    "count": 3,
+    "domains": [
+      "bing.com"
+    ]
+  },
+  {
+    "date": "2026-10-11",
+    "feed": "bing-news:GTA 6 leak",
+    "count": 1,
+    "domains": [
+      "bing.com"
+    ]
   }
 ]

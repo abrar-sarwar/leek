@@ -1,25 +1,25 @@
 {
-  "ranAt": "2026-10-11T12:21:55.146Z",
+  "ranAt": "2026-10-11T21:39:30.011Z",
   "feeds": [
     {
       "name": "google-news:CyberLeek",
       "ok": true,
-      "items": 92
+      "items": 98
     },
     {
       "name": "google-news:Cyberleek",
       "ok": true,
-      "items": 92
+      "items": 98
     },
     {
       "name": "google-news:GTA VI leak",
       "ok": true,
-      "items": 92
+      "items": 98
     },
     {
       "name": "google-news:GTA 6 leak",
       "ok": true,
-      "items": 92
+      "items": 98
     },
     {
       "name": "google-news:Take-Two CyberLeek",
@@ -34,12 +34,12 @@
     {
       "name": "google-news:CyberLeek Microsoft",
       "ok": true,
-      "items": 65
+      "items": 66
     },
     {
       "name": "google-news:CyberLeek Discord",
       "ok": true,
-      "items": 62
+      "items": 63
     },
     {
       "name": "google-news:CyberLeek subpoena",
@@ -49,12 +49,12 @@
     {
       "name": "google-news:CyberLeek dead man switch",
       "ok": true,
-      "items": 27
+      "items": 29
     },
     {
       "name": "google-news:CyberLeek arrest",
       "ok": true,
-      "items": 50
+      "items": 52
     },
     {
       "name": "google-news:CyberLeek $CYBERLEEK",
@@ -74,7 +74,7 @@
     {
       "name": "bing-news:GTA VI leak",
       "ok": true,
-      "items": 2
+      "items": 12
     },
     {
       "name": "bing-news:GTA 6 leak",
@@ -85,7 +85,7 @@
       "name": "gdelt",
       "ok": false,
       "items": 0,
-      "error": "HTTP 429"
+      "error": "Unexpected token 'P', \"Parenthese\"... is not valid JSON"
     },
     {
       "name": "courtlistener",
@@ -93,8 +93,8 @@
       "items": 20
     }
   ],
-  "discovered": 1390,
-  "newSinceLastRun": 18,
-  "pending": 779,
+  "discovered": 1426,
+  "newSinceLastRun": 36,
+  "pending": 794,
   "analysisMode": "rules-only"
 }
