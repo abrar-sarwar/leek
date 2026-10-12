@@ -9526,5 +9526,41 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-eb6353eb0a",
+    "title": "GTA 6 Leaker Turns Nude Lucia Into A $30 Million Threat",
+    "reportedAt": "2026-10-11T23:03:35.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HOVBCeVVqd0pqZEtzV1owVW1lT2pVdE5KOFFLZEgtVElCcnNfUjVHS05CZGs5ZV9NbC0xbXBKZlVyYWMtclRfWVVqem5QVW9DTk9Lb3NfUEVoQQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-0b2c1cae67",
+    "title": "GTA 6 leaker threatens to release a build of the entire game start to finish, but gives Take-Two a way out: \"Physical disks and a public apology\"",
+    "reportedAt": "2026-10-11T11:35:57.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMinAJBVV95cUxNRHZTamR1Q0VIT0ZObzQtLWxYTlZ4Y0dHTU9uWS0tejdNclI1RVdpNGcwNG8zajMwa29rQm1wb0swV3hFVEdtUHY3YjlOMzRiWFJzcGNqc1hoeWVYTEo5czIyb2Z3ZnpDYkdRODZtRHNvZFROVzkwV0tjR1dVSEducl9rVjBpdWV5Mnp0T2k0V3Rxc0I0a1hVd2R5Z1pLS0NTbTgtWnREcVV0aTdfSlE1SUVOZTMtd0FoZmlrUzBfYkZJYkxjaDIwc3N4dThhbkFKaTJQS3pKMzNsdm9sV2JNODM2SGhFUy1FNEJDNzluRGJYOWhrWlhCTkxvVHZScDM0WTBqMVF5T01ORXVoWWFBbHhocUZUZUsyOHVjWQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-de820d2a20",
+    "title": "Police arrest suspect in scholarship fraud case involving student Laiba",
+    "reportedAt": "2026-10-10T19:28:54.000Z",
+    "category": "investigation",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY2xMNVZaWmFPdnE1NEVBelI4eENVQjllNDdTR2ctMzJ3eWNDaVNtRlZjY0N6RkhrUFdvMW5wenNRMmhCZzMxZFg1MWNwUE5uUjE1clJjd0YzXzdBdjBkWlA4cDJWZEJlZzB5SzgtbGhlRFRRd0NHdnNMVDF3eHJpenZtaDVtc04xUDRtVzZCbHZHUm1R?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

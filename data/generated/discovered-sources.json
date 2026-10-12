@@ -30671,5 +30671,195 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-a64eb53121",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iN1NmUVd4UWs4dHh4eG45RllvNXBaR1VBTi1pLUZDY1U2RmhVLXNlbVFwUGNQNGh3TTBWbm5wVGhTMWpEYnlxMUozOXNZWTNZcnRSaWtqNTNZbUJvbjZGSjVZSW5IVGVmZXQ4RThaSmducl9oRnc?oc=5",
+    "title": "Cyberleek’s 24-Min GTA 6 Leak Puts Focus on Lucia [2026] - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-10-11T21:50:28.000Z",
+    "discoveredAt": "2026-10-12T05:04:43.239Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "Take-Two Interactive",
+        "$CYBERLEEK holders"
+      ],
+      "claims": [
+        "LEEK-CLM-001",
+        "LEEK-CLM-002",
+        "LEEK-CLM-014",
+        "LEEK-CLM-015",
+        "LEEK-CLM-029"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-c7b154cb09",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAwWDhBNUhSRnV0UWNKWFNWeWlaaXFfMzdMR25ucUxicmVNVllJR3VreG43eVZ0VGY5b0RiWWFrYmJEQlc3MTlnd1ctU2FPYUd4V3BFdGRGcnRpZV9oWG92QXRjYTZ2bkxqUnBmQUdhUDlWd0U?oc=5",
+    "title": "GTA 6 Leak: CYBERLEEK Ties Build to $30M Crypto Bet",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-10-12T03:17:44.000Z",
+    "discoveredAt": "2026-10-12T05:04:43.239Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-2c66fac07b",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNzBqNlNhQTUxMFByS0JnR1hvQUgwOFhlQ2RsbnFfUnlrbHZQVjMyclo0UWctZUNYbHdFM2lsLXc4SlU0enpJdGNiZXd4VVBwZDFkZ1dTZEtyczdBMmJuZkFWUzFxT3I3OFNqTnlrTGMwVHBwVEVzb2pHYWdOVDJrS2tpdGl3ZjFpWVlwdTVYOWdRdEs4YmxxTEFITnZ4Ui1BZ01jY0VQNjVnWWly?oc=5",
+    "title": "CYBERLEEK Memecoin Surge Sparks Concerns for Take-Two Interactiv",
+    "publisher": "GuruFocus",
+    "publishedAt": "2026-10-11T22:16:52.000Z",
+    "discoveredAt": "2026-10-12T05:04:43.239Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "Take-Two Interactive",
+        "$CYBERLEEK holders"
+      ],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-eb6353eb0a",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HOVBCeVVqd0pqZEtzV1owVW1lT2pVdE5KOFFLZEgtVElCcnNfUjVHS05CZGs5ZV9NbC0xbXBKZlVyYWMtclRfWVVqem5QVW9DTk9Lb3NfUEVoQQ?oc=5",
+    "title": "GTA 6 Leaker Turns Nude Lucia Into A $30 Million Threat",
+    "publisher": "HotCars",
+    "publishedAt": "2026-10-11T23:03:35.000Z",
+    "discoveredAt": "2026-10-12T05:04:43.239Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-c3c1fb5e3d",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMkFPWkxYS3czT1g2bm9keUtUVXk2VHY3N0d5ZmNxTXFyeEszXzdwX2gxYl9jclU4UkFham5EQUtLZ3o3RGpwNTZEWURVcjdyN29DWC1lYXY2WHpvUkwwTlozODk1OXNqTzA3eE9kRVpWcXZsTzY1SU1yaERheTRLRGctZlpheGNDbUE2YW5WOWJJSDVua1hWekhfWk12TF93cllCcTNIOUNDMzNLTVdZcGFZN1pLbDZmSURhY2ZOM2pTU1owVkVDdWI5Ul9teTlFREE?oc=5",
+    "title": "GTA 6 leaker Cyberleek demands Take-Two apology and $30M memecoin market cap or threatens full build release",
+    "publisher": "news.lavx.hu",
+    "publishedAt": "2026-10-11T21:01:51.000Z",
+    "discoveredAt": "2026-10-12T05:04:43.239Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "Take-Two Interactive",
+        "$CYBERLEEK holders"
+      ],
+      "claims": [
+        "LEEK-CLM-002",
+        "LEEK-CLM-015",
+        "LEEK-CLM-022"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-0b2c1cae67",
+    "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNRHZTamR1Q0VIT0ZObzQtLWxYTlZ4Y0dHTU9uWS0tejdNclI1RVdpNGcwNG8zajMwa29rQm1wb0swV3hFVEdtUHY3YjlOMzRiWFJzcGNqc1hoeWVYTEo5czIyb2Z3ZnpDYkdRODZtRHNvZFROVzkwV0tjR1dVSEducl9rVjBpdWV5Mnp0T2k0V3Rxc0I0a1hVd2R5Z1pLS0NTbTgtWnREcVV0aTdfSlE1SUVOZTMtd0FoZmlrUzBfYkZJYkxjaDIwc3N4dThhbkFKaTJQS3pKMzNsdm9sV2JNODM2SGhFUy1FNEJDNzluRGJYOWhrWlhCTkxvVHZScDM0WTBqMVF5T01ORXVoWWFBbHhocUZUZUsyOHVjWQ?oc=5",
+    "title": "GTA 6 leaker threatens to release a build of the entire game start to finish, but gives Take-Two a way out: \"Physical disks and a public apology\"",
+    "publisher": "GamesRadar+",
+    "publishedAt": "2026-10-11T11:35:57.000Z",
+    "discoveredAt": "2026-10-12T05:04:43.239Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive"
+      ],
+      "claims": [
+        "LEEK-CLM-002",
+        "LEEK-CLM-013"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-4d209d7190",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcThLZ0hWTFltcjFWR1lKUjJ1OG9LQW5pNjd0MUpqZXJKWElTajVQM1ktQ0V2VGtZaDdyOXZhYkh4Mld1QklWQzdFS09vbDQ3RVlORUtIY3hKQ2NGYmtLRDV6NzQ3MWM1M1paYmdmeFBncVlOQUl5WDVEM1ViYmpZd1RPajBhcHcwQmlvVnZBeGhEcHU5S1JQVndqNA?oc=5",
+    "title": "Rockstar Mailed a GTA 6 Fan a Poster After He Simply Asked for One",
+    "publisher": "GTA BOOM",
+    "publishedAt": "2026-10-11T23:32:54.000Z",
+    "discoveredAt": "2026-10-12T05:04:43.239Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-de820d2a20",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY2xMNVZaWmFPdnE1NEVBelI4eENVQjllNDdTR2ctMzJ3eWNDaVNtRlZjY0N6RkhrUFdvMW5wenNRMmhCZzMxZFg1MWNwUE5uUjE1clJjd0YzXzdBdjBkWlA4cDJWZEJlZzB5SzgtbGhlRFRRd0NHdnNMVDF3eHJpenZtaDVtc04xUDRtVzZCbHZHUm1R?oc=5",
+    "title": "Police arrest suspect in scholarship fraud case involving student Laiba",
+    "publisher": "ARYnews.tv",
+    "publishedAt": "2026-10-10T19:28:54.000Z",
+    "discoveredAt": "2026-10-12T05:04:43.239Z",
+    "feed": "google-news",
+    "query": "CyberLeek arrest",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-016"
+      ],
+      "category": "investigation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

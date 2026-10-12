@@ -1,25 +1,25 @@
 {
-  "ranAt": "2026-10-11T21:39:30.011Z",
+  "ranAt": "2026-10-12T05:04:43.239Z",
   "feeds": [
     {
       "name": "google-news:CyberLeek",
       "ok": true,
-      "items": 98
+      "items": 92
     },
     {
       "name": "google-news:Cyberleek",
       "ok": true,
-      "items": 98
+      "items": 92
     },
     {
       "name": "google-news:GTA VI leak",
       "ok": true,
-      "items": 98
+      "items": 100
     },
     {
       "name": "google-news:GTA 6 leak",
       "ok": true,
-      "items": 98
+      "items": 92
     },
     {
       "name": "google-news:Take-Two CyberLeek",
@@ -34,32 +34,32 @@
     {
       "name": "google-news:CyberLeek Microsoft",
       "ok": true,
-      "items": 66
+      "items": 65
     },
     {
       "name": "google-news:CyberLeek Discord",
       "ok": true,
-      "items": 63
+      "items": 64
     },
     {
       "name": "google-news:CyberLeek subpoena",
       "ok": true,
-      "items": 43
+      "items": 44
     },
     {
       "name": "google-news:CyberLeek dead man switch",
       "ok": true,
-      "items": 29
+      "items": 28
     },
     {
       "name": "google-news:CyberLeek arrest",
       "ok": true,
-      "items": 52
+      "items": 53
     },
     {
       "name": "google-news:CyberLeek $CYBERLEEK",
       "ok": true,
-      "items": 40
+      "items": 43
     },
     {
       "name": "bing-news:CyberLeek",
@@ -74,7 +74,7 @@
     {
       "name": "bing-news:GTA VI leak",
       "ok": true,
-      "items": 12
+      "items": 2
     },
     {
       "name": "bing-news:GTA 6 leak",
@@ -85,7 +85,7 @@
       "name": "gdelt",
       "ok": false,
       "items": 0,
-      "error": "Unexpected token 'P', \"Parenthese\"... is not valid JSON"
+      "error": "fetch failed"
     },
     {
       "name": "courtlistener",
@@ -93,8 +93,8 @@
       "items": 20
     }
   ],
-  "discovered": 1426,
-  "newSinceLastRun": 36,
-  "pending": 794,
+  "discovered": 1434,
+  "newSinceLastRun": 8,
+  "pending": 797,
   "analysisMode": "rules-only"
 }
