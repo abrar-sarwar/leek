@@ -10126,5 +10126,89 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-b993049c5c",
+    "title": "Rockstar GTA 6 Leak Details: Lucia and 200GB Claim",
+    "reportedAt": "2026-10-13T14:57:37.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ka1NrNlZ0OUI4aWh3ZmFQYWZxbldqc3gwVF8ydUhzZDJTUTlUM010dEVFeElQajFSZk5zY1FYa2trMUNZcVphLWdEMDNLMTZDMVJfYmM3TjFWZ2VuaDI0aWo1R3d0MllRbUlHRnVFZTUtNFB6TjZz?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-262e3c7c46",
+    "title": "GTA 6 PC release window leaks as Rockstar learn from Red Dead Redemption 2 error",
+    "reportedAt": "2026-10-13T14:35:39.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS0taV2JEMUtfb2FCNlBFSTRZS3JyNjFGckxvbWZXZUpiMnV0Ujd4RVVDV2NnTDBDdGdxXzItcGdFdDVOZEQ0Ylh0eGN4WVY4SjhJd0xVN05XaHU1LWZUNTFpVlVwYUw4WnFYUS11Z0QwWFlZMUpfa2FCSTJEeXdla0F3VFc?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-3141de2419",
+    "title": "Grand Theft Auto 6 PC Release Window Revealed In Leak",
+    "reportedAt": "2026-10-13T14:24:58.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdVRVUG1XbjRiZjJGWElhSEtuMzFpal8zaWFGT2dGVlMtUHZEQVhqM2FYdzgzYXNnbkV6Qi1VU1JGcERScWQ3NFVsUVR0UG04UWgzSlQ2bGpvUHlraHVlXzcxN0YzVXdGMlY3YThFZloySDJ4dG5qVWkxanlFOTE4ejlwZzVqWEdiTlBsRHMwS20?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-76af1db0d1",
+    "title": "Potential GTA 6 leak linked to CYBERLEEK memeco...",
+    "reportedAt": "2026-10-12T11:55:09.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTWRTcG1VZTY1RHdKWHRUM0FFNG9jaWhmTDNTdEU3MW1YMURIRmN2SElrVDRfVFNWc0czVTFfb3hab1lTdFpuM1RralVoTkJoR2tsOEpCM0F4RzJ6ZWY4Q0hKV2FuUWxnX2laN2pIUjB6dFVCOThTSmRqbEdLUTJKdTNkUHVnOGJmQlpvYXowOTR3LTF3VkE?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-fea0efac6f",
+    "title": "GTA 6 NEW Gameplay Leak, CyberLeek Leaks, All Subpoena Details, Trailer 3 (Grand Theft Auto VI)",
+    "reportedAt": "2026-08-22T07:00:00.000Z",
+    "category": "legal",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5bmZlVktjQmdyOGQ5TVB0bmd6QVdJOXFHWk5qb09Valk2UGRnOVBDem5mX3B2VkRzNEd2YmdsS2pXeTlndWRNS1d1S2lOZlNlS1dSOGNHVUloNU5L?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-8c8046664f",
+    "title": "GTA 6 PC launch window: Leaks point to GTA 6 PC Q1 2027 release; hints at shorter console gap",
+    "reportedAt": "2026-10-13T11:16:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aceafe499694063b4411962536cc2c5&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fgta-6-pc-launch-window-leaks-point-to-gta-6-pc-q1-2027-release-hints-at-shorter-console-gap%2far-AA2e9NhN&c=824552543346371176&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-d8189a8612",
+    "title": "GTA 6 PC release window leaked: Report tips Q1 2027 PC launch; gap may be shorter than GTA 5",
+    "reportedAt": "2026-10-13T09:45:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aceafe499694063b4411962536cc2c5&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fgta-6-pc-release-window-leaked-report-tips-q1-2027-pc-launch-gap-may-be-shorter-than-gta-5%2far-AA2eaB62&c=388799350121277786&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

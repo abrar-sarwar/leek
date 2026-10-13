@@ -32710,5 +32710,360 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-86f4d18516",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOU9KUXk5VWxSS2lQMGhrakdEdGcwVGU3eE95TEVqMDBLOVpERGVJQTV0aFhFQVUzQXZCZ0dIY2ZmbVFnTWpzSkMzZEJvaVphUy1WRkhwTmlIWnZUalU4Q09qaGxLNXhwLWo3YmZlSUQyU0xoQXRURWgwd21rX1BEdjVtV054aGxvMEE?oc=5",
+    "title": "'GTA 6' Cyberleek release update: New leaks, development build, and roadmap of what might be next",
+    "publisher": "Mashable",
+    "publishedAt": "2026-10-13T19:00:41.000Z",
+    "discoveredAt": "2026-10-13T22:25:34.820Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-015",
+        "LEEK-CLM-029"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-8af11a3a54",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNTI1WS00OVBiMmpjeEZ1R0JpdjNkY0hxNFZIQVA5SmdRazREeUJiaWVHVkJSclN3UnFueHRqSWRnTURiNjBVWC1fOWN0TWFaSUhQTFJXWDJlODBPbUp2SkNOTEZYbEtqVkNXYkJmbTBTM2RTTVFVaWhlWVZCYWdNWEdKX29XZVNjMVBnanpNSUxRWVFOcDBzNFprQUVKR01QQkJXMERIdHFWbWdsOVpyMG1wdFMyZmN1ejZ0eVNTSmlGZ3JfVWc?oc=5",
+    "title": "CYBERLEEK Crypto Targets $30M Market Cap With GTA 6 Leak Threat: Can CYBERLEEK Rally?",
+    "publisher": "Bitcoin Foundation",
+    "publishedAt": "2026-10-13T18:10:14.000Z",
+    "discoveredAt": "2026-10-13T22:25:34.820Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-007"
+    }
+  },
+  {
+    "id": "DISC-cd68973b64",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcXV6dG44UlNxZ3NYVVoxclo0SlE4UE1fVnl2aXFCSk83QmlPZmtuNDFVSVR2LVRybTJqVnJvYi1KdVlvMnp0YXIzMkZiVFFaT3YtTFVaN1RGRnVBZWx5dVBEY0dtc3dIQnRlUkJNNVd3U2N1Yl8yTi1HbldLdzJqcXZ2cDFJbFFQRXlfOGh3?oc=5",
+    "title": "Cyberleek Claims “Playable” GTA 6 Build Is Over 200GB With Another Leak Threat",
+    "publisher": "Yahoo Tech",
+    "publishedAt": "2026-10-13T18:32:57.000Z",
+    "discoveredAt": "2026-10-13T22:25:34.820Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-001",
+        "LEEK-CLM-028"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-007"
+    }
+  },
+  {
+    "id": "DISC-9dedecf257",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTUJ1d3BUTW90N1lTVXJ3SGd3ZzlrWjZfVHFxZk5mN0Q3RlVYU2tDRHpsTWNZTDFjbVk3SmhLdGJvVWhLZmcyWVhlSS11UC03dXA0Mlcxd2tmc3JJMmVrVW1hdnF3UDdLaWRXTHdwellIYkgtcWhNX1lpQ3JkNEpMNmNiRkh2bTVJZFBKVA?oc=5",
+    "title": "Latest GTA 6 Leak of Nude Character Is a Bad Crypto Scheme Fundraiser",
+    "publisher": "CNET",
+    "publishedAt": "2026-10-13T21:14:19.000Z",
+    "discoveredAt": "2026-10-13T22:25:34.820Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-b993049c5c",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ka1NrNlZ0OUI4aWh3ZmFQYWZxbldqc3gwVF8ydUhzZDJTUTlUM010dEVFeElQajFSZk5zY1FYa2trMUNZcVphLWdEMDNLMTZDMVJfYmM3TjFWZ2VuaDI0aWo1R3d0MllRbUlHRnVFZTUtNFB6TjZz?oc=5",
+    "title": "Rockstar GTA 6 Leak Details: Lucia and 200GB Claim",
+    "publisher": "Techloy",
+    "publishedAt": "2026-10-13T14:57:37.000Z",
+    "discoveredAt": "2026-10-13T22:25:34.820Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-881381cc99",
+    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNbENrak9mNzl2WG1GVFRkeW1xWXkyMmFtWWd2UHN2Z0FKQUdNQ20wdnZsTWRyTDFHLS02RDBKSFh3U05QRExxUk1HdjhNVElOTkpoWlk5QXpJUTZUbUU0RDRmU2UtakhBRENoVDV0Tk14SjcteEZXSkhsYVpISXpjR0s3VVdVeFoxa21GM0ZWWF9yazBCQVZfMUh0V0lKdUdVTjg0TjFySWpOVmd6Z3NPbmFpRnp2Z1luMGZfVEVmVkh3blBZX2o2ZlJjUWxJdXh1VWFTb2xNOUtIYWc5ZTM5UVByZW5CM194Q0RCOVptcHdjUGtRWWJTQ2FQSS1Za0FEZ2JGQVd5QWs?oc=5",
+    "title": "GTA 6 could come to PC as early as Q1 2027, report claims — January-March launch window a huge improvement over 18-month GTA V wait",
+    "publisher": "Tom's Hardware",
+    "publishedAt": "2026-10-13T16:22:10.000Z",
+    "discoveredAt": "2026-10-13T22:25:34.820Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-028"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-477c39ff1a",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wM3Zpc2NCRVBNaWdqQTlIdFhmTDF0Q2VLZzRmZlBaMlJWR3o4ajMtTFNnUW1iR1FuVTFpZ0U0NHp0eFUxT0VKd1RTc3pkQnB2SFc0cEJlZU9tMlZqRno2amFiT21QLXQtVFd1VmRMRnlERFpFdnc?oc=5",
+    "title": "GTA 6 PC Release Reportedly Planned for Early 2027",
+    "publisher": "VICE",
+    "publishedAt": "2026-10-13T14:15:42.000Z",
+    "discoveredAt": "2026-10-13T22:25:34.820Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-262e3c7c46",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS0taV2JEMUtfb2FCNlBFSTRZS3JyNjFGckxvbWZXZUpiMnV0Ujd4RVVDV2NnTDBDdGdxXzItcGdFdDVOZEQ0Ylh0eGN4WVY4SjhJd0xVN05XaHU1LWZUNTFpVlVwYUw4WnFYUS11Z0QwWFlZMUpfa2FCSTJEeXdla0F3VFc?oc=5",
+    "title": "GTA 6 PC release window leaks as Rockstar learn from Red Dead Redemption 2 error",
+    "publisher": "GAMINGbible",
+    "publishedAt": "2026-10-13T14:35:39.000Z",
+    "discoveredAt": "2026-10-13T22:25:34.820Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-b84af0620a",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdEFmWnVGSE1uVjhRZTBkem9TeE9wRlQ0cFNZQVF2N2VXUHdlZXQyMld3VnYzVXRhU0Q1VWRaM0xvdWtycVFvNmlJV2UtLXM1d3czTmZWdXNTMVFvSDE1QktNdjVERHlNejVYNzlRQ0FBNlFuNklXcjA4NzBWWE1fZktoUkplY1BwZXg5QUY3Z3Jzc3JM?oc=5",
+    "title": "GTA 6 'online-only' fears grow as unofficial PC port threatens launch",
+    "publisher": "GAMINGbible",
+    "publishedAt": "2026-10-13T17:00:02.000Z",
+    "discoveredAt": "2026-10-13T22:25:34.820Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-f2af8aa7e9",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMGg1MUVxUzBKd2hzZlRpQmFRcjJiSUtPMzA1SG9YU2xjSjRUS29KdGUxR2xGaDdfMmZVa0pmUlRsLVl2M1MzUE9jNHdKNUJaR3hNTDJMbnFKOW54eE02LU11RzBYMWZGYTdvVjVXUVM3aFFTMm9oU0dWZ1J4eUpDR19R?oc=5",
+    "title": "GTA VI could launch on PC just a few months after release - Root-Nation.com",
+    "publisher": "Root-Nation.com",
+    "publishedAt": "2026-10-13T16:13:09.000Z",
+    "discoveredAt": "2026-10-13T22:25:34.820Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-b392ec65ec",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWi1nbk1mMmREVVBVTGY5UFBwNG5ISzdlMEZsa0VtbWNENmhPVWg0RUJhb1JpYU5qRmJHNXBwaFlQQWJjOU5LcHZ3NWliQTNDWXA1RFN2RUc1SE1CQndINEVGaWkwVlRwNVRBbm9kOGFlLXVGdEJCS0tWRUJRelZoTTBCWG1YZw?oc=5",
+    "title": "PC Gamers, Rejoice: GTA 6 PC Port Could See Release in Early 2027, Report Says",
+    "publisher": "CNET",
+    "publishedAt": "2026-10-13T21:22:45.000Z",
+    "discoveredAt": "2026-10-13T22:25:34.820Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-13eca1fb1e",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qQ2c5R0kwMERxVHJBNF9wUU5NUDVjVzRya09xOHRsWDI5TTlfakdVZ2hrM1VfSjFqMGt6YVVMODdxQ1cyaUtzN25YYmhzT3JaT2VSakdDWnNMZHdicHR1OHZSRXFCUQ?oc=5",
+    "title": "GTA 6 Sets PC Release Date, New Report Says",
+    "publisher": "Polygon.com",
+    "publishedAt": "2026-10-13T15:11:46.000Z",
+    "discoveredAt": "2026-10-13T22:25:34.820Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-3141de2419",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdVRVUG1XbjRiZjJGWElhSEtuMzFpal8zaWFGT2dGVlMtUHZEQVhqM2FYdzgzYXNnbkV6Qi1VU1JGcERScWQ3NFVsUVR0UG04UWgzSlQ2bGpvUHlraHVlXzcxN0YzVXdGMlY3YThFZloySDJ4dG5qVWkxanlFOTE4ejlwZzVqWEdiTlBsRHMwS20?oc=5",
+    "title": "Grand Theft Auto 6 PC Release Window Revealed In Leak",
+    "publisher": "OpenCritic",
+    "publishedAt": "2026-10-13T14:24:58.000Z",
+    "discoveredAt": "2026-10-13T22:25:34.820Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-76af1db0d1",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTWRTcG1VZTY1RHdKWHRUM0FFNG9jaWhmTDNTdEU3MW1YMURIRmN2SElrVDRfVFNWc0czVTFfb3hab1lTdFpuM1RralVoTkJoR2tsOEpCM0F4RzJ6ZWY4Q0hKV2FuUWxnX2laN2pIUjB6dFVCOThTSmRqbEdLUTJKdTNkUHVnOGJmQlpvYXowOTR3LTF3VkE?oc=5",
+    "title": "Potential GTA 6 leak linked to CYBERLEEK memeco...",
+    "publisher": "Pluang",
+    "publishedAt": "2026-10-12T11:55:09.000Z",
+    "discoveredAt": "2026-10-13T22:25:34.820Z",
+    "feed": "google-news",
+    "query": "Take-Two CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-fea0efac6f",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB5bmZlVktjQmdyOGQ5TVB0bmd6QVdJOXFHWk5qb09Valk2UGRnOVBDem5mX3B2VkRzNEd2YmdsS2pXeTlndWRNS1d1S2lOZlNlS1dSOGNHVUloNU5L?oc=5",
+    "title": "GTA 6 NEW Gameplay Leak, CyberLeek Leaks, All Subpoena Details, Trailer 3 (Grand Theft Auto VI)",
+    "publisher": "YouTube",
+    "publishedAt": "2026-08-22T07:00:00.000Z",
+    "discoveredAt": "2026-10-13T22:25:34.820Z",
+    "feed": "google-news",
+    "query": "CyberLeek subpoena",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "Google / YouTube"
+      ],
+      "claims": [
+        "LEEK-CLM-023"
+      ],
+      "category": "legal",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-8c8046664f",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aceafe499694063b4411962536cc2c5&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fgta-6-pc-launch-window-leaks-point-to-gta-6-pc-q1-2027-release-hints-at-shorter-console-gap%2far-AA2e9NhN&c=824552543346371176&mkt=en-us",
+    "title": "GTA 6 PC launch window: Leaks point to GTA 6 PC Q1 2027 release; hints at shorter console gap",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-13T11:16:00.000Z",
+    "discoveredAt": "2026-10-13T22:25:34.820Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-d8189a8612",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aceafe499694063b4411962536cc2c5&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fgta-6-pc-release-window-leaked-report-tips-q1-2027-pc-launch-gap-may-be-shorter-than-gta-5%2far-AA2eaB62&c=388799350121277786&mkt=en-us",
+    "title": "GTA 6 PC release window leaked: Report tips Q1 2027 PC launch; gap may be shorter than GTA 5",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-13T09:45:00.000Z",
+    "discoveredAt": "2026-10-13T22:25:34.820Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-006",
+        "LEEK-CLM-007"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
