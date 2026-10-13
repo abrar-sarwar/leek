@@ -32207,5 +32207,508 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-6579f01847",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeFpid0FNVjB3UXNWUXdtMmJSQWMtRkxzTktRcENNRy1QX3FDcVg5My1pV2RsOHVHeWZLRnprTXV1SjZ6dTNlV1NlSjB2djlCSF9hQ3p5cFpiQzM3RXQ0d2dET2FnZ1lKcVRxVEQ0dE40LXM5eWpJZlFBaFpGQ1VaTWlVNFdIcWJ5T2Zzc2hSejNaenVPeVNEQVlvbFFXd2c?oc=5",
+    "title": "GTA 6 Leaker Teases 'Playable Build' Launch, Doubles Down on Crypto Scheme",
+    "publisher": "PCMag",
+    "publishedAt": "2026-10-12T22:22:43.000Z",
+    "discoveredAt": "2026-10-13T13:49:50.142Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-001",
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-86d3750b6a",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRXVQUkFrdERMYy1NRW9RSlowUWJCV0k1UG1rYUdubUwtZXVEbkxaZzBGNUhwUmhpb1NFWHlYenNJMWRMXy13T1lsS3pDcTJxeVRmRXM4U0ZZbjlyWmhlVFNSV2tuVlpKSldzRUoxcHB2aHJyb3EzUHBUZk9aZmFfT0FqLWVsdWVLMExQS1pYTjExZDI5bG01MWtB?oc=5",
+    "title": "GTA 6 leaker threatens to release full playable version of game ahead of official launch",
+    "publisher": "Bitdefender",
+    "publishedAt": "2026-10-13T06:57:34.000Z",
+    "discoveredAt": "2026-10-13T13:49:50.142Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-001",
+        "LEEK-CLM-002"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-daba90d236",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ1FGM1JYZjFhb0Y2R2trc2RPYmlvRzB5dW1hS3NtcjJjSk05aU1GbmlhTHczSGJzMHA4OTV0NTlMRHpkcDdlOWx3WURqa1F6clZPMHRUZllPZDJCR19LeTNlWUZBZG0zSlUyZS1WdGpYaFJ5LTdjc3E3NGRCS2ZSQU1qd0VKNk5tUkRnc3NNNmJLLVdIQVE?oc=5",
+    "title": "GTA 6 leaker Cyberleek claims full playable build exceeds 200GB",
+    "publisher": "VideoCardz.com",
+    "publishedAt": "2026-10-13T13:23:37.000Z",
+    "discoveredAt": "2026-10-13T13:49:50.142Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-001"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-5dbf72d0ed",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPSFh6QS1PWjVGMkItTW1CdVdjNERaREZIdV9yVE5ZeU5fX2RJTThENlc5VzR6Q0pEbUNsekpXTjlsNzJkb2RmSG9ldTNtTVZRWUlUNzkxSnE0N291VzlJUWVsZHlEZEJENmhHcXBxSXJRNXdScl93cXNLLVNBZ9IBfkFVX3lxTFBPSFh6QS1PWjVGMkItTW1CdVdjNERaREZIdV9yVE5ZeU5fX2RJTThENlc5VzR6Q0pEbUNsekpXTjlsNzJkb2RmSG9ldTNtTVZRWUlUNzkxSnE0N291VzlJUWVsZHlEZEJENmhHcXBxSXJRNXdScl93cXNLLVNBZw?oc=5",
+    "title": "Cyberleek has published a new GTA 6 leak timeline and revealed a detail about the game's build",
+    "publisher": "Mezha",
+    "publishedAt": "2026-10-13T05:00:00.000Z",
+    "discoveredAt": "2026-10-13T13:49:50.142Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-80a339a174",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMnJhZnVQTFg2cnNNWklFNlY5TkxmVGVSMHpXNUJ6RTBaMEpxM3dmanNwR1AtaXZRd1VNeEFCemstbDh3VWFteHRDWGVERUstLXl0NzNpdTc4aXdyWGhCazVCdW5hb19aYTRvYmNiVUs2bndXd2ROVnMzSUlDcWwxTk55emIzR1VCRHROTTRQTlpicl8zeU9qVUZOcDlOamdGTnN0VWJsbFdnQUJVZWp6dmJELS0wdTZVS1hDOXpYX05vLVE1bkoxX3FaVlXSAdIBQVVfeXFMT25UU1pPTmo4UlJqTFZFaHF4MlI4WG16UGNtaHdONWd1Qzc3T05nSURuNXFHU0lIR2tnTmc2QXJzVnk2bkstWVVjaVlMMWMtSV9GeTgxUjNPWUtPeXFDc2lGeHdMTGttVEpWUThNbk05M1o1b3Nobzl4YXI0QmN4VlJpZU5uZHVGZS1Zazl5N0gzTjRWb3JBeUNKenYzQjJJeFp0NjRpb1FNVmJpTjNfc1Nmanh0bFRSMnRablByN0VNSkFpbUgwNGdLcW9XdFdoVEtR?oc=5",
+    "title": "CyberLeek Threatens To Leak “Full” Build Of Grand Theft Auto VI If Physical Release Plans Aren&...",
+    "publisher": "mxdwn Games",
+    "publishedAt": "2026-10-12T20:22:53.000Z",
+    "discoveredAt": "2026-10-13T13:49:50.142Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-bc506dbf6d",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2TlhUZURnRnNrME5MRWJmdmtDdGpIMkUtSGtnWmg1YVlYT1hPSmhQSDhSRjRmUGZVTll0Rk1YZ0ZkeWVCMFEwRG1OaUQ4dENISnNfX1o5SWRibDNmMkNnR0k2VnZJXzFXRDJYT1dNWTlLRDNOdi1ZeWY1QWRUZw?oc=5",
+    "title": "GTA 6 Leaker CyberLeek Threatens to Release Entire Story if Crypto Hits $30 Million",
+    "publisher": "ThePCEnthusiast",
+    "publishedAt": "2026-10-13T02:39:37.000Z",
+    "discoveredAt": "2026-10-13T13:49:50.142Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-015",
+        "LEEK-CLM-029"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-bcb8811ef1",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRFVxYndJS0pZd2NtRGM5WER0VG9WQVdDMVRlMnY0YWVKX2hWY0oyNS0ybGUtZ043a1lzMnBDNXJSMFk5RGFqM1hLRTVTZFRXZnVya1d6OV9lcGtxZXZpeWdpSXdyYk5SanhsUTVuWkpfUVFVdzRMRUVNUjJoMzZtM3dHQ3FsYnZaWXdkRDFyQ0liVC03VDlGSDRYb1NVWVFWWml1N0JHUmNocERZNFpHTHczZ194cHJkQlZueW5WX2xIb000ME1wY9IB1gFBVV95cUxNTUNabkFGTXh0dGRmMktOT1NFZlhpUmFFSHdTVDhPbndXT0VJeVZockZoalQtNnBGZTRDc3NTUUU0Tlh2Ymw3dHdrbGRMblZNai0tS2tCeXU3SGYtY1VsWDh1LXh1Q2FIZWRZMy11TnF6MDFXNnUwOFRaYWlQSmRjTERyWFpGQ1BSYTBpWHRoaW9FYnN4Tk5iTVdGbllMQ1praUJMaGdrUTA0SHpqcnNYWlNzU09SMGdJV0ozRGtpclhMbFNKV2J2elpGUVoyUWRmWDBKamVn?oc=5",
+    "title": "GTA 6 Leaks: Cyberleek Meme Coin Threat Linked To Playable Build Release",
+    "publisher": "Esquire India",
+    "publishedAt": "2026-10-13T04:11:06.000Z",
+    "discoveredAt": "2026-10-13T13:49:50.142Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "$CYBERLEEK holders"
+      ],
+      "claims": [
+        "LEEK-CLM-001",
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-034"
+    }
+  },
+  {
+    "id": "DISC-d69d9585b5",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUXc3MDNPYTJIM1dRYmxpRmFpMmhEemszXy1EdVBHZWY1WHhER3JJTm11TGp2SmlYdzF0cDdxLUs3S1NqMDhDbFVOV2dSSlY3dWh0QmZZZVNRbmRnNWUwcVBHTGxNZ1c2eGhqcXZiT2I4anJaNnZreFVwcFBHMS1JNE9SY1R6WWZpaFZqVnpXNkotRGVh?oc=5",
+    "title": "'There Is a God' — GTA 6 Fans Celebrate as Cyberleek Cryptocurrency Crashes Hard",
+    "publisher": "IGN",
+    "publishedAt": "2026-10-13T09:56:23.000Z",
+    "discoveredAt": "2026-10-13T13:49:50.142Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-b7441271ee",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOekZPUHdfLWFPZld5SGZ3SXhFNWpLMzFFMmhOeUZJYTA5RVFFQ2Z0WjE4VEhfZHNzMFBmOFBpNEdTc1Z1S2hIRE4wU1YyVHBrVHhxbVBKNUxOazM1enZnUXBZcm1oTjMxcUFLdmJHbGNIblFQa3JmOVlDNFlJZ0JMaGtiRDNHcEJwcjVBWkFEMGpiTHpfY0JqWExPeFFuQ0pVMndtR2p6TVEyT1BCQ2pB?oc=5",
+    "title": "GTA VI: the marketing budget could reach at least $150 Million",
+    "publisher": "Instant Gaming News",
+    "publishedAt": "2026-10-13T08:27:37.000Z",
+    "discoveredAt": "2026-10-13T13:49:50.142Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-5d62342669",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQWsxMVdDLVdQRVJ4LTdIYUhiUnhtdFZiWDRVY2NmS0VvSEFYRFF1THU0RlpVRGxyWko2T1FabTlRTzVTX2VTc0dVN3FhUG5BajltUjJJWXoyNVhoajBBclBUX1EyRUJxeFRlb3g4bm5LVXBveUd3bktkcXRSUWxYdjY0ck8wRGJ5amw5eGQ5eWhIb1JYZktjODVKLUdRYlZ2cEpWeVlvNmpYZDFtU0dkNUtxdFpOQQ?oc=5",
+    "title": "GTA 6 Physical Edition Copies May Reportedly Include a Collector’s Map",
+    "publisher": "IGN India",
+    "publishedAt": "2026-10-13T11:59:11.000Z",
+    "discoveredAt": "2026-10-13T13:49:50.142Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-901612d0b4",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZlZtaVo3dEFmd1NHUjN4eFVycVF6azYzOFAyNmxBLUVyQ3Zyc2EyQ2lwUzhhbW1YOFd1SFpQVkphZ1g1UFJUV3lGQzB5T2dUVUt1d2xRdjF0REZVSkMybTNJa3Vlc2d4SW5vUFhpbHVNaE5LenJycV84MFdpbHhTQVRsT0VNNFNKenVyM1NQXzBzeEtmb0pUdA?oc=5",
+    "title": "GameStop May Have Leaked GTA 6 Physical Collector's Maps",
+    "publisher": "Resell Calendar",
+    "publishedAt": "2026-10-13T00:52:33.000Z",
+    "discoveredAt": "2026-10-13T13:49:50.142Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-204532b3ff",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNZ3prYUdiZ184LXFOVWUwdzBuQ3gzZjd2ZjlyWmg3cnJudmNHdDdWMGhQd204eHZ0RWhKdnZjaHY5OTB2U3dLM0xSSktsVGxENDBHdjF5dnRhSU9KazdEWGpNVGtOencxWkl5YlhTT044RVJ3UzVF?oc=5",
+    "title": "GTA VI Leaker Ties Alleged Full-Game Leak to $30 Million Crypto Target",
+    "publisher": "SavePoint Gaming",
+    "publishedAt": "2026-10-13T04:00:13.000Z",
+    "discoveredAt": "2026-10-13T13:49:50.142Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-ea4d61787a",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rbHVVanl2Si11cmIzNXhjU24xcm1aX2tGNXpQNWxYTTE2WVVYZ25qbm5yZW9Eckl4Y012ZjhpekhtUC1TakVSeURzR1diSkFHdmNNTVdtZGVyMnRiUHYtUDViXzk?oc=5",
+    "title": "Leaked GTA 6 footage prompts hot debate about refilling video game gas tanks",
+    "publisher": "A.V. Club",
+    "publishedAt": "2026-08-19T07:00:00.000Z",
+    "discoveredAt": "2026-10-13T13:49:50.142Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-8cbd3834fa",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVXktTF9RMnZ1RWVYUWZsTGt0NUdJQmpzZlM3Nko4RjhLajVHZkV4S3NUUFYxWkxBSDZkMUs0VVRJYVhQUnJNN1NYeWJjekZPQ2ZDeFZ1X2tqSTFmZnNCVUJYVGZvdE91QXNOR0hBTmlzY2dfOTltRGZoZEJxbWxpR2xKcl9WTGU1dGpPQmhMT0Y?oc=5",
+    "title": "PC lands $6 viral GTA 6 rival with FPS gameplay to rival Call of Duty",
+    "publisher": "GAMINGbible",
+    "publishedAt": "2026-10-13T11:00:01.000Z",
+    "discoveredAt": "2026-10-13T13:49:50.142Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-651060c7c6",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYmU1X1dWcU4tVURwaW5BS29Rc0RjQkNJNUFoSjlsR0NLWDIzR3FmaUVqZ1JMT01OMUdPNmFIRGZiSFE3aVVFRTFLemtubG9ScnIwcENWbDhHRTZnSWNEcml1OHg4VHJpSEZYb1U2d2o4VWNWbjVIeS1uUGxFaXZjTG1hckNYUFN0NUlHSVoyQVlLN0Q5WEw5eU9RdGR6UXNWdDVFRmJmYzVWdVRhMlZlMzUyVTFsTHZSSUFkeA?oc=5",
+    "title": "Why Is Cyberleek Threatening to Leak GTA 6's Full Game and Demanding a Public Apology?",
+    "publisher": "Mashable India",
+    "publishedAt": "2026-10-13T06:07:01.000Z",
+    "discoveredAt": "2026-10-13T13:49:50.142Z",
+    "feed": "google-news",
+    "query": "Rockstar CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-002",
+        "LEEK-CLM-022"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-3bd90373d0",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYkpRRTlnUkZCVVczOWFNVk5oNFktVDF5Y3hYbFF4a2E2dDMtR19LWUYxZ0dZQjdNUXNBNmdGbzlUNnR5Q09laGdJY19hblFJUVBSTGxYN3Fmdy1BaDR0UlRCQjE1aUpMOUczTW9DRDZKUGxJOEJlcmtrZVhETGdaTE1rbDZnczU2WEUtYXZudlFBNmxxYXc?oc=5",
+    "title": "GTA VI File Size Leaked – More Cyberleek GTA Leaks",
+    "publisher": "The Game Haus",
+    "publishedAt": "2026-10-13T05:37:46.000Z",
+    "discoveredAt": "2026-10-13T13:49:50.142Z",
+    "feed": "google-news",
+    "query": "CyberLeek arrest",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-3e29456520",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZXFjc19WRUdKcE4ydk1kSEVYMHZhMmw2NE5KOWJQYW1xVllKUE9vNmdRR1lTSlpxTlNBX1ZoSzB6T1FGWEZiZzhmV1BpRm9sRk05UGlVME5MYVpkaEIyaUdGSlQzb19faEpReUw5bU96cWQ1cE40d1RTbkJJU04ybnE4MkdXRXM5cVk0TW9XOHZ2VXZ3VW90c3pCRFdOaWZER2wzV1NpRWY?oc=5",
+    "title": "Hacker Releases Alleged Footage of Nude Lucia From ‘GTA 6’, Threatens New Leaks",
+    "publisher": "Comic Basics",
+    "publishedAt": "2026-10-13T07:51:49.000Z",
+    "discoveredAt": "2026-10-13T13:49:50.142Z",
+    "feed": "google-news",
+    "query": "CyberLeek arrest",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-e9eb0fa785",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUE51a204WG94ck14ZGFlQUN0Qlp3aFpVaTV4dzBlWXNkQS1UcjFPMy1Ub0RoV3piZlVmV2VjR3h5WjVYVlpMS2N5cFU4UnhybTdoUGpOOF93UWwyckN5NnVuY1ZIU0piZnRwLWZLVmVzT1QxS2wzUHVtLVBtQlpMTzcxVklTTnNI?oc=5",
+    "title": "GTA 6 Physical Edition Map Claim: GameStop Stores Say Yes, Rockstar Stays Silent",
+    "publisher": "TalkEsport",
+    "publishedAt": "2026-10-13T09:14:33.000Z",
+    "discoveredAt": "2026-10-13T13:49:50.142Z",
+    "feed": "google-news",
+    "query": "CyberLeek arrest",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-b76a395824",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRb2c1R3FzUktkUXdWWWg1RVJsLW9Vb2tzOExvN2VyZTVYR3Q0eDY4bE4yRWkyQ1RhSF9iWGhLSkZfRTVYSFpBMjJURUt4dHVvYjBlREZhX0Q4VFVnaXk1VExvQm9EaS1w?oc=5",
+    "title": "All GTA 6 Lucia Leaks So Far: Prologue, Free-Roam Clips and the Full Timeline",
+    "publisher": "TalkEsport",
+    "publishedAt": "2026-10-13T08:50:38.000Z",
+    "discoveredAt": "2026-10-13T13:49:50.142Z",
+    "feed": "google-news",
+    "query": "CyberLeek arrest",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-5b14dfc46e",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace370331c240edb8b4660d52e6bf62&url=https%3a%2f%2fwww.msn.com%2fen-us%2fgaming%2fpc-games%2fcyberleek-threatens-to-leak-entire-gta-6-campaign-before-launch%2far-AA2e8W7m&c=17639151172170522733&mkt=en-us",
+    "title": "Cyberleek threatens to leak entire GTA 6 campaign before launch",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-12T17:37:06.000Z",
+    "discoveredAt": "2026-10-13T13:49:50.142Z",
+    "feed": "bing-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "$CYBERLEEK holders"
+      ],
+      "claims": [
+        "LEEK-CLM-001",
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-5a0285f840",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace370331c240edb8b4660d52e6bf62&url=https%3a%2f%2fwww.ign.com%2farticles%2fgta-6-fans-celebrate-as-cyberleek-cryptocurrency-crashes-hard&c=2896115422626892462&mkt=en-us",
+    "title": "GTA 6 Fans Celebrate as Cyberleek Cryptocurrency Crashes Hard",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-13T02:56:00.000Z",
+    "discoveredAt": "2026-10-13T13:49:50.142Z",
+    "feed": "bing-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "$CYBERLEEK holders"
+      ],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-acf7fee06c",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace3703e60a4433b5d4584088a57ee7&url=https%3a%2f%2fmashable.com%2ftech%2fgta-grand-theft-auto-6-ps5-pro-best-way-to-play&c=4715971739459224925&mkt=en-us",
+    "title": "'GTA 6': Is PS5 Pro the best way to experience the game at launch?",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-13T00:00:00.000Z",
+    "discoveredAt": "2026-10-13T13:49:50.142Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 6,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-007"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-8ff071cd1f",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ace37044020418cae9f5c653aee4be7&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fgta-6-leaker-ties-full-game-leak-to-30m-crypto-goal%2fgm-GMFCAF90A2&c=10738534730571218022&mkt=en-us",
+    "title": "GTA 6 leaker links full game leak to $30M crypto goal",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-13T04:50:00.000Z",
+    "discoveredAt": "2026-10-13T13:49:50.142Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "Take-Two Interactive",
+        "$CYBERLEEK holders"
+      ],
+      "claims": [
+        "LEEK-CLM-002",
+        "LEEK-CLM-015",
+        "LEEK-CLM-022"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
