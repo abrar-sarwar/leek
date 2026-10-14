@@ -4254,5 +4254,45 @@
     "domains": [
       "news.google.com"
     ]
+  },
+  {
+    "date": "2026-10-14",
+    "feed": "google-news:CyberLeek",
+    "count": 15,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-10-14",
+    "feed": "google-news:GTA VI leak",
+    "count": 8,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-10-14",
+    "feed": "google-news:GTA 6 leak",
+    "count": 4,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-10-14",
+    "feed": "google-news:Rockstar CyberLeek",
+    "count": 4,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-10-14",
+    "feed": "google-news:CyberLeek dead man switch",
+    "count": 4,
+    "domains": [
+      "news.google.com"
+    ]
   }
 ]

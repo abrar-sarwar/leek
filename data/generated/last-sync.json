@@ -1,25 +1,25 @@
 {
-  "ranAt": "2026-10-14T11:27:15.228Z",
+  "ranAt": "2026-10-14T16:48:59.616Z",
   "feeds": [
     {
       "name": "google-news:CyberLeek",
       "ok": true,
-      "items": 100
+      "items": 92
     },
     {
       "name": "google-news:Cyberleek",
       "ok": true,
-      "items": 100
+      "items": 92
     },
     {
       "name": "google-news:GTA VI leak",
       "ok": true,
-      "items": 100
+      "items": 92
     },
     {
       "name": "google-news:GTA 6 leak",
       "ok": true,
-      "items": 100
+      "items": 92
     },
     {
       "name": "google-news:Take-Two CyberLeek",
@@ -29,7 +29,7 @@
     {
       "name": "google-news:Rockstar CyberLeek",
       "ok": true,
-      "items": 100
+      "items": 88
     },
     {
       "name": "google-news:CyberLeek Microsoft",
@@ -49,12 +49,12 @@
     {
       "name": "google-news:CyberLeek dead man switch",
       "ok": true,
-      "items": 30
+      "items": 59
     },
     {
       "name": "google-news:CyberLeek arrest",
       "ok": true,
-      "items": 62
+      "items": 61
     },
     {
       "name": "google-news:CyberLeek $CYBERLEEK",
@@ -64,12 +64,12 @@
     {
       "name": "bing-news:CyberLeek",
       "ok": true,
-      "items": 12
+      "items": 0
     },
     {
       "name": "bing-news:Cyberleek",
       "ok": true,
-      "items": 12
+      "items": 0
     },
     {
       "name": "bing-news:GTA VI leak",
@@ -79,22 +79,23 @@
     {
       "name": "bing-news:GTA 6 leak",
       "ok": true,
-      "items": 12
+      "items": 0
     },
     {
       "name": "gdelt",
       "ok": false,
       "items": 0,
-      "error": "Unexpected token 'P', \"Parenthese\"... is not valid JSON"
+      "error": "fetch failed"
     },
     {
       "name": "courtlistener",
-      "ok": true,
-      "items": 20
+      "ok": false,
+      "items": 0,
+      "error": "This operation was aborted"
     }
   ],
-  "discovered": 1545,
-  "newSinceLastRun": 7,
-  "pending": 858,
+  "discovered": 1580,
+  "newSinceLastRun": 35,
+  "pending": 879,
   "analysisMode": "rules-only"
 }
