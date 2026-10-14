@@ -33065,5 +33065,70 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-4fcb4e5441",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kdkFMMHhsd3pZRDlPZU9lQ2xGTnFTblJyOUxuakpZbVdqVmtQOWZOZktKZy0tWDlGaWFFM3B6QlZZLW1zMVk1S1pvQk51R09hOXFtTUxzWE5FUzRqQ1JSTFZ3LVVsRnhidW1OX2lkQjI?oc=5",
+    "title": "Cyberleek Claims 200GB ‘Playable’ GTA 6 Build [2026]",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-10-13T22:30:32.000Z",
+    "discoveredAt": "2026-10-14T04:08:01.305Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-001"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-fca7b533af",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWZDRJU0NyOW5fWEZ4Sjd6MlBMNnJtSnlmcWdkUVctY2w3ZzhjcU1WYW53TVdsSEFGaktQdnR3cXpTQkxUQU01cmxpVHVDXzJHcngwVk1KSURJTmM4MmZCS0cxS3FkdTF2MVlYRnNIbUtQUkZ0VkQ0amRZR2wzUQ?oc=5",
+    "title": "GTA 6 could come to PC as early as Q1 2027, leak claims",
+    "publisher": "Yahoo Tech",
+    "publishedAt": "2026-10-13T16:22:10.000Z",
+    "discoveredAt": "2026-10-14T04:08:01.305Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-9bb5965034",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCcWdESVJsZUdnaERfak1xOExlNXdrZ2NsbE1oZnlvQUZfWjVFSHFrNkY4QlZfUHlYXzBtdG5Tb3RjZnZHdGVIeWxGd0lYN2ZrTl9vdFc0ZUM2d295VXBaUF9Ucko0NU5oaW5vNC1oblY4RDQ?oc=5",
+    "title": "Cyberleek Ties Full GTA 6 Build Leak to $30M Crypto Goal and Disc Demand",
+    "publisher": "New Game Network",
+    "publishedAt": "2026-08-27T07:00:00.000Z",
+    "discoveredAt": "2026-10-14T04:08:01.305Z",
+    "feed": "google-news",
+    "query": "Take-Two CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-015",
+        "LEEK-CLM-022"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

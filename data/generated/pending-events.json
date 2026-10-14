@@ -10210,5 +10210,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-fca7b533af",
+    "title": "GTA 6 could come to PC as early as Q1 2027, leak claims",
+    "reportedAt": "2026-10-13T16:22:10.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMifkFVX3lxTFBWZDRJU0NyOW5fWEZ4Sjd6MlBMNnJtSnlmcWdkUVctY2w3ZzhjcU1WYW53TVdsSEFGaktQdnR3cXpTQkxUQU01cmxpVHVDXzJHcngwVk1KSURJTmM4MmZCS0cxS3FkdTF2MVlYRnNIbUtQUkZ0VkQ0amRZR2wzUQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
