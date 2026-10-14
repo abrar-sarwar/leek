@@ -10222,5 +10222,77 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-1603f8456d",
+    "title": "A Second GTA 6 Clip Featuring Lucia Naked Has Leaked",
+    "reportedAt": "2026-10-12T12:15:01.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMic0FVX3lxTE5OR2JHZHpTd0dKdkhSYm1jMnk2N2NEck5YRUpiUERPYUNOV19CbVVfbTVNTVR3QXQ3aEdCQkhYbFlKZTNyaHQwN3FCSlYydkdUQkx2dTZmeGRNa3NLSHctRVZrQmtGUUFFVU52OXVGSGQ2UlE?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-2ab3155fe3",
+    "title": "Rockstar Responds to GTA 6 Leaks, Explains Why They Hurt So Much",
+    "reportedAt": "2026-10-14T10:52:09.000Z",
+    "category": "rockstar",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMifEFVX3lxTE9jN2VfSVBZLVVlTVpvZG1ORWtiSnF3NXFNWEptOFpOVjhIaGlvYzFxdVVJWHdzUGc0SEY0am5COE1jdlo3N2k5MjBMdjVQOUY4R0pDTnFkMzhyOG1udHlSRmhMRkc3eHRmNnl0TG9xZHNNbVZYMERVWm9ZWmk?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-dedc735c3b",
+    "title": "GTA 6 Leak: Grand Theft Auto VI TV Spot Live Soon? Check Date",
+    "reportedAt": "2026-10-14T09:18:57.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbjZJbXlRRjkyOVhfOUpjTWlmNjV6M09nclctTlpCRC1mRk1HcHJRenM2R0hDUGpWY3VwaW9RZFFkQTFoQ1ROYW1NRFJwZGdvd3FfcW9MaDYwV2hWTERRVEp5OGxwMWxETTNfelNUWG9CVkZ6WGVOUTViX2UyaGowSjFaZnRZMU5EV0wtT3JMdGpMRDQ0aXBjZDYwOWIwWGZvMnZvbFVBZ24yd9IBtwFBVV95cUxPTlFwYnE5OWtDdUhHc2l4bTFWRzNLam82QTFqS1RCWVA3UzVLcVQ2eHZFSUl0bHYwYUdFQkNsM2U3OUNhbFJwakpwQUN4NkJyUE56TFJleGpZSzVrbkFPWHFlZmREclZrclA2UW9PNVVRQnNjQzl3dzBkdzZ1NzFFQk12T2I0T092OFpuU2ZfODdKUGVMTENwcWJHZklvVktmNE9DOVc0bTZvSXNsaFpwaG5TOEptNEE?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-455583485a",
+    "title": "Original GTA 6 Leaks Were \"Weirdly Invasive\"",
+    "reportedAt": "2026-10-14T10:50:26.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yRXljamJwZGEtVGphQnBSM3dKTThIMGhkaG5sSUlNVFhTNmxjbkpLQ3hRMWEtaDhGYXBFeFZJM05yVVNhbUJhOGhmbjNySTlvLTNPQ29CLUlLc2cyWWRubG5ESVFKZ3lPTHB2SlhGeFhTY1B3bnl5dkx3?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-66c46bc753",
+    "title": "GTA 6 PC Release Date Leaked? Launch Reportedly Set for Early 2027",
+    "reportedAt": "2026-10-14T05:22:52.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNVR1VkVSMG5IUHp0N0JWMm5vOW5JR1MtRHRnUnlkd0tEVE9UYnIwV2tNdmpPLVBnR1VLV3RFLXA1Z3NSODlfOGFQSjhhUk9SS1JlREl1ZGlBUnlnWVlGSU8zLUFMR2JNNm01NzA0Nm5wSFc2VjFDWUdsYmRBTTZXQ3lpLVVpTDRfTDlXREl2UlEyV3h1S0NmNFozVHh2UUU?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-ba8bde147d",
+    "title": "Leonida vs. GTA 5: The Full GTA 6 Map Size Breakdown",
+    "reportedAt": "2026-10-13T13:05:58.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10Zm9zcHEzMkhvbWFUcGtFaVFxcUtfeFd2bm9ZMWJMVTBtMFo0YlV3VEJWX1RpaVdRYzdqcGRvVldRX0hvSUx0NldnbHFXanc?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

@@ -33130,5 +33130,147 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-1603f8456d",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5OR2JHZHpTd0dKdkhSYm1jMnk2N2NEck5YRUpiUERPYUNOV19CbVVfbTVNTVR3QXQ3aEdCQkhYbFlKZTNyaHQwN3FCSlYydkdUQkx2dTZmeGRNa3NLSHctRVZrQmtGUUFFVU52OXVGSGQ2UlE?oc=5",
+    "title": "A Second GTA 6 Clip Featuring Lucia Naked Has Leaked",
+    "publisher": "TheGamer",
+    "publishedAt": "2026-10-12T12:15:01.000Z",
+    "discoveredAt": "2026-10-14T11:27:15.228Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-2ab3155fe3",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9jN2VfSVBZLVVlTVpvZG1ORWtiSnF3NXFNWEptOFpOVjhIaGlvYzFxdVVJWHdzUGc0SEY0am5COE1jdlo3N2k5MjBMdjVQOUY4R0pDTnFkMzhyOG1udHlSRmhMRkc3eHRmNnl0TG9xZHNNbVZYMERVWm9ZWmk?oc=5",
+    "title": "Rockstar Responds to GTA 6 Leaks, Explains Why They Hurt So Much",
+    "publisher": "VICE",
+    "publishedAt": "2026-10-14T10:52:09.000Z",
+    "discoveredAt": "2026-10-14T11:27:15.228Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "rockstar",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-dedc735c3b",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbjZJbXlRRjkyOVhfOUpjTWlmNjV6M09nclctTlpCRC1mRk1HcHJRenM2R0hDUGpWY3VwaW9RZFFkQTFoQ1ROYW1NRFJwZGdvd3FfcW9MaDYwV2hWTERRVEp5OGxwMWxETTNfelNUWG9CVkZ6WGVOUTViX2UyaGowSjFaZnRZMU5EV0wtT3JMdGpMRDQ0aXBjZDYwOWIwWGZvMnZvbFVBZ24yd9IBtwFBVV95cUxPTlFwYnE5OWtDdUhHc2l4bTFWRzNLam82QTFqS1RCWVA3UzVLcVQ2eHZFSUl0bHYwYUdFQkNsM2U3OUNhbFJwakpwQUN4NkJyUE56TFJleGpZSzVrbkFPWHFlZmREclZrclA2UW9PNVVRQnNjQzl3dzBkdzZ1NzFFQk12T2I0T092OFpuU2ZfODdKUGVMTENwcWJHZklvVktmNE9DOVc0bTZvSXNsaFpwaG5TOEptNEE?oc=5",
+    "title": "GTA 6 Leak: Grand Theft Auto VI TV Spot Live Soon? Check Date",
+    "publisher": "Esquire India",
+    "publishedAt": "2026-10-14T09:18:57.000Z",
+    "discoveredAt": "2026-10-14T11:27:15.228Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-455583485a",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yRXljamJwZGEtVGphQnBSM3dKTThIMGhkaG5sSUlNVFhTNmxjbkpLQ3hRMWEtaDhGYXBFeFZJM05yVVNhbUJhOGhmbjNySTlvLTNPQ29CLUlLc2cyWWRubG5ESVFKZ3lPTHB2SlhGeFhTY1B3bnl5dkx3?oc=5",
+    "title": "Original GTA 6 Leaks Were \"Weirdly Invasive\"",
+    "publisher": "Insider Gaming",
+    "publishedAt": "2026-10-14T10:50:26.000Z",
+    "discoveredAt": "2026-10-14T11:27:15.228Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-66c46bc753",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNVR1VkVSMG5IUHp0N0JWMm5vOW5JR1MtRHRnUnlkd0tEVE9UYnIwV2tNdmpPLVBnR1VLV3RFLXA1Z3NSODlfOGFQSjhhUk9SS1JlREl1ZGlBUnlnWVlGSU8zLUFMR2JNNm01NzA0Nm5wSFc2VjFDWUdsYmRBTTZXQ3lpLVVpTDRfTDlXREl2UlEyV3h1S0NmNFozVHh2UUU?oc=5",
+    "title": "GTA 6 PC Release Date Leaked? Launch Reportedly Set for Early 2027",
+    "publisher": "MMOEXP",
+    "publishedAt": "2026-10-14T05:22:52.000Z",
+    "discoveredAt": "2026-10-14T11:27:15.228Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-ba8bde147d",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10Zm9zcHEzMkhvbWFUcGtFaVFxcUtfeFd2bm9ZMWJMVTBtMFo0YlV3VEJWX1RpaVdRYzdqcGRvVldRX0hvSUx0NldnbHFXanc?oc=5",
+    "title": "Leonida vs. GTA 5: The Full GTA 6 Map Size Breakdown",
+    "publisher": "Stevivor",
+    "publishedAt": "2026-10-13T13:05:58.000Z",
+    "discoveredAt": "2026-10-14T11:27:15.228Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-1ab71d0eeb",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSTk0dEpPQVpMM2h2ZU9xOG5xRmFqV0hLcFMyQUQ2VW1YT1FCVnp1WEozZ294Nk84ZUY4UG05eEZYbld0Y1dtTndJTzIyb0dLRFFOWS03U2UwblNTTi02bndPbHpSWWUxSUNRUDkySk96TnlEbC1vYXJ4LUNuSGM5OUl5UmRJdw?oc=5",
+    "title": "GTA 6 Hacker Cyberleek Launches Poll to Leak Lucia Prologue Footage",
+    "publisher": "ARYnews.tv",
+    "publishedAt": "2026-08-25T07:00:00.000Z",
+    "discoveredAt": "2026-10-14T11:27:15.228Z",
+    "feed": "google-news",
+    "query": "CyberLeek arrest",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-041"
+    }
   }
 ]
