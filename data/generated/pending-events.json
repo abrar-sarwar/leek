@@ -10546,5 +10546,113 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-103a07fc4f",
+    "title": "Cyberleek is winding down: the GTA 6 build leak has been called off",
+    "reportedAt": "2026-10-14T16:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sSzZtSDFFTlNKcGdzbWJ3N3NSdEJpNEJfQmZ5c2Q0d1haTGN6Z3N0Z0lXaGJOOHgzS1ZSQlNnemk1Z2JWdjlZXzFqUUNCUlFwellWcGMzeEtlbnBlbzI1ajl5TlFkQXJTNVA1YnlxRHTSAXBBVV95cUxNbEs2bUgxRU5TSnBnc21idzdzUnRCaTRCX0JmeXNkNHdYWkxjemdzdGdJV2hiTjh4M0tWUkJTZ3ppNWdiVnY5WV8xalFDQlJRcHpZVnBjM3hLZW5wZW8yNWo5eU5RZEFyUzVQNWJ5cUR0?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-63a2c45712",
+    "title": "GTA 6 updates: CyberLeek reportedly leaks the game's ending ahead of launch",
+    "reportedAt": "2026-10-14T19:50:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYk5taF9kSEdDdmdoWlFSUjZPVFpNUGx6MW83dmlVbGZNT1lBdjdYbWdlQkxsRk1idVVoamQ5VGREbkYtOG16cjRuQ2lOckE4TGd6NWJQMGRBbW4xVFdUcEQtaWNTUXQyQ1Qzd21JWi03am0zWmZ0RTVyejVWR3pMcTFnZWFUdkJocTYzNUROWlZCY3BjSjV0aHA3LWQzbk10RlBhMTFOSTcyQXU2SGowNExJMjRsT0o1UDJXdHR4RVlPMDVvdU52SWlBam92QThMZmE0WGNGNUtNSFNqZDE5aUlSRzhISFZUU3fSAe8BQVVfeXFMTjEtRjlEd3dvS3YyV3JjRGozWWNtbmp4VU1senppRnlEUkxhYjdaeDg1RTBCbThGbW5mTm5ER1J0V3ZMU1B6UUFSX0FOalRKR2pJYjg4RFFKb29TRExyNUVPTjZYMlJWelRCN3RpN0RKUXJFNlFlZFU1QmpkcEJqcDZUVWRwUlFYRUJWaDlwNHNzOHFhbHhjWkI4c0UtRlMtSHJyMHVUZk52bVljSVN3cmU5Zy11cGRZZE04aUMwbko5UWd2ZzNGczI2MVJKUldESWJpQ3VjLUJ0YmtxNko2YmJyRDktSmx1eHBvcm5rNEE?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-c3628eab5a",
+    "title": "GTA 6 leaker's latest video allegedly shows scenes from the final mission, as they indicate the leaks may have come to an end",
+    "reportedAt": "2026-10-14T13:42:13.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kN3pYNl9TNHJCajJsUzZWTTR0TndMeko2Unp0cUsyNWRuVEpYcE4wU2pRSzVOT2o2a1Y4X3FnMkd0alFTano5LUtzTXd3OVM0UHBDYjM5OFgzenN2UkU2T1hCWFVpTnVKbmwtZHJiNC1ueGJU?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-fffc858ff4",
+    "title": "GTA 6 Lead Reacts To The Infamous 2022 Leak: 'Like Somebody's Wading Through Your Dirty Washing'",
+    "reportedAt": "2026-10-14T17:00:52.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOUZwaFdOMDVhNk1Ib1QxaGtPMU1fMVE0WU5zeVRZZy1NZXZNWE1GY1U3SmF0eEk1cTd1b3pZX2oxREpiNTV2VzRqSGZYUHFwWkhDQU1IYjd5eExCTTluM0t0ZUdUZUhKVkgtamIzbUQyRmtRMnpSNVR0di01TFcxTmVPdW8xYlZleGxJLWFTcVItS0hNRHlZdzZZMkFwdFd0djJVZ0J4YkVrX3htRl9obmpvVVctY1hISnJfUE85bw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-51782af3cb",
+    "title": "GTA 6 Leaks, Epic's AI Woes, No Man's Sky Mobile and the Best AAA of the Year...",
+    "reportedAt": "2026-10-14T20:01:39.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMVdiWF8tQ0RNWW5jSEtEbjBDSFpDN0FDbWJaN3JnSTVJSGV3ZG8yOTRpckxoWkJmbkRDeGtLSmlqa0V2My05LU83QzhDeldJTW05UEVlY1ZzSGpfYng5MmcxOXVjMjJITV9meVktZWFwZTVIV0hVbGdMRzdzUEZYbHhWMjFlZUZFUnlqb1ZjTDFraVdPT2Q0YnMwdThpa2NfcC02RVpwUWdaUQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-a40a7ff6b1",
+    "title": "GTA 6 review copies reportedly go out 3+ weeks before release date, despite leak risk",
+    "reportedAt": "2026-10-14T20:37:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMixwFBVV95cUxQLUhsWnRuRWF3WEtYaGtKYmdVNnBiSC1nREp1UnJFZFhaTTc5NUU4dHVpVXY4UGdzQV9jWW1ETUU3UTN6blJTdEhSVlhobTR1c3ZyZUJDN3FCNFlWb3lSS1hzd0tGQ3JyUU42elhWRU40LWRZdDhMVjJKREdSQlIwNWRlR21QV21PajJkZWF0R0RlRlBwcmZhUzFOVzRJRUViUmQyZnMxdzZKcjh3TzdMNkhLMmIwOHhvWXdSamVFU0p4VnVEMXhr?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-48a5690ce3",
+    "title": "GTA 6 leaker threatens Take-Two with a 'dead man's switch'",
+    "reportedAt": "2026-10-14T18:36:16.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSDJrNEZiaU5Jd0x5a0ZYdjF3cUM2YXJXcU9VTnRndzdiSTBLU2lQS3FrdVdxNjZZRDdpSVVvb21uQ1cwVVlVVDhMdmNpQkpoWW5KTjNoRmpwci1lQmdLZTdsVGlCaFNxQnIwYmVpZzBOTUx4cUxtVUZIQ1A2WmZpdjJrUmJidjNycnBSYWJoNTJJZUxVaW5pbmxwajdqOFFVTGdjZjl3?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-2eedf8403d",
+    "title": "CyberLeek Leaks GTA VI Ending Clips in New Video",
+    "reportedAt": "2026-10-14T17:00:58.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeW0xTldJYkNBZ0x4U2ZteTlJV1NJTXJnTDFtYlJHRTNMaWtyS2ZtcGVZQmM2VzRscnljb0c1c2U0MEplZGRodXVkU3JXcDFUdjZNZ05lU3F6clVCTGZFandIWFNOLWpfLVRUZXJ4YVhXUWt4ZnlwMmYydFRQaGxJNkdnOVRLcWxEcDN5YTdGeTVuUEU?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-d5489f324a",
+    "title": "Cyberleek GTA 6 ending leak: New clip allegedly shows finale; fans urged to avoid scams",
+    "reportedAt": "2026-10-14T12:50:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acff2db6d7249088265856dbc66f04d&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fcyberleek-gta-6-ending-leak-new-clip-allegedly-shows-finale-fans-urged-to-avoid-scams%2far-AA2efQrI&c=114579491563265331&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

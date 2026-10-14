@@ -34025,5 +34025,501 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-aa24006115",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWTBFcXBwZDVxbS13QjNsYVF2UjVlZWVveUxURklPQjhIbG9PeXcyTTVqWk5Ec1JqUWNJeE42NXlCU1dhNExDdDlMZlZMUzVjdjhISGMwNVFSRXdqQTBOY0pJMUhSODlQbUlNZ0tjbGJVOHpWYUd0UE9MN1hZXzVNSFJhQUZZN2xYRUJGMUEtclZocHVVZ25USjdzX3hlMlUtTXJwdGhuX2Q4LTJNZFNBeGVCS3pqX0lwMlo2WUlZSkxfQjYweHY4?oc=5",
+    "title": "GTA 6 Cyberleek update: Leaker linked GTA 6 reveals to crypto play. It’s crashing spectacularly.",
+    "publisher": "Mashable SEA",
+    "publishedAt": "2026-10-14T19:40:59.000Z",
+    "discoveredAt": "2026-10-14T21:23:34.585Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-7af9488157",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZVBFYnZlTy1obGUzWklMckx5bk1VaTdMRnV1akp3a2hQdzRvNWRkWUxraTBrdFctR00xSWFtZU5wVGduT09Sc3habjR2bms2aGQ1RUxmNGs3Y1UzeURPYXdmdWt4eWFCMjFVM2cwOVpKdElDLWZFbGlGdW01cVQtejYwZlg3a2c?oc=5",
+    "title": "GTA 6 leaker threatens dead man’s switch for endgame spoilers",
+    "publisher": "Protos | Informed crypto news",
+    "publishedAt": "2026-10-14T19:50:28.000Z",
+    "discoveredAt": "2026-10-14T21:23:34.585Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-012",
+        "LEEK-CLM-015",
+        "LEEK-CLM-029"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-103a07fc4f",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sSzZtSDFFTlNKcGdzbWJ3N3NSdEJpNEJfQmZ5c2Q0d1haTGN6Z3N0Z0lXaGJOOHgzS1ZSQlNnemk1Z2JWdjlZXzFqUUNCUlFwellWcGMzeEtlbnBlbzI1ajl5TlFkQXJTNVA1YnlxRHTSAXBBVV95cUxNbEs2bUgxRU5TSnBnc21idzdzUnRCaTRCX0JmeXNkNHdYWkxjemdzdGdJV2hiTjh4M0tWUkJTZ3ppNWdiVnY5WV8xalFDQlJRcHpZVnBjM3hLZW5wZW8yNWo5eU5RZEFyUzVQNWJ5cUR0?oc=5",
+    "title": "Cyberleek is winding down: the GTA 6 build leak has been called off",
+    "publisher": "Mezha",
+    "publishedAt": "2026-10-14T16:00:00.000Z",
+    "discoveredAt": "2026-10-14T21:23:34.585Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-63a2c45712",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQYk5taF9kSEdDdmdoWlFSUjZPVFpNUGx6MW83dmlVbGZNT1lBdjdYbWdlQkxsRk1idVVoamQ5VGREbkYtOG16cjRuQ2lOckE4TGd6NWJQMGRBbW4xVFdUcEQtaWNTUXQyQ1Qzd21JWi03am0zWmZ0RTVyejVWR3pMcTFnZWFUdkJocTYzNUROWlZCY3BjSjV0aHA3LWQzbk10RlBhMTFOSTcyQXU2SGowNExJMjRsT0o1UDJXdHR4RVlPMDVvdU52SWlBam92QThMZmE0WGNGNUtNSFNqZDE5aUlSRzhISFZUU3fSAe8BQVVfeXFMTjEtRjlEd3dvS3YyV3JjRGozWWNtbmp4VU1senppRnlEUkxhYjdaeDg1RTBCbThGbW5mTm5ER1J0V3ZMU1B6UUFSX0FOalRKR2pJYjg4RFFKb29TRExyNUVPTjZYMlJWelRCN3RpN0RKUXJFNlFlZFU1QmpkcEJqcDZUVWRwUlFYRUJWaDlwNHNzOHFhbHhjWkI4c0UtRlMtSHJyMHVUZk52bVljSVN3cmU5Zy11cGRZZE04aUMwbko5UWd2ZzNGczI2MVJKUldESWJpQ3VjLUJ0YmtxNko2YmJyRDktSmx1eHBvcm5rNEE?oc=5",
+    "title": "GTA 6 updates: CyberLeek reportedly leaks the game's ending ahead of launch",
+    "publisher": "The Times of India",
+    "publishedAt": "2026-10-14T19:50:00.000Z",
+    "discoveredAt": "2026-10-14T21:23:34.585Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-d425fee1bd",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU1haLXcxSmpWMElhS2pyOE1MSW9ILVNPc1VMZHlVZGRrS1J2OE1lSEYtWjRmcVVnUDZ4MkV0TkNBbzlxNlUwejE4NE4ySEpsamlnZUpqbGhjVU9VbzZ0eGNpNGJrNlNCd3U3N2IybVBaUF9nQjluZUZnTl91VmhtVnlYaGhaX1E2LUVVblpFLWhGU0RoYWYwa2NFaEvSAaIBQVVfeXFMUHNYOHA0WlN4NUNkM0tfSE5mcHZDRTBQb2J3VS1TaGF3T01TUVlyU1BPQ1ZXc1hLQ1M2UWFwOFJWa3JvRGxlZlBKNzdNNmpERDFZcjk5OF9PeHhybjkxcFdBT1M5b2swaDdLbnE5bF9ldEpsWmg5UU1uX0s5TmpyVjVRMU4tZVd2ejQtX01ScjQ5STlmVk5NM045a0ZzTGh1UjlR?oc=5",
+    "title": "Cyberleek threatens to ruin end of GTA 6 if Rockstar set their lawyers on them",
+    "publisher": "Metro.co.uk",
+    "publishedAt": "2026-10-14T16:19:00.000Z",
+    "discoveredAt": "2026-10-14T21:23:34.585Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-c3628eab5a",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kN3pYNl9TNHJCajJsUzZWTTR0TndMeko2Unp0cUsyNWRuVEpYcE4wU2pRSzVOT2o2a1Y4X3FnMkd0alFTano5LUtzTXd3OVM0UHBDYjM5OFgzenN2UkU2T1hCWFVpTnVKbmwtZHJiNC1ueGJU?oc=5",
+    "title": "GTA 6 leaker's latest video allegedly shows scenes from the final mission, as they indicate the leaks may have come to an end",
+    "publisher": "Eurogamer.net",
+    "publishedAt": "2026-10-14T13:42:13.000Z",
+    "discoveredAt": "2026-10-14T21:23:34.585Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-fffc858ff4",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOUZwaFdOMDVhNk1Ib1QxaGtPMU1fMVE0WU5zeVRZZy1NZXZNWE1GY1U3SmF0eEk1cTd1b3pZX2oxREpiNTV2VzRqSGZYUHFwWkhDQU1IYjd5eExCTTluM0t0ZUdUZUhKVkgtamIzbUQyRmtRMnpSNVR0di01TFcxTmVPdW8xYlZleGxJLWFTcVItS0hNRHlZdzZZMkFwdFd0djJVZ0J4YkVrX3htRl9obmpvVVctY1hISnJfUE85bw?oc=5",
+    "title": "GTA 6 Lead Reacts To The Infamous 2022 Leak: 'Like Somebody's Wading Through Your Dirty Washing'",
+    "publisher": "Kotaku",
+    "publishedAt": "2026-10-14T17:00:52.000Z",
+    "discoveredAt": "2026-10-14T21:23:34.585Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-b2072f812c",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX0NoVWtLQnR1SUJSbTBhY0lRR2lLWWlnQVQ0QmtxYUh1S2FFLUhISmxJWTUxN1NWYk9VV0hEeTE5V0xlS3RuLWtoOHp4SG50SEl0VFNfVlBzQlgtYjl0a3dhR3JMWEZ6c3dPX0dUOGRYY3lwektSb1JtRlFaektfVE5BTWtORHdfRktCRGxHZlpMcVhjZWc?oc=5",
+    "title": "GTA 6 Leak Saga Comes to Unceremonious End as Cryptocoin Collapses",
+    "publisher": "DualShockers",
+    "publishedAt": "2026-10-14T18:10:05.000Z",
+    "discoveredAt": "2026-10-14T21:23:34.585Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-d1636e0235",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5XODNxRy0wNDlWNmgwODhiSDhRaE91bGdrT1hBUC1EblJUUFlldERRaWt2S2RPOUs3akJuZWNGajl4WjNpOXFFT21VbnYxWTNnV1d5OTRxX0pQS2haVXNzbE1pYnc3X3FsM04zSl8tSkpsZw?oc=5",
+    "title": "'GTA 6' is sold out on Amazon despite being a digital-only game (updated)",
+    "publisher": "Mashable",
+    "publishedAt": "2026-10-12T20:25:59.000Z",
+    "discoveredAt": "2026-10-14T21:23:34.585Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-9b2f5cf058",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JcHZBTUk3U29YSkxKNHZVWHppU2N4dUJtZ19OZnB3NkdjZ2tfLURTNzUyMElMR0JaYU9xeFZpdnhpbnI0dzMwUjlzWTJqMXUtbDFkYjZVUlhGQkw1Q2JSRmlsa2lhMEFKbHg2Qw?oc=5",
+    "title": "2 More GTA 6 Screenshots Released",
+    "publisher": "RockstarINTEL",
+    "publishedAt": "2026-10-14T10:41:57.000Z",
+    "discoveredAt": "2026-10-14T21:23:34.585Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-5e1f99b490",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWDY4RlJxUjFKOEd0cnRwV19Pb3VFNXJWZ0ZiaEpFYl9PRnIzNEl1R2s2am9OeHN0bFJZUjdtWkExcC1Qem51QVhLNFdPMXN2VmRrdmQ0NUJpWDItQmhCcjdiaEFVeU04YkQ3UHhJT3lTaERja0o5M1hhdXZNTGlESzJGeGxlTGxuMzZCRFZTS3QxXzZXZ0RxMDBKMEk1Y0lXa0VXQzRqc3FSMUdyX05vRDN5Vk5hY0VKMWZ5bW9tRQ?oc=5",
+    "title": "‘GTA 6’ Leaker Won’t Release Game Build After Players Crash His Cryptocoin",
+    "publisher": "Forbes",
+    "publishedAt": "2026-10-14T15:07:25.000Z",
+    "discoveredAt": "2026-10-14T21:23:34.585Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-001",
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-51782af3cb",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMVdiWF8tQ0RNWW5jSEtEbjBDSFpDN0FDbWJaN3JnSTVJSGV3ZG8yOTRpckxoWkJmbkRDeGtLSmlqa0V2My05LU83QzhDeldJTW05UEVlY1ZzSGpfYng5MmcxOXVjMjJITV9meVktZWFwZTVIV0hVbGdMRzdzUEZYbHhWMjFlZUZFUnlqb1ZjTDFraVdPT2Q0YnMwdThpa2NfcC02RVpwUWdaUQ?oc=5",
+    "title": "GTA 6 Leaks, Epic's AI Woes, No Man's Sky Mobile and the Best AAA of the Year...",
+    "publisher": "Polygon.com",
+    "publishedAt": "2026-10-14T20:01:39.000Z",
+    "discoveredAt": "2026-10-14T21:23:34.585Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-a40a7ff6b1",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQLUhsWnRuRWF3WEtYaGtKYmdVNnBiSC1nREp1UnJFZFhaTTc5NUU4dHVpVXY4UGdzQV9jWW1ETUU3UTN6blJTdEhSVlhobTR1c3ZyZUJDN3FCNFlWb3lSS1hzd0tGQ3JyUU42elhWRU40LWRZdDhMVjJKREdSQlIwNWRlR21QV21PajJkZWF0R0RlRlBwcmZhUzFOVzRJRUViUmQyZnMxdzZKcjh3TzdMNkhLMmIwOHhvWXdSamVFU0p4VnVEMXhr?oc=5",
+    "title": "GTA 6 review copies reportedly go out 3+ weeks before release date, despite leak risk",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-10-14T20:37:00.000Z",
+    "discoveredAt": "2026-10-14T21:23:34.585Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-5fb82c7cd0",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdDRBSVN4UnpxWW9BUXB3dThTaHIwTTM4MkhlY0Z4a05peExKeE1IUGhiVGoxZWc0TmFzSjRtcnhseDMzZmFhcFF5NFVaSEhNcWFQQjkyczdROGx6ZGhDOHpud1VUZnlHQWY4WGg3Sll1Ym02bHlYVHd3MGFYaElfT2V3b3hDTDA?oc=5",
+    "title": "'GTA 6' setup upgrade: This 32-inch Samsung Odyssey G5 gaming monitor drops under $200",
+    "publisher": "Mashable",
+    "publishedAt": "2026-10-14T17:19:19.000Z",
+    "discoveredAt": "2026-10-14T21:23:34.585Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-129c4bea50",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN3lYczFOQmtuV1QzdDljYTRmNEpSS0J3YmJuTTlaNnhJSHZYd3FSTkowLXRkS18yT3IxdVpMNTdHSnU4QlBnZ180MW5iVlM2UmxWbTRLTUN0YmlDT0hzYVdjdFBaT3p3a2o3Qy1kRndBUjBaektDRGNhelJvaEJpUERxY0pRRVZrdTU1MENn?oc=5",
+    "title": "Major 'GTA 6' upgrade: The SteelSeries Arctis Nova Pro Omni gaming headset is the cheapest it's ever been",
+    "publisher": "Mashable",
+    "publishedAt": "2026-10-14T16:30:46.000Z",
+    "discoveredAt": "2026-10-14T21:23:34.585Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-48a5690ce3",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSDJrNEZiaU5Jd0x5a0ZYdjF3cUM2YXJXcU9VTnRndzdiSTBLU2lQS3FrdVdxNjZZRDdpSVVvb21uQ1cwVVlVVDhMdmNpQkpoWW5KTjNoRmpwci1lQmdLZTdsVGlCaFNxQnIwYmVpZzBOTUx4cUxtVUZIQ1A2WmZpdjJrUmJidjNycnBSYWJoNTJJZUxVaW5pbmxwajdqOFFVTGdjZjl3?oc=5",
+    "title": "GTA 6 leaker threatens Take-Two with a 'dead man's switch'",
+    "publisher": "PC Gamer",
+    "publishedAt": "2026-10-14T18:36:16.000Z",
+    "discoveredAt": "2026-10-14T21:23:34.585Z",
+    "feed": "google-news",
+    "query": "Take-Two CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive"
+      ],
+      "claims": [
+        "LEEK-CLM-012"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-afd0f38fc8",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5RTk5TF9STkFibjF0cl9zYjdzOTRrUklYTVhDR3RjRzQ3enktSVBZcGRXQko2T05VWWlibXh5NkZOd29WNkJJLW51ZUV2dnBxWDlkd2FjTy1FNHp1STRxeEhuZTVIclhY?oc=5",
+    "title": "Elon Musk has Grok buying him Lego sets",
+    "publisher": "Mashable",
+    "publishedAt": "2026-10-14T19:46:22.000Z",
+    "discoveredAt": "2026-10-14T21:23:34.585Z",
+    "feed": "google-news",
+    "query": "CyberLeek dead man switch",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-fa79c3e073",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLem9vdTNmOU5vMHRuRG9CSlBmR214UjNCeTJyQ29NNFdDX05Yd2VPaTE4UWlqSUcza2lGU1IweFhhY3dVSEk0VThaSU5HSTZrYjNPTU9NWks4NFBzMVM2Mw?oc=5",
+    "title": "Best drone deal: Save $60 on the DJI Neo drone at Amazon",
+    "publisher": "Mashable",
+    "publishedAt": "2026-10-14T19:53:04.000Z",
+    "discoveredAt": "2026-10-14T21:23:34.585Z",
+    "feed": "google-news",
+    "query": "CyberLeek dead man switch",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-7689688201",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSUZXaDZLUWQ2ZlN6NkFPd1NzZmFQV0RJXzBHc3VWTWlXOG5jeFAzRXQ1cTlUUHVmN2trMzlLbUhDLURpQWJlc2RlZndUenItSlpOcUtuMFJHMFoxN0liSUdwaXJXUlRqWXpwTU92NVJZQUZvYVJzNlcyS0ZQbzlrMV9YbThXM3RDeUE?oc=5",
+    "title": "The Alienware 34 gaming monitor has hit its lowest-ever price for October Prime Day — save $170 at Amazon",
+    "publisher": "Mashable",
+    "publishedAt": "2026-10-14T20:11:52.000Z",
+    "discoveredAt": "2026-10-14T21:23:34.585Z",
+    "feed": "google-news",
+    "query": "CyberLeek dead man switch",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-43d21d8661",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4tdE1LN3otd2lMbWFjNWJVeWZpS0x3TmpPRUt3MlE5ZGtiZ2llTmptSmtFTHp0Mm9ZamJVbDJLSHpWOVNYWHJQMXctVjVGbHpMUTB0S0d4QlFuaEs1OG1GWE42OThuN3ZBU0xXMUQ2NWU3Mlg4N0x4VmtucU4?oc=5",
+    "title": "Elegoo Centauri 2 Combo 3D Printer deal: Get it for $133 off",
+    "publisher": "Mashable",
+    "publishedAt": "2026-10-14T20:18:30.000Z",
+    "discoveredAt": "2026-10-14T21:23:34.585Z",
+    "feed": "google-news",
+    "query": "CyberLeek dead man switch",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-5a4c432a68",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Ca2c3ekxmZXNYWHNvZUxRel9BcHljUUhIZTNjM3ItcENwYWlWc1I2TnBOZ3Jna2pYd181UjZYSjRzSmVnV2d3MElYakFlc3JYb1k5eDhIbkItUy1jU3l2TF9KX2pVdXFxZGNtR0w2UHUxRjl5WE5kYzY5OHM?oc=5",
+    "title": "Modders discover way to play PS5 games on Xbox consoles",
+    "publisher": "Mashable",
+    "publishedAt": "2026-09-28T15:51:28.000Z",
+    "discoveredAt": "2026-10-14T21:23:34.585Z",
+    "feed": "google-news",
+    "query": "CyberLeek dead man switch",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-006",
+        "LEEK-CLM-028"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-4b241c7ea5",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQU4xdFhMeUtoTFlsSk5MeUhDTUVPTHEwbFI5Q1NZV3JHNlMzUktyb0d5TUZXWC1JMFJlVFpSTWpUeVdYQ1RjYURsMlF6N0J3UG5DMWx2Ym1JMC1sWkhpUUU5ZThHXzdKN0ZYVHgwLUxqUU9JTDljbHdYM3BhR2V4RENJOVpGRlU?oc=5",
+    "title": "Did Ukraine’s strikes on data centers really silence Russian bots?",
+    "publisher": "Mashable",
+    "publishedAt": "2026-10-12T19:25:53.000Z",
+    "discoveredAt": "2026-10-14T21:23:34.585Z",
+    "feed": "google-news",
+    "query": "CyberLeek dead man switch",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-8e5eb91fdf",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOUxMOUR3SGdwNXRvdEd3TzlCczktaXloUjNWZVJRY3NQNU9hZEY1T09hRVM5ek1UZkc0WGh2bjV2Wm5WTFRYSTdoR0hNT01BbzlCZUVzOEhHajRwVmpPXzlSUmM3aTZxQ09kMDNvaWo5UkZ6OGNWN1I3NFFCWXVEY1JjSFRGZw?oc=5",
+    "title": "Apple is reportedly preparing a big smart home launch: New smart display, HomePod on the way",
+    "publisher": "Mashable",
+    "publishedAt": "2026-10-13T07:00:00.000Z",
+    "discoveredAt": "2026-10-14T21:23:34.585Z",
+    "feed": "google-news",
+    "query": "CyberLeek dead man switch",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-2eedf8403d",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeW0xTldJYkNBZ0x4U2ZteTlJV1NJTXJnTDFtYlJHRTNMaWtyS2ZtcGVZQmM2VzRscnljb0c1c2U0MEplZGRodXVkU3JXcDFUdjZNZ05lU3F6clVCTGZFandIWFNOLWpfLVRUZXJ4YVhXUWt4ZnlwMmYydFRQaGxJNkdnOVRLcWxEcDN5YTdGeTVuUEU?oc=5",
+    "title": "CyberLeek Leaks GTA VI Ending Clips in New Video",
+    "publisher": "KeenGamer",
+    "publishedAt": "2026-10-14T17:00:58.000Z",
+    "discoveredAt": "2026-10-14T21:23:34.585Z",
+    "feed": "google-news",
+    "query": "CyberLeek dead man switch",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-d5489f324a",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6acff2db6d7249088265856dbc66f04d&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fcyberleek-gta-6-ending-leak-new-clip-allegedly-shows-finale-fans-urged-to-avoid-scams%2far-AA2efQrI&c=114579491563265331&mkt=en-us",
+    "title": "Cyberleek GTA 6 ending leak: New clip allegedly shows finale; fans urged to avoid scams",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-14T12:50:00.000Z",
+    "discoveredAt": "2026-10-14T21:23:34.585Z",
+    "feed": "bing-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
