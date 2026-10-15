@@ -34739,5 +34739,244 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-0c878971ca",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHYVNXc0ZEVTVvdHNOMGwzMmN3NTlrZ0tvaEtRVzRzZlU4ckFaZ2NmazFhQUtmRXNHTUs1cDQ4azdKak91R1RYbWxLVjJUNzhjc0dyN21VMTFISFBpbXRKVEs1N3I2SjV0UXJxS3ZYQXpNSXkzeTJ2TkhuUFE?oc=5",
+    "title": "Cyberleek’s 3-Part Message Ends GTA 6 Leaks [2026]",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-10-15T08:03:21.000Z",
+    "discoveredAt": "2026-10-15T11:03:47.529Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-e9c34adb32",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8zemJzQjJhY3lNZlpJNUJta1UwV2l0SUJtWXpNaXVkRmljNEk2WXhiV25fbGY4bTNIYS1QSGNHenNkcENLdnZZYjRZRndoWTF3TmMwWjBIdENrX01IRmJqYW9qMUVEQl92ZW42TE9TbWdhNFhuQVp0MEd2RzY?oc=5",
+    "title": "GTA 6 Leaker Says Their Reveals Stop Here, for Now",
+    "publisher": "80 Level",
+    "publishedAt": "2026-10-15T07:20:45.000Z",
+    "discoveredAt": "2026-10-15T11:03:47.529Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-74cdb25ac0",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWHJhdzhJTmdkZDluUHBTLTJMMy1DbTNwLS1haGdZWVpCZ2RFQ1NEaTdWbVFnYzFreWE4VFdKMDVNTk1FSGhHUkVPcEYxTnJqUE1KQkd0VjR2aGJBNkk1eE0zNzZTQ20zeVZ5R3JvaGZnY2JIcG1zTUJhMGMzRHMxSG5sekJmamJPMUFBTmNKWF9NMDZDSFhBTEdUaWo3R1lQV19pSEliT0Z3VGZWUVE3b3NrYVdQRExzMVFIbGZzUENCaG51Y2FmOUdQR25MeUhuNlNWc0NSTFlCQQ?oc=5",
+    "title": "Cyberleek declares 'The End of the Road' for GTA VI leaks after failing to hit crypto target",
+    "publisher": "GosuGamers",
+    "publishedAt": "2026-10-15T05:49:46.000Z",
+    "discoveredAt": "2026-10-15T11:03:47.529Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-3019f710a4",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWWsxUlJOU1padWtCZ05GNzVRN3JMS1BRV3gyaTJLSExNYUVHakZ3RUo2VXlfdE05NGxNWTEtUkE1RlRhbm9EZGRDeEhnWGFuX3NweUoxYmtnSTZXT2YxUVFHeGpiVkEzRzVHT1BOWGEzalVMWjdHUFBPYXdzVUlzN3NVZzNlb2xSQjAydlp6WVJCRnBJeUQ3WXlndEM3YnV1N1d6RG4zZHE0aEQxcnc4cjEycHlhYlpIdVg1WUhmU3ExZU9WdDlyZQ?oc=5",
+    "title": "GTA 6 Leaker Cyberleek Shares Purported Endgame Footage and Calls It ‘The End of the Road’ After Memecoin Crash",
+    "publisher": "eGamers.io",
+    "publishedAt": "2026-10-14T23:46:46.000Z",
+    "discoveredAt": "2026-10-15T11:03:47.529Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "$CYBERLEEK holders"
+      ],
+      "claims": [
+        "LEEK-CLM-015",
+        "LEEK-CLM-025"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-91e5540c8f",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE52R0tfd3k4UGNzS1N2R2JVcWl0V1NtcUs5dnRSdUNXcjEyNGhySzJwSGlleDF4a05tVFJUQkJOeGRmdWZuR2ZRZWxQUkItaGxwbFBjVlQtc1Y4WWVqMXMwUGVXSVJsVFFlR0tKM2xSNHNvbktTNEFUanhoTQ?oc=5",
+    "title": "Cyberleek Says GTA 6 Leaks Are Over After A 20th Clip, But Warns A Dead Man's Switch Is Active",
+    "publisher": "GameDaily",
+    "publishedAt": "2026-10-15T09:31:02.000Z",
+    "discoveredAt": "2026-10-15T11:03:47.529Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-012",
+        "LEEK-CLM-028"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-25e57992c1",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9XeDBYVUU4NVJBUWdBWDFIb2EwOHYtZ0kyMGZwNmhDV0wtNEx0UmZhZlVSVjlhQnB0LXRCcDFUeVFTX3RDbGZQamtWelNEMXJraXhYWEFpLWR3LUNpSHdTSkd6Qi00RlU1THByT3gxazNpb252XzRyazViZw?oc=5",
+    "title": "Rockstar’s Five-Day Office Rule Is Its Most Divisive GTA 6 Policy, Even After Another Leak",
+    "publisher": "GameDaily",
+    "publishedAt": "2026-10-15T07:32:08.000Z",
+    "discoveredAt": "2026-10-15T11:03:47.529Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-e6203e7bb3",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbHo1NTR4eEhwZ3B6RVVCSklGckJUWUFOVVJVTzBySUg2VG5hWVZ3TjRocFVvQjkxbGp3TUpsVU4wSnAzcm5DZ2tySklHXzR0RlR6OE9TcHN6bWRkWHd4SGs1dGFxS0lrNVpla3pnOGItczgyMmVUOFVpZU5LVU9DdG1sYnoyTEoycGJOSDlB?oc=5",
+    "title": "GTA 6 Leaked Controls Land on Subpoena Deadline",
+    "publisher": "finally offline",
+    "publishedAt": "2026-09-04T07:00:00.000Z",
+    "discoveredAt": "2026-10-15T11:03:47.529Z",
+    "feed": "google-news",
+    "query": "CyberLeek Microsoft",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-023",
+        "LEEK-CLM-028"
+      ],
+      "category": "legal",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-22cfdcfd9c",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVUVLYlFhTVltUEZrRUhya0xjcy1PRkcyaWdDYjZVaFRIRW5HMTQ2SnZ0RDVKbXdUMUExcGxjQ19NYTI4bm9oeldzd0hiM3ZpandzLVdyQzktRXFIalFkaHk1NHc2QmxmTW5IMkRfSmZrYVhFQ1NLTjdOUHlwbkV1WGtMSENPTnptSFBDTUJhOTRpdw?oc=5",
+    "title": "Cyberleek Halts GTA 6 Leaks Following Their Crypto Token Crash",
+    "publisher": "TechJuice",
+    "publishedAt": "2026-10-15T10:54:27.000Z",
+    "discoveredAt": "2026-10-15T11:03:47.529Z",
+    "feed": "google-news",
+    "query": "CyberLeek dead man switch",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-a5700e0436",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbVlxcllleXlZSDkxTDVzV3I1MlIzRHJVTTlmcXAydW5qcURBMGw5djNqVzhxSGJmTzA0UVlPdEtYMHRKTVM0U05iNklzQWJ2V1pPRVNKVVFqRGpYc0YyQjh0Y2JwRm5TV0NVN3pPUFZmUDh6cTZaTWN0NXV0Um9MeHgtN1RsdWJnU2ZKSFhBVmRNbDlieEFOcFlXRDQ0WmRjNmNDVDRQLXJHN21mcEQ0QWJNSlhaalEtWlF0bG5WM1JoWG9NcXJN0gHHAUFVX3lxTE9tWXFyWWV5eVlIOTFMNXNXcjUyUjNEclVNOWZxcDJ1bmpxREEwbDl2M2pXOHFIYmZPMDRRWU90S1gwdEpNUzRTTmI2SXNBYnZXWk9FU0pVUWpEalhzRjJCOHRjYnBGblNXQ1U3ek9QVmZQOHpxNlpNY3Q1dXRSb0x4eC03VGx1YmdTZkpIWEFWZE1sOWJ4QU5wWVdENDRaZGM2Y0NUNFAtckc3bWZwRDRBYk1KWFpqUS1aUXRsblYzUmhYb01xck0?oc=5",
+    "title": "GTA 6 Leaker Drops Full-Game Threat After Crypto Coin Misses USD 30 Million Goal",
+    "publisher": "Analytics Insight",
+    "publishedAt": "2026-10-15T09:02:26.000Z",
+    "discoveredAt": "2026-10-15T11:03:47.529Z",
+    "feed": "google-news",
+    "query": "CyberLeek dead man switch",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-3b57f8cde6",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWVdQckh1aTc1eVBFbUJEcmxWSmtvOWxoNG40X1pEZ0ptSzFIbXhSNnNSYm9kLUlBT2tPMC1yd1dmT3d2dWplcldXZ2QwV1o4RklNc2xLUW9LMVR1Q2NTMHF1TFFmY1J1SzVGMjBiUWNEWmZaVlhwNHV6M2I4YlFyNW1DYzNMRVMxdENoeTExQ1djekl2QVkyVTBvOS1MRW5za04xV2RaTHNuQk0zdXZaeVNjUVZUVEpEbjBqMW1GX3JIYnl4YTBqS0lqbjFSWFVXSDQ0MV9sWTFFZ9IB2gFBVV95cUxNWVdQckh1aTc1eVBFbUJEcmxWSmtvOWxoNG40X1pEZ0ptSzFIbXhSNnNSYm9kLUlBT2tPMC1yd1dmT3d2dWplcldXZ2QwV1o4RklNc2xLUW9LMVR1Q2NTMHF1TFFmY1J1SzVGMjBiUWNEWmZaVlhwNHV6M2I4YlFyNW1DYzNMRVMxdENoeTExQ1djekl2QVkyVTBvOS1MRW5za04xV2RaTHNuQk0zdXZaeVNjUVZUVEpEbjBqMW1GX3JIYnl4YTBqS0lqbjFSWFVXSDQ0MV9sWTFFZw?oc=5",
+    "title": "GTA 6 final mission gameplay video leaked ahead of November 19 launch: Here is how the game may end",
+    "publisher": "Digit",
+    "publishedAt": "2026-10-15T06:05:00.000Z",
+    "discoveredAt": "2026-10-15T11:03:47.529Z",
+    "feed": "google-news",
+    "query": "CyberLeek dead man switch",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-751bc7c9d9",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEazF1TThVRzJUWEhQZHpoajkwT3lLa2VpRnJPdTBlSkVzX3ItYUhqRlAxVF9hY3RSREl2SmZVaE9jVlB4bkxKZTRjV3RmQVF3dERHOUcwZzJJeUE5U3B4azVXR3pod0hxZTM5TV94V0FCa1Z0QnU2SzQ0U2ZSNjg?oc=5",
+    "title": "RAF Fairford: 6th Arrest Hits UK-Iran Dual National [2026]",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-10-02T07:00:00.000Z",
+    "discoveredAt": "2026-10-15T11:03:47.529Z",
+    "feed": "google-news",
+    "query": "CyberLeek arrest",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-016"
+      ],
+      "category": "investigation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

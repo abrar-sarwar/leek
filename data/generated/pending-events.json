@@ -10666,5 +10666,89 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-0c878971ca",
+    "title": "Cyberleek’s 3-Part Message Ends GTA 6 Leaks [2026]",
+    "reportedAt": "2026-10-15T08:03:21.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHYVNXc0ZEVTVvdHNOMGwzMmN3NTlrZ0tvaEtRVzRzZlU4ckFaZ2NmazFhQUtmRXNHTUs1cDQ4azdKak91R1RYbWxLVjJUNzhjc0dyN21VMTFISFBpbXRKVEs1N3I2SjV0UXJxS3ZYQXpNSXkzeTJ2TkhuUFE?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-e9c34adb32",
+    "title": "GTA 6 Leaker Says Their Reveals Stop Here, for Now",
+    "reportedAt": "2026-10-15T07:20:45.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMifEFVX3lxTE8zemJzQjJhY3lNZlpJNUJta1UwV2l0SUJtWXpNaXVkRmljNEk2WXhiV25fbGY4bTNIYS1QSGNHenNkcENLdnZZYjRZRndoWTF3TmMwWjBIdENrX01IRmJqYW9qMUVEQl92ZW42TE9TbWdhNFhuQVp0MEd2RzY?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-91e5540c8f",
+    "title": "Cyberleek Says GTA 6 Leaks Are Over After A 20th Clip, But Warns A Dead Man's Switch Is Active",
+    "reportedAt": "2026-10-15T09:31:02.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMie0FVX3lxTE52R0tfd3k4UGNzS1N2R2JVcWl0V1NtcUs5dnRSdUNXcjEyNGhySzJwSGlleDF4a05tVFJUQkJOeGRmdWZuR2ZRZWxQUkItaGxwbFBjVlQtc1Y4WWVqMXMwUGVXSVJsVFFlR0tKM2xSNHNvbktTNEFUanhoTQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-25e57992c1",
+    "title": "Rockstar’s Five-Day Office Rule Is Its Most Divisive GTA 6 Policy, Even After Another Leak",
+    "reportedAt": "2026-10-15T07:32:08.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMie0FVX3lxTE9XeDBYVUU4NVJBUWdBWDFIb2EwOHYtZ0kyMGZwNmhDV0wtNEx0UmZhZlVSVjlhQnB0LXRCcDFUeVFTX3RDbGZQamtWelNEMXJraXhYWEFpLWR3LUNpSHdTSkd6Qi00RlU1THByT3gxazNpb252XzRyazViZw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-e6203e7bb3",
+    "title": "GTA 6 Leaked Controls Land on Subpoena Deadline",
+    "reportedAt": "2026-09-04T07:00:00.000Z",
+    "category": "legal",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbHo1NTR4eEhwZ3B6RVVCSklGckJUWUFOVVJVTzBySUg2VG5hWVZ3TjRocFVvQjkxbGp3TUpsVU4wSnAzcm5DZ2tySklHXzR0RlR6OE9TcHN6bWRkWHd4SGs1dGFxS0lrNVpla3pnOGItczgyMmVUOFVpZU5LVU9DdG1sYnoyTEoycGJOSDlB?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-3b57f8cde6",
+    "title": "GTA 6 final mission gameplay video leaked ahead of November 19 launch: Here is how the game may end",
+    "reportedAt": "2026-10-15T06:05:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWVdQckh1aTc1eVBFbUJEcmxWSmtvOWxoNG40X1pEZ0ptSzFIbXhSNnNSYm9kLUlBT2tPMC1yd1dmT3d2dWplcldXZ2QwV1o4RklNc2xLUW9LMVR1Q2NTMHF1TFFmY1J1SzVGMjBiUWNEWmZaVlhwNHV6M2I4YlFyNW1DYzNMRVMxdENoeTExQ1djekl2QVkyVTBvOS1MRW5za04xV2RaTHNuQk0zdXZaeVNjUVZUVEpEbjBqMW1GX3JIYnl4YTBqS0lqbjFSWFVXSDQ0MV9sWTFFZ9IB2gFBVV95cUxNWVdQckh1aTc1eVBFbUJEcmxWSmtvOWxoNG40X1pEZ0ptSzFIbXhSNnNSYm9kLUlBT2tPMC1yd1dmT3d2dWplcldXZ2QwV1o4RklNc2xLUW9LMVR1Q2NTMHF1TFFmY1J1SzVGMjBiUWNEWmZaVlhwNHV6M2I4YlFyNW1DYzNMRVMxdENoeTExQ1djekl2QVkyVTBvOS1MRW5za04xV2RaTHNuQk0zdXZaeVNjUVZUVEpEbjBqMW1GX3JIYnl4YTBqS0lqbjFSWFVXSDQ0MV9sWTFFZw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-751bc7c9d9",
+    "title": "RAF Fairford: 6th Arrest Hits UK-Iran Dual National [2026]",
+    "reportedAt": "2026-10-02T07:00:00.000Z",
+    "category": "investigation",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEazF1TThVRzJUWEhQZHpoajkwT3lLa2VpRnJPdTBlSkVzX3ItYUhqRlAxVF9hY3RSREl2SmZVaE9jVlB4bkxKZTRjV3RmQVF3dERHOUcwZzJJeUE5U3B4azVXR3pod0hxZTM5TV94V0FCa1Z0QnU2SzQ0U2ZSNjg?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
