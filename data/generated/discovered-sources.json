@@ -34978,5 +34978,356 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-cdf0a8b022",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRXZOM2p4a2NVckltOEFyTzJBdGtEdzc4SEFwSmY0THFGbzVXZ1RiT1NCS0xXbTFnZHlKNmxDUjhtelVGeTFLN2xZcEd1N0xvVTNmZUhtZTR3eHNrSDh2aVNkT0oxN0NpUG4xV3p1Q0VSSDMtVTJxWDRVX1R4NFJUajRzclhIMUowYnJ0emQ4VldvQl8zVGV2VjZSRzNIQmQ2TzI2dXhrZ2JBSzlXQmdNTlpLZlpXY0p5cVl4UGtCTnVJcW1tY0dR?oc=5",
+    "title": "Why Is CYBERLEEK Going Up? CyberLeek News Oct 15, 2026",
+    "publisher": "Bitcoin Foundation",
+    "publishedAt": "2026-10-15T11:33:51.000Z",
+    "discoveredAt": "2026-10-15T16:34:18.470Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-2f92039f7d",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNY2tYNmxnMm1TMGdHandFRHRGRDJ0QXpTc2FZQUlEWFNoMzNubnlLTE5wWV94SVlJZW1PSERMeUpmVGJDekRna2ZicU5LVW92Z2hoODZpeHJvcFU4T0JTMXJiMDBOTUYxY0g2c2xucUNtRkdWNlVmQVdsanV1YnBKcFRUMUo1Zw?oc=5",
+    "title": "The End of a Major Leak: Cyberleek Publishes the Final GTA VI Video and Refuses to Leak the Game’s Story - Root-Nation.com",
+    "publisher": "Root-Nation.com",
+    "publishedAt": "2026-10-15T11:39:24.000Z",
+    "discoveredAt": "2026-10-15T16:34:18.470Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-007"
+    }
+  },
+  {
+    "id": "DISC-fce0324359",
+    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPSkh6NGhjM2MxSldIdFU5R3g5dnAwZU1Bdk04ZXZJNXU5WTg0dHZLOHh5MWJ1d0ZnYkg1VTNIaDh5Xy16d3U2UlN5eElUclZOcURyck52aTVzclc4Q3FRUXBud0dYSHhQSzJpd3dCQVNEbTJfR2QzT09xZVAyU0E1RVE5RXlYLTRRbXlpZ0RMd19KWkRBUE9OMTM1NVdjQWQ1VkpETVMzdXgwTkpFUzlGWE5uTUtBaVptN2ZrT0dYVldTV1pNd2sxT2ktT1gyQ2JzTDRSZlNOLU1SdEVFNzdyY3BiU1J2cHNHYTA5ckxoQ3NzR0U0RWN0Vm1JWVhYTHBGMGNDcnpGOUR3QdIBjwJBVV95cUxORFVrQ2lPNmh5eVI0R3FMTnFVbTdaeFhlQlRsTzlIYTRmWHN4T3dqYnFvOTg5TEJIbzI3TVpBT3NpcHRodEZKR0Q1OWlCODV3UW4teFA0Znh5VHR2SHBHLWw5R2labGJWaFMxcElfV2tEczRSdDNURTQxUnJmc2FiV1NPZ3hMM3BPUlFVcHdmMnZtd1VMYUJ4S3JZUXhDaFAtQjBMUFc4Ymllb09yVUtqUWVhYmRscXdmQTNjczlCcFlmWE5sV3RwNlRMWVRGMmg3c0RyX3Fmb1Z0cWtQUVh2cGpISmI5b1UzdlNvd0JPbUs4NjN6N0E2YXJLcU14ZUtoSlpraUJ3ay1IOTJ2SFJj?oc=5",
+    "title": "Cyberleek promised to stop GTA VI leaks, Asha Sharma wants to make Fallout and Diablo Xbox exclusives - the most interesting from October 14",
+    "publisher": "iXBT.games",
+    "publishedAt": "2026-10-15T12:01:53.000Z",
+    "discoveredAt": "2026-10-15T16:34:18.470Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-006"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-73f4624f4e",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4M2RLamdha3pOcEdiS2g2Qnd3X2piYUFUQ3BURV9HSEhYVDRSbGJsMFBmWkZEX1VkeTNaWHV6cmc4R2lzMk8ycXZYM1o2MmFoeUNfdzRLUEdIZ3NVYjlVSEtYRmxWeGhXRUdITVZmaw?oc=5",
+    "title": "GTA 6 LIVE: Rockstar Games releases official launch trailer",
+    "publisher": "Indy100 | News",
+    "publishedAt": "2026-10-13T15:43:42.000Z",
+    "discoveredAt": "2026-10-15T16:34:18.470Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-6c326c5fe5",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBoV29xYlhJWTRXdlBxbU83X1M1VEN4S2U0Y0Jkd0JEV0FKdk1LVUpiaVJYdkRLS3Y4WGxDMVA2aURzLTFsalNuNlNGYWJYSTB2RjJXaHR6cFp4d1ZZN1lJWkZlbXhaVGE4TXNLRWg5R3ZGRlBsUjZnTg?oc=5",
+    "title": "The GTA 6 launch trailer is here",
+    "publisher": "GAMINGbible",
+    "publishedAt": "2026-10-15T13:21:26.000Z",
+    "discoveredAt": "2026-10-15T16:34:18.470Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-f6ec63cdce",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONUJWRjJ2aERaekRZdTRSYTF0Uk1LV3VVTjFQbUNZR3FDQVlBRzNOYWdhUlIxQTRNcTB6SGlUUDBULTJEMWJEaklnd0M2elVjT2kxcnZDbElOUldzZkhfcFZXV1ZoMlh5eHN2OF9YQzVHLXNiQTE4Yms1VjZIcmZpeEF4MkV2U0ZrdkhVQQ?oc=5",
+    "title": "GTA 6 Will Be Sent Out Very Soon To Reviewers It’s Claimed",
+    "publisher": "RockstarINTEL",
+    "publishedAt": "2026-10-15T09:00:44.000Z",
+    "discoveredAt": "2026-10-15T16:34:18.470Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-edd4d59d0e",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaENSZGk0Z1RJMTF6UGNLR0dCVXIyN0xETDRQVFc3cS0waGZsam1sb2pjWWtwSlpFaFcyMDJ1LXpMN0IyT1c5d21nZktnN01LUE5kWjBzNTcwdDk1V09adWwzOGtjbDdhWGN0WG0wOUc2QTZWQWVDRGlNQ3c3NThySVc4Zw?oc=5",
+    "title": "Rockstar Releases the GTA 6 Launch Trailer, Captured Entirely on PS5",
+    "publisher": "Pasquale Pillitteri",
+    "publishedAt": "2026-10-15T14:48:02.000Z",
+    "discoveredAt": "2026-10-15T16:34:18.470Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-359c95e112",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSDE5OTRocWp1ZTFaSGxiaUJOQVJ0bEs1aERtbWl5R0FMZVEzcUpZcVlWR2tTblNRX2duemYtbzNZQUpLRmxQOXVsUkpQWFlaS19NTEtJRTVFMTRLQWktOWVvWGRsR3plMVJkYUxPTTJraXZuME9PLXB1ZmJlSl9DX2hR?oc=5",
+    "title": "GTA VI Leak Reveals Barber Shops, \"Cigarettes & Drugs\" Mechanic & More",
+    "publisher": "TwistedVoxel",
+    "publishedAt": "2026-10-15T13:31:51.000Z",
+    "discoveredAt": "2026-10-15T16:34:18.470Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-415c3bac6a",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tOTJLWWRPQ1JsU1Bxdl81LTF3ektYYlh0djNaWEZlcndBclBDMkszUUY3cXVjYUhQU3RVY2xHSHQ1d0ZZcUJwQ0dtMVdSTEViRm9kTGNiZlZvZw?oc=5",
+    "title": "Rockstar Releases New GTA 6 Trailer Featuring Music From Justice",
+    "publisher": "TwistedVoxel",
+    "publishedAt": "2026-10-15T13:31:47.000Z",
+    "discoveredAt": "2026-10-15T16:34:18.470Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-4d11cff597",
+    "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxORlh3UVZDSTNUblVQcHRWVUNBbEVJbmZpcDZWazk5TjFpSFp5RHVZbXVoNmQxdnQ0OWtmVk1BSTgtcl8zVThVekE3eFBZRmdIQ09JNzduX1FVOEh4Q0xLY1NGN25BWkJ3bU9Vb2YxbXBsMWc3S1liNkdWVzQ4bzh5WFBHWWNYRFhKUWJlMk9DT0VjeWtTLWhIOHV4UjFFcEhJa3hzdEp6QXpSS1NMcHBCb0ViNmg3WjNtcXhjQlFMNEhkOUM4YmF0d2w1QXRIbVNsWWUtbmxqOEdxdGNqTGJXeVdvSUFKbmc3VUdERjE3Z0dtTVhjWTBPQlkwdFl3aVJlMGZ6Tnh4VzRFVUk5X1pfRGFta3FCRk12RUZ1Uk5pQQ?oc=5",
+    "title": "'It feels like somebody’s wading through your dirty washing' — Rockstar says GTA 6 leaks in 2022 felt 'weirdly invasive' and was 'hard to deal with on an emotional level'",
+    "publisher": "TechRadar",
+    "publishedAt": "2026-10-15T14:04:22.000Z",
+    "discoveredAt": "2026-10-15T16:34:18.470Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "rockstar",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-026"
+    }
+  },
+  {
+    "id": "DISC-f4bea042ff",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORVFGb21ZUkZGNzVFdnZDeWd0WGNiVG1fOXpVbTB2SkVzVk91cVFvZF8zSUJ1ZnU5RU1lM0JNWS1ZbHJta1B1X0llTlI4OW9xaVFPcm1oaXRpOEM2eFB1d1FKWG11U3dlcHVMM3djc0ZiZEY3VDl2YnBsWFFhUFZyY1Q4Um5aWVZENFdpOQ?oc=5",
+    "title": "The GTA 6 Launch Trailer Is Here Ahead of November Release",
+    "publisher": "DualShockers",
+    "publishedAt": "2026-10-15T15:26:54.000Z",
+    "discoveredAt": "2026-10-15T16:34:18.470Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-b34058504d",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYXI4cGdzODVrVy12cFh3VzV2ZWdVeG1hdjBLUVFkX3FHMjFuNGtuVzNCZHNqNFNHeFZIRmNYdmlMTWZqN201Y0Y3U2RqMUZfd0hsZnJUczkwVmxzUmRQZVZ0VEJkYmN1bnpCMXFLSFozRjFxdzJjcnR5TmxvMXJZTWFSbS1pcEU4UTQ5LVJwSW9nMFlUWUVsWjFpTmFzN2VVY1FNUUNvNmZFU1dfNGluRk9iN3Zudw?oc=5",
+    "title": "Grand Theft Auto 6 Artist Says 2022 Leaks Were “Weirdly Invasive”, “Like They’re Inside Your Head”",
+    "publisher": "GamingBolt",
+    "publishedAt": "2026-10-15T12:52:17.000Z",
+    "discoveredAt": "2026-10-15T16:34:18.470Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-3417275a03",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTEVDeXlHWE0wQVk3MmU3anhkcTJ2bzFra0I2bHdfOVlsSTV3VE5IZEZXOVJvTldVT2dWTzFpTDVMRUpzOHA0ZzRjbDg3ZmhFM2RzSjdUbnBCOU1iWGpoS185bWtJVXdqSXdLcVhyY0dtSWNzSmtXWHRvOEE5NDFwQ2NHV2kxUjB6MU4xVm13?oc=5",
+    "title": "GTA 6 Leaker Claims the Game Will Need More Than 200GB of Storage",
+    "publisher": "eGamers.io",
+    "publishedAt": "2026-10-14T22:46:20.000Z",
+    "discoveredAt": "2026-10-15T16:34:18.470Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-037df464f7",
+    "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPYjdlenhyN252NnFORVpNX051NHFDSjMxeGNfZzBpUEI4M3Q4cnFTd2QxUzV2enhpa0FzVlBTemVTOVEyWWE2R2dLSFJXV3c3Rld2T3Nid19fdTdRWldxOTZCTk80OXE5VzduMExSd2pKcUJ3MWFDRktWMTg2VUNvd0lWUnI0REhWRWlNNEd5WXNzSzdCZ1A5cEtEeXJfSXN1anNGelVFUVlrRkJVUC15UE5JMHRpOUpLOFhhRk9WQVlSQTEzRjZsTEdFWGxjSWU3RXlpMWhOX0JISjM5NGtWNW94aWItSmZneUwxNl9iSzV5aklqb292c3Jndkd1LXdibTRGZXM0SDUxTFFNenlTTTBBNXlZNWtGcjhYMkF0dFFzR25lVVRJT2NNR0FlenJjbk0yc3FYaFlCQdIBvwJBVV95cUxOVVh4YkhtLXJLbDhXUG4wNmhsMFJRVjVCNUs3QlM4YWZnY1IxX0pPN3lqZHcxSzZldm41ZlRZcHB3b0lmVS10NGI4bklTU3JpcTE4eDV1YkV2RVJqSDJ1bmJVSExpd1N1OFZfTlZXR1d4S0ExcGxORFdaVDlXLURLSDJxMk5pRGJXRURZQUwydGc1b3NpSkZOODk0YU5lZzBhakVvVHlKckNkTmpkUWxnblBfT3RFaGhMY1pFQ2d0VjAyVmZRUkhGU0N1RkhrSXh6QTBHdGVCUTRvU2NUX0NOaHJBaE9OaEtkdzZEbGt6eF9RNGJ3ZHBhbTFfNEJBc2R0QzhnRFZuZ2x5dkNhaUFONFRNRDJQMlpISEtfbnZ6eEtYWkh1UVpWV2RxMFRCTnRqM1FraWdRUTdJNnpCbDdz?oc=5",
+    "title": "GTA 6 Latest News: ‘Leaks End Here for Now’ – Cyberleek Calls Off Leak Campaign After 20th Clip, Warns Dead Man’s Switch Could Reveal Game’s Ending | Here’s What We Know So Far",
+    "publisher": "The Sunday Guardian",
+    "publishedAt": "2026-10-15T15:26:51.000Z",
+    "discoveredAt": "2026-10-15T16:34:18.470Z",
+    "feed": "google-news",
+    "query": "CyberLeek dead man switch",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-012"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-abfd12748c",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTXh1RnBnWURBQ1lXX2YtVHFxQUptZnh4Q1o4ZnFOUER2NjRFWnZJNzBDQUs3S0QzdVViWGVDQmZkNzJ4MzdlLTZlMlZmbDZHeFllTDJHaWtENUt5RnJ4XzlHX21JSGY4dktCX3RqMUpyeUxIYWc2WHpBRjEwalhTRDJ3?oc=5",
+    "title": "FBI Arrest Ties Ransomware Negotiator to Its Own Hack [2026]",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-10-13T23:37:11.000Z",
+    "discoveredAt": "2026-10-15T16:34:18.470Z",
+    "feed": "google-news",
+    "query": "CyberLeek arrest",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-022",
+        "LEEK-CLM-016"
+      ],
+      "category": "investigation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-5f5b69cb21",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad10090c27e454d9ad0f65900e18316&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fgta-6-ending-allegedly-leaked-ahead-of-november-19-launch-all-we-know-so-far%2far-AA2ei8ln&c=10902396005884223481&mkt=en-us",
+    "title": "GTA 6 ending allegedly leaked ahead of November 19 launch: All we know so far",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-15T04:00:58.000Z",
+    "discoveredAt": "2026-10-15T16:34:18.470Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-5e3fedf6b5",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad10091b1b54af49fe4e250e0ae24f6&url=https%3a%2f%2fwww.msn.com%2fen-us%2fgaming%2frockstar-games%2frockstar-says-gta-6-leaks-in-2022-felt-weirdly-invasive%2far-AA2ejyvy&c=16308383901167998507&mkt=en-us",
+    "title": "Rockstar says GTA 6 leaks in 2022 felt weirdly invasive",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-15T07:04:22.000Z",
+    "discoveredAt": "2026-10-15T16:34:18.470Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "rockstar",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
