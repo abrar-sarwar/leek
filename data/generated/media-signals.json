@@ -4470,5 +4470,21 @@
     "domains": [
       "bing.com"
     ]
+  },
+  {
+    "date": "2026-10-15",
+    "feed": "google-news:GTA VI leak",
+    "count": 3,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-10-15",
+    "feed": "google-news:CyberLeek dead man switch",
+    "count": 3,
+    "domains": [
+      "news.google.com"
+    ]
   }
 ]

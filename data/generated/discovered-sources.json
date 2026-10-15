@@ -35329,5 +35329,122 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-536c85b8db",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSlNoZUVXeUtZeThFLTNjUXNYNW94bVdSUkpMMWUwV01qUFhZd3NSLVB0QnhPUGlRRUNTMjNWX3BUMG8zZ2dlWE9BQjI4Z3BwRW1INzVCNWprOHctZDgxYWxDYVFsMjNoam5ESkNZTlREX3Vpc0pLWUt4aTlDcjlnQzhicTY3cy12cXhjem5OeGp5QQ?oc=5",
+    "title": "GTA 6's Official Launch Trailer Teases Wild Sex Scenes",
+    "publisher": "Polygon.com",
+    "publishedAt": "2026-10-15T13:16:35.000Z",
+    "discoveredAt": "2026-10-15T21:05:13.128Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-2a454eb8bd",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaTdrTU52Z1dMLVlZdnJqS1BaajFxOUh0dmhkRFFLZkI0dzBZeXhqSHBZUHpEVWVEcVBlbjhVaTZiaERjNmJKaVMxWXVOMnNOV2Nob0h0UXdoYzAxbFhGVW0wX1BQNEc2SW5ZMG1MVDZpT0ZaLVZQalBSVEpFWWNyTzd3TkJvdk1qV3c?oc=5",
+    "title": "The Sex Scene Is One Of The Best Parts Of Grand Theft Auto 6′ s New Trailer",
+    "publisher": "Kotaku",
+    "publishedAt": "2026-10-15T13:53:58.000Z",
+    "discoveredAt": "2026-10-15T21:05:13.128Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-a0fed69d1d",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZC12X2p2X1hudlltVFBrclpRbHNtX3NNV3BMNTEya2ZQQ1JPM25Nb3hScUc1TEtNWmdudzZienI4dzNhMHVISTVBYVRGMTRCYWNhd0xxQmZ3SThtR1REemJRTXp5cTNibzY1QUxqemVXSmtCMDlOc3JZX1NGZzQwRHFWMVozQi0xbEhhVnFMMlFmWUJqWHNHR0FJRENSclJkdXQ1VVZmR1R2aDZoQ3FnMmVtR1N2ZGVPQlZ0YWI5T3NRaFc5VUpSOURVTHVvZG1YVmwtS1BfcnhJREZQbGk1MHhZYjJ5NlY5Z3N0dlhlVdIB9AFBVV95cUxPLThmSzM3RThiWmVJZ1hUMlZMNnhzQUFZM0NuTnItMDBCMjVjUTlQU25zVF9tM0xEbXZfTDVXT21GU2J5YzhUUkZSM2RWRGF1UVFhd1BBUGxabk85NnR5WkVFYnR1cFdqNXVOWVNkZktNSzROLVNPdjR3MkFpZW56VkhEZjcxZ3EwSkVHUlNXYzlxdk9rN2ZnVEVPYjMxdkJYcEE3LWZGNkVNNThhb1RGOGdLZGdnSTJzWFU0Y1pjcXRJdDFSV192cHFscG12QXF1SVRhc2M0cG96dHJsYUJEVjlnTmFpaURscExFZ25UM0RJSlJR?oc=5",
+    "title": "What the final GTA VI trailer reveals about Jason, Lucia and the dark side of Leonida’s sunny streets",
+    "publisher": "The Statesman",
+    "publishedAt": "2026-10-15T17:14:00.000Z",
+    "discoveredAt": "2026-10-15T21:05:13.128Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-e098fb78c0",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVZDFRcjRkaEE4aWlkbFoyUk5aUUstXzRRYS1VT2xaRW52NWdqVnQyWHNoaEFOTWI3MjRlR2xzeEJ6eXlsRHFQQ3Atd0YxZmpVZXVyaUdkZ1RFbkRLLVJMS2tVaw?oc=5",
+    "title": "GTA 6 Gameplay Leak: Inside The Cyberleek 200GB Saga",
+    "publisher": "Sports Digest",
+    "publishedAt": "2026-10-15T11:33:48.000Z",
+    "discoveredAt": "2026-10-15T21:05:13.128Z",
+    "feed": "google-news",
+    "query": "CyberLeek dead man switch",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-b0a4c93333",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc3lVUjlySWVjOS1oTHJXOG9jZUdaVDNHWmRzcHozdUJCekdlampoUEVJWWVlLTRjaklScTZIU3FpODMwaVk0UzdqaV9aMUFxVTZyTDRLS2p6UE5ISmJfVElVMkljVkRKSGVzRlgtMEYxYUFfN19hNWJkaDBsbUpDMWdiTVBUZTBqejQ4Y0ZFcHpZOVlUVFRCdV9tNGZzQQ?oc=5",
+    "title": "Cyberleek Vows to Stop GTA VI Leaks But Threatens to Reveal Game Ending",
+    "publisher": "se7en.ws",
+    "publishedAt": "2026-10-15T04:36:21.000Z",
+    "discoveredAt": "2026-10-15T21:05:13.128Z",
+    "feed": "google-news",
+    "query": "CyberLeek dead man switch",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-6950ad2f6c",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhV1llSlNzalhDTnV0T3lyRE9VZFNZMk1EMlVWVWlIRVM2SVNvdE9vdGpyZnlna1VZQzlHZ0pjTWc3d3dJUFk1SkNCaVFHZHZoa2NQZkNzNkVNSW5QSE1uWVJScW1fbWxFTW9DclM2RTFxSVk?oc=5",
+    "title": "GTA 6 Leaks Halting as Extortion Scheme Collapses",
+    "publisher": "azat.tv",
+    "publishedAt": "2026-10-15T11:30:00.000Z",
+    "discoveredAt": "2026-10-15T21:05:13.128Z",
+    "feed": "google-news",
+    "query": "CyberLeek dead man switch",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

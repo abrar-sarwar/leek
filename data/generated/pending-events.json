@@ -10846,5 +10846,41 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-e098fb78c0",
+    "title": "GTA 6 Gameplay Leak: Inside The Cyberleek 200GB Saga",
+    "reportedAt": "2026-10-15T11:33:48.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVZDFRcjRkaEE4aWlkbFoyUk5aUUstXzRRYS1VT2xaRW52NWdqVnQyWHNoaEFOTWI3MjRlR2xzeEJ6eXlsRHFQQ3Atd0YxZmpVZXVyaUdkZ1RFbkRLLVJMS2tVaw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-b0a4c93333",
+    "title": "Cyberleek Vows to Stop GTA VI Leaks But Threatens to Reveal Game Ending",
+    "reportedAt": "2026-10-15T04:36:21.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMingFBVV95cUxOc3lVUjlySWVjOS1oTHJXOG9jZUdaVDNHWmRzcHozdUJCekdlampoUEVJWWVlLTRjaklScTZIU3FpODMwaVk0UzdqaV9aMUFxVTZyTDRLS2p6UE5ISmJfVElVMkljVkRKSGVzRlgtMEYxYUFfN19hNWJkaDBsbUpDMWdiTVBUZTBqejQ4Y0ZFcHpZOVlUVFRCdV9tNGZzQQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-6950ad2f6c",
+    "title": "GTA 6 Leaks Halting as Extortion Scheme Collapses",
+    "reportedAt": "2026-10-15T11:30:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhV1llSlNzalhDTnV0T3lyRE9VZFNZMk1EMlVWVWlIRVM2SVNvdE9vdGpyZnlna1VZQzlHZ0pjTWc3d3dJUFk1SkNCaVFHZHZoa2NQZkNzNkVNSW5QSE1uWVJScW1fbWxFTW9DclM2RTFxSVk?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
