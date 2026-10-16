@@ -35516,5 +35516,167 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-c812a29490",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9FV2NidDN6bGxUS2NfQXdxWDdjWmxkSFVMd0hBbGhTR0RodlM0cVFxNDJXQ3hRdnBCYWJwZW1wVHhveDgxZ0xtYW81a3hDcTRUT01zMVhMSnUyYmNseG9UVWoyakY0VVhtSlJyVGxCTy1kYkd2NEVDZTRn?oc=5",
+    "title": "CYBERLEEK was 49 on Oct 13. Today it's 20, down from No.1 to",
+    "publisher": "KuCoin",
+    "publishedAt": "2026-10-16T06:56:17.000Z",
+    "discoveredAt": "2026-10-16T10:59:44.905Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-521f6fdb1c",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPcGloLXhYdzNBU0JReXh4OXcta0hpVUZiM1JfVkQtaks1ZjhNZVlydlhhd3dFanNuSDNCOTE5ajFhUVl4SmVSa01ka1k3STdtWmpQNUhXd01sMGh5NnItT29Ld0Jxd0dkTWtsaGFKbk5Bd1hfQ2pNT1pUQmE0cnM?oc=5",
+    "title": "Rockstar Responds to GTA 6 Leaks: \"Heartbreaking\" [2026] - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-10-16T07:40:47.000Z",
+    "discoveredAt": "2026-10-16T10:59:44.905Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "rockstar",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-052"
+    }
+  },
+  {
+    "id": "DISC-80487e0119",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcm5HQTZQdGwyMjFXWUYwcmJkNmpzMm9nWkF4NXlUaThoanpuVTkwR3hFUzRKYk5RTjBHUzZtOTdlT2RlWnZlTmhnS3hLRl9xM0pfRWlwclI5M3JiUWktcnI2N2szMERJaDEyajN2bkt5SnpkQkJ1My10ckd0ZEZrZmVXWlRJQzlYUmUwM0Y3cU40TmJWazlN?oc=5",
+    "title": "GTA 6 Trailer Features Meme Coin—And Solana Copycat Soars 2,900%",
+    "publisher": "Yahoo Finance",
+    "publishedAt": "2026-10-16T10:16:06.000Z",
+    "discoveredAt": "2026-10-16T10:59:44.905Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "$CYBERLEEK holders"
+      ],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-60b20f0fd7",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbVNWUnRKUTQyWXZGRzEya1hMbWVkTk93V2Z6ekhRU3IxRlh3TlZFSWoyV196eWVjTzNXOHRyU2JfVGU1X3lrRjZENjRmQzNieDJWaTRSdjNzMUVtdU5ZRnVURTVILW5GS2xwZHEtZURuaHJROTk3MHVXdmp1RkFieHpJNHZDM1JaZEJOR1h6QmwzX3c3OEFQc1BiOHFnSGFrR1FYVjNwZ1FaUDNtTmFSbUI2MzlMcnd5NXdGVTg1SHJPSF91VlhuVlBhTW9LdEnSAdQBQVVfeXFMUGVyTFd6Q1VPcGkyMmo3TVpCSUpyODhIMFFERXNjNFY5enhFNklVQ0twc0std2FRQTJ4S2ZIOFlHRk15XzhlcHlpY1ZFN19ZazVaYy15dzlLV3FUUUFEWWdJSFZhZlk2Y1pub3hBUEpRRkpPNUdReUVEU1NzTW9TWDdudVhaOEJXM05US0I0Ul9WTHdtMGdraFhBMkN2T3FLWkgtUGYwMURfUVBCb0RDR05WU3lOcGZjWHpIUzdDRW9MMTVjZkxkemlDYml5UXFBMEctUWQ?oc=5",
+    "title": "\"It's like someone got inside your head\": GTA VI artist talks about the consequences of the 2022 leak",
+    "publisher": "iXBT.games",
+    "publishedAt": "2026-10-16T05:48:50.000Z",
+    "discoveredAt": "2026-10-16T10:59:44.905Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-308eb4e5f2",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSy04LW5UMWc2bFR0cG44bjhUOHpRandGN2c4R1VwMHpjeTRGV0NOR05QcVBDeldudElhTFFMQ0IweU96N3Jkamo5d2phdERpMlNlZm80dFdFc09DdVZzWVdwXzZvcmxSY1ZVQTFHcmg2eVVEQThTU0c2TUFPNG1xZVpjVQ?oc=5",
+    "title": "Surprise, Here’s A New Grand Theft Auto 6 Trailer",
+    "publisher": "Kotaku",
+    "publishedAt": "2026-10-15T13:09:32.000Z",
+    "discoveredAt": "2026-10-16T10:59:44.905Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-7b32c3ab91",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYbkYzQnhnZzRGZTZEQjFIX0t0MEc3eTFCaUtGdjQ5MGFNd1lpU09MamlMSUVwa25WeVdmSXcwSzl3a0N2YjdZU3dYblR0ZDlhR2RIZ05IQTRoQQ?oc=5",
+    "title": "GTA 6: Release date, how much it is and everything you need to know",
+    "publisher": "BBC",
+    "publishedAt": "2026-10-15T14:25:48.000Z",
+    "discoveredAt": "2026-10-16T10:59:44.905Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-acd86264cd",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSHB5ZW56RWQ4ZGl2amxIM195OVZWbThMNFRrNDFvUjhjYzR4c2hSNFV5RGlGVnVFYWdIcmZic1Fydk1ZaXlvYnd4NFFvUUlMZ3RPTDBpMjN0V3QwU3hWSnFnT2V1ZHMwN2FPS1VNYXk1dkNCYnFLazRBYWczNkNHb1hUNnFmdEE?oc=5",
+    "title": "Rockstar co-head says the huge GTA 6 leaks in 2022 felt 'really weirdly invasive,' and a new policy banned devs from accessing servers and tools outside the office — 'It feels like somebody’s wading through your dirty washing'",
+    "publisher": "Yahoo Tech",
+    "publishedAt": "2026-10-15T14:04:22.000Z",
+    "discoveredAt": "2026-10-16T10:59:44.905Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-299cece5c0",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad203a6406b40efb24d9d3c41ed8bf1&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fgta-6-dev-says-2022-leak-felt-like-somebodys-wading-through-your-dirty-washing%2far-AA2effJD&c=10751154626903931838&mkt=en-us",
+    "title": "GTA 6 dev says 2022 leak felt like \"Somebody's wading through your dirty washing\"",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-14T04:00:16.000Z",
+    "discoveredAt": "2026-10-16T10:59:44.905Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

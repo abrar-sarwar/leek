@@ -10894,5 +10894,41 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-60b20f0fd7",
+    "title": "\"It's like someone got inside your head\": GTA VI artist talks about the consequences of the 2022 leak",
+    "reportedAt": "2026-10-16T05:48:50.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbVNWUnRKUTQyWXZGRzEya1hMbWVkTk93V2Z6ekhRU3IxRlh3TlZFSWoyV196eWVjTzNXOHRyU2JfVGU1X3lrRjZENjRmQzNieDJWaTRSdjNzMUVtdU5ZRnVURTVILW5GS2xwZHEtZURuaHJROTk3MHVXdmp1RkFieHpJNHZDM1JaZEJOR1h6QmwzX3c3OEFQc1BiOHFnSGFrR1FYVjNwZ1FaUDNtTmFSbUI2MzlMcnd5NXdGVTg1SHJPSF91VlhuVlBhTW9LdEnSAdQBQVVfeXFMUGVyTFd6Q1VPcGkyMmo3TVpCSUpyODhIMFFERXNjNFY5enhFNklVQ0twc0std2FRQTJ4S2ZIOFlHRk15XzhlcHlpY1ZFN19ZazVaYy15dzlLV3FUUUFEWWdJSFZhZlk2Y1pub3hBUEpRRkpPNUdReUVEU1NzTW9TWDdudVhaOEJXM05US0I0Ul9WTHdtMGdraFhBMkN2T3FLWkgtUGYwMURfUVBCb0RDR05WU3lOcGZjWHpIUzdDRW9MMTVjZkxkemlDYml5UXFBMEctUWQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-acd86264cd",
+    "title": "Rockstar co-head says the huge GTA 6 leaks in 2022 felt 'really weirdly invasive,' and a new policy banned devs from accessing servers and tools outside the office — 'It feels like somebody’s wading through your dirty washing'",
+    "reportedAt": "2026-10-15T14:04:22.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSHB5ZW56RWQ4ZGl2amxIM195OVZWbThMNFRrNDFvUjhjYzR4c2hSNFV5RGlGVnVFYWdIcmZic1Fydk1ZaXlvYnd4NFFvUUlMZ3RPTDBpMjN0V3QwU3hWSnFnT2V1ZHMwN2FPS1VNYXk1dkNCYnFLazRBYWczNkNHb1hUNnFmdEE?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-299cece5c0",
+    "title": "GTA 6 dev says 2022 leak felt like \"Somebody's wading through your dirty washing\"",
+    "reportedAt": "2026-10-14T04:00:16.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad203a6406b40efb24d9d3c41ed8bf1&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fgta-6-dev-says-2022-leak-felt-like-somebodys-wading-through-your-dirty-washing%2far-AA2effJD&c=10751154626903931838&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
