@@ -10882,5 +10882,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-07e50f85d8",
+    "title": "GTA 6 Cyberleek Cancels Leak as Coin Falls to $1.2M [2026] - https://tech-insider.org/",
+    "reportedAt": "2026-10-16T02:39:51.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMifkFVX3lxTE5LYXhhTEs3WHB3bS1md2IxMkNvalBOY3J2QkhHcHpJU3BLRzBraWNiOHdDWXZ4aUpvYVFfclBtdC1oRTd2Q2dseHU0aUVaOUhBWkVTdnBSRlhCMGpBRDA3cjRPMFJsZ2VNbGRfSUU5LWVDVXJSLTg0NzVjZTE5QQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

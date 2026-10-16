@@ -35446,5 +35446,75 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-07e50f85d8",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5LYXhhTEs3WHB3bS1md2IxMkNvalBOY3J2QkhHcHpJU3BLRzBraWNiOHdDWXZ4aUpvYVFfclBtdC1oRTd2Q2dseHU0aUVaOUhBWkVTdnBSRlhCMGpBRDA3cjRPMFJsZ2VNbGRfSUU5LWVDVXJSLTg0NzVjZTE5QQ?oc=5",
+    "title": "GTA 6 Cyberleek Cancels Leak as Coin Falls to $1.2M [2026] - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-10-16T02:39:51.000Z",
+    "discoveredAt": "2026-10-16T03:46:04.980Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-7cc88a55a3",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM2FPRmx4LUVDbDFuVEdiWmJMdENrTHBiZ2NuaVhmc1BoTnlWQ2lmZGFwbGE5bDJETjZxZnF0b1dLRVpjQmlrRmt5UnY5TnF5ZnNWbTRTSG5xMk5TQXlONDg5R3BuT0xTazlvbzQyNGZKS0tiQlJFMUVxQ1RXSlAyOGFaa0swc2c5bmFiZXJNODNiWFFrUWQ5Y2JVeUNYVmdYWEVlRHp1Vk1aeGhuT2FOLU9XeWFjVXU2cGJtaTI3QQ?oc=5",
+    "title": "GTA 6 Hacker Cyberleek Holds 200GB 'Playable Build' Hostage and Demands $30M Crypto Market Cap Goal",
+    "publisher": "inkl",
+    "publishedAt": "2026-10-15T14:02:36.000Z",
+    "discoveredAt": "2026-10-16T03:46:04.980Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-001",
+        "LEEK-CLM-015",
+        "LEEK-CLM-022"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-5b20c09be4",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQU5VWE9QcG1xVkRUR0h2UzBuZ1IweDRJYVlJSFdfcF9oYTRoOXh4LUgtaFM2LXVlY0VYZUJOazdLRGNaNzNCTFFRYkdhVHBTckh4aDNUa3hUbW8wa3ZJczdLTmZ2WkxUZ0ZzelhTeWlwMHU4YlNxaUFwRXJCREVnOVVHZ1UwX09w?oc=5",
+    "title": "Cyberleek Ends GTA VI Leaks After Memecoin Collapses",
+    "publisher": "Enduins",
+    "publishedAt": "2026-10-16T02:13:15.000Z",
+    "discoveredAt": "2026-10-16T03:46:04.980Z",
+    "feed": "google-news",
+    "query": "CyberLeek dead man switch",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "$CYBERLEEK holders"
+      ],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
