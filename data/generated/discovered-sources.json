@@ -35742,5 +35742,103 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-6dd297fed1",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vaEs4SzBzUnNUaEM1Y090U293a0IzOW9zN2J4N055d1o1dU9tT1RSb0J0NmZEblVFVTkwb1NtajBNS2VTS085dzE5VDJoM1A0LU9XMnRHVVhxUzhIVEdsR2tGQlNWWDJWckJwbEVLajR6VC1kSm90SWtR?oc=5",
+    "title": "GTA 6 Leaker Cyberleek Ends Leaks as Coin Hits $1.2M [2026]",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-10-16T17:43:47.000Z",
+    "discoveredAt": "2026-10-16T20:41:19.559Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-bab51c7be3",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUmV0MElabXNZRU41VGF1Vk5BVWF2NERYR3pNVU9HM185clNlQ0YtdFRxUGxCTHRWd3ctcHFqbV9jMUVCSWpOb0ZOSWRHc2VVcXYwLVJuMHo5dlYxYk8wUzRCc2FnUzJ0S2NlUHRsd2x1RDFUMkFWeGUzWkFpUWJyTXJUSTk2ekw0ejBxRTVLeXduUmdaSUE?oc=5",
+    "title": "GTA 6 fans spot mysterious detail at 0:55 in new trailer",
+    "publisher": "Yahoo Finance",
+    "publishedAt": "2026-10-16T20:04:28.000Z",
+    "discoveredAt": "2026-10-16T20:41:19.559Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "community",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-abe54b056b",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPenI1Z0NxRU8wYXlhV3JEeTJYbm5kNjNscXNNb2lqNnVfUkVZVGJCVjRSVHlNWjU0LVpqR3I4RXM1cGhlajRsMFprUGhBbGdFX0EwTHQ0U1FBUS1NRzdmaU45VDFKVW9DZDNZc2JJU1lfTlVqdk9ELVJGWjVCSHE4eHZ6dnZBVEFVQTRTNF9GRWticjA?oc=5",
+    "title": "GTA 6 is eyeing Lucia as the next Arthur Morgan; here's why",
+    "publisher": "GAMINGbible",
+    "publishedAt": "2026-10-16T17:00:00.000Z",
+    "discoveredAt": "2026-10-16T20:41:19.559Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-1ee8c0d6c6",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQR01PYkdjejUtZU1NU0hRTVNWVFptbDhCZU5LSDg3SWFibUpKOHVnczBvdVdFRTE4U0lGVTNfTmpGSWVtRGZMbUdIaE1TbldYaW1tMEZFdnlkaTN1REZ2TXZWR3lKSEFvdXVwUWZkQU5EQW1lMTRsUjhoYTVBeTFXbEV0MWcyZw?oc=5",
+    "title": "GTA 6 cars hit the streets of Miami",
+    "publisher": "Pasquale Pillitteri",
+    "publishedAt": "2026-10-16T19:17:50.000Z",
+    "discoveredAt": "2026-10-16T20:41:19.559Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-e56bc330fd",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQckRFRC1FZVRVQ3JqcFpkVV96OVZLRkRTMER0TlZRdjZhXzRUc0dMRUdmQ0c3cUk1YlkwaFhRdzBnWG1fUUotZWlYbWQ2em9zWU1pUnNBVGFXalhHZFdYUGpudWRHajR5d1NSbkJpc0lCd3B5NWRsMjRxSWxpM1pXSFpKdGdjVm80NHVEeUhJRVNScHJ0YUkwSkhZWGtGWElUMjk0cHdQSHJZQWdlX2JfUzlOU0FXZTRfb3FtenFyOUMxZmxXUWxnWkpGZE1kT3JuNGptbkowSy0wSF9WWFV4UWNpYWNUS2Q5NVlYc3NfTHk?oc=5",
+    "title": "GTA 6 marketing gets a unique touch as Rockstar mods real cars into in-game vehicles and drives them through Miami",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-10-16T15:17:00.000Z",
+    "discoveredAt": "2026-10-16T20:41:19.559Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
