@@ -35678,5 +35678,69 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-291f94d55b",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcjIwV19XMlhaMzFiQU43b3JxN0I4MkJ2UFpYX01wU2JnOUJGbk1nak1pVlZ2NFA5emlubkY4bXZKNE0wUnJqUjFlSFJSZlVuOXl4RVQzMkZ1ZC03RHJ3OGczYVNlNXdLajl2d1hFSmpSZG9BeXNPN2tPbkozUTZYTUlHZXRKNFZwQXNJTHBOa2Z2eURuRnZDVlRoUTdlajZhblppYTJPU0c4cFR1UFhtWlBRUmdCX3NjNmkwU2RBWUN1WlJkV2RCUHV2Rm1ESEJibmFRZnZUWE00d9IB3wFBVV95cUxNbGhuY2lCS0d4VEprb0ZEWEtGYnlRc1FSQU1VVU5URUphUk9lUWZiYnNwSnlyX3FTZWZvY2ZEN2t3dzh3Z0pBUGxOTkNFZElQa2VfZENyN092NWd1c3dhb29pc2FVdTd1cS05R3hoNmJxcE0tOWJmOFM2N2ZIMzFtU2Q3ZTh4N2UtbXdfWHh5cVdMQmFXYmEwMW43ZDhTcHROUmtNOW54aU9qYUtYY3JndjVYeVVNUkpTNlNFbmh0YzE0aDVzWWxCYXFDQ2xJOHFmLXZIYmJHUGhIZmtYbVNB?oc=5",
+    "title": "GTA VI Developers Showed a \"Black Mark\" to Hacker Cyberleek? A Threat from Rockstar Was Seen in the Trailer",
+    "publisher": "iXBT.games",
+    "publishedAt": "2026-10-16T11:29:05.000Z",
+    "discoveredAt": "2026-10-16T16:19:08.350Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-5b52eac39f",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWlhSZERFTWlBamRDaDZfWFVwXzdwdWRBVk1iTGNPT0V3Q1prckRXdUtLdy15RHoxelhoZGR4VkcwOHFaN2xXY2lxSmgtQ1JJQlFBRnhWdFpvcEZ5XzFBWkF2ZU9BeERtRWFnekYwYm0tSDBCcmVyVnBLdm92cmYxNVhuYjQtOGdVakV2bmg3SUM3UDIxcjZWUkZhY0hlOUtfTU9Na2V3WlNNLTdvdE1ERk01dElOeUpuc3FV?oc=5",
+    "title": "Rockstar Games Breaks Silence on Infamous 2022 GTA VI Leak: “It’s Really Weirdly Invasive”",
+    "publisher": "www.levelup.com",
+    "publishedAt": "2026-10-16T15:41:16.000Z",
+    "discoveredAt": "2026-10-16T16:19:08.350Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-ee517ac0c8",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YVl80X0FSR1J1WEFQRTRxOUx3NnVBQkRkV1hpTURZMFpWbDNHcVN0T2ZpcF80ajRBZzVxbzFDVTlTbzJULTVkRmViR3JSSXp1cWNUOW84LWE0eElIeUN5UU4tbXZqdHdhRlg1UWNB?oc=5",
+    "title": "GTA 6 Fans Think Rockstar Warned Leaker Cyberleek in Trailer",
+    "publisher": "games.gg",
+    "publishedAt": "2026-10-16T12:06:52.000Z",
+    "discoveredAt": "2026-10-16T16:19:08.350Z",
+    "feed": "google-news",
+    "query": "Rockstar CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

@@ -10930,5 +10930,29 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-5b52eac39f",
+    "title": "Rockstar Games Breaks Silence on Infamous 2022 GTA VI Leak: “It’s Really Weirdly Invasive”",
+    "reportedAt": "2026-10-16T15:41:16.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWlhSZERFTWlBamRDaDZfWFVwXzdwdWRBVk1iTGNPT0V3Q1prckRXdUtLdy15RHoxelhoZGR4VkcwOHFaN2xXY2lxSmgtQ1JJQlFBRnhWdFpvcEZ5XzFBWkF2ZU9BeERtRWFnekYwYm0tSDBCcmVyVnBLdm92cmYxNVhuYjQtOGdVakV2bmg3SUM3UDIxcjZWUkZhY0hlOUtfTU9Na2V3WlNNLTdvdE1ERk01dElOeUpuc3FV?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-ee517ac0c8",
+    "title": "GTA 6 Fans Think Rockstar Warned Leaker Cyberleek in Trailer",
+    "reportedAt": "2026-10-16T12:06:52.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YVl80X0FSR1J1WEFQRTRxOUx3NnVBQkRkV1hpTURZMFpWbDNHcVN0T2ZpcF80ajRBZzVxbzFDVTlTbzJULTVkRmViR3JSSXp1cWNUOW84LWE0eElIeUN5UU4tbXZqdHdhRlg1UWNB?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
