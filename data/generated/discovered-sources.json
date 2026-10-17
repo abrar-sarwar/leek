@@ -35925,5 +35925,66 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-107197cd3f",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5OGFWU0RzRXk0X3YyalJtRHhVQzFMb3JrQlJkN0lzcHRudlpZNWFER1ZMYzlmTi1takdpWFJpMmNQaUI2bnR4YlVjTG1ndWl1M1dldEk4VDg0UkNUb1UycVMxMmNNb1JMYnUtelNR?oc=5",
+    "title": "GTA 6 LIVE: Lucia fully nude 'leaks' posted online",
+    "publisher": "Indy100 | News",
+    "publishedAt": "2026-10-13T15:43:42.000Z",
+    "discoveredAt": "2026-10-17T15:13:52.180Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-0647e0bd3c",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUREd3SjJiYU95QjZGbS1Sc0MwOUxjLXc2b21fUlFuS2RJZ3IxMElDRFlpWUg5UFJaTUV2b2k5VktMbnRFUHBCSWFXYVNpb3ltWmpDcURjT0U4RkJBOWh3cGE0d3ZEQXdL?oc=5",
+    "title": "GTA 6 First Review Details Leaked",
+    "publisher": "ScreenRant",
+    "publishedAt": "2026-10-16T11:31:18.000Z",
+    "discoveredAt": "2026-10-17T15:13:52.180Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-6557aed8b1",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQa1I5NXpjUG1uXzBDbzNVVUVwUW5hVHhMeG1ZVlBPbXFONUZYeXNxX1dyVWxqV2Y2YzJMREJmTnVodm5XQXpwNVdoY1ZuLXphY2V5YkJDc2E5NExGYVRYUkwxTHBZYjNRcGNhN3Vlbm9WUnVULWlHZVpzOF8tM1JwTURGYVFiTDM5QmJ5TVNJOGlLZUROZUJwajVTYlFDSHNQNkc1OUNFQVNRdGxja2k4Qmpic0RzOExvSzgwOF9kaWxNT1RiNjNRczBOTVZfdVNCd2NKWWdFMGlDbEZEc2M0ekZR?oc=5",
+    "title": "GTA 6 Leaker Stops Leaks Amid Spoiler Fears in UAE",
+    "publisher": "IGN",
+    "publishedAt": "2026-10-14T07:00:00.000Z",
+    "discoveredAt": "2026-10-17T15:13:52.180Z",
+    "feed": "google-news",
+    "query": "CyberLeek dead man switch",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
