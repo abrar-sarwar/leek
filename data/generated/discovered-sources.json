@@ -35881,5 +35881,49 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-cd7bcc2a24",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLWt4akpYS014czdGRVlFeU1lV3UtSk9VZFVlVE44SmlScV9hZ1BpVVlWN2g2WFhIVzdQa1BsWEtrQWFVUUI3ZjdmYjRBSzJDSE42NjN5VC1NR3JQdHhZazJXRjd2YzA2RnFCWENvN2lmQXl1cVZKZkNFX1ZGMVRwbWZMMHBtdDU0UkljTHhkTEdfdk1n?oc=5",
+    "title": "GTA 6 Leak Over, Cyberleek Quits but the Ending Is Still at Risk",
+    "publisher": "Pasquale Pillitteri",
+    "publishedAt": "2026-10-17T07:02:19.000Z",
+    "discoveredAt": "2026-10-17T10:21:11.163Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-028"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-7c8367a801",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad34c1ce6d146a98e7ac73d40394106&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fgta-6-new-trailer-fans-spot-mysterious-detail-coin-resembling-cryptocurrency-at-055-in-new-trailer-heres-all-details-you-need-to-know%2far-AA2er36D&c=2936197159036630951&mkt=en-us",
+    "title": "GTA 6 New Trailer: Fans Spot Mysterious Detail Coin Resembling Cryptocurrency at 0:55 in New Trailer - Here's All Details You Need to Know",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-16T18:15:00.000Z",
+    "discoveredAt": "2026-10-17T10:21:11.163Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

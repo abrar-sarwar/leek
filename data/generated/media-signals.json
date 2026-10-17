@@ -4598,5 +4598,21 @@
     "domains": [
       "courtlistener.com"
     ]
+  },
+  {
+    "date": "2026-10-17",
+    "feed": "google-news:CyberLeek",
+    "count": 1,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-10-17",
+    "feed": "bing-news:GTA 6 leak",
+    "count": 1,
+    "domains": [
+      "bing.com"
+    ]
   }
 ]

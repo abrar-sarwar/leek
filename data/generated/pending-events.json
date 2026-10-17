@@ -10978,5 +10978,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-cd7bcc2a24",
+    "title": "GTA 6 Leak Over, Cyberleek Quits but the Ending Is Still at Risk",
+    "reportedAt": "2026-10-17T07:02:19.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLWt4akpYS014czdGRVlFeU1lV3UtSk9VZFVlVE44SmlScV9hZ1BpVVlWN2g2WFhIVzdQa1BsWEtrQWFVUUI3ZjdmYjRBSzJDSE42NjN5VC1NR3JQdHhZazJXRjd2YzA2RnFCWENvN2lmQXl1cVZKZkNFX1ZGMVRwbWZMMHBtdDU0UkljTHhkTEdfdk1n?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
