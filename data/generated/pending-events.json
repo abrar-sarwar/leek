@@ -10966,5 +10966,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-31e2af360d",
+    "title": "IN RE SUBPOENA TO BIJOU MGBOJIKWE 1:26-mc-00146",
+    "reportedAt": "2026-10-13T00:00:00Z",
+    "category": "legal",
+    "sourceUrls": [
+      "https://www.courtlistener.com/docket/74970330/in-re-subpoena-to-bijou-mgbojikwe/"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

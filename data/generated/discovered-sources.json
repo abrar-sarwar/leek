@@ -35840,5 +35840,46 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-1de98bcaf3",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcXdMWjgxZllNbGFiM3l4bVhtNi1aRDRnb2ZDN1dJVTluRmNBVDNrejJtMENBdzdpNFE1NTltNTh0bC1udHFsN2ozRTN3ZWNCT2hvaEFkanFRNDl0QU95cW5TZjZrUFpteFRZMTBRMlhCbFUtQW5MUnRTWEN5U1draXQyaDNVV1FjaVlZeVdzSDdQWU93bzBxQjJtMDlNXzNHVEF4TDNxcWxaV0U2X05tbg?oc=5",
+    "title": "GTA VI not yet gold: Rockstar explains the final push before launch",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-10-17T01:55:00.000Z",
+    "discoveredAt": "2026-10-17T03:36:11.416Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-31e2af360d",
+    "url": "https://www.courtlistener.com/docket/74970330/in-re-subpoena-to-bijou-mgbojikwe/",
+    "title": "IN RE SUBPOENA TO BIJOU MGBOJIKWE 1:26-mc-00146",
+    "publisher": "CourtListener (District Court, District of Columbia)",
+    "publishedAt": "2026-10-13T00:00:00Z",
+    "discoveredAt": "2026-10-17T03:36:11.416Z",
+    "feed": "courtlistener",
+    "query": "Take-Two Interactive",
+    "suggestedTier": 1,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-023"
+      ],
+      "category": "legal",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
