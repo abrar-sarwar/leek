@@ -35986,5 +35986,45 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-3eabffbd28",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Vdkk1cWN3bUdtVjBGRmh1WmNFT1pjTF9Td2gwcEN0UW12dy1nc0xqQVFTeUJLbHBJLXJnT3VoSE5lSnFjcE16dzBDb3dxZ0xLYVByMGF5N2VxTFRvN1RNaVcxbmItamM?oc=5",
+    "title": "GTA 6 Leaked Footage Is Being Combed For Information",
+    "publisher": "IMDb",
+    "publishedAt": "2026-10-17T08:59:49.000Z",
+    "discoveredAt": "2026-10-18T03:42:47.916Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-fafcd563e0",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRGFaNlhmeVBhM1U2R3ozYlZWTjcyVTdKVmwxRWZMTDF5R0ZSZHgtRTlRQ25zcXZJLXlsQW1iVDdjNVVhUjR3dlhac0dhVWJqS2JrekJncG9ESXJsZmF0eDkwQ3NzUTZRTjRNU2FSeV9zQVRBM1lINkRhRnhLdXoweDg3Mzd0NEJyR2JDRy1uOURpSW85VDRQbW9sU3Nkcm1VaU1wcjlaeURiNTVGUWt4U3h4MDI0TXRPYXhOOWV3?oc=5",
+    "title": "Huge GTA 6 leak shows first-person gameplay despite Rockstar ruling it out at launch",
+    "publisher": "Dexerto",
+    "publishedAt": "2026-10-08T07:00:00.000Z",
+    "discoveredAt": "2026-10-18T03:42:47.916Z",
+    "feed": "google-news",
+    "query": "Rockstar CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

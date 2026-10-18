@@ -11026,5 +11026,29 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-3eabffbd28",
+    "title": "GTA 6 Leaked Footage Is Being Combed For Information",
+    "reportedAt": "2026-10-17T08:59:49.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Vdkk1cWN3bUdtVjBGRmh1WmNFT1pjTF9Td2gwcEN0UW12dy1nc0xqQVFTeUJLbHBJLXJnT3VoSE5lSnFjcE16dzBDb3dxZ0xLYVByMGF5N2VxTFRvN1RNaVcxbmItamM?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-fafcd563e0",
+    "title": "Huge GTA 6 leak shows first-person gameplay despite Rockstar ruling it out at launch",
+    "reportedAt": "2026-10-08T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRGFaNlhmeVBhM1U2R3ozYlZWTjcyVTdKVmwxRWZMTDF5R0ZSZHgtRTlRQ25zcXZJLXlsQW1iVDdjNVVhUjR3dlhac0dhVWJqS2JrekJncG9ESXJsZmF0eDkwQ3NzUTZRTjRNU2FSeV9zQVRBM1lINkRhRnhLdXoweDg3Mzd0NEJyR2JDRy1uOURpSW85VDRQbW9sU3Nkcm1VaU1wcjlaeURiNTVGUWt4U3h4MDI0TXRPYXhOOWV3?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
