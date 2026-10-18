@@ -36026,5 +36026,28 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-5b4525b7dd",
+    "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPU2ZqU3E3Q1lVRDcwYTlaTThDS1VYX2VDRFJfaW50RWh0d1c0ZVo0VHhtVklMNjlPanhZYU9XSVVPUlV6WVZxMGhlbVl2cnRwWVN5WjY4WFRPdkNrclo1aHZqZU40eTRNNFVFUjAya3VJVjZHbUVTbTNTWVJubmJMRDNKVEs4NlViYS1BRzk0b3FZdTBPVmNhS3lFcVBmYzl5QTh0YmJ0amlxa2M4ZlR0LWxTbl9kdjNCd2dObTlJeG5NaDBGX2xCSk55LUgybktJSHNjeTVscy1vekoxWkU0Umd5VnhkOEI0a0t5Q0JYQ2xKYzRSNDRNdlVoSm5HODVKN01PMlVkcFFvMGxDc0tuRUFfaXZaYjByNHZ6U0ZHaHBlbGQxeU02ZFhkM2tUMGZxZkpYczBxTm5tc2k3blhyYVBVdGdOWkM1c21DUzdiWkE0d0dv?oc=5",
+    "title": "+🌶👙+@!EXCLUSIVE! Dude Lucia and Jason are fully naked in the latest gta 6 leak from Cyberleek wtf#Lucia",
+    "publisher": "Universidad de Córdoba (UCO)",
+    "publishedAt": "2026-10-14T01:33:39.000Z",
+    "discoveredAt": "2026-10-18T10:37:25.165Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

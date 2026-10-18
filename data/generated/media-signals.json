@@ -4646,5 +4646,13 @@
     "domains": [
       "news.google.com"
     ]
+  },
+  {
+    "date": "2026-10-18",
+    "feed": "google-news:CyberLeek",
+    "count": 1,
+    "domains": [
+      "news.google.com"
+    ]
   }
 ]
