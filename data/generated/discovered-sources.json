@@ -36049,5 +36049,49 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-0ef2fd3b27",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRTdtUHJuYnljdHpZem9pOHMzdmJxX1JLaWZNa3UwRVpPUy1xanRmQVNTUTJTdnVvMXlmRGw5ZUR6bFRvOVZFQjFNYk1sSjE0MmdwQW1xbzVEN1RDX0NETkhKUkR3NVZ5MHI1TWNsM2xyYmFleGNDb2VKUUlBaXRBX3ZuS2FvbERRZ2Z2dWNhbzkyUUU1?oc=5",
+    "title": "13 Years Ago, Rockstar Suffered a Leak Worse Than GTA 6",
+    "publisher": "Polygon.com",
+    "publishedAt": "2026-10-18T11:00:18.000Z",
+    "discoveredAt": "2026-10-18T15:35:16.575Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-2092c9c8f4",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLUlEU2ZXenZCNjhLekVOVVZVNXZTVWkxTUZXSnpKY3B4WHNQUUwyMDNFUXAyQVVOaHZ4T0dFS05yLXVRdWRhdVUtYmREWjNUMTBnZl9zZnlRY3VPem1ydjBKS2tSbTBjVEh0b25UNTN4R2h6cWZ4LUZmZUgwSG1rbi1od2pnc2pBTGtLVDBWWWpvdHNfcHh1QU9aSG9xeWh3c3N3?oc=5",
+    "title": "GTA 6 leaker Cyberleek says leaks are over now, won't release files",
+    "publisher": "GBAtemp",
+    "publishedAt": "2026-10-14T15:00:23.000Z",
+    "discoveredAt": "2026-10-18T15:35:16.575Z",
+    "feed": "google-news",
+    "query": "CyberLeek dead man switch",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-028"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

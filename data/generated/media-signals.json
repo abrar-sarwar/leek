@@ -4654,5 +4654,21 @@
     "domains": [
       "news.google.com"
     ]
+  },
+  {
+    "date": "2026-10-18",
+    "feed": "google-news:GTA 6 leak",
+    "count": 1,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-10-18",
+    "feed": "google-news:CyberLeek dead man switch",
+    "count": 1,
+    "domains": [
+      "news.google.com"
+    ]
   }
 ]
