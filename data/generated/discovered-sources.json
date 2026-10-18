@@ -36093,5 +36093,29 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-823ff0acce",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad529adf71e4a13be8bef8e0c43cc3a&url=https%3a%2f%2fwww.ibtimes.sg%2fgta-6s-leaks-look-bad-rockstar-faced-bigger-nightmare-13-years-ago-gta-5-95281&c=14551731917316617105&mkt=en-us",
+    "title": "GTA 6's Leaks Look Bad, But Rockstar Faced a Bigger Nightmare 13 Years Ago With GTA 5",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-18T04:02:00.000Z",
+    "discoveredAt": "2026-10-18T20:18:47.942Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-004"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
