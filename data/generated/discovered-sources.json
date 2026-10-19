@@ -36117,5 +36117,45 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-8febd6b5c9",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfUkxXdjRQdWgwRER5QTVGMUF5V1ZXWlFlYTdlNVBZM3FpRG5OWURMc2xuRXdZRHNEcnozRm1MbXdQZXZnUTA5YjhGRXZ2cWY3YkkzdW1pa2hPdDBBWkdmRDF4a3FkRGNpdGJWUEVZc0FoVlhoLXY4?oc=5",
+    "title": "Shrek 2 Remastered Leak Shows 4K, 4-Player Co-Op [2026]",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-10-18T22:00:26.000Z",
+    "discoveredAt": "2026-10-19T03:52:28.461Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-1243ec876b",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad594014d2a4cb29eaf306310ee1ae7&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2frockstar-s-biggest-leak-a-13-year-old-incident-that-outshone-gta-6-s-controversy%2far-AA2evDqs&c=826688899076530166&mkt=en-us",
+    "title": "Rockstar’s biggest leak: A 13-year-old incident that outshone GTA 6’s controversy",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-18T18:08:21.000Z",
+    "discoveredAt": "2026-10-19T03:52:28.461Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

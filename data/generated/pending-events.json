@@ -11098,5 +11098,29 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-8febd6b5c9",
+    "title": "Shrek 2 Remastered Leak Shows 4K, 4-Player Co-Op [2026]",
+    "reportedAt": "2026-10-18T22:00:26.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfUkxXdjRQdWgwRER5QTVGMUF5V1ZXWlFlYTdlNVBZM3FpRG5OWURMc2xuRXdZRHNEcnozRm1MbXdQZXZnUTA5YjhGRXZ2cWY3YkkzdW1pa2hPdDBBWkdmRDF4a3FkRGNpdGJWUEVZc0FoVlhoLXY4?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-1243ec876b",
+    "title": "Rockstar’s biggest leak: A 13-year-old incident that outshone GTA 6’s controversy",
+    "reportedAt": "2026-10-18T18:08:21.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad594014d2a4cb29eaf306310ee1ae7&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2frockstar-s-biggest-leak-a-13-year-old-incident-that-outshone-gta-6-s-controversy%2far-AA2evDqs&c=826688899076530166&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
