@@ -36157,5 +36157,45 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-f0c7b3f7e4",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA4NEExcXJYR19TdXRJMGhvRmkydTBIbmtteWNibkxlWGZuaFotWkhTdjhVa0FKclYwQVVMam9VMFY5WHdDX0NVTTR2OFQ4djBJYVItbjNjSEg1NGVaM2EzQ0ZjMm9pbS1za1hUd05tNE1tX2hTWlhHeQ?oc=5",
+    "title": "The latest post from GTA VI Leaker Cyberleek",
+    "publisher": "virus.hr",
+    "publishedAt": "2026-10-19T01:32:54.000Z",
+    "discoveredAt": "2026-10-19T12:34:13.164Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-3d6fd6ac85",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTjJ5N1g1czRPcnhyU2Z0S1d6LVhuVlQzbkZBbWJZQWpVbEN4b3ZYWG9JNlp0UG93VlZsa19wM3hKQXZ1a0JCOU1pcnR0Ti00YjEwSXdadXFRUXo0eTVRSjFFUlhsaGhSaFlncTZMM0xuUjBPOHhBM2pXdG5QQVFhUGJ6QU1scktkVWZsQTUtMEN5M3ZyblRwcHA4WQ?oc=5",
+    "title": "Red Dead Redemption 2 PS5 release after GTA 6? Where the rumor stands",
+    "publisher": "Pasquale Pillitteri",
+    "publishedAt": "2026-10-19T08:18:29.000Z",
+    "discoveredAt": "2026-10-19T12:34:13.164Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "misinformation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

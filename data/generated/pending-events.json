@@ -11122,5 +11122,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-f0c7b3f7e4",
+    "title": "The latest post from GTA VI Leaker Cyberleek",
+    "reportedAt": "2026-10-19T01:32:54.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMieEFVX3lxTFA4NEExcXJYR19TdXRJMGhvRmkydTBIbmtteWNibkxlWGZuaFotWkhTdjhVa0FKclYwQVVMam9VMFY5WHdDX0NVTTR2OFQ4djBJYVItbjNjSEg1NGVaM2EzQ0ZjMm9pbS1za1hUd05tNE1tX2hTWlhHeQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
