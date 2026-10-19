@@ -11134,5 +11134,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-f6e37409e9",
+    "title": "Rockstar Games says GTA 6 leaks were emotionally invasive and difficult to handle",
+    "reportedAt": "2026-10-19T15:22:39.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdjRTQjJlTDhlMXNySXhXc19odm9Ka25aYjBwaW9HdkRnQ2pQZ0pVd0Y5WXg1ei1FdXZxbUVWWWNHLWRBd1J5eFN1R1JlXzRFa0s4YnBya21QNmk5cDZ2cDJkREV5bzQyakxwWlNORUtFcU5XTi1zeHl4OGFyUnI0WE50Y1BkMng0bEZlTFVhMExoalVuTExOOXk5M3pndUtHZ0JzQW1YRlg?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

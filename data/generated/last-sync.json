@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-10-19T12:34:13.164Z",
+  "ranAt": "2026-10-19T22:08:10.235Z",
   "feeds": [
     {
       "name": "google-news:CyberLeek",
@@ -39,7 +39,7 @@
     {
       "name": "google-news:CyberLeek Discord",
       "ok": true,
-      "items": 56
+      "items": 55
     },
     {
       "name": "google-news:CyberLeek subpoena",
@@ -85,7 +85,7 @@
       "name": "gdelt",
       "ok": false,
       "items": 0,
-      "error": "Unexpected token 'P', \"Parenthese\"... is not valid JSON"
+      "error": "HTTP 429"
     },
     {
       "name": "courtlistener",
@@ -93,8 +93,8 @@
       "items": 20
     }
   ],
-  "discovered": 1685,
+  "discovered": 1687,
   "newSinceLastRun": 2,
-  "pending": 928,
+  "pending": 929,
   "analysisMode": "rules-only"
 }

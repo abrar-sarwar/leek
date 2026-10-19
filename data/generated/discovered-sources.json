@@ -36197,5 +36197,44 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-7acf1582c2",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WYmtqNHlYX1BfM2NpT0FuY0lnRl9kbldVTFJpN20zejlFVnlncEc2OUhmengxNVptZFdNMjZ6WC11a1lfZGdCYURrcE5nMTFBSWg0TnNUXzdSMzY1V25tMkNTeFVwa3VaeHAzV2V5bzgzV0lkU3FtN2VUcEVQQQ?oc=5",
+    "title": "GTA 6 LIVE: Release date countdown hits major milestone",
+    "publisher": "Indy100",
+    "publishedAt": "2026-10-19T12:15:28.000Z",
+    "discoveredAt": "2026-10-19T22:08:10.235Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-f6e37409e9",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdjRTQjJlTDhlMXNySXhXc19odm9Ka25aYjBwaW9HdkRnQ2pQZ0pVd0Y5WXg1ei1FdXZxbUVWWWNHLWRBd1J5eFN1R1JlXzRFa0s4YnBya21QNmk5cDZ2cDJkREV5bzQyakxwWlNORUtFcU5XTi1zeHl4OGFyUnI0WE50Y1BkMng0bEZlTFVhMExoalVuTExOOXk5M3pndUtHZ0JzQW1YRlg?oc=5",
+    "title": "Rockstar Games says GTA 6 leaks were emotionally invasive and difficult to handle",
+    "publisher": "Tech Edition",
+    "publishedAt": "2026-10-19T15:22:39.000Z",
+    "discoveredAt": "2026-10-19T22:08:10.235Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
