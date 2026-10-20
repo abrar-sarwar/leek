@@ -11158,5 +11158,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-604512dfda",
+    "title": "Everyone Needs to Calm Down About the GTA 6 Nude Leaks",
+    "reportedAt": "2026-10-20T07:27:55.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNXp0ckQ0U1NRREZ4T3AxX0NBQkZ1Wkpab01JLTJ1NUpPUURUR3VMU3l5WmZEMnZROFhIMW1QeGZ1TTZyRmlrdE9ZVWZBWkNacEFkeTgwNFJaVmt5N09DTDNLeVpobjZ5MjZwWjk0NnlCNl8zNVZYdWVJcFpjaHhuVDJRT2h3NGJDRDI0?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

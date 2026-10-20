@@ -36337,5 +36337,24 @@
       "model": "rules-only",
       "matchedEventId": "LEEK-EVT-007"
     }
+  },
+  {
+    "id": "DISC-604512dfda",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNXp0ckQ0U1NRREZ4T3AxX0NBQkZ1Wkpab01JLTJ1NUpPUURUR3VMU3l5WmZEMnZROFhIMW1QeGZ1TTZyRmlrdE9ZVWZBWkNacEFkeTgwNFJaVmt5N09DTDNLeVpobjZ5MjZwWjk0NnlCNl8zNVZYdWVJcFpjaHhuVDJRT2h3NGJDRDI0?oc=5",
+    "title": "Everyone Needs to Calm Down About the GTA 6 Nude Leaks",
+    "publisher": "GTA BOOM",
+    "publishedAt": "2026-10-20T07:27:55.000Z",
+    "discoveredAt": "2026-10-20T11:08:46.715Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
