@@ -11146,5 +11146,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-ae90057b27",
+    "title": "Rockstar Games Files Lawsuits After Hacker Cyberleek Leaks 25-Minute GTA VI Gameplay",
+    "reportedAt": "2026-10-08T07:00:00.000Z",
+    "category": "legal",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWjhDaTFtLVpyQm1pNmxUQ3VsNFlvZDRUQjhPd3JITmpqX3ZldHdTdUk1VnpFc1NWczN3WWgyLV9EZUs4TG1ub3BJQUxQVWxyeDZkSlNJUWczSGN6UFozb0VFZXVORWR3Z0JzUXlYUGpMMHoybVMxQlJsdktTQTd0MGdHUUlhNVBGRE5qdFU4WnRGV2hGZm5MLUR4cEZTRlloaUlxd3MxMUU1dTZpeWdWbGRiRzIwNEHSAbwBQVVfeXFMTi12Qm5sZE5QR0VyUkxZSWhtdkVhazcyU1RZTjc2VF9qZWJRVDhvb0tncjgtREdJd3hsTVR6YlZDbXdHZ29QYVFVSGVfUC1icmpQTGdqS3Zua1gwaWFXcUFWQlJCWUdvN0V5VFFjN183Z25MR3dyX1Y0YXRLR0FFX2pmcUphQnpoOHFfeWJhQTFMNjVCY04wanBscEhuT1FDd2RDWkhNYkdmQ2FtVGR6cFVkaENNR3lKXzMwUm4?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

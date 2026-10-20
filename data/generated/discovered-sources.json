@@ -36236,5 +36236,106 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-6d15c4a36a",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1SU0w1SU5ReVlRSUpxQktrQjh6MjhNdU5lbmtxWkpURHdTcFZqc3lVRXBGY1VCM2Ixa1BKTlZmTHZxRmJwSDNFUFYwd0F0YTVNWmtlMS1JNWd1TU1UcVdJMnVqZmhTdDdoZXBOOER3?oc=5",
+    "title": "Zelda Ocarina of Time Switch 2 Release Date vs GTA 6",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-10-20T01:06:32.000Z",
+    "discoveredAt": "2026-10-20T04:04:17.073Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-2ce05c7786",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJV2xOQ3E1WHB6eWM5Q0NpOGFxZGdjT3FacFJxLUVCaTk2LUx1XzVib0tQWDU1RkFFNnluZUR4bkhvVV94UjVIQ05EQ3ZRMWkwSXBuMWcyY2dSMXpWQnM1YjhwYmRVR2hpQmxpb08wWHhjYjZp?oc=5",
+    "title": "Sounds Like GTA 6 Will Be Full of Details Like Red Dead's Infamous Horse Balls",
+    "publisher": "Polygon.com",
+    "publishedAt": "2026-10-19T17:54:41.000Z",
+    "discoveredAt": "2026-10-20T04:04:17.073Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-07f0e63ca9",
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUUktSHBkZjg1XzVJZmRFeVJzWTk1NUkyNzFyOGp3WUh2Y1MzbjAyMWpucnczX2k1N2I0cjFLNzZzRnRCYTdzRjRzc0wyZm1xdGFfTy0welVNZ0d6ZV9HX0VUT3ZvbktSTWZiekFoMjZDTWRmenFuUkl4RUVxLVdKXzNIRUxjRVZENURGb01tN3hUSDN6a1hpV0R0U1VybTMtQlUtS2RISzNEYzFzQUxDWkx3TlpDZ2s3ZHJGb2pna3BHLWg0WkNLbGVwX1VUSksycFJSWTNFdDB3NkExUFgxdmNIQlRvQVQxNGtPX2tfbS1HUQ?oc=5",
+    "title": "GTA 6 Leaker Releases New Gameplay Video Showing Snippets of the Final Missions, Declares 'The End of the Road' After Crypto Scheme Collapses",
+    "publisher": "IGN Southeast Asia",
+    "publishedAt": "2026-10-14T13:29:08.000Z",
+    "discoveredAt": "2026-10-20T04:04:17.073Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-ae90057b27",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWjhDaTFtLVpyQm1pNmxUQ3VsNFlvZDRUQjhPd3JITmpqX3ZldHdTdUk1VnpFc1NWczN3WWgyLV9EZUs4TG1ub3BJQUxQVWxyeDZkSlNJUWczSGN6UFozb0VFZXVORWR3Z0JzUXlYUGpMMHoybVMxQlJsdktTQTd0MGdHUUlhNVBGRE5qdFU4WnRGV2hGZm5MLUR4cEZTRlloaUlxd3MxMUU1dTZpeWdWbGRiRzIwNEHSAbwBQVVfeXFMTi12Qm5sZE5QR0VyUkxZSWhtdkVhazcyU1RZTjc2VF9qZWJRVDhvb0tncjgtREdJd3hsTVR6YlZDbXdHZ29QYVFVSGVfUC1icmpQTGdqS3Zua1gwaWFXcUFWQlJCWUdvN0V5VFFjN183Z25MR3dyX1Y0YXRLR0FFX2pmcUphQnpoOHFfeWJhQTFMNjVCY04wanBscEhuT1FDd2RDWkhNYkdmQ2FtVGR6cFVkaENNR3lKXzMwUm4?oc=5",
+    "title": "Rockstar Games Files Lawsuits After Hacker Cyberleek Leaks 25-Minute GTA VI Gameplay",
+    "publisher": "Inkorr",
+    "publishedAt": "2026-10-08T07:00:00.000Z",
+    "discoveredAt": "2026-10-20T04:04:17.073Z",
+    "feed": "google-news",
+    "query": "Rockstar CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "legal",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-cb28c7fe8d",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNWtzaFg3LXFXdmVFdGtYZnU2ZnFhNlRVV0w3emJ4MXlXZndBMXhjcmx2QmQ3R2FkVUFFYXNQXzRBZ3hjVHFCYTQ1YVpuSzFtaGtGbDZVQlgwVVpsZURYNUs4cmsxZ25uQXZKU3Rrb0RDNjNPRGVFWUwxdFFYZ3N5eG5oQTJUTm41ZHdKS29yVGRSdVJxWEVXWkh3bGUtcmZpVkU0bS1lQQ?oc=5",
+    "title": "GTA 6 leaker Cyberleek returns with massive 25-minute gameplay leak",
+    "publisher": "Dexerto",
+    "publishedAt": "2026-10-08T07:00:00.000Z",
+    "discoveredAt": "2026-10-20T04:04:17.073Z",
+    "feed": "google-news",
+    "query": "CyberLeek arrest",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-007"
+    }
   }
 ]
