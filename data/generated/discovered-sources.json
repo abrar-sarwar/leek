@@ -36356,5 +36356,87 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-09c03b381e",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRVzU0QVB3UEZhTEVnRzFwVjdzckV4Nzg3a1ZIek1wWmZhbWcxSGJPcDFPbHFfZU1icUZwdW9kMGFscnhMeWRFVGQ4NFVsbU5TQ1ByalVOVnZXOXVXNDBfUXdXR1VrM0U?oc=5",
+    "title": "Cyberleek Shares GTA 6 Leak Of Naked Lucia",
+    "publisher": "IMDb",
+    "publishedAt": "2026-10-14T17:49:34.000Z",
+    "discoveredAt": "2026-10-20T16:33:55.815Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-025",
+        "LEEK-CLM-029"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-7dc44fdd1d",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNM0RsWnBKU21yWXlaaWlFWmdqb0dGNjFUUXA3TngzU1ljWVE0OFRkRno3cGNPTUJVZGpqbTlJeWxRYm9EaE1takRqYUFmZ3FieVlkUFROX0d6MlRZc20ycmJzQk1qVlFleXdHajlKaFJLczNLUjEyTTl4d2F3ZEVJcm0wRl8wUm4tazBtMg?oc=5",
+    "title": "GTA 6 launch threatened on PS5 as PC port reveal highlighted as only real fix",
+    "publisher": "GAMINGbible",
+    "publishedAt": "2026-10-20T09:02:20.000Z",
+    "discoveredAt": "2026-10-20T16:33:55.815Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-99aaa8006e",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0c0dQU0VZMVI5ZnhWTkxPVkllU0xmNlRWeUJYVWZISnBvMVNjUm04eUYta2Y0VXI4dDNFVG44Qlg1bU5PZ0FheXNRd0pxMWx2MzgybGllUU5MSlk5aHN2dUxzZlJKZ0E?oc=5",
+    "title": "GTA 6 LIVE: Latest pre-order data revealed",
+    "publisher": "Indy100",
+    "publishedAt": "2026-10-20T12:57:06.000Z",
+    "discoveredAt": "2026-10-20T16:33:55.815Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-014"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-32ab1032cc",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMGF2Yjk3VUlXZGxNN01mM2VxanEwNWRVWVJLV1hrRzExdTQwXzJiSlpNSDF3cUI2QTZJTWFHeHBHUGxUTU1VOE1SYjV2NnFhLTgxYl93dnp6TFl5YnlJV0tncmxVV1Q0MG83T1NSb3dDVDZseGFJZDRieUdmSUcyUkdOVmtEZ0lyeUx3N3dFTElKbkZaTUR5ZDlYWm5PZVY5bDBjT1hXNXBSRVVGdlNjdDdyQlZheFBNLXl3SFdXZ0c5bURfeGlBMVV2UlpLMU96?oc=5",
+    "title": "GTA 6 weapon management: Rockstar did not want a traditional weapon wheel but had to settle",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-10-19T17:38:00.000Z",
+    "discoveredAt": "2026-10-20T16:33:55.815Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
