@@ -36438,5 +36438,23 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-14d6417d89",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSXlVamFSMHY3dF9sdnpaZ0l3eW93azhVc1lxS3RWeWx0YXVqcWhfaEhHSE5IRlRJeTd0T1gwdG9YLTI1UExXOEhET2ZKU2FxdmdHLXZqVGZhNGY3NmtUekFIYnpqUXRNdzBPYUlieUs5dFl4LUVjTTFmcmtsVzNmbDFLOUN4Yi1QMHBQbXBiblNLNjA?oc=5",
+    "title": "Watch Out GTA 6, A Shrek 2 Remaster Was Just Announced",
+    "publisher": "GameSpot",
+    "publishedAt": "2026-10-20T18:40:44.000Z",
+    "discoveredAt": "2026-10-20T21:23:45.652Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
