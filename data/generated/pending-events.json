@@ -11266,5 +11266,29 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-69e8873bdd",
+    "title": "Police arrest \"one of the alleged leaders\" of group behind Rockstar hack that apparently revealed how much money GTA Online makes, FBI warns \"we know how to find you\"",
+    "reportedAt": "2026-09-30T07:00:00.000Z",
+    "category": "investigation",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMitwJBVV95cUxQNk1YWmJORGVtWFlMWkwxSmRIQmVqWDljMGZXUVNyelNybXFGbVJ4LTQ4eTFmZXo4NHRVaFhKUmJIbGFpUlhyc0xJY3B3ZnEtaTNPMHRhbGFud3lsakE2NUd1Z01Vbzd3bTJqN1ktSmdSYnpMV2IxVloyeVFScXE0TjNDTFRsalNabHJZYkxiMnp5VEU4dkl2NHc4dERxb2pHeE9GRUhDck1NS2pCVlhISFpHQXdEUXNyTTgtWDhtM0pja0toeHFVdlJ2Z1F2aTFlZ3FDUmJZWmpoU2MzLUczRFQ5Um1SSXZ2ZENMRVZseFI2Q0RoeFZEUVVuWVdkdmpTSHRWN2dTanl5aTVQZHFtMmpNVVFKUmRhVWNlY3RqX0FVc05WbXVzc2NQUm9zb0pkVmxoNk1XSQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-015cbf98bd",
+    "title": "GTA 6 beach ads leak: TikToker says he was fired over video",
+    "reportedAt": "2026-10-21T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad92db71aec41b19e11a7f4e964eb40&url=https%3a%2f%2fen.softonic.com%2farticles%2fgta-6-beach-ads-leak-tiktoker-says-he-was-fired-over-video&c=15820682848009098125&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

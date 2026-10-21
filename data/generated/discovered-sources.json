@@ -36810,5 +36810,91 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-50235fce92",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBXWk9NZW1DdGUxcmh3NzF3XzViRWNpZGl6NU43ZzhBM3BBTzB4MjI5cVhlS3JiZjM0QUcwSE5jTll3THRTZ0tsU01aMVlqZFJRVEVHSzQ1M1QyazRDQ3ZnZGdqenlTN1o4Z1lpTDdxR1JRb1l4Y0J1Qg?oc=5",
+    "title": "GTA 6 Characters Explained Ahead of Nov. 19 Launch [2026] - tech-insider.org",
+    "publisher": "tech-insider.org",
+    "publishedAt": "2026-10-21T21:18:52.000Z",
+    "discoveredAt": "2026-10-21T21:25:04.607Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-c4bc5cbf5a",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSVWR3djhHWVRVQXRiUWdvWGhkY3M1RUQ0ZFl1M3U1ZHBHSHBsQjU0Vk9qYUFPdTlGZ253anVqTHdaTVlFbHY1ZFd5cVVTc3otVjZ6ZGR5cnlKYkV5VTVHNjNxbG40Wm1YTzUzMWJMSm5kQQ?oc=5",
+    "title": "GTA 6 Launch Could Drain $1 Billion From US Economy [2026] - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-10-21T20:44:41.000Z",
+    "discoveredAt": "2026-10-21T21:25:04.607Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-025"
+      ],
+      "category": "take-two",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-022"
+    }
+  },
+  {
+    "id": "DISC-69e8873bdd",
+    "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQNk1YWmJORGVtWFlMWkwxSmRIQmVqWDljMGZXUVNyelNybXFGbVJ4LTQ4eTFmZXo4NHRVaFhKUmJIbGFpUlhyc0xJY3B3ZnEtaTNPMHRhbGFud3lsakE2NUd1Z01Vbzd3bTJqN1ktSmdSYnpMV2IxVloyeVFScXE0TjNDTFRsalNabHJZYkxiMnp5VEU4dkl2NHc4dERxb2pHeE9GRUhDck1NS2pCVlhISFpHQXdEUXNyTTgtWDhtM0pja0toeHFVdlJ2Z1F2aTFlZ3FDUmJZWmpoU2MzLUczRFQ5Um1SSXZ2ZENMRVZseFI2Q0RoeFZEUVVuWVdkdmpTSHRWN2dTanl5aTVQZHFtMmpNVVFKUmRhVWNlY3RqX0FVc05WbXVzc2NQUm9zb0pkVmxoNk1XSQ?oc=5",
+    "title": "Police arrest \"one of the alleged leaders\" of group behind Rockstar hack that apparently revealed how much money GTA Online makes, FBI warns \"we know how to find you\"",
+    "publisher": "GamesRadar+",
+    "publishedAt": "2026-09-30T07:00:00.000Z",
+    "discoveredAt": "2026-10-21T21:25:04.607Z",
+    "feed": "google-news",
+    "query": "CyberLeek arrest",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-016"
+      ],
+      "category": "investigation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-015cbf98bd",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad92db71aec41b19e11a7f4e964eb40&url=https%3a%2f%2fen.softonic.com%2farticles%2fgta-6-beach-ads-leak-tiktoker-says-he-was-fired-over-video&c=15820682848009098125&mkt=en-us",
+    "title": "GTA 6 beach ads leak: TikToker says he was fired over video",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-21T07:00:00.000Z",
+    "discoveredAt": "2026-10-21T21:25:04.607Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-028"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
