@@ -11182,5 +11182,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-27ce1b3b35",
+    "title": "First big GTA 6 leak was like having someone wading through your dirty washing, says Rockstar dev",
+    "reportedAt": "2026-10-14T09:26:10.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad83724549749bea800c0440555d219&url=https%3a%2f%2fwww.msn.com%2fen-us%2fgaming%2frockstar-games%2ffirst-big-gta-6-leak-was-like-having-someone-wading-through-your-dirty-washing-says-rockstar-dev%2far-AA2efqvk&c=12864685609102570641&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

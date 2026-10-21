@@ -36456,5 +36456,45 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-55590cc1f6",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMklCbkJZaDkyckJpNXlGWWxlSVVPTWJ4eFVEcEVKLVNIRERiYjU3RmNHQTcxU0lNUTZVZ0lKVVpwejRUZ2Q1MzdHZjR3T0Q1TWhrR0N3UUxJWi1GRzluM1Etb1JHNExiU1F3T3plSjEwdkFyNWZFTWo2dVlUWjhiMlB1MWZwT0tHTjUxSkdmVHhnZERuSDRFbjF6V1h5S3NiREYyOFBPWTVwUHJES0xjVmhvaWRidFQ2LUxkc0Z5OA?oc=5",
+    "title": "GTA 6 live-action trailer rumored after Vice City cars filmed on Miami street",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-10-21T01:08:00.000Z",
+    "discoveredAt": "2026-10-21T03:53:02.667Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "misinformation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-27ce1b3b35",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad83724549749bea800c0440555d219&url=https%3a%2f%2fwww.msn.com%2fen-us%2fgaming%2frockstar-games%2ffirst-big-gta-6-leak-was-like-having-someone-wading-through-your-dirty-washing-says-rockstar-dev%2far-AA2efqvk&c=12864685609102570641&mkt=en-us",
+    "title": "First big GTA 6 leak was like having someone wading through your dirty washing, says Rockstar dev",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-14T09:26:10.000Z",
+    "discoveredAt": "2026-10-21T03:53:02.667Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
