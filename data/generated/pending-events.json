@@ -11194,5 +11194,29 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-65fb475d8d",
+    "title": "GTA 6 leaks: Rockstar's nightmare or just a blip?",
+    "reportedAt": "2026-08-21T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10UTlBQXVrNHE1Z0M4U3ExYy12cDIxUkFUbVBQSFB1MDVLcTduMVN0NEc3eTRadVJ1WU44R3AzLTM5a1FXb2xNWHdHSWM5Yld6cW9sd2ZIX0FVdw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-80631eb450",
+    "title": "GTA VI Launch Trailer Reveals New Footage Ahead Of November Release",
+    "reportedAt": "2026-10-16T07:57:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMinwFBVV95cUxORU1KTm5iT3NILU84LVJVSjZrNzBlMjNGa1kyeGx0RGVGdUVBUDdWUGRjNWhCSEFhNjFuNXZGam9OSGJKR05PcEZZMy00ajAxT3lVcndYdGNyOWVoSXBWdWl2WERXVWVfUmdSNzR1SlFucm1RYVFIN3lHekczRWNsUTJlYnpFYnU3N3N0OEdhS3hQWUM1U25IbmF4ZEJuU1U?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

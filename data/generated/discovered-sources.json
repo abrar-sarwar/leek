@@ -36496,5 +36496,189 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-bffc52cade",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS3BzMVQ1ZEd2bjViQm1JWnF3bjg0eC1YSU53U3IzUE92VlJwZ2pCMno4bkJIZXFZV29RenhhUjVWVzBaOE5aZnhDeEIzalJqX1VQemFPX0NyTll0WHlzVEhGWlgtTHdFLVBTWjlnR1VOcHZxVWZaclpkdmV4dGVwNTRNSnkxZDNPQzdxLWJ5dlRCeXplSEZ5R2dWVmpvcjFDeHJ1N2xYaw?oc=5",
+    "title": "Some GTA 6 Fans Are Convinced New Trailer Included Threat To Cyberleek",
+    "publisher": "OpenCritic",
+    "publishedAt": "2026-10-16T11:00:09.000Z",
+    "discoveredAt": "2026-10-21T11:24:42.771Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "community",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-dc4fcd4ee4",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcDZzaFdjTi1XVU9BVHZfSmdRb0Z6M0d5aW9fY3p0OGVQMWJ1czRQUWZjMlVPQUZacTNLeWlOYVF1SVBUR2dGcXZwRkYyc1djUHZnbVZ0OWktZXZtYmhqWFIzWEM3eVFLeWJoNWlsOXBoUXZlTjBXYmh5T0VyNEwxYXN6ekdOZVVXVVFBRjJpUWJkQk15OVk0RkRn?oc=5",
+    "title": "PS5 Update 26.07-14.20.00 Is a Minor System Patch Released for Security and GTA 6",
+    "publisher": "MP1st",
+    "publishedAt": "2026-10-21T05:46:42.000Z",
+    "discoveredAt": "2026-10-21T11:24:42.771Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-65fb475d8d",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10UTlBQXVrNHE1Z0M4U3ExYy12cDIxUkFUbVBQSFB1MDVLcTduMVN0NEc3eTRadVJ1WU44R3AzLTM5a1FXb2xNWHdHSWM5Yld6cW9sd2ZIX0FVdw?oc=5",
+    "title": "GTA 6 leaks: Rockstar's nightmare or just a blip?",
+    "publisher": "BBC",
+    "publishedAt": "2026-08-21T07:00:00.000Z",
+    "discoveredAt": "2026-10-21T11:24:42.771Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-8fd6a1eac1",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObGZqSnhyY25qUzZaaUpoVGdzVXUzRlAzUzgwUzZEb25ZMEFvaVhzUk5wakdRQWJQSVRmOHRXQWZXUmZlSzJMUlQ5VnA2Ny1ydFRLbkRYZjZPcFVoODdmOEs2SGtBNE0tV3hzZFFPREpVLTZJSzNJVl80NEhZQXRWZjZXRlJUa3RPeldBdnh3MjU5WWxqQXE2eGJCa3JhREgtdHJnNms5N2gyX3B3VmluZldNQkdtNFMwS3M0?oc=5",
+    "title": "GTA 6 beers could hit real-world stores after official labels found in US database",
+    "publisher": "Dexerto",
+    "publishedAt": "2026-10-20T17:45:53.000Z",
+    "discoveredAt": "2026-10-21T11:24:42.771Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-80631eb450",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORU1KTm5iT3NILU84LVJVSjZrNzBlMjNGa1kyeGx0RGVGdUVBUDdWUGRjNWhCSEFhNjFuNXZGam9OSGJKR05PcEZZMy00ajAxT3lVcndYdGNyOWVoSXBWdWl2WERXVWVfUmdSNzR1SlFucm1RYVFIN3lHekczRWNsUTJlYnpFYnU3N3N0OEdhS3hQWUM1U25IbmF4ZEJuU1U?oc=5",
+    "title": "GTA VI Launch Trailer Reveals New Footage Ahead Of November Release",
+    "publisher": "Gizchina.com",
+    "publishedAt": "2026-10-16T07:57:00.000Z",
+    "discoveredAt": "2026-10-21T11:24:42.771Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-11fa0f9ea9",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZGVyTWZmeTNNVnZacjh3QU14RmRoSGV1Tnd6UVFrR1c1RzNFMUJ5dHhzV2ZnNWJwRk1VWmxxeFN4Vk95SlVSN200YjZyRkh6bm9TM2RZU2pEYjZqTU4xd3VvcWNJVl9taG9UOFMwMHZvUFhCSmZVN0lXeW1UeHhQam5ZejctM0ljQWotWVpxYUwyYkgzR1Noc2VhUUprb25ieHJia2Zn?oc=5",
+    "title": "GTA VI Launch Trailer Is Out Now, Shows More of Jason and Lucia",
+    "publisher": "KeenGamer",
+    "publishedAt": "2026-10-16T14:43:06.000Z",
+    "discoveredAt": "2026-10-21T11:24:42.771Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-57cfb8bef0",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUndEYzlUNTNTUnBtbTNLUHZlMnZfUjZvSE5vSXV3Tkg2b0VhWXdfYXEyWksycEZlZGhaTDI1NUJ3amdBWjY4d1FBYzR3UnhoNkRxTDBXRzN0T0F6Zm5hdmFPZ3hnd3I5Q3pYbzBDNFpxeW1JS1Vtc2V3cUxuX1l2ZnVFOW9MWjNQdWc5NnpPWk5JVmRreEx3cDhUNkZLYThTLVVpSVhyYw?oc=5",
+    "title": "GTA 6 launch trailer finally released with fresh story details & mission hints",
+    "publisher": "Dexerto",
+    "publishedAt": "2026-10-15T20:08:34.000Z",
+    "discoveredAt": "2026-10-21T11:24:42.771Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-8836a95a21",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZWVSNEs4QmFYY19ueDFvRU5rVmxmdEJDaV9QVHg3MHdiTEttLTFySVNsbTc2THliX1Z2SER2aGxfSjRHbFp1eGZJblB1aHJwM1VBb0Q0VkttQTVHVkZBS0ZBWFppT2lQQUk1djlaT19LOTc1cWs1UkRSR3paMnJvUnVFYlhqVW5pY1o2NkJGd0tjbEV1VlhjRkRPOA?oc=5",
+    "title": "Rockstar Addresses Its Plans for Next Game After GTA 6",
+    "publisher": "KeenGamer",
+    "publishedAt": "2026-10-15T17:50:45.000Z",
+    "discoveredAt": "2026-10-21T11:24:42.771Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-98b4ced514",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQUFWcGVlYXZwbzE0ZFV4b0FqRzljOVo3bGRmVE41TjhkdHZNRUlpVFBCWHVvRFpraE1uaGxXR1loVXgtR3VfaXRlNXZwVnlrLVgxc003UVBLNUozX1FCYVBPeGRhNVd6TXZMNmNDSDc0V2ZGVEM4MTdlQ2lTdm8zT0VSRlNMd0R4TXBRTE5nQ3pBVmw0N1BncUZvMUtzRjFhd0NOSFpLZEdaampmSGUw?oc=5",
+    "title": "Take-Two and Rockstar Games Issue Subpoenas to Microsoft and Discord Following 'GTA 6' Leaks",
+    "publisher": "Hypebeast",
+    "publishedAt": "2026-08-22T07:00:00.000Z",
+    "discoveredAt": "2026-10-21T11:24:42.771Z",
+    "feed": "google-news",
+    "query": "CyberLeek Microsoft",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games",
+        "Take-Two Interactive",
+        "Microsoft / GitHub",
+        "Discord"
+      ],
+      "claims": [
+        "LEEK-CLM-023"
+      ],
+      "category": "legal",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-024"
+    }
   }
 ]
