@@ -11218,5 +11218,53 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-ba30001d79",
+    "title": "GTA 6 Leaker Cyberleek Threatens Full Game Release",
+    "reportedAt": "2026-10-21T16:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLURQSkcxYjdWbG9jajY0cmE5ZlN5VGxvLU10YVQtVnBKVE0zQjctd1JiQTRnV2tEOG5YWEE4cjhBcXpGM0JXbHRNZ0FkT0EzRGZmWUYwQmdRLXozWXVDSW9RS3JfaXpxVF91ZkpieEF0UUtNS3ZyTFZrYnlodU9tUWxJTQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-f078bdc8f8",
+    "title": "US government leaks the best GTA 6 promo yet: Pißwasser is real",
+    "reportedAt": "2026-10-21T16:12:33.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN0ZyVUFBNGJoWlFDcENjZDl0U3Vhc19zazc3c18yOEY1M19uZWkxejJRU2dtaEtUemczY01pR3lJNFJtRkZYYVBvNkRwenhKSGtHLU1VQ19tYlJSbmNwM012WmdCQjUyblltS2ZjamFfMHNSYkpSYVBSamZnd0ljZ2ZSYmpzU2hFWndGN3RnU1c1Ym9hWWluWE00OXB3UmdsMnJmV0QtS0xyamtNWjU0ag?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-3b88b9acbf",
+    "title": "Alleged ShinyHunters Leader Arrested After Rockstar Data Breach",
+    "reportedAt": "2026-09-30T07:00:00.000Z",
+    "category": "investigation",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcnNpbEZ1NDRIOFJ2VXRVdWprQ0Z2S2dITlJ3cnp5MjNLT0NYZ3BKX3E4MWJnQ3Vkc1diNlAxUXpNdHpoUVdidHJiUDlCYUk2STlqS2lLaGtaTDNpanQtU011V3lHYXZRa2JRUHNkZUYxQThNdUpwN1RpYXZHSVpKT0ZhVU54YkhRZlRUOGRkcw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-e2b4502993",
+    "title": "GTA 6 Pre-Orders Hit a $600 Million Pre-Order Milestone Despite Imminent Threats of the Game Being Leaked and Pirated",
+    "reportedAt": "2026-10-20T19:52:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8ed96964444728a3b53abc060d75c&url=https%3a%2f%2fin.ign.com%2fgrand-theft-auto-vi%2f275066%2fgta-6-pre-orders-hit-a-600-million-pre-order-milestone-despite-imminent-threats-of-the-game-being-le&c=7209141706050109935&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

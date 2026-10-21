@@ -36680,5 +36680,135 @@
       "model": "rules-only",
       "matchedEventId": "LEEK-EVT-024"
     }
+  },
+  {
+    "id": "DISC-ba30001d79",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLURQSkcxYjdWbG9jajY0cmE5ZlN5VGxvLU10YVQtVnBKVE0zQjctd1JiQTRnV2tEOG5YWEE4cjhBcXpGM0JXbHRNZ0FkT0EzRGZmWUYwQmdRLXozWXVDSW9RS3JfaXpxVF91ZkpieEF0UUtNS3ZyTFZrYnlodU9tUWxJTQ?oc=5",
+    "title": "GTA 6 Leaker Cyberleek Threatens Full Game Release",
+    "publisher": "Yahoo Tech",
+    "publishedAt": "2026-10-21T16:00:00.000Z",
+    "discoveredAt": "2026-10-21T16:51:27.863Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-002"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-9b6f8337c9",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMUwzR2VTODFqOGk4TC1QYjBRd2c2UHliaW9qekNHSlRoOGppb1lPRlV5bWtvd2diOWswR3ZTZEczQVM3cWt1R1J4cWRrcVB1bTNvVmFudjgwSkJVMFFjSjhoVDBoMlA5a01MQ2ZGLTBaSlhSUklFMktQZTBtWGVHZGdRYy01SFN0YlIyd25JSk5pVVNVUGU4Tkhn?oc=5",
+    "title": "GTA 6 Trailer Features 'Dacity' Meme Coin—Here's What Traders Think It'll Do",
+    "publisher": "Yahoo Finance",
+    "publishedAt": "2026-10-21T13:16:04.000Z",
+    "discoveredAt": "2026-10-21T16:51:27.863Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "$CYBERLEEK holders"
+      ],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-4aa942629a",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQWU5TmI0bEw5eHFxN3JwNWRKWVRLTGhLaV9GUGFRdFpWVzVsX0QzSXNQUWd1eFBjNkozWWl0RTgzWkN6MF9ZVldRNmVQS01CSnJPejlhamcxeEhqQXRvYzhlU0lqWHhqbWttenl6N2piOE5JVWpUcGUtS21ic19Tcnp3?oc=5",
+    "title": "Shrek 2 Remastered Trailer Apes GTA 6, Lands Nov. 10 [2026] - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-10-21T12:17:15.000Z",
+    "discoveredAt": "2026-10-21T16:51:27.863Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-f078bdc8f8",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN0ZyVUFBNGJoWlFDcENjZDl0U3Vhc19zazc3c18yOEY1M19uZWkxejJRU2dtaEtUemczY01pR3lJNFJtRkZYYVBvNkRwenhKSGtHLU1VQ19tYlJSbmNwM012WmdCQjUyblltS2ZjamFfMHNSYkpSYVBSamZnd0ljZ2ZSYmpzU2hFWndGN3RnU1c1Ym9hWWluWE00OXB3UmdsMnJmV0QtS0xyamtNWjU0ag?oc=5",
+    "title": "US government leaks the best GTA 6 promo yet: Pißwasser is real",
+    "publisher": "PC Gamer",
+    "publishedAt": "2026-10-21T16:12:33.000Z",
+    "discoveredAt": "2026-10-21T16:51:27.863Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-3b88b9acbf",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcnNpbEZ1NDRIOFJ2VXRVdWprQ0Z2S2dITlJ3cnp5MjNLT0NYZ3BKX3E4MWJnQ3Vkc1diNlAxUXpNdHpoUVdidHJiUDlCYUk2STlqS2lLaGtaTDNpanQtU011V3lHYXZRa2JRUHNkZUYxQThNdUpwN1RpYXZHSVpKT0ZhVU54YkhRZlRUOGRkcw?oc=5",
+    "title": "Alleged ShinyHunters Leader Arrested After Rockstar Data Breach",
+    "publisher": "GTA BOOM",
+    "publishedAt": "2026-09-30T07:00:00.000Z",
+    "discoveredAt": "2026-10-21T16:51:27.863Z",
+    "feed": "google-news",
+    "query": "CyberLeek arrest",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-019",
+        "LEEK-CLM-016"
+      ],
+      "category": "investigation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-e2b4502993",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad8ed96964444728a3b53abc060d75c&url=https%3a%2f%2fin.ign.com%2fgrand-theft-auto-vi%2f275066%2fgta-6-pre-orders-hit-a-600-million-pre-order-milestone-despite-imminent-threats-of-the-game-being-le&c=7209141706050109935&mkt=en-us",
+    "title": "GTA 6 Pre-Orders Hit a $600 Million Pre-Order Milestone Despite Imminent Threats of the Game Being Leaked and Pirated",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-20T19:52:00.000Z",
+    "discoveredAt": "2026-10-21T16:51:27.863Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-006",
+        "LEEK-CLM-007",
+        "LEEK-CLM-014"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
