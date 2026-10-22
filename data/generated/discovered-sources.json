@@ -36896,5 +36896,79 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-da6fa2b0c2",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CcnRHSHNwLW0zSFJSNnBkVS1IeC1tVVJYbDJ1OGFpcHBLaFVodFhSRjNTTTBNdkl3UkZyQkNGZUhPb1NkV296Qlh3TDlOb1BVcmhuQnRCYnpnMGRDcDg2MjdEOXg3V1ZIQjFKY2RQbnBUNmtPd3JYV1U5YS1OaE0?oc=5",
+    "title": "Daft Punk GTA 6 Rumor: Leaker’s 10-Year Streak [2026] - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-10-21T21:18:42.000Z",
+    "discoveredAt": "2026-10-22T03:53:10.618Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "misinformation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-7f8211605c",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TSTI2TUhyVkVCSWwtVHRZUUx6ZDF1dkR2THJjM1pkeko2UC04dTk1MUpEc0I5bFEza3hId2tMNFJWaUJEanFXbVN1RlVNa25CUHlPMzJCaXREVlJQcnBxc0E5Z053NXlSbWEtcExEa0twbkVuZUQxN3pR?oc=5",
+    "title": "GTA VI Budget Fears Grow as EA Cuts 400 Jobs [2026]",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-10-21T21:31:39.000Z",
+    "discoveredAt": "2026-10-22T03:53:10.618Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-7a00a85944",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUDJXZ2FseE5SdU1rLUNmUDJ0Yzl2cEJNY3ZpMVFReUE0Z0l3NDhVcUVId3pHczFuNHQ0czBUdFhUVjl3c2dzSFE2ejlNV2o0eXhyV0lic2Vicm1UWm5hTlhrRklfMnRpRE41QkpDeUxPOEtwaUwzbEM5RkxKdUxYMGxqYw?oc=5",
+    "title": "Call of Duty, EA FC Most at Risk From GTA 6: 69% [2026] - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-10-21T21:47:26.000Z",
+    "discoveredAt": "2026-10-22T03:53:10.618Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-4d763e1d31",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5qbzBXSmdvNFp3cGNNb0NYLUlFVzhaa0FWZ0lxWV9yWFpfaUVwQl90eWRlN0hPUmR0MEw5Q1FQQ1JfSXktbkFGVTR2cjRfSWxEQk1aNmF3dkJHdjVNNWdhSmxreXN6ZHFLZk5aemRPYlZFWDNOM3I4Rw?oc=5",
+    "title": "GTA 6 Switch 2 Port Rumors Spark From Dev Job Listing [2026] - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-10-21T21:52:14.000Z",
+    "discoveredAt": "2026-10-22T03:53:10.618Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "misinformation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
