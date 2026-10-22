@@ -11326,5 +11326,113 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-87c57a24cb",
+    "title": "GTA VI Leak Controversy: Hacker 'CyberLeek' Exposes Rockstar Footage, Ignites Online Backlash - Consensus Forecast Report",
+    "reportedAt": "2026-08-20T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMizAFBVV95cUxNM2hXSlMwUWk1WkFiQ1ZmUFA2N01JWUJNNUl5NUgtakNialF5WFZlQmFxeGtzNjQxTU4zUGZZNDkzMHJtSkVHU1BjY2tuZEhLYmtHOUNHblFzazREYmZ0b0hYRTFXbk8wYUZyRjA3Q1lJRl9jWHpBOXRLcjFXaWVMWE1oUW1JNkY2dVZydFVCMHE4c21oS3AwWnRLb3R0X25yWlZmT2xlb1VqbHdQZGpMNVFFaHhFd1ZwMk1maElHWmNRUm5hb1F0UjMtZUU?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-69c4e35c26",
+    "title": "GTA 6's Biggest Leak Could Happen Before the Game Releases",
+    "reportedAt": "2026-10-12T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXXzJnUjdNclZwQzllQnhmSUxyRndtZUhfQ2dBay1fUnlVcmxDeEZ5LVZteUZlbDJ4b2RfcEwxdExxR0xSMU0yTzNXcG5PSHdCbGR6QkE1QmY5czJjRmNvYVA4SlpsSEE?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-18abde3e18",
+    "title": "GTA 6 launch may cost U.S. economy $1 billion in one day",
+    "reportedAt": "2026-10-22T10:23:00.000Z",
+    "category": "take-two",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb3NoY0gwNjdyVUo1WFViM0RVeFVqbGprMjBnWTdKbjlNLWdMYjVWdVZGSUZKekNSazJFX1E3QnViT2l2dGd6cjJLelR2cnAtSWxkS0IzMjVsSUlIM0tka1hTSWx6dkZYaG5SQUhRYkJYcXJKLWc1am9aSVpOaF9uZEJaSHNlSG5IaDNfV3VGRFBfTjc3dXZpVg?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-020ca8d481",
+    "title": "Yes, the GTA 6 leaked footage was probably running on PC, and no, that doesn't tell us a whole lot about the eventual release",
+    "reportedAt": "2026-08-21T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWFBqemJsdEUzTWJiYS1tODAxTUZSM045cl9IQjZFV1JqNnRnX2RqM3FfUjdLMkF1V3BXVHhuaGhDMGdsc2N3UlYtNUg2bzY2ZUNPb0t6Ukc2cXhwMFRKV3IzR216cWlTclY1YTNLRWxFV0Vpd0tRRlZCdDVSbkZYYWljZ2tmZEtVX1hPZ05VMmtfSEVLRzdXa2tfUng2YVFtVXZSalV5MWd6WFB3M1gwRjI2Y1FyNUNPb0drZ1J0SGVMaUxBcFZaeDZpUDBEV2pWSG8xdjV0ZndjRVRCaHcydTExV241ZWo0dUdN?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-b7974fcf61",
+    "title": "HipHopGamer’s GTA 6 Leak Claims Gameplay Feels ‘Completely Different’",
+    "reportedAt": "2026-08-11T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tSXdWSmNRQUdJUml2QVdVVjE0ZHU2bGlSQzlEVzhrNVFJX01YWXlZdU1uYzN2RDF0RGp1MS1WRXVvYTNQYmZCOTNUTk1VOHlyN2YyV2xDQWZEYnlJbG51T3VvWkkzR0VjdVM3bW1oSUFWc1Z5SWU5cndzRGM?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-ddb4d3d2b8",
+    "title": "I thought digital-only games would stop leaks, but GTA 6 just proved me wrong",
+    "reportedAt": "2026-08-19T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSUpQTmpJLVNsRktSVXNBVWJUenByenRrZk1RLWkyTnZSR1JVaFdDdEl2S212ZW42cEhRa09NcFdqajUzSE9RZWlZYV84TldvQXBFUGk5YjZxOWJSMnc2RlctY2tkTFAzenRWOHdVRThNX01qNnZZY0lsSzUwamMyb2EtWEYweFFpejRlTlNHTV81b05VSDJoMXBNWGVUZ015MUdpME9xVERsZ2plNXhzdWlabjl1Tm9ELVFSUm1YOVZKQTl6R1E?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-28554a7835",
+    "title": "GTA 6 Marketing Reveals New Radio Stations as Major Gameplay Details Emerge Ahead of Potential Leaks",
+    "reportedAt": "2026-10-21T21:11:38.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xUVlaVmFERElobjZ1VEIzX01UQ3NRcmZMd3BmSUZJeWJxX09RVHRBMW5uM2pOd1Rod0ZvLXRpV1dtMzNtVFFucVdOYTB5VTF6S1lpc3RQVjFDdTdYbTlkNjJwRm9jYm8yZnZHTllzRkVJcHlq?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-16c7e80fe3",
+    "title": "Man says he was fired after leaking GTA 6 ads worth $4 million",
+    "reportedAt": "2026-10-21T19:29:03.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUVdsakcyN3RqU2Z1amY0Wm9hcVN4dXNuX3I3MjNHU2ZSQ2hWaWZRb0QxSUt1MFNxVl9QME53R19yX29DWVJGbGFIVWc5ZjNoQnlSZ01keWE0MXpVT3c2dnVCNlRuZTVzOHRzRmJqYVNOczJaNmFDNGpSQ0l5SFBmQVQ1Q2RtQW41YlJfVDk2YnhVNFRma1BQQnZscm5wOFU?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-ec7f0fd5cd",
+    "title": "Grand Theft Auto VI – the hype and the controversy",
+    "reportedAt": "2026-10-22T09:00:00.000Z",
+    "category": "take-two",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada3f1e146d4047ae90225413497468&url=https%3a%2f%2fnewsroom.co.nz%2f2026%2f10%2f23%2fgrand-theft-auto-vi-the-hype-and-the-controversies%2f&c=15613172489703727536&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

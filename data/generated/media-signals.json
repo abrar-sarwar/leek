@@ -4966,5 +4966,45 @@
     "domains": [
       "bing.com"
     ]
+  },
+  {
+    "date": "2026-10-22",
+    "feed": "google-news:CyberLeek",
+    "count": 1,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-10-22",
+    "feed": "google-news:Cyberleek",
+    "count": 4,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-10-22",
+    "feed": "google-news:GTA VI leak",
+    "count": 4,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-10-22",
+    "feed": "google-news:GTA 6 leak",
+    "count": 8,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-10-22",
+    "feed": "bing-news:GTA VI leak",
+    "count": 1,
+    "domains": [
+      "bing.com"
+    ]
   }
 ]

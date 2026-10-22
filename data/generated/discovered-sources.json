@@ -37080,5 +37080,363 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-87c57a24cb",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNM2hXSlMwUWk1WkFiQ1ZmUFA2N01JWUJNNUl5NUgtakNialF5WFZlQmFxeGtzNjQxTU4zUGZZNDkzMHJtSkVHU1BjY2tuZEhLYmtHOUNHblFzazREYmZ0b0hYRTFXbk8wYUZyRjA3Q1lJRl9jWHpBOXRLcjFXaWVMWE1oUW1JNkY2dVZydFVCMHE4c21oS3AwWnRLb3R0X25yWlZmT2xlb1VqbHdQZGpMNVFFaHhFd1ZwMk1maElHWmNRUm5hb1F0UjMtZUU?oc=5",
+    "title": "GTA VI Leak Controversy: Hacker 'CyberLeek' Exposes Rockstar Footage, Ignites Online Backlash - Consensus Forecast Report",
+    "publisher": "www.dars.gov.et",
+    "publishedAt": "2026-08-20T07:00:00.000Z",
+    "discoveredAt": "2026-10-22T16:51:37.209Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-b3aaca52bf",
+    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPOUIxaFRBWHlOc0djVjJYWUc0TlA0ZVpaVGItYU13ZHVHYWpLVTE3TXZ4b3pCQ0dYN29GRkFCNjBrelQteUEyV0xjNzd6UjJJR2FOS3BLeDRUS3JPLXBxczhnM1kzSVZXNklHSzNCRWt4c1M4NDFJQWlRaGtEZVJiN2NFUkZYWU83NFJqS3VvZFZtWWZWMFZUUjVfZHBCNFlSZ0xmYjhmUl80eU1iRDdGOHFYWXBIV3pNdGJLdWhkTzNuLVZucHdYS3M0Q2RMOUNHRjhkVG5DTEZ2RmRGM1NCSGV2aEZRajMzQ05WaEtxMzZwcEpRLW1nUjJNdHhpSHhyMmYwTWZUTmJ1R2w4RGZpd3Bqbi1VaWPSAZwCQVVfeXFMUDRHdTNxTmhQd0h0dnNQNGVQaW4yektaRGhPVldqNmF1UDczUnlBcHRHNVo2V3RlQlpsVlRXa2RfUXJYd2gwUWRYU2ZiNHB1OWJycEI3V1VSUVZVWmwzTVIwdzhwanlQZzFtR2gyNjY3UmVtWWVTQ1RwQUFPQVVoSG1mU3ZyUlFXY2drMjJ2M1BpLTluZFozNTVuY25IUWQ3YXJiTG8zSXM0d01vUi1tUkwxS0pPLW5tWC04RTVQbGZqVjZ1R29fZUdlV3N1Z05RT0ZyOVliTmRRNEpUYVNBUk9GWk1EMFNXVnNfclhhOUlWY2JMS1RUVkg0RHFfYmRrQmtkVFRGT0dVbWVwWGtZQkxqSmhOVk5tS0ZZUHA?oc=5",
+    "title": "GTA 6 Latest News: CYBERLEEK Memecoin Crashes From $7.8 Million to $1.7 Million, Fans Celebrate as Gameplay Leak Threat Fades; Check What Happened",
+    "publisher": "The Sunday Guardian",
+    "publishedAt": "2026-10-18T20:12:02.000Z",
+    "discoveredAt": "2026-10-22T16:51:37.209Z",
+    "feed": "google-news",
+    "query": "Cyberleek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "$CYBERLEEK holders"
+      ],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-db751d8924",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcXVwM2JsYVI4d2pSWHdfcnhRVWNYUDF1ckdKZDRhTG9RVTdibVZmcUlMdVBvamxDVHNYeVFlU1k5MDVnZnM0MHNkNnpaVFdGSFdqbjNRbzNGbmZuN2NnQnNfVXdhb0MzbjdUQjE4dDB6VmpnV0ZkemNVZXdGQXY0MGJ1QzNPb3hxRzdMNEE2N1BpU0Noanh3S0I0MklkQQ?oc=5",
+    "title": "GTA 6 fans celebrate as CYBERLEEK Cryptocurrency Memecoin falls",
+    "publisher": "Khel Now",
+    "publishedAt": "2026-10-18T08:04:26.000Z",
+    "discoveredAt": "2026-10-22T16:51:37.209Z",
+    "feed": "google-news",
+    "query": "Cyberleek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "$CYBERLEEK holders"
+      ],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-69c4e35c26",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXXzJnUjdNclZwQzllQnhmSUxyRndtZUhfQ2dBay1fUnlVcmxDeEZ5LVZteUZlbDJ4b2RfcEwxdExxR0xSMU0yTzNXcG5PSHdCbGR6QkE1QmY5czJjRmNvYVA4SlpsSEE?oc=5",
+    "title": "GTA 6's Biggest Leak Could Happen Before the Game Releases",
+    "publisher": "NoobFeed",
+    "publishedAt": "2026-10-12T07:00:00.000Z",
+    "discoveredAt": "2026-10-22T16:51:37.209Z",
+    "feed": "google-news",
+    "query": "Cyberleek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-501576a14b",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPckFjWnNzbmZuWXAyT3F6S28ya0x4b1ZCQ3BvbDdoNmViTFdHZE84V3FkWmFnTGo4dHJsblUtMVF1Vl9lbUdNSzRqY3Y2RElPb0lqTXdlYmRoSVdpZjJ4SnpTNG5DZ3kwdW5TZmN1ZVdOSnFkZWRuag?oc=5",
+    "title": "Leaker Cyberleek Drops New GTA 6 Footage and Ties Threats to Slumping Memecoin",
+    "publisher": "azat.tv",
+    "publishedAt": "2026-10-19T21:00:00.000Z",
+    "discoveredAt": "2026-10-22T16:51:37.209Z",
+    "feed": "google-news",
+    "query": "Cyberleek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "$CYBERLEEK holders"
+      ],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-4ded39be6f",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPQTRaZ1U0S3FiM0NMbXhla2txbFBHZi1PVDRXODM1RkxCUncyc3ZhRWNtSWFSTU12Si02c0JHNzBGN0sybS1qM3I3ZktZelRUR1NoZmdYUmN1ZVo2MUxzZFoxOA?oc=5",
+    "title": "Best Console for GTA 6: $599.99 vs $899.99 [2026] - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-10-22T13:22:36.000Z",
+    "discoveredAt": "2026-10-22T16:51:37.209Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-2a5003d9d0",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5mOGJSb2RZalJQSG1hWVNRM1hXeml0Q19YQlZHMlUzSjM5aTJieEl2QXA0bDlaUEZfUmgwQjBzVzZzdGozc0ZvRG5EQVRnZUxLekNiQjZwSmlabnhDZWVlNC05SDVUT2hUbV96bjZTYXZ5bVpyR3lucGpB?oc=5",
+    "title": "Daft Punk GTA 6 Soundtrack Report: 34-Track Album [2026]",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-10-22T15:07:50.000Z",
+    "discoveredAt": "2026-10-22T16:51:37.209Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-18abde3e18",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb3NoY0gwNjdyVUo1WFViM0RVeFVqbGprMjBnWTdKbjlNLWdMYjVWdVZGSUZKekNSazJFX1E3QnViT2l2dGd6cjJLelR2cnAtSWxkS0IzMjVsSUlIM0tka1hTSWx6dkZYaG5SQUhRYkJYcXJKLWc1am9aSVpOaF9uZEJaSHNlSG5IaDNfV3VGRFBfTjc3dXZpVg?oc=5",
+    "title": "GTA 6 launch may cost U.S. economy $1 billion in one day",
+    "publisher": "Audacy",
+    "publishedAt": "2026-10-22T10:23:00.000Z",
+    "discoveredAt": "2026-10-22T16:51:37.209Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-025"
+      ],
+      "category": "take-two",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-965b4677bf",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1PeTRZdVZzblZjU01icUR6Zk5iNzBUdFoyX1NOTjVLbnlnbEhfWlN1NU1zSDFRcGdaWWdmSmFPbWhfRlVKU0dQZkpPYVNyNUoxenBQUW1hQWoydExLSzh3T0YzZmRtRzlxWXBrT2ZoLXZCNlI5NlpRZUU5aUE?oc=5",
+    "title": "GTA 6 Soundtrack: Song List, Radio and Album [2026] - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-10-22T13:17:14.000Z",
+    "discoveredAt": "2026-10-22T16:51:37.209Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-020ca8d481",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWFBqemJsdEUzTWJiYS1tODAxTUZSM045cl9IQjZFV1JqNnRnX2RqM3FfUjdLMkF1V3BXVHhuaGhDMGdsc2N3UlYtNUg2bzY2ZUNPb0t6Ukc2cXhwMFRKV3IzR216cWlTclY1YTNLRWxFV0Vpd0tRRlZCdDVSbkZYYWljZ2tmZEtVX1hPZ05VMmtfSEVLRzdXa2tfUng2YVFtVXZSalV5MWd6WFB3M1gwRjI2Y1FyNUNPb0drZ1J0SGVMaUxBcFZaeDZpUDBEV2pWSG8xdjV0ZndjRVRCaHcydTExV241ZWo0dUdN?oc=5",
+    "title": "Yes, the GTA 6 leaked footage was probably running on PC, and no, that doesn't tell us a whole lot about the eventual release",
+    "publisher": "PC Gamer",
+    "publishedAt": "2026-08-21T07:00:00.000Z",
+    "discoveredAt": "2026-10-22T16:51:37.209Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-b7974fcf61",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tSXdWSmNRQUdJUml2QVdVVjE0ZHU2bGlSQzlEVzhrNVFJX01YWXlZdU1uYzN2RDF0RGp1MS1WRXVvYTNQYmZCOTNUTk1VOHlyN2YyV2xDQWZEYnlJbG51T3VvWkkzR0VjdVM3bW1oSUFWc1Z5SWU5cndzRGM?oc=5",
+    "title": "HipHopGamer’s GTA 6 Leak Claims Gameplay Feels ‘Completely Different’",
+    "publisher": "GodisaGeek.com",
+    "publishedAt": "2026-08-11T07:00:00.000Z",
+    "discoveredAt": "2026-10-22T16:51:37.209Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-ddb4d3d2b8",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSUpQTmpJLVNsRktSVXNBVWJUenByenRrZk1RLWkyTnZSR1JVaFdDdEl2S212ZW42cEhRa09NcFdqajUzSE9RZWlZYV84TldvQXBFUGk5YjZxOWJSMnc2RlctY2tkTFAzenRWOHdVRThNX01qNnZZY0lsSzUwamMyb2EtWEYweFFpejRlTlNHTV81b05VSDJoMXBNWGVUZ015MUdpME9xVERsZ2plNXhzdWlabjl1Tm9ELVFSUm1YOVZKQTl6R1E?oc=5",
+    "title": "I thought digital-only games would stop leaks, but GTA 6 just proved me wrong",
+    "publisher": "GamesRadar+",
+    "publishedAt": "2026-08-19T07:00:00.000Z",
+    "discoveredAt": "2026-10-22T16:51:37.209Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-28554a7835",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xUVlaVmFERElobjZ1VEIzX01UQ3NRcmZMd3BmSUZJeWJxX09RVHRBMW5uM2pOd1Rod0ZvLXRpV1dtMzNtVFFucVdOYTB5VTF6S1lpc3RQVjFDdTdYbTlkNjJwRm9jYm8yZnZHTllzRkVJcHlq?oc=5",
+    "title": "GTA 6 Marketing Reveals New Radio Stations as Major Gameplay Details Emerge Ahead of Potential Leaks",
+    "publisher": "NoobFeed",
+    "publishedAt": "2026-10-21T21:11:38.000Z",
+    "discoveredAt": "2026-10-22T16:51:37.209Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-fc9adcabc0",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWm4zcnpKWkJsMWE4Smh1UTZOZUt0UldhYlRtT1RMMVJzMEFKbF91bmNmaTB4QmJ3VmNycXdlQ0FNS01SdVRldHZQb1V1ME0tbXp0RVFOdkwwNEl1dkJfZVd2ZVd0VjJ3NVgzTDFZMm44cTlDMXRrSHhQM25NZWVvcVlIYTlMZWpyTEsyS0Rsb2lDX25icXN3YjJ6R0lCTmVSekkxMTZn?oc=5",
+    "title": "GTA’s Burger Shot & Cluckin’ Bell are now real in Miami ahead of GTA 6",
+    "publisher": "Dexerto",
+    "publishedAt": "2026-10-22T16:04:07.000Z",
+    "discoveredAt": "2026-10-22T16:51:37.209Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-16c7e80fe3",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUVdsakcyN3RqU2Z1amY0Wm9hcVN4dXNuX3I3MjNHU2ZSQ2hWaWZRb0QxSUt1MFNxVl9QME53R19yX29DWVJGbGFIVWc5ZjNoQnlSZ01keWE0MXpVT3c2dnVCNlRuZTVzOHRzRmJqYVNOczJaNmFDNGpSQ0l5SFBmQVQ1Q2RtQW41YlJfVDk2YnhVNFRma1BQQnZscm5wOFU?oc=5",
+    "title": "Man says he was fired after leaking GTA 6 ads worth $4 million",
+    "publisher": "Dexerto",
+    "publishedAt": "2026-10-21T19:29:03.000Z",
+    "discoveredAt": "2026-10-22T16:51:37.209Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-9eb387aeed",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQlVzNDQ1V1NqQ1N4bHUwMWJhS2xoakVyYnFwWFBxTlJjQVFMYW9vS3dVSjlNNDd6YzRQT3JvdjVuRS02WlY0bUdTWUF3aFctODd5TWFYQkVadHN6c3NqWTJkbWdiTmVSLVZJeGRqU0kyY1lRZndpQVgyTzktZENLZmdUUFBCNE12bFJNa2hlZTBnLUw2RTJnRThuYUlRUUJUNk1aWXc4RnVJVUFpTE5qSGx6VUlsc1U?oc=5",
+    "title": "Gym launches official thumb workout to get your hands ready for GTA 6",
+    "publisher": "Dexerto",
+    "publishedAt": "2026-10-21T17:30:38.000Z",
+    "discoveredAt": "2026-10-22T16:51:37.209Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-75a6bc8add",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORUxMMERDNk51UEo0YWtiRFMxX3JNd3ZfZ1pPTWd0ejQtVS1zUTh0cXFlVl95UTNTMl9nZlZJbVBaaWdMZm1yQjNNMDByakJheUU4MmU0X213US1ETEJBSk9xdURBdC1jTkxYSzRZVndzS253QnBKX09lOGZjazg2bER1VXhEYVh1RHVnVFRWeFMyc3dDT0YwaXF2d2RFTnVBanlTMHNvQ3pPUk5DTHViSFl1eExlXzg?oc=5",
+    "title": "Daft Punk reportedly turned down GTA 6 soundtrack deal despite “unlimited” budget",
+    "publisher": "Dexerto",
+    "publishedAt": "2026-10-20T17:12:59.000Z",
+    "discoveredAt": "2026-10-22T16:51:37.209Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-ec7f0fd5cd",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada3f1e146d4047ae90225413497468&url=https%3a%2f%2fnewsroom.co.nz%2f2026%2f10%2f23%2fgrand-theft-auto-vi-the-hype-and-the-controversies%2f&c=15613172489703727536&mkt=en-us",
+    "title": "Grand Theft Auto VI – the hype and the controversy",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-22T09:00:00.000Z",
+    "discoveredAt": "2026-10-22T16:51:37.209Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-025"
+      ],
+      "category": "take-two",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
