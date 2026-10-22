@@ -36970,5 +36970,115 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-a317c374ea",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5salliRDZyMXBzQWZHczVJeVdsTXU1NVU4VXJsNmRxWjRfS0J1LVFDY0ltSkplZHFERkRaVXJadDUwOF9iLTlTOVpvSHk5Q1BLd0E?oc=5",
+    "title": "'GTA 6' Leaker Posts Nude Lucia Video With Threats of Releasing Game Early",
+    "publisher": "IMDb",
+    "publishedAt": "2026-10-20T11:13:09.000Z",
+    "discoveredAt": "2026-10-22T11:24:30.945Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-09d81624c1",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56dGxBVk81b0E4dm53N0xxX0JWTUY4dThSNDI3a3hOMGlMd1lfeWE3S1EzMEl0Yk9pSmNnNFhzT1NCY3JRcnR4cFZCbmVjbDVLOGtiNFN1X0d1aVpaQjZ0bDVlZDRFdmdsc01QdDQwQUxUbTFpekQw?oc=5",
+    "title": "Man Fired After Leaking $4M GTA 6 Vice City Ads [2026] - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-10-22T09:52:16.000Z",
+    "discoveredAt": "2026-10-22T11:24:30.945Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-fe952ba5f6",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVFBCZno5WVhtNlNETFd2dW5tNWNaRzZ0a3F4ODVubEN0SGF1ZnJTbUc2TjZZZG5hM3p6SUxFa2tGX1JJajl2WHRRa2FGSmNBRlI1cS1lZ0Q4cDlUQnlDMHAweXdHcXh3bzhTYmZmV1Y1LXFGeHhBNmczdkhoWXFSZUNmSVRkTW9jQlNrOU0xWFZpeUpzeloxbEk4cXlaVi10bzVWZm9oMmdyaFhUN1lack4xaU8zV1k?oc=5",
+    "title": "GTA 6 Leaker Threatens To Release Full Story if Memecoin Hits $30M, Demands Take-Two Apology",
+    "publisher": "inkl",
+    "publishedAt": "2026-10-10T07:00:00.000Z",
+    "discoveredAt": "2026-10-22T11:24:30.945Z",
+    "feed": "google-news",
+    "query": "Take-Two CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive",
+        "$CYBERLEEK holders"
+      ],
+      "claims": [
+        "LEEK-CLM-015",
+        "LEEK-CLM-022",
+        "LEEK-CLM-029"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-96f8d3e60b",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSGJCVm5xcS11LUNLS3lYQjExWkZvNGp5ZVlLSWRRSFN0SHZuQXBIM0lpTWlXa01odThaWm40anplRkpaWURGZ2prN3A2QUVOZnI4VmR2RzlIaW5XUzYtMGl3cUJ6bVB6d0JwYVRiR1l5TlRXclZHdDlMTFI4TnhJNzdONlBlTHJ4UnhLQjZienRPdDAtdWxiSGdjcTR3OHladUt1OHhXc1cyRTZfUWVaNHRzaEdzbExWUVZZ?oc=5",
+    "title": "What Is CyberLeek (CYBERLEEK)? The GTA 6 Leak Token Explained",
+    "publisher": "WEEX",
+    "publishedAt": "2026-08-27T07:00:00.000Z",
+    "discoveredAt": "2026-10-22T11:24:30.945Z",
+    "feed": "google-news",
+    "query": "CyberLeek arrest",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-66b32025c1",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ad9f274afc84d5f83626528d1062ef7&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fgta-6-live-lucia-nude-leaks-posted-online%2far-AA2ed2vq&c=6797392350142560346&mkt=en-us",
+    "title": "GTA 6 live: Lucia nude leaks posted online",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-14T01:25:48.000Z",
+    "discoveredAt": "2026-10-22T11:24:30.945Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
