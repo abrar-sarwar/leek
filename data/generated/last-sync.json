@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-10-23T11:14:27.633Z",
+  "ranAt": "2026-10-23T16:43:12.923Z",
   "feeds": [
     {
       "name": "google-news:CyberLeek",
@@ -9,7 +9,7 @@
     {
       "name": "google-news:Cyberleek",
       "ok": true,
-      "items": 84
+      "items": 100
     },
     {
       "name": "google-news:GTA VI leak",
@@ -19,7 +19,7 @@
     {
       "name": "google-news:GTA 6 leak",
       "ok": true,
-      "items": 92
+      "items": 91
     },
     {
       "name": "google-news:Take-Two CyberLeek",
@@ -34,7 +34,7 @@
     {
       "name": "google-news:CyberLeek Microsoft",
       "ok": true,
-      "items": 27
+      "items": 64
     },
     {
       "name": "google-news:CyberLeek Discord",
@@ -44,12 +44,12 @@
     {
       "name": "google-news:CyberLeek subpoena",
       "ok": true,
-      "items": 29
+      "items": 44
     },
     {
       "name": "google-news:CyberLeek dead man switch",
       "ok": true,
-      "items": 43
+      "items": 42
     },
     {
       "name": "google-news:CyberLeek arrest",
@@ -59,7 +59,7 @@
     {
       "name": "google-news:CyberLeek $CYBERLEEK",
       "ok": true,
-      "items": 10
+      "items": 38
     },
     {
       "name": "bing-news:CyberLeek",
@@ -74,7 +74,7 @@
     {
       "name": "bing-news:GTA VI leak",
       "ok": true,
-      "items": 12
+      "items": 11
     },
     {
       "name": "bing-news:GTA 6 leak",
@@ -85,7 +85,7 @@
       "name": "gdelt",
       "ok": false,
       "items": 0,
-      "error": "HTTP 429"
+      "error": "Unexpected token 'P', \"Parenthese\"... is not valid JSON"
     },
     {
       "name": "courtlistener",
@@ -93,8 +93,8 @@
       "items": 20
     }
   ],
-  "discovered": 1756,
-  "newSinceLastRun": 4,
-  "pending": 957,
+  "discovered": 1757,
+  "newSinceLastRun": 1,
+  "pending": 958,
   "analysisMode": "rules-only"
 }

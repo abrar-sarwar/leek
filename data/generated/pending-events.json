@@ -11482,5 +11482,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-48f5e6e4cd",
+    "title": "GTA 6-inspired CS2 map makes you save leaker Cyberleek from Rockstar mansion",
+    "reportedAt": "2026-10-23T16:26:40.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbTZkR09YLUxJY20xVnFfbEJ4MzJyWmZVWnNtU0VsdEstX3ozMldJRVVVd1VMUWt0UjRybkxha2RrZEEyZWszNG9zaV9Bekg0QWVOaHZIY3V0ckNlVjVucjFoanowSG5lRDdwaEhXZHdrWlAyQ2h4blFFVTIza3V3SXU4Si1TUkpOT2o0SVQ4V0doZnZITzhDb2pVSG5xZlNMVm5oQkNIakJkLS02M1ZjZHhoZWVKQmEwdGhOVVI5d3c1VkEy?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
