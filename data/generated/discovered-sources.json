@@ -37662,5 +37662,27 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-d842e61753",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adbcd94a1fd4f8f9cd03d1d98e9b670&url=https%3a%2f%2fcomicbook.com%2fgaming%2fnews%2fgta-6-grand-theft-auto-vi-rockstar-games-controversial-parody%2f&c=17219998883387409364&mkt=en-us",
+    "title": "GTA 6 Reveals Most Controversial Parody in Rockstar Games History",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-23T09:49:00.000Z",
+    "discoveredAt": "2026-10-23T21:10:23.577Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
