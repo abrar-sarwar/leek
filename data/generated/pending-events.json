@@ -11434,5 +11434,29 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-f1cde01dee",
+    "title": "GTA 6 Fans Left Devastated After Rockstar's Original Soundtrack Plans Leak Online",
+    "reportedAt": "2026-10-22T22:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeHdXUVloY3Q1UGdxUWRRS3B3eTRKZU54dFVpMkFCcTFRUXRfWk52bTJiZ0pKY3lwUGRocFlETUo1SVdPRXBqMWs5WmJLQlRudDBMbzVmSGtJSkZtYW80ZHZiTGo5S01od0FGVEVhNUw1Ullxb2FDS0lyRGJObFY2cTF4Wjhnb1FmRU9EeXM1SjBwLUd1LVdvLVR6VjJlVFdTeXc?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-86e93dc22f",
+    "title": "GTA 6 Soundtrack Leak: Daft Punk Claim, 34 Tracks [2026] - https://tech-insider.org/",
+    "reportedAt": "2026-10-23T00:10:59.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdDZFWkhmeERpOU1ma3ZTWVV2UGZtY2JCXzBMdDNHaWIxWkxncFVITEpfanY5TURxZzRieVlyVFlYMDZXNVExOE9ZSUhXOGdUVUt0b3BDRVNBa0hQcDNRbTBUQUtoMERCMWhEbWlzWmNaNjZNNTMxX1hBeTA3RUVXSFE4R2p5TDg?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

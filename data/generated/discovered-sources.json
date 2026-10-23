@@ -37456,5 +37456,103 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-129d1de05e",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbGV6M1VLSWFYWER0MUlVdk1vY2duSTEzaW01RU1jbFlfMWthNGpnWG1qQ2NFV1RBSU0yeGZfTWsxR3piNFRiVmZLRFRlaDEwUmJxUHpIOTNNNUtQbFo5RTZGbmlRVDR5Q1VXTFFFUHBJT2ZvTy16dm03REx4RWFud1JVaw?oc=5",
+    "title": "GTA 6 Price: $79.99 Standard, $99.99 Ultimate [2026] - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-10-23T00:31:27.000Z",
+    "discoveredAt": "2026-10-23T03:57:19.769Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-f1cde01dee",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeHdXUVloY3Q1UGdxUWRRS3B3eTRKZU54dFVpMkFCcTFRUXRfWk52bTJiZ0pKY3lwUGRocFlETUo1SVdPRXBqMWs5WmJLQlRudDBMbzVmSGtJSkZtYW80ZHZiTGo5S01od0FGVEVhNUw1Ullxb2FDS0lyRGJObFY2cTF4Wjhnb1FmRU9EeXM1SjBwLUd1LVdvLVR6VjJlVFdTeXc?oc=5",
+    "title": "GTA 6 Fans Left Devastated After Rockstar's Original Soundtrack Plans Leak Online",
+    "publisher": "SVG",
+    "publishedAt": "2026-10-22T22:00:00.000Z",
+    "discoveredAt": "2026-10-23T03:57:19.769Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-86e93dc22f",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdDZFWkhmeERpOU1ma3ZTWVV2UGZtY2JCXzBMdDNHaWIxWkxncFVITEpfanY5TURxZzRieVlyVFlYMDZXNVExOE9ZSUhXOGdUVUt0b3BDRVNBa0hQcDNRbTBUQUtoMERCMWhEbWlzWmNaNjZNNTMxX1hBeTA3RUVXSFE4R2p5TDg?oc=5",
+    "title": "GTA 6 Soundtrack Leak: Daft Punk Claim, 34 Tracks [2026] - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-10-23T00:10:59.000Z",
+    "discoveredAt": "2026-10-23T03:57:19.769Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-9a217bd28f",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Cb0F5QXc1U1VDZC1rWG9fbk5NWkI4VlVrWEtoOHNxSlROQmlKQjg0N2UybzBES3ZjUWJGb2NPX2ZzeTZjM3FUeE5vTGdsQXlKcjd3dEd2OERQTTFyOWlRYkFkYWlSVDdOLWUxY0ZDQm1ySXVrcUxMU2xkT3FlWUE?oc=5",
+    "title": "Sony rolls out new PS5 update after major jailbreak hack",
+    "publisher": "Polygon.com",
+    "publishedAt": "2026-10-21T15:45:45.000Z",
+    "discoveredAt": "2026-10-23T03:57:19.769Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-49a94fdee0",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMU9PXy04Wm94MHNPYkF2bUpSUm5uVzhYb0lxTmtZTzZNT29OQjB1X2Q2ek9ydDktNnNqazVmTUVHanNLdUh2aFV5bHVPT0xsNHNCWHRXVGMweHRMQ2EyRUZxVFVsajVhcGJIMWR6THRweHVhcGdXbTNwcFp1ZlJrbzF6S01yUDFtcmpMNUFqRkM2cF90bVRoaUNzVFVJejZMMlA4SUpSVExDQmxKQkhHLUp3?oc=5",
+    "title": "Rockstar Finally Comments On All Those GTA 6 Leaks — “Heartbreaking For Our Team”",
+    "publisher": "GameSpot",
+    "publishedAt": "2026-08-26T07:00:00.000Z",
+    "discoveredAt": "2026-10-23T03:57:19.769Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-052"
+    }
   }
 ]
