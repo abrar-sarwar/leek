@@ -11458,5 +11458,29 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-b39fad6392",
+    "title": "New GTA 6 leak shows Lucia gameplay, melee combat, and more activities",
+    "reportedAt": "2026-10-11T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMilgFBVV95cUxOY3A0MTUtQ0xCWWU2TUQwLWhibXhrR0tiSEx0dEVQT3IyelRZVlJVbnFqWDBKcnA4S2dMVDFRdDZZa3hZUnJrdWpNRk41NHh1eU5zaEdRTjlVNVlNb3Y1bC1qb3ZEVWI3TjlhZlVfVGROSHVKUFFyVXcwMGxoSkk3azlTdkZKOFlSN1BJOHEzLW1nZjZZSWc?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-d9e1433361",
+    "title": "Leaked GTA 6 Video Parodies Infamous Truck Bed Gasoline Stunt Confirming Fuel Gameplay System",
+    "reportedAt": "2026-08-24T01:06:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adb4199b04a46fcb24666e88c82890e&url=https%3a%2f%2fwww.ibtimes.co.uk%2fgta-6-leak-parodies-viral-petrol-station-prank-1815847&c=5243779367757308826&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

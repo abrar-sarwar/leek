@@ -37554,5 +37554,91 @@
       "model": "rules-only",
       "matchedEventId": "LEEK-EVT-052"
     }
+  },
+  {
+    "id": "DISC-b39fad6392",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOY3A0MTUtQ0xCWWU2TUQwLWhibXhrR0tiSEx0dEVQT3IyelRZVlJVbnFqWDBKcnA4S2dMVDFRdDZZa3hZUnJrdWpNRk41NHh1eU5zaEdRTjlVNVlNb3Y1bC1qb3ZEVWI3TjlhZlVfVGROSHVKUFFyVXcwMGxoSkk3azlTdkZKOFlSN1BJOHEzLW1nZjZZSWc?oc=5",
+    "title": "New GTA 6 leak shows Lucia gameplay, melee combat, and more activities",
+    "publisher": "Sportskeeda",
+    "publishedAt": "2026-10-11T07:00:00.000Z",
+    "discoveredAt": "2026-10-23T11:14:27.633Z",
+    "feed": "google-news",
+    "query": "Cyberleek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-e892ef2420",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVW9oR3doSGdDMUJ1R185RDNSTWhTZEZ1cnhoTm9GblV5ZTFxUW9xVUJvRGRDOGtNZjVHX3VBVEJ4RS15WDV4eVN5VGFSel9YVE1Va3VBWWd4ZWtlaHJPV2xkOEM3bk5zd184WEVFVGgzdjJURTN6cUktdlhJQ2tvUm5oalRvTlBEMTQ5a2w3cVllRXpaVGtESUUwSmNzVncwUnMxc05PU0dBbWEwZ2RKb3dNa1pfZW1HWVdhbUV5OUvSAcYBQVVfeXFMTVZvajBjZjZpcl9hOWtwTEhNbmZZNjFrZmt1MThTenBrWGpwTFV5Zzl4Q1NhRHp5SnZrMHlVRkZWd0NBamZiUjlmZmswcG9PaS13TWhuSzM3c3JEbUtzM09Ceks5SlJnb21URlhGSENiUlRIb1gyN05qMWltUlEya29iOXdZTElrM2VlcmlmWE5QWm5MaERkUTFtbWU2VUZKZzJXb1lYeFJZcE92RTVEb01sbUpBa0lzVUJabzFGNWFqMzBGV1dn?oc=5",
+    "title": "GTA 6 launch could drain $1 billion from US economy in one day: Report",
+    "publisher": "ET Now",
+    "publishedAt": "2026-10-23T08:30:53.000Z",
+    "discoveredAt": "2026-10-23T11:14:27.633Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-025"
+      ],
+      "category": "take-two",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-022"
+    }
+  },
+  {
+    "id": "DISC-c78676f4ac",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSXRrdGw2cmIwbTNtakFxNG1JcHJrZExSN0N1aFBRTWR2OFQ1ME1GS0V3QmFoeFp4VWxveGk2QTZqNVZpZGh0cGVhcTVLWTlfZDdyckEwTkt2WnMtN1dlb0pyelVmT3dCMGI0dlA2aWtBYjBBdktsbGxZcTAzcEphX1lzdlZta3hMLWw0UkFwYkhBWndIWk5tWkt2aF9rYzhZSFA3b1BSOGFVcVF4WmpfcmxhOHhvb25oQWdYNHpYblFUdGlNcnNNalVHOFdsRU9XUjN2UlVOQQ?oc=5",
+    "title": "GTA 6 leaks: Rockstar breaks silence as Lucia spoiler clips go viral, calls them ‘heartbreaking’ in new statement",
+    "publisher": "Gulf News",
+    "publishedAt": "2026-08-27T07:00:00.000Z",
+    "discoveredAt": "2026-10-23T11:14:27.633Z",
+    "feed": "google-news",
+    "query": "Rockstar CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "category": "rockstar",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-052"
+    }
+  },
+  {
+    "id": "DISC-d9e1433361",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adb4199b04a46fcb24666e88c82890e&url=https%3a%2f%2fwww.ibtimes.co.uk%2fgta-6-leak-parodies-viral-petrol-station-prank-1815847&c=5243779367757308826&mkt=en-us",
+    "title": "Leaked GTA 6 Video Parodies Infamous Truck Bed Gasoline Stunt Confirming Fuel Gameplay System",
+    "publisher": "bing.com",
+    "publishedAt": "2026-08-24T01:06:00.000Z",
+    "discoveredAt": "2026-10-23T11:14:27.633Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
