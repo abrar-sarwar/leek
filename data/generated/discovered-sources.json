@@ -37684,5 +37684,62 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-3855464daf",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSHpEbTZrendRWmJPQ0VTZ2xkVUFvTDBhbTk2SHRNQWJIcWh0YWhCTHdOSXJ3eGtwd1ZSZVRNU0E0bTNtSG8wcXEzbHdwTm1JVndlWGNzTy1tbjRxek5wQ2E3amJuY3BreWs0QVE4Y0lfenZHRHprWmk1Z0NkZDdSQ2swTzY0OTh6MnBpYWVTQi01WTlUb3dRbFE5WDQ?oc=5",
+    "title": "GTA 6's Latest Trailer May Have Contained Warning To Prolific Leaker",
+    "publisher": "TheGamer",
+    "publishedAt": "2026-10-16T08:43:09.000Z",
+    "discoveredAt": "2026-10-24T03:51:31.581Z",
+    "feed": "google-news",
+    "query": "Cyberleek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-19123c155b",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NWl9JNzRJTHplb2dHMXMxRXVrN2hZVmlZVWljRjNVb2hTanpQSTNET3dDMS1CRWQ0TkQyeDZMb0pJdkRGWUdhekw3b3QzdjV2d0FubUMyakkzQ1FBYmhaZlhhWndhdVlHSGwxaWR5N0s?oc=5",
+    "title": "GTA 6 Review Embargo Leak Points to Nov. 18 [2026] - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-10-24T00:35:01.000Z",
+    "discoveredAt": "2026-10-24T03:51:31.581Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-34250ae598",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSlFQVnNPSndEUGpBT05aZmo3bG9yWE9sUnVRZnFzSW5EWGdBVzl6OHg0eFlvVGczWjZud2ItckMzWFVYR3BESk5QbV9qOWdCU3dqVXA5Y0F3OEt6UFVRa0N3Z2kwTGxWNHM5em01SWUzVG5RTWpTR1FaTVZmbjVJY1hTVElfYmp1dWxKYjZaMF9tTktVUjZOdWczVVd0Um5Dc2xsX3QybG56N3pfcWhwWEFhRHFWM1pfaEVrajNPcw?oc=5",
+    "title": "GTA 6 review embargo time leaks, with some sites restricted until release date",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-10-23T23:49:00.000Z",
+    "discoveredAt": "2026-10-24T03:51:31.581Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

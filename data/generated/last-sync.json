@@ -1,77 +1,65 @@
 {
-  "ranAt": "2026-10-23T21:10:23.577Z",
+  "ranAt": "2026-10-24T03:51:31.581Z",
   "feeds": [
     {
       "name": "google-news:CyberLeek",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP 503"
+      "ok": true,
+      "items": 100
     },
     {
       "name": "google-news:Cyberleek",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP 503"
+      "ok": true,
+      "items": 78
     },
     {
       "name": "google-news:GTA VI leak",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP 503"
+      "ok": true,
+      "items": 100
     },
     {
       "name": "google-news:GTA 6 leak",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP 503"
+      "ok": true,
+      "items": 100
     },
     {
       "name": "google-news:Take-Two CyberLeek",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP 503"
+      "ok": true,
+      "items": 100
     },
     {
       "name": "google-news:Rockstar CyberLeek",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP 503"
+      "ok": true,
+      "items": 100
     },
     {
       "name": "google-news:CyberLeek Microsoft",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP 503"
+      "ok": true,
+      "items": 61
     },
     {
       "name": "google-news:CyberLeek Discord",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP 503"
+      "ok": true,
+      "items": 48
     },
     {
       "name": "google-news:CyberLeek subpoena",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP 503"
+      "ok": true,
+      "items": 43
     },
     {
       "name": "google-news:CyberLeek dead man switch",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP 503"
+      "ok": true,
+      "items": 42
     },
     {
       "name": "google-news:CyberLeek arrest",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP 503"
+      "ok": true,
+      "items": 49
     },
     {
       "name": "google-news:CyberLeek $CYBERLEEK",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP 503"
+      "ok": true,
+      "items": 38
     },
     {
       "name": "bing-news:CyberLeek",
@@ -91,13 +79,13 @@
     {
       "name": "bing-news:GTA 6 leak",
       "ok": true,
-      "items": 12
+      "items": 11
     },
     {
       "name": "gdelt",
       "ok": false,
       "items": 0,
-      "error": "HTTP 429"
+      "error": "Unexpected token 'P', \"Parenthese\"... is not valid JSON"
     },
     {
       "name": "courtlistener",
@@ -105,8 +93,8 @@
       "items": 20
     }
   ],
-  "discovered": 1758,
-  "newSinceLastRun": 1,
-  "pending": 958,
+  "discovered": 1761,
+  "newSinceLastRun": 3,
+  "pending": 961,
   "analysisMode": "rules-only"
 }
