@@ -37782,5 +37782,25 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-4bde31011b",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS2lwbGZmdGktWHZ3Q0VseEhtSTR1dEdKVUxGeGJ2N0FLbWlxWGhEWldTMllSQVNKN3BuR0ZfemYxbjVIeU5JNlNQRk5nT2V1RVJvMmhqdFU0QnpJSnFEWlh5MEhpTHpqVnFXVkdYeWFXSUQ4MXVfTnUwSW1nOW82MFFLTQ?oc=5",
+    "title": "TTWO Slips 1.98% as Opus 5.5 Tests GTA 6 Moat [2026] - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-10-24T11:13:33.000Z",
+    "discoveredAt": "2026-10-24T15:36:53.340Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
