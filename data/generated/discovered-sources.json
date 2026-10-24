@@ -37741,5 +37741,46 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-eda3259505",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQTBSZWgtOGkwb3J6SmhCelZuUTBHRXhud2RTeW4xRkQ5b1RLel90U3ByQ0ZxV3B2WmRVMWthYkRhZ2pGSEFSN2toVHFWSVBXcnduYUREWXFkSURsWnBUZFphSVd6dllSUExLQ1N6ZVZqcWJRbHZjV1ViRUtzMjRFMHdMOF9ENHM?oc=5",
+    "title": "GTA VI Survey: 10% Plan to Skip Work Launch Day [2026] - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-10-24T09:35:11.000Z",
+    "discoveredAt": "2026-10-24T10:33:19.219Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-17d007fb5e",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Lak1UMlc3dmRzQ1FLYVVqWDdDQjhVV054ZEVJdWhzdWNQMUZUNEpGVFJTZVRTOG92SEdkT1JvM181ZTJTWTZ6UzQ2RTVPX2FjVVJtZHlUcGthTTJRRWd6bEVOalZEaEhfVzlTV0t3eGNlY3E0S25aTg?oc=5",
+    "title": "The Leaker Who Turned Rockstar’s Silence Into a Crypto Pump",
+    "publisher": "Fandom Pulse",
+    "publishedAt": "2026-08-26T07:00:00.000Z",
+    "discoveredAt": "2026-10-24T10:33:19.219Z",
+    "feed": "google-news",
+    "query": "Rockstar CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
