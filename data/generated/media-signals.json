@@ -5150,5 +5150,13 @@
     "domains": [
       "news.google.com"
     ]
+  },
+  {
+    "date": "2026-10-25",
+    "feed": "google-news:Cyberleek",
+    "count": 1,
+    "domains": [
+      "news.google.com"
+    ]
   }
 ]

@@ -11542,5 +11542,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-c7dae2e570",
+    "title": "Cyberleek Shares More GTA 6 Footage Featuring Lucia Naked",
+    "reportedAt": "2026-10-18T04:28:12.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ULWhnT21RSDYzLTQtaVhYaGxJUzRnWGxRUXlWZDlBZnZpbGxsYXJ4ZTFDVVNJQWMxNE5VNzRGXy14MGEyaFJzZGY0RGZyUExENkZtODVabmpLbGxnWVhZVg?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

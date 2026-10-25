@@ -37877,5 +37877,29 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-c7dae2e570",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ULWhnT21RSDYzLTQtaVhYaGxJUzRnWGxRUXlWZDlBZnZpbGxsYXJ4ZTFDVVNJQWMxNE5VNzRGXy14MGEyaFJzZGY0RGZyUExENkZtODVabmpLbGxnWVhZVg?oc=5",
+    "title": "Cyberleek Shares More GTA 6 Footage Featuring Lucia Naked",
+    "publisher": "IMDb",
+    "publishedAt": "2026-10-18T04:28:12.000Z",
+    "discoveredAt": "2026-10-25T15:47:06.368Z",
+    "feed": "google-news",
+    "query": "Cyberleek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-025",
+        "LEEK-CLM-029"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
