@@ -37840,5 +37840,42 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-b382539701",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWFZRaGUtTk9zWElMZzBWc1NrcmYyTmJjVDJEenZUcDl4U0ZyMklrckdrUnNUT1BxNlpWMkd4Qjk3alc2TXpvSDBLeHktVEtGTzdTM2tMQThBaGp1d2RlZFlUSjFPa1M3VTBqSldhOVRGOFV3bmh4VzNFVWx1WUxqTkxUR2U4Zjc3?oc=5",
+    "title": "GTA 6 Gameplay Leak: 25 Minutes, Nov. 19 Launch [2026] - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-10-25T08:30:21.000Z",
+    "discoveredAt": "2026-10-25T10:58:38.830Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-1c97ff7a99",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVDQ4ZE5IbldRZXJLcjZERUl1OUdjTTRFSnp2YjdKaHhYelBja2kwQi1RMmxGMEE1anhxY05VbXNmcS1mdDI3d201OFhvR2dpQUQzV043YUYwT28wbF91cm15bTVNanFhcXZIZkY5NUhZQTY3Qldjb3lLOFloemZISWdwV04tSDV6VVZsVldtenlWVWdfeVFJOW5QMjZrc3NIQ1VvcG04Z1lDZzF6Q0JZ?oc=5",
+    "title": "GTA 6 review embargo reportedly lifts November 18th, but some outlets may wait until launch",
+    "publisher": "eGamers.io",
+    "publishedAt": "2026-10-24T17:24:15.000Z",
+    "discoveredAt": "2026-10-25T10:58:38.830Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
