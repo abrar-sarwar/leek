@@ -37802,5 +37802,43 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-15e9d00252",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORXdOUFVnM01jWWxJZnpGZkxXelZ0U1NGWkNia3gtY2tFeDNwWHZXSDVOYWNPS2x6ZGRxQ3FHY2kwYmJxLWtrdDlWdUhrSUczSUZmbEMtVlNOOGNYbUtnM0ZIRHpEcENkVi10ZTV0R1VWdUI5RktHZ1VFQjVEN2xKMUp5RGlKbG8?oc=5",
+    "title": "GTA 6 Trailers: 4 Fan-Spotted Nods to Players [2026] - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-10-25T00:10:10.000Z",
+    "discoveredAt": "2026-10-25T03:50:32.004Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-e1fbbc7b1b",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFByX1dWMlFDYXhtNmRoN0o2Zk1pb3Y4LTFKeEpscTFmbDI3cnQtb1doc3pqNUppbVVmM0lXR0VJWjVSMXFDRFp1SUI0S1h2bHhrenp4WXVpbHpWd3RtU3EydjNHbkM4c2d4RW1KMFVmbUNrdUNFOGlBUmNR?oc=5",
+    "title": "Why $Cyberleek didn't pump to $30m last weekend despite the",
+    "publisher": "KuCoin",
+    "publishedAt": "2026-10-15T07:00:00.000Z",
+    "discoveredAt": "2026-10-25T03:50:32.004Z",
+    "feed": "google-news",
+    "query": "CyberLeek $CYBERLEEK",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

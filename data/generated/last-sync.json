@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-10-24T20:27:20.496Z",
+  "ranAt": "2026-10-25T03:50:32.004Z",
   "feeds": [
     {
       "name": "google-news:CyberLeek",
@@ -34,12 +34,12 @@
     {
       "name": "google-news:CyberLeek Microsoft",
       "ok": true,
-      "items": 57
+      "items": 56
     },
     {
       "name": "google-news:CyberLeek Discord",
       "ok": true,
-      "items": 47
+      "items": 29
     },
     {
       "name": "google-news:CyberLeek subpoena",
@@ -59,7 +59,7 @@
     {
       "name": "google-news:CyberLeek $CYBERLEEK",
       "ok": true,
-      "items": 37
+      "items": 36
     },
     {
       "name": "bing-news:CyberLeek",
@@ -89,13 +89,12 @@
     },
     {
       "name": "courtlistener",
-      "ok": false,
-      "items": 0,
-      "error": "This operation was aborted"
+      "ok": true,
+      "items": 20
     }
   ],
-  "discovered": 1764,
-  "newSinceLastRun": 0,
+  "discovered": 1766,
+  "newSinceLastRun": 2,
   "pending": 961,
   "analysisMode": "rules-only"
 }
