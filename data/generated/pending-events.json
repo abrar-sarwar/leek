@@ -11554,5 +11554,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-d8a5e85e99",
+    "title": "Take-Two’s hunt for GTA 6 leaker “rapidly evolving” as two suspects identified",
+    "reportedAt": "2026-09-01T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNm8xanAya19GcHI1SFpfdC1lNVMza2VSOWtpdjczQjlLSVB1cExnM01JWmtUb2ZKekJLOXN1ZHFTTDRhMUZ0Q0JCc0N0dzkydTFVNWd0aFRLYjJfTHdldG5kT2ZET0VyQzJXYmNOXzNPam40V3o3NlVTUTBpWGlyeEFLa0RLb29acm8xeno3am1ZUWpjS2pEWl8ySURiZ3ZUUGhITDJ1Y2tISWwxNVFmSERB?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

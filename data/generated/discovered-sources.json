@@ -37901,5 +37901,28 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-d8a5e85e99",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNm8xanAya19GcHI1SFpfdC1lNVMza2VSOWtpdjczQjlLSVB1cExnM01JWmtUb2ZKekJLOXN1ZHFTTDRhMUZ0Q0JCc0N0dzkydTFVNWd0aFRLYjJfTHdldG5kT2ZET0VyQzJXYmNOXzNPam40V3o3NlVTUTBpWGlyeEFLa0RLb29acm8xeno3am1ZUWpjS2pEWl8ySURiZ3ZUUGhITDJ1Y2tISWwxNVFmSERB?oc=5",
+    "title": "Take-Two’s hunt for GTA 6 leaker “rapidly evolving” as two suspects identified",
+    "publisher": "Dexerto",
+    "publishedAt": "2026-09-01T07:00:00.000Z",
+    "discoveredAt": "2026-10-25T20:34:27.872Z",
+    "feed": "google-news",
+    "query": "Take-Two CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive"
+      ],
+      "claims": [
+        "LEEK-CLM-016"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

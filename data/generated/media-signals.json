@@ -5158,5 +5158,13 @@
     "domains": [
       "news.google.com"
     ]
+  },
+  {
+    "date": "2026-10-25",
+    "feed": "google-news:Take-Two CyberLeek",
+    "count": 1,
+    "domains": [
+      "news.google.com"
+    ]
   }
 ]
