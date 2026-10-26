@@ -38040,5 +38040,101 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-ec53c6f2f9",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeVpXN1lPY1d0cm9lMzVJUmJWQ1ZaUExkdGpBSllfNlpWMnJPeUZTTzhOektGbzNrT2w2ako5b216R0x1eEFaUlFkREVOeWhtNWx3QzhwaGVGYjJsbkxqX0g1OVd0Z0xXb19WZnpqVjE4UVhmYXBvQ1B4N29mRmNrUTBqWHBkTFBBZUhwaWtiZC1JOFl4eGRVUzRXYUlXazVJVHhnMDF3amFYbmhQSnY3eERCV1d2MVdSSHlHMnpB?oc=5",
+    "title": "'GTA VI' Has More Places Players Can Enter But Not a Larger Open World Compared to 'GTA V,' Says Rockstar",
+    "publisher": "Player.One",
+    "publishedAt": "2026-10-26T07:22:21.000Z",
+    "discoveredAt": "2026-10-26T12:30:38.262Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-15b6657dba",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa3YxU293MUFOY1gxdkhrNmFYWWlTcHJLbEFCYVhEQmx0ODVGUDFTZnN6b3oxLTNlUXVFNzN2OTFkSmYtQm5GN0JDU2lXMWNYRU9ZeFdiOTF5NnVhb1QtdjR2bE52aHVFcWhucDZ0Yl8xbmlTMUo0NE82QmhMV2pLaXlnYjBSdw?oc=5",
+    "title": "GTA 6 Netflix Extended Look: 26 Min Leaked [2026] - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-10-26T04:31:12.000Z",
+    "discoveredAt": "2026-10-26T12:30:38.262Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Netflix"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-bc0753354c",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb2dTaFJULWxZWFJEOTkwN3dSSFlMNVptQUxLUlRVS2VMLXpmLVVSa0p0YzlPaTh3ZlQyNDJLNGFYZkZndzF0eWtJOG9kVnVXaElPTmF2TjRoOS1Obk04Tm10LTRlV1k0UzNJa0tsOEZ2RkRpN1AwX2w5Uk5USXl5WENtaDZZc2k2UVpCTzl3?oc=5",
+    "title": "GTA VI Map Size: 2x Claim Clashes With Report [2026] - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-10-26T08:12:13.000Z",
+    "discoveredAt": "2026-10-26T12:30:38.262Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-afc009359f",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMW9fbVVhWVRnQXBUdWJ1ZFFSMWJWUURobkYxazdnci0xVkI2VG4zSWRDdE1WRWdGVDc0clJVdU1BU1M0aEFfV2w3S0ZENDYxSXlrbzVmZmRORm9GV1BBR3Z4TVBYQ2gtZ2dJSnZQZGVEUHAxZ2IyNGZFVnZneE5UXzJpNXJoTTN6V1M4?oc=5",
+    "title": "GTA 6 Editions: $79.99 vs $99.99, 16 Extras [2026] - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-10-24T11:50:19.000Z",
+    "discoveredAt": "2026-10-26T12:30:38.262Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-68e02565e4",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeFZWLWtqeXl4TlNjQ1FZTTdNMWlOVkpaSDRYbVpVS0ZfR2xESThLcHRGcTc4NmczN01ILUJOSHc5QXljQnN3S01PMS0zQnM1Rl9BSFRDZDd6ZHk2QXdrVFdMUXdkdHRjdnNnYVdEZGlDR1M1REZWcmpiZ3duemdYclh3dmdyQWx3VW9KQVdRVHk?oc=5",
+    "title": "Does Shirrako already have GTA 6? The palm tree post doesn't confirm creator copies",
+    "publisher": "Pasquale Pillitteri",
+    "publishedAt": "2026-10-26T07:02:24.000Z",
+    "discoveredAt": "2026-10-26T12:30:38.262Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

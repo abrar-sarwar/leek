@@ -11590,5 +11590,29 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-15b6657dba",
+    "title": "GTA 6 Netflix Extended Look: 26 Min Leaked [2026] - https://tech-insider.org/",
+    "reportedAt": "2026-10-26T04:31:12.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMihgFBVV95cUxPa3YxU293MUFOY1gxdkhrNmFYWWlTcHJLbEFCYVhEQmx0ODVGUDFTZnN6b3oxLTNlUXVFNzN2OTFkSmYtQm5GN0JDU2lXMWNYRU9ZeFdiOTF5NnVhb1QtdjR2bE52aHVFcWhucDZ0Yl8xbmlTMUo0NE82QmhMV2pLaXlnYjBSdw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-bc0753354c",
+    "title": "GTA VI Map Size: 2x Claim Clashes With Report [2026] - https://tech-insider.org/",
+    "reportedAt": "2026-10-26T08:12:13.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb2dTaFJULWxZWFJEOTkwN3dSSFlMNVptQUxLUlRVS2VMLXpmLVVSa0p0YzlPaTh3ZlQyNDJLNGFYZkZndzF0eWtJOG9kVnVXaElPTmF2TjRoOS1Obk04Tm10LTRlV1k0UzNJa0tsOEZ2RkRpN1AwX2w5Uk5USXl5WENtaDZZc2k2UVpCTzl3?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
