@@ -11566,5 +11566,29 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-7ebe5f5b31",
+    "title": "Fans Turned the GTA 6 Leaker Hunt Into a Counter Strike 2 Heist Map",
+    "reportedAt": "2026-10-17T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTTdXUmtPTDFnQWFEZnUxbm1yZS1WYWpSSzNZeUlzN3hpMDNjeUV0QlR6QXVVTlhuY05pQVBFbDRZTmRhQ2dBZ1hhdWdrOVlIRkFoZ20yVU1HVGp4Zm5EU2NNMEZGdi1tMmVxbWw0ZERCNUxNcWYxWTdkOVUweTJKWmdxY3VHWF9XZ0dYTXhXVHktUQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-f529944e80",
+    "title": "Take-Two's November 9 Reckoning: Two Bullish Calls, One Unverified Leak, and the Numbers That Will S - ad-hoc-news.de",
+    "reportedAt": "2026-10-24T02:40:35.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMFN6V2R3aHJJRVZhcUx5cklwOGdKTmd0RTZ1SWRtSGxmTUxnSTF0ZDF2QXg4SHIxWG5keHVYLVJSVXN0LV9KYmxsUGRZb2xMTmQ1cmtmUndPZ3cxdkJ2bUlHSnhFallWNl9RY1ZtZVNmNjN0RWNxNmdmX3hpNE9SbzUtQS15ZVQ3aUcwbzVrb3Z3MWZVOE9MNkEtM1BCMjJ0TUpWTERManFySTVuNEF3ZHZIYzA4U2JuSGRXY0RTWEVUTjB5V2c0bmU2LXIyUnQ1Z3ZINTNoR1NVZkF0WTcySGlGRTc4bmo1RnUzbUF3S2FYVXgzZjhyUFZtcw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
