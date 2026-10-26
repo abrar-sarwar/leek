@@ -38136,5 +38136,88 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-8285911f07",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY1ZSdkE0Yy1JTks0bWtDSFktYlFqcldOZll3bXVjRHB6b1ZmYmRId1ZjSHpOengzN3IzbUlTeDVjcE5pTVItZjRtcGRWUWpHQ3JmazNyRkp5VDJmSHlHa2hGNXVtbkE4cmx1NUVZWlFXc3A1ck9iLU5GZVp1cW9QQWhsaVg1bmN2alhjbWRETl92NTZ1U21YT2I1TGU3QUt6UnVvOEljaHFxMUZ0aGc?oc=5",
+    "title": "Cyberleek leaks the ending of GTA 6 and activates its own dead man switch",
+    "publisher": "Foro3D",
+    "publishedAt": "2026-10-21T07:00:00.000Z",
+    "discoveredAt": "2026-10-26T22:26:16.542Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-012"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-5c835ba02b",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLUNsZ2l1dTZEcTFhb3FEelk5SWRma0p6cHhLZHkxc3RJX1ZiRTVZYWlyMUdvelA2WnAyR2pUSkJFc1NrcVJTMVgwSlZMb05tNnVvYnBQN3NPbGVUekhBWDFWUXpsUVprSW9NckZLYzAwUzVpa3hQb0dUOHJOOUFpcExkN256SzVZWFlEQzBFX1o4VWtBbHdzWnRqcHZWS2hBNVBCa0N0Z21uSFhSQmtEcXRzd1E3a0NGc1BGWg?oc=5",
+    "title": "GTA 6 review codes are out in the wild giving outlets just over three weeks",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-10-26T16:32:00.000Z",
+    "discoveredAt": "2026-10-26T22:26:16.542Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-028"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-33ce4715a1",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWDFzTk1EU1lOaVJ0dm81VlV4d2JPVHhSZjlvcl9xT1VSSGh6SXA5ckF0VHdkcFZZUEpPQkJpbW5aNzFJQUl2X2RJRTdIOGJhTHNlSGV3dFFYeHRmUWdBTHd0a1J1T25fZnJIWXcyV2JBbDgtYm1lTExHUGdCbVVCeVBBUzJCS2xTTjBnbDd6ekRnN0Ju?oc=5",
+    "title": "GTA 6 Price in India: ₹5,999 (~$68), Nov 19 [2026] - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-10-26T13:12:59.000Z",
+    "discoveredAt": "2026-10-26T22:26:16.542Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-2f4fe90b19",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfd38ef59549ed84d5acb0ae4a018c&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fgta-6-release-date-price-in-india-map-gameplay-and-other-details-you-need-to-know%2far-AA2g5pMO&c=12773272035053845381&mkt=en-us",
+    "title": "GTA 6 release date, price in India, map, gameplay and other details you need to know",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-26T04:34:00.000Z",
+    "discoveredAt": "2026-10-26T22:26:16.542Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-006",
+        "LEEK-CLM-029"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

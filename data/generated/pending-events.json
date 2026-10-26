@@ -11614,5 +11614,29 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-8285911f07",
+    "title": "Cyberleek leaks the ending of GTA 6 and activates its own dead man switch",
+    "reportedAt": "2026-10-21T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY1ZSdkE0Yy1JTks0bWtDSFktYlFqcldOZll3bXVjRHB6b1ZmYmRId1ZjSHpOengzN3IzbUlTeDVjcE5pTVItZjRtcGRWUWpHQ3JmazNyRkp5VDJmSHlHa2hGNXVtbkE4cmx1NUVZWlFXc3A1ck9iLU5GZVp1cW9QQWhsaVg1bmN2alhjbWRETl92NTZ1U21YT2I1TGU3QUt6UnVvOEljaHFxMUZ0aGc?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-2f4fe90b19",
+    "title": "GTA 6 release date, price in India, map, gameplay and other details you need to know",
+    "reportedAt": "2026-10-26T04:34:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adfd38ef59549ed84d5acb0ae4a018c&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fgta-6-release-date-price-in-india-map-gameplay-and-other-details-you-need-to-know%2far-AA2g5pMO&c=12773272035053845381&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
