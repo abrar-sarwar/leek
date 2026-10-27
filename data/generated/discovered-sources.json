@@ -38318,5 +38318,43 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-7b1abf7c0d",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5raUJLMHRpY3B0LWJiR1RxaFFtUGxnOEJyRFNlYm8xYmlqcDhBR0htSlZVejhFdUZVYlFtS0oteDVITHVPMy12TVlZbk5aYm5HNHV5Vk83UnRfYmIwVkdrVjYtc2pmQzBhTlludw?oc=5",
+    "title": "GTA 6 review codes are out & review embargo is set for November 18, 2026",
+    "publisher": "Khel Now",
+    "publishedAt": "2026-10-27T07:50:00.000Z",
+    "discoveredAt": "2026-10-27T11:48:45.335Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-eb6516771d",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae08fa15e98479b9e54e33b61eba1ff&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2frockstar-games-reportedly-lets-select-people-play-gta-6-early-reviews-expected-on-this-date%2far-AA2g9kMp&c=15219782791648880427&mkt=en-us",
+    "title": "Rockstar Games reportedly lets select people play GTA 6 early, reviews expected on this date",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-26T23:06:00.000Z",
+    "discoveredAt": "2026-10-27T11:48:45.335Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
