@@ -11638,5 +11638,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-eccbe8945a",
+    "title": "GTA 6: New Gameplay Leak Featuring Lucia Possibly Revealed",
+    "reportedAt": "2026-10-26T19:12:15.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd2JXeUd1dVgycDE4MlFtV3g1c2EtdlNvd3hwRFZ5dVVna0U3VU9TZW5OalZnSEcwRmFHTDRCQXllRGZDdE1DTl9iMENGRDNOU0R2dmp5eWR0aFUwWVh3UEJmdjFJSW5rcHl0aUF2VFljejlwWVVIVlRteVcwWUpqRTU0c0VCWkwyV1FXZGhweWZVU25GZ21NRA?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

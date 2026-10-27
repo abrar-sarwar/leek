@@ -38219,5 +38219,104 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-108ff8063f",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JbUFQYTFyWmNteU96ckl4WHZqNjk3NmR6aUdmQTJaWHNHb21nN1VDU3F5ZXY1MmltRzhmQ0djc0xpTm9LRVBpRWRQWGg3WG5na0hWZ1k1UHltSklYbXhZTlFrOGlCb1k?oc=5",
+    "title": "GTA 6's Download Size Could Be A Major Problem For Some Players",
+    "publisher": "SVG",
+    "publishedAt": "2026-10-27T01:00:00.000Z",
+    "discoveredAt": "2026-10-27T04:16:26.722Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-eccbe8945a",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd2JXeUd1dVgycDE4MlFtV3g1c2EtdlNvd3hwRFZ5dVVna0U3VU9TZW5OalZnSEcwRmFHTDRCQXllRGZDdE1DTl9iMENGRDNOU0R2dmp5eWR0aFUwWVh3UEJmdjFJSW5rcHl0aUF2VFljejlwWVVIVlRteVcwWUpqRTU0c0VCWkwyV1FXZGhweWZVU25GZ21NRA?oc=5",
+    "title": "GTA 6: New Gameplay Leak Featuring Lucia Possibly Revealed",
+    "publisher": "EGW News",
+    "publishedAt": "2026-10-26T19:12:15.000Z",
+    "discoveredAt": "2026-10-27T04:16:26.722Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-382647c3ba",
+    "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5oS1VWVFpiWUQ3dzhROHRWeUVOOFVtTmtZMU5KXy1Xb1F3dGdnSDMweGpfZVpOeF9tbERz?oc=5",
+    "title": "Inside Grand Theft Auto VI - A Documentary",
+    "publisher": "Howl.Link",
+    "publishedAt": "2026-10-26T13:42:40.000Z",
+    "discoveredAt": "2026-10-27T04:16:26.722Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-3edf65876d",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQS2FEd2N5TTFueTNFcGdPV0ZGMlhIOXZqMHJ6UU4yY0RMY3g2NU10OHBRQ2gySklIWDE0RWJOY0tUZ0JIWXdPVi10bUZzLXZaeHBZTkhrdnpEaUlhSmxjb0JpMXp6MDEzbDRnLTJZUVJkM3RJQmQ2MzVmVVU3cjdDckxkNFlIVXl4MHphRkhJWllGTHZRSlBCckN3TS1kc2dq?oc=5",
+    "title": "GTA 6 fans are reselling rare merch for crazy amounts of money",
+    "publisher": "Dexerto",
+    "publishedAt": "2026-10-26T19:30:22.000Z",
+    "discoveredAt": "2026-10-27T04:16:26.722Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "community",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-8e1e5c4ff4",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNU3VWZklCeGo1cUloTk5qZFg0OXNtV1hpSnJDZlRmcXhyM2dJbTExX0R0em5XQVJmOEpJVlZtUXQ5MUV6X1FxdW8xUU5VYWhoRlBPVmxoZkZEMU53bGJscUVZZlh2aERZaXVZQlpfb2p6WHJIQVNaNUZBcWkyYXZ3eXE5bmN2STlfYmpacmk2N1EzUFVfTkZpMHNoejhCZ1B1Um50MEhQT0JNdGFZTmlnOU01Q0VIVkJWckk4ZXBUOHo2d1FHNDA3T1F0UFBZRHRyYnlhMHZUVDhvcm44aVE?oc=5",
+    "title": "'If we can reach Rockstar, no one is safe' — GTA 6 'leak': Crypto group issues industry-wide threat",
+    "publisher": "Gulf News",
+    "publishedAt": "2026-08-19T07:00:00.000Z",
+    "discoveredAt": "2026-10-27T04:16:26.722Z",
+    "feed": "google-news",
+    "query": "Rockstar CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
