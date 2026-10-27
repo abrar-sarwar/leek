@@ -11650,5 +11650,29 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-389438c2cb",
+    "title": "GTA 6 Leaks Just Got More Serious | IGN India Podcast Clips",
+    "reportedAt": "2026-10-17T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeWZxZjgtTFlkdTZaSms3bkJ2T012OThORllVTzBmOWxVZ3MxTHdDVHluTGRQVHlWamw0QXhYLWxuTGZ3ejNJRF9EVTVueVhUU05FSHFmZldxOWplTnRRVzhMVUYxLXlxQXdHQ2RWeVl5eVVzRTZSM3F3X1hRQUkta1FxWlluOVZmTEJxek95UWUtR2VYb0JLcDZOcUxhS3ZWdUdIUUZB?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-4529a67284",
+    "title": "GTA 6 Gameplay Leaker Gives Rockstar Three Demands Fans May Agree With",
+    "reportedAt": "2026-08-25T07:00:00.000Z",
+    "category": "actor-statement",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Mb0psa3Z2TXRhdTFWUGt5a3EzQUJpeFIwYlhVZXJpdHdVX2dfZnF2Z0N3QzJGX0R2Yl82anpMdnR4ZkN4TUo5RXVqMFhSZnJvTkppTUc5TkktdEJGYTFMVDUtQjhMdlRMRmt5NWFLNUZoZUdDakE?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

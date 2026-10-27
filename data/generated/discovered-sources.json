@@ -38356,5 +38356,101 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-7c5e9fb84f",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaXdNUkZ0UXlEUkR5LURJNjdGeU1JMHgzeTMyRGY5RVNBRThpM3lUN1p2U2l3VEdjaHRKbUtZeE41TTI1VlhvTEtfSjc2R0NLcnJVQWVaR3E4U2ZqOUg0SUU5V1ZJN1JKSU1JOWVxMTlSWEhXWmRoMHZZbTlwalU3Ylc4Znc5TE03aWpOanVVTkVjWGdSWV91X1FR?oc=5",
+    "title": "Why GTA 6 characters could have nude models that players never get to use",
+    "publisher": "UNILAD Tech",
+    "publishedAt": "2026-10-27T10:14:17.000Z",
+    "discoveredAt": "2026-10-27T17:42:39.556Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-389438c2cb",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeWZxZjgtTFlkdTZaSms3bkJ2T012OThORllVTzBmOWxVZ3MxTHdDVHluTGRQVHlWamw0QXhYLWxuTGZ3ejNJRF9EVTVueVhUU05FSHFmZldxOWplTnRRVzhMVUYxLXlxQXdHQ2RWeVl5eVVzRTZSM3F3X1hRQUkta1FxWlluOVZmTEJxek95UWUtR2VYb0JLcDZOcUxhS3ZWdUdIUUZB?oc=5",
+    "title": "GTA 6 Leaks Just Got More Serious | IGN India Podcast Clips",
+    "publisher": "IGN India",
+    "publishedAt": "2026-10-17T07:00:00.000Z",
+    "discoveredAt": "2026-10-27T17:42:39.556Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-92d1745ed5",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYzVQX1l0VDR2VGVoRmVTcFdQUHZ3aW5JV3JYRXVUSFlKdExES0cwWkRUNkljTUlmbWhNNmhTRVV3VWUtckN2N0JqUHJ5akR5Y3Z3MXJXYnF1VXBzVV9Fb2hOeHcweEY1bVc4LWg4WUVibjJscmgtZUtQdkd5ejc2ek03dUktenk2LTdGbXBTQWs0bnRJclllX1FSeXV1a0JIQUxTbXNMQjB2TzI2Sy15R0JicV9KZXM?oc=5",
+    "title": "GTA 6 Launch Threatened on PS5 as PC Port Reveal Highlighted as 'Only Real Fix' To Console Hacks",
+    "publisher": "International Business Times UK",
+    "publishedAt": "2026-10-20T13:00:39.000Z",
+    "discoveredAt": "2026-10-27T17:42:39.556Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-3fbb6413f6",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBKSmNRdWxjTXpnNFk2dl9vcFlPM0pncDNkbTBjWVNkOXkwVXY3MjNvY3VnT01zbU1maHlOOUtWWXNkdXpGRm04UHNZckNOTkYxQkVlNkQxczhaU19FS1NPaFphTUdMTU5qc1ZsS1Z6YnEyVklmLW1SS1I2RmU?oc=5",
+    "title": "GTA 6 Release Date Nov. 19: $79.99, Platforms [2026] - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-10-27T12:12:59.000Z",
+    "discoveredAt": "2026-10-27T17:42:39.556Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-4529a67284",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Mb0psa3Z2TXRhdTFWUGt5a3EzQUJpeFIwYlhVZXJpdHdVX2dfZnF2Z0N3QzJGX0R2Yl82anpMdnR4ZkN4TUo5RXVqMFhSZnJvTkppTUc5TkktdEJGYTFMVDUtQjhMdlRMRmt5NWFLNUZoZUdDakE?oc=5",
+    "title": "GTA 6 Gameplay Leaker Gives Rockstar Three Demands Fans May Agree With",
+    "publisher": "SVG",
+    "publishedAt": "2026-08-25T07:00:00.000Z",
+    "discoveredAt": "2026-10-27T17:42:39.556Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-022"
+      ],
+      "category": "actor-statement",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
