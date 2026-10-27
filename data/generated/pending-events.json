@@ -11674,5 +11674,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-4ffd15c60a",
+    "title": "GTA 6 review copies reportedly have watermarks, with Rockstar to punish leakers",
+    "reportedAt": "2026-10-27T21:14:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQkRPZVRRbHZPNnZDWkZiZ1hZR0cxXzFlckdMdDctYzdGWmtlR083WDNSbnduQXBKUjNuMmlWVDBtQjJGX3ZUcWRuM2htYmRVRzFzM1VyTF9yenFaSF96bjF3TU1SUmRoRW9fTnRtTFhXcGE2NU9qNGY4WGVuY3VzRlhxM3VVaW5uWUVQSWJMMDQwcDFSYVdvRjEwZDd6S1Z1UDdYNUFXSmFRNUl4ZjFLM1ZwbUs5SUkxaGVyZEQxZ0k?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

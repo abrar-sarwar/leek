@@ -38452,5 +38452,62 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-4ffd15c60a",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQkRPZVRRbHZPNnZDWkZiZ1hZR0cxXzFlckdMdDctYzdGWmtlR083WDNSbnduQXBKUjNuMmlWVDBtQjJGX3ZUcWRuM2htYmRVRzFzM1VyTF9yenFaSF96bjF3TU1SUmRoRW9fTnRtTFhXcGE2NU9qNGY4WGVuY3VzRlhxM3VVaW5uWUVQSWJMMDQwcDFSYVdvRjEwZDd6S1Z1UDdYNUFXSmFRNUl4ZjFLM1ZwbUs5SUkxaGVyZEQxZ0k?oc=5",
+    "title": "GTA 6 review copies reportedly have watermarks, with Rockstar to punish leakers",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-10-27T21:14:00.000Z",
+    "discoveredAt": "2026-10-27T21:57:13.492Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-f9315e1b95",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNHI4UGY4R28zYW1FRlp0UmlxWVNfSHdTWXlLUVoyZm5vaDlKNmhwNEQzc3JGYXBwZmFtYUJ6M2tmVkktcXNaNC14bnlmVmUzZnBDM2RBdUQyMzZtc1czSDZqTW13bUVpVlFsOEhoT0d0ZmFqTlppNm9KbGVzeUZyeFM1Tl8zYkZld2t6Tw?oc=5",
+    "title": "GTA 6 File Size is Reportedly 210 GB on PS5",
+    "publisher": "KeenGamer",
+    "publishedAt": "2026-10-27T19:49:27.000Z",
+    "discoveredAt": "2026-10-27T21:57:13.492Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-0a3c1ad6f9",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae11e3db2b145dda0cd532754103e26&url=https%3a%2f%2fwww.msn.com%2fen-us%2fgaming%2fgame-reviews-and-previews%2fgta-6-pre-load-dates-and-file-size-when-can-you-download-the-game-on-ps5%2far-AA2gbR2a&c=11824462139204952494&mkt=en-us",
+    "title": "GTA 6 pre-load dates and file size: When can you download the game on PS5",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-27T11:18:10.000Z",
+    "discoveredAt": "2026-10-27T21:57:13.492Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
