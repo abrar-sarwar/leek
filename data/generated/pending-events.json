@@ -11698,5 +11698,53 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-314c724a98",
+    "title": "Rockstar Has Found a Way to Identify the Sources of GTA VI Leaks - Root-Nation.com",
+    "reportedAt": "2026-10-28T08:38:28.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNktJb0thNTlVcy1kQmdRQ19jcHU0RFA0WGVXNzBpaG11NEstUEpKS2V2VlgtSGRfSDNZUWY3UW5jYTdTN0xZUDdZWnpfT0JoWEM1cGxhdC1QOHNLSk9SaTZhTmtycnJOS1kwNGVRZkdLb2NnUmh0cHBpSHkxbWpUN0loZzIyNFUydjJmc3FHaXdMbFRvbVBF?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-0d45265d4e",
+    "title": "GTA 6 download size leaked ahead of launch: Here is how much space it may occupy on your gaming consoles",
+    "reportedAt": "2026-10-28T06:35:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPY0JQWVlTaF9NQmhyWmZOLW94WEF4ZUlCaTl6eG5ob0Rhd1ZHeDlrTXhxMGNlbHlJVVF1elF0ZjZORjVaZE9Nb0ZoWk80dzlsRFozTHZuanBDQ1ZuSG1rek9JUzhCaDNVeDJXcmNtQ2E2b0Z6aWhoa3VwNWdnb0JuVzh6UWFFQW8zcXFUQXJnbnl2Q3o2c0VhQkxPalBjalgwZVV5NjU5RkFpMXlmQnhJRkFWTnFCLWpUNXAxcFdkYlRINndUR25ncVJsZWpRU2ZabEhEOUtIZXDSAd8BQVVfeXFMUE1QSXFvWmZES1ZXUC1vSWdHSnBuUTZtRjV4cWpVOWRxc2VlSVN4UEd6V2RVYnR1QUFIOUk0c0dpZzlkTGliZHN5RWd1NEpTZDdxc1kwdk5taUlEM3hSbk1VVFZqNUY4UEk4ZnpMbG1OeWVPTVRWT3ZMTy1SZ2JfWFhrU3ZaTWQ5aUxCblhUZDRpSk5VYmRzMVp1QzZ4MWplcmVrM0RTYWthdlExbXBKREN0cXcwbTdlREcxV3Q4bXlLY08tcWgzcE95V3pGcDBpYlYxNTFLbXBJMGxjX0I5SQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-05ca4c0a22",
+    "title": "GTA 6 File Leaked? 210 GB Expected for Preloads in November",
+    "reportedAt": "2026-10-28T07:59:20.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb2xMWWhEcC1xY01LTEdqLTNGRE1fZjY5UkdaN2Y0Y3NxN09Oam9fdzN1MGRncFNtd1ozMXVKVEdCbzFaQVpXajRoSWY3YV83dFFHYktibVRQMDJwNkNZUW0yR25rNE9WeFBPQzdXM19Qa1RWQ0x2LV9yX0U1SG53RXg1NUZrMWxnNzhj?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-4dfa7f9db7",
+    "title": "GTA 6 File Size Leak: How Much Space Do You Need on Your PS5?",
+    "reportedAt": "2026-10-28T04:49:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae1e92603824b7698b35f1cfed1bc92&url=https%3a%2f%2fwww.techloy.com%2fgta-6-size-ps5-how-many-gb%2f&c=18299404713035988345&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

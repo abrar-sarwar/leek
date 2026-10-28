@@ -38664,5 +38664,201 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-314c724a98",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNktJb0thNTlVcy1kQmdRQ19jcHU0RFA0WGVXNzBpaG11NEstUEpKS2V2VlgtSGRfSDNZUWY3UW5jYTdTN0xZUDdZWnpfT0JoWEM1cGxhdC1QOHNLSk9SaTZhTmtycnJOS1kwNGVRZkdLb2NnUmh0cHBpSHkxbWpUN0loZzIyNFUydjJmc3FHaXdMbFRvbVBF?oc=5",
+    "title": "Rockstar Has Found a Way to Identify the Sources of GTA VI Leaks - Root-Nation.com",
+    "publisher": "Root-Nation.com",
+    "publishedAt": "2026-10-28T08:38:28.000Z",
+    "discoveredAt": "2026-10-28T12:22:58.588Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-86b8d4e373",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRDd2SkhHalNqVkNiQjNYaklkUUUwZG8xMGRzSUxOYlIyMlgxZGNEamN5NDhEOS13RWpkLXZDeFFhTGRHMlVud05WanhaYkdOczRSaVRnZGJ4TzB1c19pOUFEbzZnWU9vb2hOeFFxMkE2c3NGVWdaZzZtSTJoTVpMWE1pYW80TFZGSmRWWlMxbFkzZ3FCM3RxRGt3UDhmVElzaFl3WE8wNy1WUWxFRTdVSHhxUDNpamVfWFdZNThTZUZNcHRm0gHKAUFVX3lxTE5MazNVbkJDaTF6YUU4V012RkRqVVpXekg4WU5ucHNkVDM0d0JGcVJqbDhZeUpEdDF1TEs2clVCdkh6TTFrN0l1ZWs4R09hSUF6b3F2T0JkZThBdVlJb0k1Y1ZzU3VpX3VsVXZqeE9LeVRYTWV2OU8zd0RqWVdydEtTQjBfSE1FdmFqSjRiZkVsbENYOFc1TUotcmQ0LUlHZTlYb3NoQzRVYmJqaTBtWUpUMlg1X0k3V3V1cURGSUpZU2hPaEZlajRUdXc?oc=5",
+    "title": "Rockstar devised a clever trap for journalists with early access to GTA VI – rumor",
+    "publisher": "iXBT.games",
+    "publishedAt": "2026-10-28T06:28:00.000Z",
+    "discoveredAt": "2026-10-28T12:22:58.588Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "misinformation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-01265a5ad8",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05QVVVNkVrcjZTOVhMRjNmbG90LXEyMklOWWxQR0tjZGNiWjY1U0tkSU11aVJaVmZNVVJleUIzNno0WHpvclNRWWRfZ2R2WUxZSmhMWDdaVEVpOWpqVWxIMQ?oc=5",
+    "title": "GTA 6 Size: How Many GB on PS5 and When to Pre-Load",
+    "publisher": "Techloy",
+    "publishedAt": "2026-10-28T11:55:15.000Z",
+    "discoveredAt": "2026-10-28T12:22:58.588Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-8e3b7dd913",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZjMwQ0JKTFk5Zi1wSmloa3gyYW1PYzA3RDUyTjNoMTViM25qeXNzZ29hLTBCOGtqOEh2dFlvcUQ3QjhLQVFPbzRheVVxX0YzQXc1YXVaWWUtZTVkYTZlR2Y5X0l2U2xIRkZsRVNNck83WjRabXFDZm9JSnB3RXBXTXZUcVRYSUplRi0tOVZXZnZ6V21Ha0RFdDdpUURFdExvc0dpWGM0MWg1RnpUT0lRQkVaaGk4X0Y3VnBGclJjSWpPeXp6eWNiVl9sLTliNzBFUENBSUk4R1hIdk16YnE2ZlBONl92MDJGZ3c?oc=5",
+    "title": "Take-Two's Two Clocks: A Billboard Campaign in Miami and a November 9 Earnings Test - ad-hoc-news.de",
+    "publisher": "ad-hoc-news.de",
+    "publishedAt": "2026-10-22T16:31:27.000Z",
+    "discoveredAt": "2026-10-28T12:22:58.588Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-a9ef1a0461",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPckh2cDVCTmtYUWVyYl9aLUFaREVPVU5kT2lVWFZFb1E1N0kyNUdPZUxzR3FUaDdSSWNPTzNCcEU4WFp0dDJtOVBNeXd5ak1XTEp1eEd4aDh1akFpX2ZVbTRjNjdoZHktY2NsU1BjRTNqZ1YwTE1kSS1tSmtKRGl0RTBzWjk0UjNycU5aZW9URXUzTC1NWi1ORFQxQQ?oc=5",
+    "title": "Rockstar Used Special Watermarks on GTA 6's Copies That Were Sent to Media Outlets",
+    "publisher": "EGW News",
+    "publishedAt": "2026-10-28T11:34:18.000Z",
+    "discoveredAt": "2026-10-28T12:22:58.588Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-0d45265d4e",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPY0JQWVlTaF9NQmhyWmZOLW94WEF4ZUlCaTl6eG5ob0Rhd1ZHeDlrTXhxMGNlbHlJVVF1elF0ZjZORjVaZE9Nb0ZoWk80dzlsRFozTHZuanBDQ1ZuSG1rek9JUzhCaDNVeDJXcmNtQ2E2b0Z6aWhoa3VwNWdnb0JuVzh6UWFFQW8zcXFUQXJnbnl2Q3o2c0VhQkxPalBjalgwZVV5NjU5RkFpMXlmQnhJRkFWTnFCLWpUNXAxcFdkYlRINndUR25ncVJsZWpRU2ZabEhEOUtIZXDSAd8BQVVfeXFMUE1QSXFvWmZES1ZXUC1vSWdHSnBuUTZtRjV4cWpVOWRxc2VlSVN4UEd6V2RVYnR1QUFIOUk0c0dpZzlkTGliZHN5RWd1NEpTZDdxc1kwdk5taUlEM3hSbk1VVFZqNUY4UEk4ZnpMbG1OeWVPTVRWT3ZMTy1SZ2JfWFhrU3ZaTWQ5aUxCblhUZDRpSk5VYmRzMVp1QzZ4MWplcmVrM0RTYWthdlExbXBKREN0cXcwbTdlREcxV3Q4bXlLY08tcWgzcE95V3pGcDBpYlYxNTFLbXBJMGxjX0I5SQ?oc=5",
+    "title": "GTA 6 download size leaked ahead of launch: Here is how much space it may occupy on your gaming consoles",
+    "publisher": "Digit",
+    "publishedAt": "2026-10-28T06:35:00.000Z",
+    "discoveredAt": "2026-10-28T12:22:58.588Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-836022e43a",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNWFtdG5vcjNYSVBIQk83TnpZYlZnc3ZYQlFXWFZMeTlUZ2poQjUwOHlkdW9GM1J6WlFaMngzTHFTX0dZVU8tTmptbUVkb3lBLXpFSWU4cFVramJaUHZoWlFsUklOSjlaeUFJWnJMQ2xTcFZrejR6MFRyQl9DMEFoYzUwdjNLOFpnVkprdWdIbEgtU0phd3Z3SDV1Sm0xa1FobzFpWDE4d29TeEc4bGJ3SndiX3o?oc=5",
+    "title": "GTA 6 game size revealed, as pre-load commences in just over two weeks",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-10-27T17:50:00.000Z",
+    "discoveredAt": "2026-10-28T12:22:58.588Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-028"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-05ca4c0a22",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb2xMWWhEcC1xY01LTEdqLTNGRE1fZjY5UkdaN2Y0Y3NxN09Oam9fdzN1MGRncFNtd1ozMXVKVEdCbzFaQVpXajRoSWY3YV83dFFHYktibVRQMDJwNkNZUW0yR25rNE9WeFBPQzdXM19Qa1RWQ0x2LV9yX0U1SG53RXg1NUZrMWxnNzhj?oc=5",
+    "title": "GTA 6 File Leaked? 210 GB Expected for Preloads in November",
+    "publisher": "eTeknix",
+    "publishedAt": "2026-10-28T07:59:20.000Z",
+    "discoveredAt": "2026-10-28T12:22:58.588Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-4dfa7f9db7",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae1e92603824b7698b35f1cfed1bc92&url=https%3a%2f%2fwww.techloy.com%2fgta-6-size-ps5-how-many-gb%2f&c=18299404713035988345&mkt=en-us",
+    "title": "GTA 6 File Size Leak: How Much Space Do You Need on Your PS5?",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-28T04:49:00.000Z",
+    "discoveredAt": "2026-10-28T12:22:58.588Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-2a479c888f",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae1e92603824b7698b35f1cfed1bc92&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fgta-6-download-size-leaked-ahead-of-launch-next-month-how-much-ps5-storage-will-it-need%2far-AA2geAvw&c=18304527289606816594&mkt=en-us",
+    "title": "GTA 6 download size leaked ahead of launch next month: How much PS5 storage will it need?",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-28T02:27:13.000Z",
+    "discoveredAt": "2026-10-28T12:22:58.588Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "misinformation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
