@@ -11686,5 +11686,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-3b3417dc4e",
+    "title": "GTA 6 Review Copies Are Reportedly Watermarked to Stop Leaks Before Launch",
+    "reportedAt": "2026-10-28T04:00:38.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84OGRZWVJEb250YUNyb043dXNLLV9wT2YzT3NKOVluQzE0OURFZmRjaWp2VjRDT3JPMUdrZ0RKc1VBY29ZdC14dHIzY3diT3R6bmRYT0JxTF84MmxIakgxY9IBZkFVX3lxTFBPSnhoZW52LWJrbi1rVHhLRmgxY042Z0c0RFl6MXMyb24xcWdhMzZOb2I5REVfNTJfaTVfYUJ0NV9vMDFTSWhHQlBlZWlicmRQZjI4ZXhXLWpyN2hsVDdyVmFhNm0tZw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

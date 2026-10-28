@@ -38509,5 +38509,160 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-dfaecff5b3",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrVnhTOC0tbUhMU0tGSzlXTlpJNmNXMERibER5NUtYaXJsaTZLYjhibmlDRUdaek5LUEFMeXV0M1JuSDhGTXpIYmNyTjV1TXp1UXNxLS1WWGR3TWppOFZOVmkxR0hSWVk4M0E?oc=5",
+    "title": "GTA 6 LIVE: Lucia actor goes viral after livestream moment",
+    "publisher": "Indy100",
+    "publishedAt": "2026-10-26T17:45:45.000Z",
+    "discoveredAt": "2026-10-28T04:45:29.478Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-1f2e323f3f",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRFJkX2puOVpqTHVHRjJ4V0dlSUE4Y05NV1NkZzZjVVlxQmRCQWFqNm9mTEhZNzhMeHBKUF9CRUpzeHBKY2hheVM1YURiV1FQZFF1N05JVWFvWDliUlRQSV9OM2xDU0l1VWxDR1MyQzZPY190SFZpVWhER1FjZ0dSVXM1NA?oc=5",
+    "title": "GTA 6 Review Copies Watermarked: 2 Platforms [2026] - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-10-28T01:31:54.000Z",
+    "discoveredAt": "2026-10-28T04:45:29.478Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-ecc5a724b0",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbVI5ejlDSURKRDFGcUl0ZFg4LXZFSDJYblJHdnNQZ3JBU1FhdUwzTkVmZ2lRdFhXSUp4VTlfWmo0Uk1SZXA5OEFsbDFXM3JzdGpuQW5VRVdLbGZ4cnc0X2hRejRIeVdlMWRTd19JSVJsMHVkS3FEZk5leUJXSHZrckttQ19uZw?oc=5",
+    "title": "Rockstar Union Vote Nov 12-26: GTA VI Launch Impact [2026] - tech-insider.org",
+    "publisher": "tech-insider.org",
+    "publishedAt": "2026-10-28T01:10:35.000Z",
+    "discoveredAt": "2026-10-28T04:45:29.478Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-bf9dd1fe91",
+    "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxPYkVDMGlKbldsdlBGU1ZyaWd0UmxXY196ZzFvalJNakRXc3V1Z21HbklUbm9WVWV5VExzZjhHZzg1bE90UmVOSjdkaVlONnBKN0lmemJETVprZ3ZEcXM0Vzk0OG1lUi1uUXpfZW5IRjB4bFJ6eHJhR2ROU29SckV4Y3cxdWJKei11WTlCSEJ5NEZhSjVXMnl3LXBMNGNabTEwWGM3Q2dfM1V1a1BSUWNIZ2lSNXAxWGtyMWpwdzJ6N3Fnc21hQXBoUi01RDlfWkdFUFBqdVdOQXBuZjdnRzUwcktDRUFLQXQwT3dDbTU4N2JDRTVUVlVKc0RUdUdmcmtjUzZSUnJzR25QQjFKWjVjcEpaTnFXQmxNUUNyRnJrM3NscndDUW4yZUJ5WTdSM1c3dmJueEpXbjlGemF3ZEF3YU1uYnZGcndJa21weGlCRkNRQnRLQTBfOFNpa256SmRjLVY3Rjh5Y1M4TVMxMnFPYlRWU1NZd0JZSndWMkNZRkgzczZINlZJ?oc=5",
+    "title": "'All these things sort of come to bite you later' — Rockstar co-head says GTA 6 will feature narrower roads than GTA 5, which had a 'ripple effect' as the studio had to add even more buildings",
+    "publisher": "TechRadar",
+    "publishedAt": "2026-10-20T11:27:41.000Z",
+    "discoveredAt": "2026-10-28T04:45:29.478Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-54e8750116",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb0N1WExkX0c5OFpnOXhsN1h2R0FqeUVwOVhwTkZMSXA2elJlTG9aR01JcE5XcFprNVFTOW9yUVY1LVBjUWp1VUJXU25LZHZRbTZuMlB6dHNqMGxqdERYMm1FZTZPZHNiUUNIclYwMXhWMW1hMDFodVBkdjBsYTBQOVg2TjY3NFpKN0ZLZm1B?oc=5",
+    "title": "GTA 6 Launch Day: PTO Requests Up 9-17% [2026] - tech-insider.org",
+    "publisher": "tech-insider.org",
+    "publishedAt": "2026-10-28T00:46:05.000Z",
+    "discoveredAt": "2026-10-28T04:45:29.478Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-06599ca6b5",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObGhxY2ZqM2l3LTVoU1AtUWFqaFZiTHpnU3ZtdDQzOTU0dFpONmlXam1Dc2hFUEVNQWJlX2NmbC1IY3ZCZE0zTy16NDZPSXJCcHBjWFdaTlJLX0FoZ1FOTERSWjhLdTdYaGJRRUdKYjJfdnljZW9FN2IzVDRDWnFhV2FNYWFHVXJxdXFSRmN2ZF9OaVdnYVYydVNpZUk3eEhDNllrWmotSlFMTTNHZkZwMGU5MVVDUmtOaWZ0WNIBygFBVV95cUxNMmFabUVONVhFNkpwMzFEVEN5cEgzb2NjeGxFWWx0OTRjcGlPM0thbi1XUU1NekxCdlhKSGJGM3Q5WER3TDQ2VlNXT0ZhbEEzV192ZENoOWdjZ2VqY0FRSVhSZENlUTFpRmJnRVBBV0NNdTRHWEp4S1hsMGJvNXI3QXZsTEMwUk5oNGhBRWNEdUg0N2FCaUwzUTRuSzNNVnNWNll3SWEyWnZmaUdwRnFFZEp5OGhVZzBqcHV3eTZYMzNXbS1qRU1IX3RB?oc=5",
+    "title": "GTA 6: Jason And Lucia In Trouble? Reddit Loses it Over Couple's Capers",
+    "publisher": "Esquire India",
+    "publishedAt": "2026-10-27T01:28:39.000Z",
+    "discoveredAt": "2026-10-28T04:45:29.478Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-028",
+        "LEEK-CLM-029"
+      ],
+      "category": "community",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-3b3417dc4e",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84OGRZWVJEb250YUNyb043dXNLLV9wT2YzT3NKOVluQzE0OURFZmRjaWp2VjRDT3JPMUdrZ0RKc1VBY29ZdC14dHIzY3diT3R6bmRYT0JxTF84MmxIakgxY9IBZkFVX3lxTFBPSnhoZW52LWJrbi1rVHhLRmgxY042Z0c0RFl6MXMyb24xcWdhMzZOb2I5REVfNTJfaTVfYUJ0NV9vMDFTSWhHQlBlZWlicmRQZjI4ZXhXLWpyN2hsVDdyVmFhNm0tZw?oc=5",
+    "title": "GTA 6 Review Copies Are Reportedly Watermarked to Stop Leaks Before Launch",
+    "publisher": "Beebom",
+    "publishedAt": "2026-10-28T04:00:38.000Z",
+    "discoveredAt": "2026-10-28T04:45:29.478Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-a3ea9a6a20",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOTRHMV9HU2xfZDJHdUlvb1ljRjh6MHZ4LTFxQWtxVlpkandSN3N4emZlRkR4MFFWRDUxdEt5S0dMSTN5X3o2aHFKS1V1a0l3eEtUZWlBbEtOSDUzVWtWbjRkbkh6MFViSk9sV0UxQlFJX0lZQ1pTTG1Oc09UczBxQ3NORV9ZdkhJY3ZKTENOUmdpam1OT3pKMnZuaw?oc=5",
+    "title": "GTA 6 pre-load details and download size revealed: Date and time for all regions",
+    "publisher": "Sportskeeda",
+    "publishedAt": "2026-10-27T18:06:00.000Z",
+    "discoveredAt": "2026-10-28T04:45:29.478Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
