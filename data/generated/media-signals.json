@@ -5350,5 +5350,13 @@
     "domains": [
       "bing.com"
     ]
+  },
+  {
+    "date": "2026-10-28",
+    "feed": "google-news:GTA 6 leak",
+    "count": 8,
+    "domains": [
+      "news.google.com"
+    ]
   }
 ]

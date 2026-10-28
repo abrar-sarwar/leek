@@ -11746,5 +11746,101 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-47cab3e2c0",
+    "title": "GTA 6 leaks reveal planned performance mode, with 40-60 fps on PS5 and Xbox possible",
+    "reportedAt": "2026-10-28T16:03:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSUVpdkZmZHliNy1idjVTZzhyR2V5UzNrZEZHbmM3cjJLbW4xemRubkxyZ3ZMd0NSZmhYeVMwTmlvbU5Icm9GSzd4OGJkV3RvUWlSR2FlRHJRVW5HT1F3WGl0VkxFVk05UDFwc1VVU0tkNjhCRUl0b0ZURkF4NzR1dHJCN0lKcGVXQno1Y0RFOEFTM2pkM29ROVJ5eS0zTXZnWVExS0NxS2ozZHVPTGlFWEpPQUgwTlhfY0tRSTY1RDVEdnkwRUxr?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-898b3b2471",
+    "title": "GTA 6's Original Soundtrack Is Going to Be Incredible, if This Leaked Song Is Anything to Go By",
+    "reportedAt": "2026-10-28T18:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMizgFBVV95cUxOM0kxZkxKZV9OOENQLUdFSXQ5Umc4c0dVOG16TG5nZFoyOFJJTTJ4YjZTcVk4dUVHbm5URWhDbURpcXRCUGQ4T3NBaUZEb3QxaTUwNVVPZ0QySmpYZDVHZFY2R0RpVVZyOUFfSzZ5V3pnTmk4ZVNRdTB0WDJZX2sxSzdKWURVZ1pFZ1Vkc1ExOEF4eXhoY1hPamVnVTQxckV6Tm5mLUZtX2xYUk9CdUt1UlVGOVJrNE81QWZ0MkRKaDU5U3VVM1hHTC1PRTZ5dw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-40784998b2",
+    "title": "GTA 6 Soundtrack Leak: 1 Country Track Unconfirmed [2026] - https://tech-insider.org/",
+    "reportedAt": "2026-10-28T18:12:31.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ0FyWm92UlY1anB2ZlVtUGlFTEtKRmVpUllYM3VQeTFjNmMwbVk3Q0owWnF4YUY0RUhYVFpDcDI4VVZKWGlSRzZROUVTMUhlSHVHMDU2MDRQNUhBenpRbVBFNDdjWWFXNGh0U0hKUG1vNE5SUXZWQXRlRG1jWVkzczFmc1JKMTVLYUJVeW9vSjJGdw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-336fc52ee2",
+    "title": "GTA 6 may feature over 200 main story missions, as leaker shares break down",
+    "reportedAt": "2026-10-28T19:44:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzA2am8zTFJhX0FrVEY0NUlZWWdwQ3RTYVF6d2x3SGUxelhKeHJmczBxdWhYdTVCSzVaYlUtQWR6Qk9TalRQV2d0eGlhRFFYZGJueWhUSUJMNVFYaUFpMXlYLXQzS1hmVU9zUGtqWGJMaGpPc3VhX00wX3RFYjY2S1FjOHktZkZkR0pKTWNRc3AtWHB2UHJzQlZyU2xvcFRoTGxqVDFEblNMcEEwVkstQnI3d2xWY1JIY21V?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-d70a8e6380",
+    "title": "GTA VI Review Copies Reportedly Watermarked to Prevent Leaks",
+    "reportedAt": "2026-10-28T14:06:10.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeUFJR3lvTFFTUGc3TWI4Vl95Q0Z0OGhoVVNlVnE1ZUN6VmI1VU91TGtiOU5Bc3FuUnVLRUJKREZmLTA4aFpIVG1qZUJDYzJVN3RLV3BWUHBabk9NUmJTckZJeHRRLWpxY1dOdkkxaVh1M0w4TjZGZ1VXNWswZWxsQ0hMb3NyX2RpaVVUVHZuWmo0bU1SUndvcUhUVnpQcmowRXZv?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-fb954b1803",
+    "title": "GTA 6 Could Require 210 GB of PS5 Storage, Leak Claims",
+    "reportedAt": "2026-10-28T15:15:14.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMHpZNmhZSUpxa2NicnRTVlZfVnlWOUdfaUt6SkRKb3d0RDhUVHFLS1h2MlY0QUV0djV4VkhlczNLZGJkbkdVV3B4dTk5ZVhrWVBiTERGVUJWNzRNcGdIeWlfWU1LODZqVHh2VV9aOWdtNVZlbmFGbHNrNGdpdHk5SlFnaGo?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-ded6d19fd3",
+    "title": "GTA 6 File Size Leaked: 210GB PS5 Download Report Raises Storage Concerns",
+    "reportedAt": "2026-10-28T18:31:29.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQXcxcUw4ODhMai1YZU56bGxtN1lHMkRtV1NQM2Jucm9LR3htS0pXR0laZzRLWFpBNkxLX2FidHpOTnBMY2VSbWJfNnFLOFZIVTZxb1d1Wm5QejhOUlVIcWh2NWdpNE13LWlrdEZNSGhmUndteXVaTUNpNmx0NmtMODhvRl93YkN0TVMxaG1SMFRHQ083ZEUxUWF5YkFGazh2X3Bj?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-b3df3663f7",
+    "title": "GTA 6 review copies feature aggressive watermarks to prevent story leaks and spoilers",
+    "reportedAt": "2026-10-28T13:59:43.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMipwFBVV95cUxObjRuTjBFMk02eW5IUWdRTkFsYTRFQW1sek9jNW51MTVtS2tWRUdXMFJBcHYyaXYwc3RjcFVCT1VCdE9ta2w0V3lRaDdjWVNnbXNvSElfVFVET28zX1QzbFBHUHVKdE5nNEd4RWpYbmJlUTh6WlRyYzBacTJKR1lsUHpMRXd4c1BqNDFOX3lidG5wSEV4SmRhaTBjekZEbDNfUS14VG5Hdw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
