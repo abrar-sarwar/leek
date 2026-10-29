@@ -39268,5 +39268,256 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-6c6430ee43",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16YjZnS2RvOEtSVldQZ3hMTVh2dDZfX01BcVVUUTFuMVZPMVN1c1B3UURHVGVNMUdJOVZtS2NkY0VNeTJxQmpnWi1yTFl4cFEtc0x0VmRsbGMxa0UtbkdRdA?oc=5",
+    "title": "Cyberleek Confirms 20th GTA 6 Leak Will Be Their Last",
+    "publisher": "IMDb",
+    "publishedAt": "2026-10-19T02:15:56.000Z",
+    "discoveredAt": "2026-10-29T22:34:13.832Z",
+    "feed": "google-news",
+    "query": "Cyberleek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-3b607b4ca5",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTVJWRlZMX3ZUeTM1SVNpeWpJX2c5cFV2UkVITGQtS2VZMlp0aWVWOE1NQVljb25tSjZEVFNtVXR5cXVUZHJGdW80ZmNRNEltQlhxbXhOTXUtUDdXanEyckVCeTBvOWwtNWh6dER1VFg2WWotV21RVWp0aTFfbTBjZHh1Z2VpdTRvdUF1bmVlZXBRc1NFdk9FRzNB?oc=5",
+    "title": "South Park’s Latest Episode Reveals New GTA 6 Gameplay",
+    "publisher": "KeenGamer",
+    "publishedAt": "2026-10-29T13:47:13.000Z",
+    "discoveredAt": "2026-10-29T22:34:13.832Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-594211811c",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTmpIbTFGclZYanJSWGpFS1FWRGlKZ0dTdl9SVFVLNlBzcjBWUnFVczZLVVlLd1NuSl9rZXhLdW5PXzFEMjE0NGFBQUVnU1pwdVhnTWgtRXZQV1I1Q0QxSWd3VG1DSkl3SnU5dWVKdVl6N3lDMTFRa3BkXzNiU1k2UmsyMl85dEdhSS02bTVnOF8?oc=5",
+    "title": "GTA VI Purchase Intent Hits 29% [2026]: What It Skips - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-10-29T21:12:10.000Z",
+    "discoveredAt": "2026-10-29T22:34:13.832Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-021a11b7bc",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRUlTdl9xckdJRlJ4OGwwWkFGMTFoWVZFYk1xeWJoZU1JTWhobGpZTmV2YnJ0dHFISFpqQjhYV1p5TXFvaFVPR3JnMGxXOXZtdWZCcjdleC1oUzhScGpRRFotUm9Lb0JZRXpJc0Iya19WZzM0V0xaUXlKWGtHb2xXZDRPLTkxRENjdGR3Ng?oc=5",
+    "title": "GTA VI Purchase Intent Hits 29%: Survey vs Sales [2026] - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-10-29T18:14:37.000Z",
+    "discoveredAt": "2026-10-29T22:34:13.832Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-0f61c817d6",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdHNlSlVRQ3g0Rm9jUklRTTluU3JGWVRBd3VyMGNQR2FxYVpQR2xZcjZ2M3poRnZTT1R2cTR1bUZZZ0lnaFppTGI3SzEzOFd4dGJMdmhQUlFMUFEzMVVQYXpOLXo4c29qMTkyUTRIZ2dobkdFSE5nNlVyYXBpckNFWkdVUGVoSDhZLXBlRDVKTQ?oc=5",
+    "title": "PS5 Up 22% Before GTA VI: Spike or Trend? [2026] - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-10-29T16:50:38.000Z",
+    "discoveredAt": "2026-10-29T22:34:13.832Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-887cf9dcaa",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMmNjd3VPSldMalIyNXJUOC1zcFZ6ejBCUXB4YlNTN2lPQ3gyWWprc3NyTjd4R2t2Z0QtNzlYX1ZOdzV3QTM3czZROEliM0JNZnB0YlpPYWZNSkt1NEw1M3I1MkNKME5ZSHFQcTJfYmo0ZDJRTjVjMVd1R056dDhtNFdfYUVxOGtNUUFOdzRMR0dJOG5YcWJZVkk4VHRWWW11ZVdlUG12Rm5heEdRQVloTHhDVGphX1llbDNDcFZ3X2J0UQ?oc=5",
+    "title": "GTA 6 map is bigger than thought, with more interiors explorable on release date",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-10-29T02:36:00.000Z",
+    "discoveredAt": "2026-10-29T22:34:13.832Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-8c024b92a1",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZFAwLWNydm1UMkxjaFJOd0laam41RVBjMzFCbTNmUmNYLXdQcldPWF9aN2xWYnNldmJLQkx0VUJRb0t2NTY2N2wtRVlaX0hHUlgteUVYOWU5WWhsT19MYk84Y2tuSzlHaEItTThLaU1haGlNMEhTVGZ6YjF1NnI4QVpqamhiNDBWYVVR?oc=5",
+    "title": "GTA 6 File Size: 210GB on PS5, and the Box Holds Only a Download Code",
+    "publisher": "Martin Cid Magazine",
+    "publishedAt": "2026-10-28T17:43:34.000Z",
+    "discoveredAt": "2026-10-29T22:34:13.832Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-e1551926e5",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSTlXNzdhVVpvcVJjclVHNmFSNEhIVDVxakdONW5VX2NuSlR6RUQ0M0RSUmhWSlRwSlFseEtMd2tPQ2x5TjQ1anQ1T21nbnhGN19mdTNYYjJrNlUydlh2VGVXZ3o2OUV1Y2dXYnU5elhJSnNmVGdpdndETVRNci1IcnNfNE4wZVJUS2o2d2JzNm1tTVlXNUJEMHMxbU5xel9P?oc=5",
+    "title": "GTA 6 brand new release seemingly locked in by Rockstar Games, launching December 11",
+    "publisher": "GAMINGbible",
+    "publishedAt": "2026-10-28T15:10:17.000Z",
+    "discoveredAt": "2026-10-29T22:34:13.832Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-d95780fa0a",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVzgzN1E2VUVkZEpRY3dWLVpkaUxzWERhdXNsTzR2dlhyOS01RHhEQVVoN2JSeWdTVm1KTEFBLUJiUEZ4T21QOGM4Tk1WWk01R25wZ05nRnlSQjFnTlB0cnJ5TGVHeEFnRFJ0c3QyQTMzaXg2UkFKb1VSZTZQVG1KTA?oc=5",
+    "title": "GTA VI Review Copies Have Reportedly Been Watermarked To Prevent Leaks",
+    "publisher": "TwistedVoxel",
+    "publishedAt": "2026-10-27T23:26:06.000Z",
+    "discoveredAt": "2026-10-29T22:34:13.832Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-a9e19c792e",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUdi02YkgxeGd2WTlPX1VkdlQ5V2ZJcGJkMVBvYnJMNGpCMExwYTlOX2RuM1BPMUdMWmtnUWJ6M2dFVFo3aHR0dUxzaHVMaVYxUlMyRU80VWNEbWJUOW1sYjZiXzZiY3pORHdR?oc=5",
+    "title": "New GTA 6 Gameplay Was Shown on South Park, and It Totally Stinks",
+    "publisher": "Polygon.com",
+    "publishedAt": "2026-10-29T10:31:55.000Z",
+    "discoveredAt": "2026-10-29T22:34:13.832Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-2e81d1a30c",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTE9CRy1STFFnRktKZmYwcWdhbjFoUlo0Y3poLUdyOS02SEpOQzZzVEJrbktmV0VHY1NaTmRSd2p3eThDenpZanNoeFpfNmR4T3Q0YXREdnhXSmdRRDlmYWExNnlROTFYbkFrb2Z6Y3NiNkVYLW5hMWljbjFlc01Xb2tucjFNbXUwN012OEE3YWxwSDQ0dnFkN0doMFN5MVk0akFNYThreVB3VE9zdjhRVlU0WEVPU0lrM3pla01CNi1rYUZVNXdyaFFQZHJNa09aNnc?oc=5",
+    "title": "GTA 6 may not have watermarked reviews, but some other ‘insane security measures’ are in place",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-10-29T17:22:00.000Z",
+    "discoveredAt": "2026-10-29T22:34:13.832Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-76409db325",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSVFnV19vbDV2VFVyU2lUanZDbnRDYTR3T0c1TDZkTURnVkUxSlNSTzRLclBqQmdYR0Q4cmVFblBYamw1RDhMcm4xWmtpeDhHYWV1N2NYYlFBUmw0SmdCcjhvblpYWTRGVm5kcU5WR2pyYWNUQnMwUGNtX1pieXFCYXdCNHV4VG9udnlDNWhCLVlWQ19vSDdfTFd2WnU2QzBJaHFqdlhSSndWQXJNd2gzZXRR?oc=5",
+    "title": "GTA 6 Leaker Sets $30 Million Memecoin Goal Before Alleged Full Build Release",
+    "publisher": "Mashable India",
+    "publishedAt": "2026-10-11T07:00:00.000Z",
+    "discoveredAt": "2026-10-29T22:34:13.832Z",
+    "feed": "google-news",
+    "query": "Take-Two CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "$CYBERLEEK holders"
+      ],
+      "claims": [
+        "LEEK-CLM-002",
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-44a15f5c54",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae3c9eaddc94e0d859c408c08b5adbc&url=https%3a%2f%2ftech.yahoo.com%2fgaming%2farticle%2fgta-6-is-scheduled-to-release-next-month--heres-everything-you-need-to-know-about-the-highly-anticipated-game-of-the-year-152855283.html&c=2872712447675238607&mkt=en-us",
+    "title": "GTA 6 is scheduled to release next month — Here's everything you need to know about the highly anticipated game of the year",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-29T08:28:00.000Z",
+    "discoveredAt": "2026-10-29T22:34:13.832Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-014"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

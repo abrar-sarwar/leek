@@ -11914,5 +11914,65 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-6c6430ee43",
+    "title": "Cyberleek Confirms 20th GTA 6 Leak Will Be Their Last",
+    "reportedAt": "2026-10-19T02:15:56.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16YjZnS2RvOEtSVldQZ3hMTVh2dDZfX01BcVVUUTFuMVZPMVN1c1B3UURHVGVNMUdJOVZtS2NkY0VNeTJxQmpnWi1yTFl4cFEtc0x0VmRsbGMxa0UtbkdRdA?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-3b607b4ca5",
+    "title": "South Park’s Latest Episode Reveals New GTA 6 Gameplay",
+    "reportedAt": "2026-10-29T13:47:13.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTVJWRlZMX3ZUeTM1SVNpeWpJX2c5cFV2UkVITGQtS2VZMlp0aWVWOE1NQVljb25tSjZEVFNtVXR5cXVUZHJGdW80ZmNRNEltQlhxbXhOTXUtUDdXanEyckVCeTBvOWwtNWh6dER1VFg2WWotV21RVWp0aTFfbTBjZHh1Z2VpdTRvdUF1bmVlZXBRc1NFdk9FRzNB?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-887cf9dcaa",
+    "title": "GTA 6 map is bigger than thought, with more interiors explorable on release date",
+    "reportedAt": "2026-10-29T02:36:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMmNjd3VPSldMalIyNXJUOC1zcFZ6ejBCUXB4YlNTN2lPQ3gyWWprc3NyTjd4R2t2Z0QtNzlYX1ZOdzV3QTM3czZROEliM0JNZnB0YlpPYWZNSkt1NEw1M3I1MkNKME5ZSHFQcTJfYmo0ZDJRTjVjMVd1R056dDhtNFdfYUVxOGtNUUFOdzRMR0dJOG5YcWJZVkk4VHRWWW11ZVdlUG12Rm5heEdRQVloTHhDVGphX1llbDNDcFZ3X2J0UQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-d95780fa0a",
+    "title": "GTA VI Review Copies Have Reportedly Been Watermarked To Prevent Leaks",
+    "reportedAt": "2026-10-27T23:26:06.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVzgzN1E2VUVkZEpRY3dWLVpkaUxzWERhdXNsTzR2dlhyOS01RHhEQVVoN2JSeWdTVm1KTEFBLUJiUEZ4T21QOGM4Tk1WWk01R25wZ05nRnlSQjFnTlB0cnJ5TGVHeEFnRFJ0c3QyQTMzaXg2UkFKb1VSZTZQVG1KTA?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-a9e19c792e",
+    "title": "New GTA 6 Gameplay Was Shown on South Park, and It Totally Stinks",
+    "reportedAt": "2026-10-29T10:31:55.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUdi02YkgxeGd2WTlPX1VkdlQ5V2ZJcGJkMVBvYnJMNGpCMExwYTlOX2RuM1BPMUdMWmtnUWJ6M2dFVFo3aHR0dUxzaHVMaVYxUlMyRU80VWNEbWJUOW1sYjZiXzZiY3pORHdR?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
