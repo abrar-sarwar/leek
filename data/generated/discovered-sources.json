@@ -39020,5 +39020,120 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-009c2adc3c",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1JVkI4bS01QUZXcjFydmdldTlDVkZtNkJnZ19xZzRUN05NT0Q3NFhKbXNnZGc0NGY2YWl1WjhWcVd2bTRETld1T0JKM2FFYjlRX05NbGRFcjhQQ2EyMGY0eF81SQ?oc=5",
+    "title": "GTA 6 LIVE: Jason and Lucia actor speculation swells",
+    "publisher": "Indy100",
+    "publishedAt": "2026-10-27T21:21:42.000Z",
+    "discoveredAt": "2026-10-29T04:57:22.819Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-3608f488d3",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVVNtTlhOSjNjelZUVUtKNXNQRVVhLVBoSTQ2TV9mNzQwVDhFQzNETklfNzZWWkRMNW9nUkRDT3JBOHVISnJoZFlvQXJ4R2VWTjhHMGdJbnVfMmFjQjNKVmFpTlMwa1VaVEprQUpkRThPNC1PWmxnSDVsUTI0YUZPdA?oc=5",
+    "title": "GTA VI Hits 29% Purchase Intent, a Circana Record [2026]",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-10-28T17:30:35.000Z",
+    "discoveredAt": "2026-10-29T04:57:22.819Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-1bf5ba2b1d",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSTJ4QnJFMGRmUWtSM19ZclZvQ29SQldDY3FRcTYtb0F1M0tuNlZWcUJadWl6SEJMLUVjd2lEN3RnZFdFanhCbC1Mb1NEMmJRODNSVE5USUZlM09oVF9qckRvZ3hwMno4WTZTNGx5THBaaXVvcUphMHEyeVI1ZnEwMXpR?oc=5",
+    "title": "Rockstar May Have Planned Fidelity & Performance Modes For GTA VI At One Point",
+    "publisher": "TwistedVoxel",
+    "publishedAt": "2026-10-28T16:04:41.000Z",
+    "discoveredAt": "2026-10-29T04:57:22.819Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-bf3c2ae818",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQay11M3Q3RGI0eF9lV1Q1V0l1b09fWjNYSDdnQk5HOWhLQlNyUGFDU1RVTHI5eUVJQ3dFREhSTmFIMTJjRmN5TE5VT2hXbXh5TmhPN2xGNVJDckJQQkdpbmpFYjkyN2tLenZ2VHpSTWlCbGgxa3hDQVFEaTBNZVZLZy15YlFrVlZvTVNRazl2aUhHbEI4cjNUUEVxdURrN2JKTFdmeA?oc=5",
+    "title": "Justice’s New GTA VI Song ‘Pusher’ Releases Early in New Zealand",
+    "publisher": "KeenGamer",
+    "publishedAt": "2026-10-28T13:36:29.000Z",
+    "discoveredAt": "2026-10-29T04:57:22.819Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-2aac77960f",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQblVFUDFBeDZlVmhmZFVVYWF1U1V3NGdONHZnVjNnQjZFbkZvVzNuMFVxWGNVcF9yMVZYNlBXazJrbzk1SGZmQVdvcnpsaW1RVXdyRjRXRng1SnRaT0lxc1dOVFRfZUFXQmJfUml6VkxnZ1ZNTkt2eUlNMjVKRkdVMUlaTE5qUTQ4aWdxSXk5cDNnVHR5ejR2XzZxYw?oc=5",
+    "title": "Vice City Bean Launches GTA VI-Inspired Leonida Coffee",
+    "publisher": "KeenGamer",
+    "publishedAt": "2026-10-28T13:27:37.000Z",
+    "discoveredAt": "2026-10-29T04:57:22.819Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-d4c67aa51b",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2d23787794ee5950054be5a75e5b6&url=https%3a%2f%2fhypebeast.com%2f2026%2f10%2fgrand-theft-auto-vi-require-210-gb-download-ps5-xbox-reports&c=3706288121010090781&mkt=en-us",
+    "title": "'Grand Theft Auto VI' Will Reportedly Require a 210 GB Download on PS5 and Xbox",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-28T17:00:00.000Z",
+    "discoveredAt": "2026-10-29T04:57:22.819Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-006"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

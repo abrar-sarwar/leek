@@ -11842,5 +11842,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-d4c67aa51b",
+    "title": "'Grand Theft Auto VI' Will Reportedly Require a 210 GB Download on PS5 and Xbox",
+    "reportedAt": "2026-10-28T17:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae2d23787794ee5950054be5a75e5b6&url=https%3a%2f%2fhypebeast.com%2f2026%2f10%2fgrand-theft-auto-vi-require-210-gb-download-ps5-xbox-reports&c=3706288121010090781&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
