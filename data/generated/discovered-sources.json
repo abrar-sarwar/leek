@@ -39135,5 +39135,138 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-51a6635c9a",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUmVaRGVlc0hjMWExSTRfYU0tVnFTdjd4blROLXZJSldXWlg0dEZGS2VTamhnOUMxVzNvNG9WOWVhQVFoSUVKRWQ0d0h3alplMTRuU0xOM3ZNcnd0dHFoSGVPenZTN0Nnb21ZOUVfNFYxYmZhRS1Cam5tcHF4XzZQMVloTQ?oc=5",
+    "title": "South Park GTA 6 Clip: 17 Seconds Reported [2026]",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-10-29T11:30:30.000Z",
+    "discoveredAt": "2026-10-29T12:32:08.765Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-351afe57b5",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUnRsb1dLaXpJcElmMmo1ekJ0R0M5bkpwbWpJQlAzbUp2Y1dTaXhMU3VoenQwUXFfd3hrVVFFWlM2NVpNYmJUTVd1T3A1QXhrRXhrUlNPa2diRmFTaGZvTzdIRDZkb0tTejctdVB2UXdDVjByWnUtWG1qUDNnaXp4Y0xoWDJQYU1FeVRRblpJVGJ3ZUNocTNoMHVsU09jbXFkeGVuOVF6Sm5CQU9USnFEaW5rSmd4RnRqUWNKdmtmTThyZmprdXRzVA?oc=5",
+    "title": "GTA 6 file size leaked, and it's one of the biggest games ever made, double the size of RDR2 at launch",
+    "publisher": "PC Guide",
+    "publishedAt": "2026-10-29T11:15:34.000Z",
+    "discoveredAt": "2026-10-29T12:32:08.765Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-0a631ce91e",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONVlkaG9fMWhLZzA2WTQ5cXZ3QlFvdE5RYU5LbVhhZnNvYU9EM3RRMnlITHphNWRrUnlWVkFtOHd1R3FvY2lkMzhpZmJ2MHIwZDZuTEpjb2lTaGtpRDZzdDI4SWI0MTJPQVlCdDBzcDJIa3VKbEtQWjE4SUNEd3BmVUpTRXFHWmthSXNyckQ3dGVTSmVnZlJlSzZXelN5R19CX1N2a0Q1QWxsdGZqZG50aXJzY05Kc004ekRITC04WQ?oc=5",
+    "title": "South Park airs GTA 6 gameplay with flying dog poop on packed Vice City beach",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-10-29T05:16:00.000Z",
+    "discoveredAt": "2026-10-29T12:32:08.765Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-411c9ab2ff",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUXpMcXU1bXZpTTBIVW1QLWdKek43T3gxMlhDakw0cXhZbU0wYXk4WHJoa2xGaUVUVGJaSFRVM0RiNkM2NWRYeWQzRFVOc0NZcDBsTHZXWEpuei0waWdtREFHT0dPQXJQUTVSQldyb0hXRzdTUE5wenl3eFdKV1UxOVlHUVpmMUpGUmdKZzdMckVoUThmc0RZbnRwc1YxNzdYSjRjUzVRUXp1OXprT2hv?oc=5",
+    "title": "Rockstar chooses to preview more GTA 6 gameplay in the latest South Park episode",
+    "publisher": "PC Guide",
+    "publishedAt": "2026-10-29T12:09:03.000Z",
+    "discoveredAt": "2026-10-29T12:32:08.765Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-170ad37101",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRGVucjdrbGpKcUF0X3E2VC10d2ZndUo3a004UnJZcmJnZ1M2Q0xoQ2ZncGREcm5IV2VJVEptRmJvdFZtY0NtQVVPX0FydzB4cDk3YzVhSjlGRUdQZnNWM3E5SWF3Wnk1aHhlTlppbWZhRmtnc2EtR0daQkd1TTcxY2dWdWY?oc=5",
+    "title": "GTA 6 File Size: 210 GB Reported, Clear Space [2026] - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-10-29T00:06:55.000Z",
+    "discoveredAt": "2026-10-29T12:32:08.765Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-8bfce86a09",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9JUnZ1RWVvSlY4VVF1Y3VnZWVQM2pZYl9KMm4xVE5kaENtT01acURfTnRORW1zUXR4NVg4MVc1eHBab2pFRHoxQi1yY3U3Q3dRWWdDd0NEQ0dHV3V1Q3IyYW5wVjgtR2xhRER2R3lqOGFYNXNiNktxa3h2U3Z2UQ?oc=5",
+    "title": "GTA 6 PC release by May 2027?",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-10-28T18:33:00.000Z",
+    "discoveredAt": "2026-10-29T12:32:08.765Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-38d5e7acb2",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUEVSSm5lSGdPREZMakh6Qi1SYzBsMFBVVWdfQVBQcDEwbS1WLS0xai16X0hqY3pfVVJwQko3ZEl1V2ZBNlNuWnNRVHZ0YjFRY0l0Q1lTMU9sbml6X0hqWEp3cWUzOGxVVVhYeUJnYVhjQU80QWVqSWk5ZjY3TmRJR1dHMk50QUUtd1RCaEhNSzM5aUFCOXE5MVBKUVhpa29ydGZkUzNLQ2FwRzRfWTdZ?oc=5",
+    "title": "GTA 6 May Need A Massive Amount Of Storage, Latest Leak Suggests",
+    "publisher": "Gizbot",
+    "publishedAt": "2026-10-29T09:05:04.000Z",
+    "discoveredAt": "2026-10-29T12:32:08.765Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

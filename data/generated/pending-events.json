@@ -11854,5 +11854,65 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-51a6635c9a",
+    "title": "South Park GTA 6 Clip: 17 Seconds Reported [2026]",
+    "reportedAt": "2026-10-29T11:30:30.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUmVaRGVlc0hjMWExSTRfYU0tVnFTdjd4blROLXZJSldXWlg0dEZGS2VTamhnOUMxVzNvNG9WOWVhQVFoSUVKRWQ0d0h3alplMTRuU0xOM3ZNcnd0dHFoSGVPenZTN0Nnb21ZOUVfNFYxYmZhRS1Cam5tcHF4XzZQMVloTQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-351afe57b5",
+    "title": "GTA 6 file size leaked, and it's one of the biggest games ever made, double the size of RDR2 at launch",
+    "reportedAt": "2026-10-29T11:15:34.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUnRsb1dLaXpJcElmMmo1ekJ0R0M5bkpwbWpJQlAzbUp2Y1dTaXhMU3VoenQwUXFfd3hrVVFFWlM2NVpNYmJUTVd1T3A1QXhrRXhrUlNPa2diRmFTaGZvTzdIRDZkb0tTejctdVB2UXdDVjByWnUtWG1qUDNnaXp4Y0xoWDJQYU1FeVRRblpJVGJ3ZUNocTNoMHVsU09jbXFkeGVuOVF6Sm5CQU9USnFEaW5rSmd4RnRqUWNKdmtmTThyZmprdXRzVA?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-0a631ce91e",
+    "title": "South Park airs GTA 6 gameplay with flying dog poop on packed Vice City beach",
+    "reportedAt": "2026-10-29T05:16:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMivwFBVV95cUxONVlkaG9fMWhLZzA2WTQ5cXZ3QlFvdE5RYU5LbVhhZnNvYU9EM3RRMnlITHphNWRrUnlWVkFtOHd1R3FvY2lkMzhpZmJ2MHIwZDZuTEpjb2lTaGtpRDZzdDI4SWI0MTJPQVlCdDBzcDJIa3VKbEtQWjE4SUNEd3BmVUpTRXFHWmthSXNyckQ3dGVTSmVnZlJlSzZXelN5R19CX1N2a0Q1QWxsdGZqZG50aXJzY05Kc004ekRITC04WQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-411c9ab2ff",
+    "title": "Rockstar chooses to preview more GTA 6 gameplay in the latest South Park episode",
+    "reportedAt": "2026-10-29T12:09:03.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUXpMcXU1bXZpTTBIVW1QLWdKek43T3gxMlhDakw0cXhZbU0wYXk4WHJoa2xGaUVUVGJaSFRVM0RiNkM2NWRYeWQzRFVOc0NZcDBsTHZXWEpuei0waWdtREFHT0dPQXJQUTVSQldyb0hXRzdTUE5wenl3eFdKV1UxOVlHUVpmMUpGUmdKZzdMckVoUThmc0RZbnRwc1YxNzdYSjRjUzVRUXp1OXprT2hv?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-38d5e7acb2",
+    "title": "GTA 6 May Need A Massive Amount Of Storage, Latest Leak Suggests",
+    "reportedAt": "2026-10-29T09:05:04.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUEVSSm5lSGdPREZMakh6Qi1SYzBsMFBVVWdfQVBQcDEwbS1WLS0xai16X0hqY3pfVVJwQko3ZEl1V2ZBNlNuWnNRVHZ0YjFRY0l0Q1lTMU9sbml6X0hqWEp3cWUzOGxVVVhYeUJnYVhjQU80QWVqSWk5ZjY3TmRJR1dHMk50QUUtd1RCaEhNSzM5aUFCOXE5MVBKUVhpa29ydGZkUzNLQ2FwRzRfWTdZ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

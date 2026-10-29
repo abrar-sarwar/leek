@@ -1,15 +1,15 @@
 {
-  "ranAt": "2026-10-29T04:57:22.819Z",
+  "ranAt": "2026-10-29T12:32:08.765Z",
   "feeds": [
     {
       "name": "google-news:CyberLeek",
       "ok": true,
-      "items": 62
+      "items": 63
     },
     {
       "name": "google-news:Cyberleek",
       "ok": true,
-      "items": 62
+      "items": 63
     },
     {
       "name": "google-news:GTA VI leak",
@@ -19,27 +19,27 @@
     {
       "name": "google-news:GTA 6 leak",
       "ok": true,
-      "items": 97
+      "items": 100
     },
     {
       "name": "google-news:Take-Two CyberLeek",
       "ok": true,
-      "items": 49
+      "items": 100
     },
     {
       "name": "google-news:Rockstar CyberLeek",
       "ok": true,
-      "items": 57
+      "items": 100
     },
     {
       "name": "google-news:CyberLeek Microsoft",
       "ok": true,
-      "items": 19
+      "items": 56
     },
     {
       "name": "google-news:CyberLeek Discord",
       "ok": true,
-      "items": 49
+      "items": 47
     },
     {
       "name": "google-news:CyberLeek subpoena",
@@ -54,22 +54,22 @@
     {
       "name": "google-news:CyberLeek arrest",
       "ok": true,
-      "items": 49
+      "items": 12
     },
     {
       "name": "google-news:CyberLeek $CYBERLEEK",
       "ok": true,
-      "items": 30
+      "items": 12
     },
     {
       "name": "bing-news:CyberLeek",
       "ok": true,
-      "items": 11
+      "items": 12
     },
     {
       "name": "bing-news:Cyberleek",
       "ok": true,
-      "items": 11
+      "items": 12
     },
     {
       "name": "bing-news:GTA VI leak",
@@ -85,17 +85,17 @@
       "name": "gdelt",
       "ok": false,
       "items": 0,
-      "error": "HTTP 429"
+      "error": "fetch failed"
     },
     {
       "name": "courtlistener",
       "ok": false,
       "items": 0,
-      "error": "HTTP 401"
+      "error": "HTTP 502"
     }
   ],
-  "discovered": 1832,
-  "newSinceLastRun": 6,
-  "pending": 988,
+  "discovered": 1839,
+  "newSinceLastRun": 7,
+  "pending": 993,
   "analysisMode": "rules-only"
 }
