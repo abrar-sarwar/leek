@@ -11974,5 +11974,41 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-1fb9a5469c",
+    "title": "'South Park' shows new 'GTA 6' gameplay footage, and it's a turd",
+    "reportedAt": "2026-10-30T02:10:12.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbVNPOVR4YmQ0M0pzU3N1aVJ5UHd1WGhia3lkNWloZTRmYzR5VER0YV9OZzdGQVlORFduaG11TnBZNlF0ZFFRRUtUWlVLQ3VlQmc0aE91WWdJZU5ub2F6RF9fT21xWFlROW5ZVjFtM0ZhMkcwdHpBc3lIVVcyQXB4UjBpVWYyZlVxeUtHd0tn?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-718c570c55",
+    "title": "GTA VI Watermark Claim Denied: 1 Rumor Debunked [2026] - https://tech-insider.org/",
+    "reportedAt": "2026-10-30T00:40:32.000Z",
+    "category": "correction",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYXJYNEdudnhZd1d5czlIdHRaZ0RBazlRTE9aZXppRDFNc01xWkxLNEQxYmZrWGMwZ0VFWWxHYm50ZThtUUluMGMwMnp0U3hEZHp4dWtXbG1zNHRfMXUtYkI1THBWOWV2MFJGZDdnQkJDTnM0YUlwZW1yZ1E5bFRSVFd1VEt3amtuclJ6eEJXNWU?oc=5"
+    ],
+    "suggestedStatus": "retracted",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-0f168cc8dc",
+    "title": "Viral GTA 6 Watermark Leak Claim Debunked by Two Insiders",
+    "reportedAt": "2026-10-30T04:20:33.000Z",
+    "category": "correction",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOWtVeU9wWXU3ci1pRzFQdWFKWU5xX0h1ZVM3LTgyYUtJUUV2d3FEZWVqSWQ3VnZsLXBBWGdBTjhrVlY2NEpqdk00c3VYMm1FLTZIVlZHb1VsWVFsOENBZEE3QzJzeUNySXd1dVktMlZJVy1rQTBNaDN5TDVvcG9ERXRQQWxXYlA5MWw3WVpJUmxKb0pCMFNkcXZB?oc=5"
+    ],
+    "suggestedStatus": "retracted",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

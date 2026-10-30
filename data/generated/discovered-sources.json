@@ -39519,5 +39519,173 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-1fb9a5469c",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbVNPOVR4YmQ0M0pzU3N1aVJ5UHd1WGhia3lkNWloZTRmYzR5VER0YV9OZzdGQVlORFduaG11TnBZNlF0ZFFRRUtUWlVLQ3VlQmc0aE91WWdJZU5ub2F6RF9fT21xWFlROW5ZVjFtM0ZhMkcwdHpBc3lIVVcyQXB4UjBpVWYyZlVxeUtHd0tn?oc=5",
+    "title": "'South Park' shows new 'GTA 6' gameplay footage, and it's a turd",
+    "publisher": "Mashable",
+    "publishedAt": "2026-10-30T02:10:12.000Z",
+    "discoveredAt": "2026-10-30T04:56:56.758Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-b08a3d03f9",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQektObTBINXV5bTBCTFdEM09fREVNZnJQSTZFT0Mwd0RxUW02NlV1ZE9hRTlrTDVBSWpUUFV3YmdZczJLVUpZTGVpS3l5UjVXRmZNVzNtOGE4QnN3bkFMZmFnNG9VbHlmc0pHdnIya2hvcjA4QThlNWV1cWtWd0c3RkVfN2FfMjBu?oc=5",
+    "title": "GTA VI 29% Intent Is Not Sales: 4 Limits [2026]",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-10-29T23:21:13.000Z",
+    "discoveredAt": "2026-10-30T04:56:56.758Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-25d6dc771d",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZnMzNl9zOWV0emUwYmhBNnpPQUR5R3dRUHZiMzc0bXFJMU9aZUMyWDl6c2FnQksyb2RfWFFjdWxka2pHTUhCOXFGSnRiTk1pTVpyNnE5Q1pDSUdEUmxVTHoxUTdJemhWUDVLbWRFUmpKcTduYkcyaW1HaHoyaXFrSVVteHFKaHM?oc=5",
+    "title": "GTA VI Reviewer Trap Rumor: 1 Insider, 0 Proof [2026] - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-10-30T00:50:36.000Z",
+    "discoveredAt": "2026-10-30T04:56:56.758Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "misinformation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-718c570c55",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYXJYNEdudnhZd1d5czlIdHRaZ0RBazlRTE9aZXppRDFNc01xWkxLNEQxYmZrWGMwZ0VFWWxHYm50ZThtUUluMGMwMnp0U3hEZHp4dWtXbG1zNHRfMXUtYkI1THBWOWV2MFJGZDdnQkJDTnM0YUlwZW1yZ1E5bFRSVFd1VEt3amtuclJ6eEJXNWU?oc=5",
+    "title": "GTA VI Watermark Claim Denied: 1 Rumor Debunked [2026] - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-10-30T00:40:32.000Z",
+    "discoveredAt": "2026-10-30T04:56:56.758Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "correction",
+      "suggestedStatus": "retracted",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-b76fec77cb",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT3VuTDUzeTFWR0RCbUZ6ZERFeWpQOTFRRVpkakxjS2pQNHBub3hwUU5fTmpNSEliUGRzclVJaVZiMWFQMGdUNkNtR3hLRGU4RW1zSjdtaTVYVUlKLUV0enhBZ2RzU3V6X1doU3dmdEpWbERmUmczNWpDVUtCd29YXw?oc=5",
+    "title": "Vice City Bean Leonida Coffee: $23 GTA VI Blend [2026] - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-10-30T03:11:19.000Z",
+    "discoveredAt": "2026-10-30T04:56:56.758Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-0f168cc8dc",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOWtVeU9wWXU3ci1pRzFQdWFKWU5xX0h1ZVM3LTgyYUtJUUV2d3FEZWVqSWQ3VnZsLXBBWGdBTjhrVlY2NEpqdk00c3VYMm1FLTZIVlZHb1VsWVFsOENBZEE3QzJzeUNySXd1dVktMlZJVy1rQTBNaDN5TDVvcG9ERXRQQWxXYlA5MWw3WVpJUmxKb0pCMFNkcXZB?oc=5",
+    "title": "Viral GTA 6 Watermark Leak Claim Debunked by Two Insiders",
+    "publisher": "GTA BOOM",
+    "publishedAt": "2026-10-30T04:20:33.000Z",
+    "discoveredAt": "2026-10-30T04:56:56.758Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "correction",
+      "suggestedStatus": "retracted",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-cc33e721f1",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZDI1NnZqY1ZieE44M01KcTFUOTNqV3c1aFdHcDUtT01rSGpKOWltaDJTM3ZObS1nQWJ0UUZsSUduUHZLSC1YT0JqZGZpWGdIdTVfa2RmT2dLaFhtc1ZFSURYU0pTN1dORlZEcGRHTXp4Ukc1YnhiOVBkNWtRdEdLVjR2T0QwYVZVbjdkNTBkNC1QQXUtZ0VJ?oc=5",
+    "title": "Insider Says Rockstar Is Sending Out GTA 6 Review Codes Now",
+    "publisher": "GTA BOOM",
+    "publishedAt": "2026-10-26T17:55:33.000Z",
+    "discoveredAt": "2026-10-30T04:56:56.758Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-d7ef73ef0d",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZV90SmxxZEt1dl8wT0dUYkZQMEFjUTRfRHpNWUwySDlvNkFmSC1mWWxCMV9oYWFmOW1EYW1kTmpGa085X2xTUlVCSkhCbVhTcC1iRk9rVmRTODVWSDVST1RGcC1lelkya2ZsS3Q2WUc4MzZOMkFrSnc5RG9DTlB0aGdOZDE3cmptOUJJc2FvR2VKZ19TS2x6d0IzYUc?oc=5",
+    "title": "Does Shirrako's Palm Tree Emoji Really Mean He Has a GTA 6 Review Copy?",
+    "publisher": "GTA BOOM",
+    "publishedAt": "2026-10-26T05:16:42.000Z",
+    "discoveredAt": "2026-10-30T04:56:56.758Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-c7c2b8aae7",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUWNueFZFWWRUM2xJQ3E4ZW5SR2paYWVzck5BMThteS1FOFBlS0pSWVRSS1k5VnVsMjNIZ0NINmNMajQ0WE9FMXpEV2hJRzNJUEx0bWJlc2k0Q04wZHpocWxlNXpQS0ZRVEVkX3pOaUt0WFh2czJ1V3hKTU5GUVlsZ2dnSU56SF9v?oc=5",
+    "title": "GTA 6 Could Take Up 210GB: The PS5 Storage Space Players May Need Before Launch",
+    "publisher": "https://ascendants.in/",
+    "publishedAt": "2026-10-29T17:15:19.000Z",
+    "discoveredAt": "2026-10-30T04:56:56.758Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
