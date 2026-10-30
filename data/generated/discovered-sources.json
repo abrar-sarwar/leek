@@ -39687,5 +39687,26 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-40b7c2cbd2",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaTM1QnkyZFAxR19iWmFVcXZuWEVnbnduZmt2eTBKdXQ5TG1nMkFpOWpyQ21hRHpibmg3WVlhOWRaREdjeWtCVE9nN2I5S1BmeXAxWlVoWTRQd05jeTUyNlVZb0RUZXpJWGhiTlJhUVZkUHlHSzZydGlNbnN3Q1JiLVZjMUxDUzl0Y3c?oc=5",
+    "title": "GTA 6 Storage: 210GB Reported, 676.7GB Fake [2026]",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-10-30T09:31:09.000Z",
+    "discoveredAt": "2026-10-30T12:23:49.376Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-004"
+      ],
+      "category": "misinformation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
