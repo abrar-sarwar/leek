@@ -39708,5 +39708,82 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-25de1f9982",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTV9DUVFfR0NJOENSeUs3UnpRcThZMEhhaFQycVNibWU5MHVmZjhRbzJYRFZVZ3FkTWR2elRxd3dNTTM3SEdmTC1mMjM1a2ZGRFpJR2ZwdDJ2dzduT3VHTTJiNU8yVlVtSndxX19PNkRMc0loTnlMY3RyOWlBUXp0OXRR?oc=5",
+    "title": "Cliff Richard Has No Idea What GTA VI Is: 1976 Hit [2026] - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-10-30T15:10:24.000Z",
+    "discoveredAt": "2026-10-30T22:03:18.925Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-9f8c4e9691",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdWhBZWliQ2VscEV3MWFBYlFzRXBsYzdMSThkUldJd0xJMXpKQWpKWWFMak9PWkZ4aGtFYUgycE54MTlaNzVsVU5fYmQtN2lLRkc3NGpsUFRiOERkakRIV2dpMzRPS0pMdWV4YzVoNWFZM3pJN2s5Ujc2ODkyM0Rnem0xZ1I4NFdwYVNnMUpYZ1I4TVVLRGM3cFZn?oc=5",
+    "title": "GTA 5 voice actors issue warning to GTA 6's Jason and Lucia",
+    "publisher": "UNILAD Tech",
+    "publishedAt": "2026-10-30T10:25:37.000Z",
+    "discoveredAt": "2026-10-30T22:03:18.925Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-a58870e3ca",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWkw4RURXMFd1SE4ybFFVQ2RtaHc1enllWWp6N1JkT0dJa0lvekpqVVF2NDhMTklQU0l4NUtOLXJmQ1BtNWVVek5pU0lSdnRCaVQ0cGNQTmx0dkh0Yko4eUhqUXhldldoOWhCWmJHaFR4QVp2WWFMZzRiRTliYlFJSmlQMGRJc1dZREE0cGVuY3VQVlpJWVRZNkJfX0h2ZzkwRlAtVHU2SFBXc29PTkw4M2tB?oc=5",
+    "title": "GTA 6: 12 new screenshots show interesting details outside Vice City",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-10-29T09:48:00.000Z",
+    "discoveredAt": "2026-10-30T22:03:18.925Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-e755bcb5e4",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSHFCa1d5eXJ2blBaUm03MU1CaXBmcExVLWdyTzd4VHh3MEVpYVZlX3VUTURENXVfZUFuaTdYZGNXalhCa3d4T2Ffd3NqenliSC11Q2RVb2dyY09wdnhQTzVIMW1wLTY3eG51TzlMc1A3QlZ2cFM1R21fbG0ydzBsdGxFZmg5N0x3Ti1V?oc=5",
+    "title": "GTA 6 Leak Threat Raises Spoiler Risks Before Launch",
+    "publisher": "The Eastern Herald",
+    "publishedAt": "2026-10-13T07:00:00.000Z",
+    "discoveredAt": "2026-10-30T22:03:18.925Z",
+    "feed": "google-news",
+    "query": "Take-Two CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

@@ -12010,5 +12010,17 @@
     "suggestedStatus": "retracted",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-e755bcb5e4",
+    "title": "GTA 6 Leak Threat Raises Spoiler Risks Before Launch",
+    "reportedAt": "2026-10-13T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSHFCa1d5eXJ2blBaUm03MU1CaXBmcExVLWdyTzd4VHh3MEVpYVZlX3VUTURENXVfZUFuaTdYZGNXalhCa3d4T2Ffd3NqenliSC11Q2RVb2dyY09wdnhQTzVIMW1wLTY3eG51TzlMc1A3QlZ2cFM1R21fbG0ydzBsdGxFZmg5N0x3Ti1V?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

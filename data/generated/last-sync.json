@@ -1,15 +1,15 @@
 {
-  "ranAt": "2026-10-30T12:23:49.376Z",
+  "ranAt": "2026-10-30T22:03:18.925Z",
   "feeds": [
     {
       "name": "google-news:CyberLeek",
       "ok": true,
-      "items": 100
+      "items": 63
     },
     {
       "name": "google-news:Cyberleek",
       "ok": true,
-      "items": 100
+      "items": 63
     },
     {
       "name": "google-news:GTA VI leak",
@@ -24,7 +24,7 @@
     {
       "name": "google-news:Take-Two CyberLeek",
       "ok": true,
-      "items": 49
+      "items": 100
     },
     {
       "name": "google-news:Rockstar CyberLeek",
@@ -49,12 +49,12 @@
     {
       "name": "google-news:CyberLeek dead man switch",
       "ok": true,
-      "items": 24
+      "items": 23
     },
     {
       "name": "google-news:CyberLeek arrest",
       "ok": true,
-      "items": 49
+      "items": 12
     },
     {
       "name": "google-news:CyberLeek $CYBERLEEK",
@@ -64,7 +64,7 @@
     {
       "name": "bing-news:CyberLeek",
       "ok": true,
-      "items": 12
+      "items": 0
     },
     {
       "name": "bing-news:Cyberleek",
@@ -74,7 +74,7 @@
     {
       "name": "bing-news:GTA VI leak",
       "ok": true,
-      "items": 12
+      "items": 0
     },
     {
       "name": "bing-news:GTA 6 leak",
@@ -85,7 +85,7 @@
       "name": "gdelt",
       "ok": false,
       "items": 0,
-      "error": "HTTP 429"
+      "error": "fetch failed"
     },
     {
       "name": "courtlistener",
@@ -94,8 +94,8 @@
       "error": "HTTP 401"
     }
   ],
-  "discovered": 1862,
-  "newSinceLastRun": 1,
-  "pending": 1001,
+  "discovered": 1866,
+  "newSinceLastRun": 4,
+  "pending": 1002,
   "analysisMode": "rules-only"
 }
