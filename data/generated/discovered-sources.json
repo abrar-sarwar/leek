@@ -39846,5 +39846,60 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-203d1f5515",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLVIwcHZqTnlnd3JGOG1wWGsxbnJwR2kzQ2I5b2J1emtsdXFlaVlJdFJCS0NpaTAtNWN0NTM1M0J6NmJVUndxQ1dEM29aN2tCNGlmUlB3QlM1SDdtOEc3R05reDFhZ0lDMnhVUDE4azdBbVQwS1lyRGlXN2k4aFU1RHFCMk0xVUVoUTNv?oc=5",
+    "title": "GTA 6 Security Measures: 0 Confirmed Details [2026] - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-10-31T11:48:50.000Z",
+    "discoveredAt": "2026-10-31T11:54:35.126Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-abdf9e107e",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaHJkbDl4SWFRR0J3VEFWY0hndzNaRExWMHNlM01rVnZpTy10VXc3WEZOTldZWVNveTJYNm0wQnpWcFdIVkNLMUZCNlkxeXpOTzc2cEo3R3BpeGJCZ2xjZHJSNmp5d0Z5MFlac3M0UkFmOVdUbXBsWkEzWEdITmtzZlFSTUR6YjNXcFYxTTZGb3NqODN3ZFI2RWpvMmRLZ0FiaTFGRktB?oc=5",
+    "title": "GTA 6's reported file size could spell trouble for PS5 owners",
+    "publisher": "GAMINGbible",
+    "publishedAt": "2026-10-28T10:04:46.000Z",
+    "discoveredAt": "2026-10-31T11:54:35.126Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-3f751bb5b2",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaVJScXNNTEdiSU5tMkdDYS14THlFaTFSMVNQLXVRWncxZ0xBSXNveExiVlp0Y0kta0VCdzV5NHhpQnpxanRaYk5GQUlVQ0tGbjA3NnFLUHRkQ2tUd29ud3YzcTV6OWt0NHBpRHJqeGpmOURQMHBIclM5YU1kNkxNVjdiV1hvMU1hZzVj?oc=5",
+    "title": "Elder Scrolls 6 title leaks online ahead of official reveal",
+    "publisher": "GAMINGbible",
+    "publishedAt": "2026-10-29T16:51:49.000Z",
+    "discoveredAt": "2026-10-31T11:54:35.126Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
