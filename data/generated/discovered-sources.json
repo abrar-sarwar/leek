@@ -39785,5 +39785,66 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-40adc76eb2",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeUVxUExKREVDa3ptbmhIUnJ2TWZwQU9tUEdJQlZlYTI1eVZ1dDZvRkNqdmNnODRVM3FFWTZwd3F0UWtwLW9xSXlucmlLSExDT1oyVEo5Sm4wY2F0ZE9XUnlwOFpYMDFTUVVuMHBCUVJwY1JCb1h5QUo4TUR0R3hiNHU1Q0tXOXdJLTd1NA?oc=5",
+    "title": "GTA 6 Leaker Threatens to Release the Full Story Mode if Its Memecoin Hits $30 Million",
+    "publisher": "Martin Cid Magazine",
+    "publishedAt": "2026-10-11T07:00:00.000Z",
+    "discoveredAt": "2026-10-31T04:44:11.286Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "$CYBERLEEK holders"
+      ],
+      "claims": [
+        "LEEK-CLM-015",
+        "LEEK-CLM-029"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-e2604b517d",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUWRLU1JmbkMtdjJrOWliRTk1TXZJbmZVWEljM3pZLTA2eXg4a2lsZnREMU1ha0tNVmktVXdfLVQ1TUkyQXp0QjFLS1hIRmN6VUNlRUpkZ2pOOGliRkR3cXV1N2FJclhEQkxYbUk1dVZILWp6OTJBZzl6RHRjbWFBYUlqZw?oc=5",
+    "title": "GTA 6 25-Min Leak: What Holds Up, 19 Days Out [2026] - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-10-31T01:51:39.000Z",
+    "discoveredAt": "2026-10-31T04:44:11.286Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-b117d34a17",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQW5NUEFLUVhMcXpXUlBZRHRyVHhpVHVvekt6OXlYdmlhZ2w0V25pdmdRTmZMWjgyelRMUEdyV25YRVRmanBzeVh3Mk5kODUxdWRyLVo1QV9CS2xvenN0SkYtXzBZX0g3bDdjU0NqRlZaR3FKcEpWcDNmUHpSS3I0NHBqak41TDNjUm5NbU16VjVmaHRnekh1bGFURQ?oc=5",
+    "title": "Insider Claim GTA 6 Copies for Gaming Journalists Are Not Watermarked",
+    "publisher": "EGW.News",
+    "publishedAt": "2026-10-30T12:39:43.000Z",
+    "discoveredAt": "2026-10-31T04:44:11.286Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

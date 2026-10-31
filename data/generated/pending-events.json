@@ -12022,5 +12022,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-e2604b517d",
+    "title": "GTA 6 25-Min Leak: What Holds Up, 19 Days Out [2026] - https://tech-insider.org/",
+    "reportedAt": "2026-10-31T01:51:39.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUWRLU1JmbkMtdjJrOWliRTk1TXZJbmZVWEljM3pZLTA2eXg4a2lsZnREMU1ha0tNVmktVXdfLVQ1TUkyQXp0QjFLS1hIRmN6VUNlRUpkZ2pOOGliRkR3cXV1N2FJclhEQkxYbUk1dVZILWp6OTJBZzl6RHRjbWFBYUlqZw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
