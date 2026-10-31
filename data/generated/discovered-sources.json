@@ -39901,5 +39901,46 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-e9ff8706fb",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2MC11Tl91eUdTRHVmUHM3cEJUeFgwSS1HRzR6NFFMMXl1TUFzRl9uVHlTc2dQR3E1czlyS0RJQ3VGRF9TWjNJekwwUDlwcTBBeThDbXlNVHNDWXV0al9ad1ljQVJtZlVMaGRyaktqSQ?oc=5",
+    "title": "CyberLeek Price, CYBERLEEK Price, Live Charts, and Marketcap: cyberleek coin, cyberleek market cap, cyberleek crypto - Coinbase Canada",
+    "publisher": "Coinbase",
+    "publishedAt": "2026-08-24T17:12:36.000Z",
+    "discoveredAt": "2026-10-31T21:12:23.611Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-52f4ed5715",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNm50TEV5Y0RvSk91RHNUY1NoRXlld0ZyaUFpQW0wMHVjVzdicmJMc1dCcHFkRmZVMXlHZllkT3pHdnFOMWpIWTEyX254Z3BzNjI3cHBydmdkSGdDNHhOdFZxcUJVMjBlMUVhbjM1MzF1UURJYU1LOGNiNll4dE9vR0hNOTJrRlIzTk1qX0RSMzlOQ3pZaWMzWXJ0eU11QzdUV3F5Uw?oc=5",
+    "title": "GTA VI Gets 12 New Screenshots as EDGE Reveals Major Features",
+    "publisher": "KeenGamer",
+    "publishedAt": "2026-10-29T14:19:32.000Z",
+    "discoveredAt": "2026-10-31T21:12:23.611Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
