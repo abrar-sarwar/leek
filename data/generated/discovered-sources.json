@@ -40037,5 +40037,63 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-1a11bb09da",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYk5lNnNtekpFYmJsVy15U294RTRCbXNZUV9ETGhNZlVJTkd4MmJpV0k4TWxOYzNtYkpoaFJkZ1M1ak1jRXd1cGxVNmxhRk1tNTR1eXdzTW5SY01kVDFYNHF1OVI4U090WUtjRXJWREtlVjZtSGJMZUxEUE9Weko1SmJuTXpNQQ?oc=5",
+    "title": "GTA 6 File Size Leak: 210GB? Box Has Only a Code [2026]",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-10-29T17:30:40.000Z",
+    "discoveredAt": "2026-11-01T12:53:57.339Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-3c7f688d43",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03WGw1c2FDZGxuSm1keUdQYlJ4dzNpQlRMQzAwVlBvd2hONmY1LTJuX3l2dll6TmNTRDZvNjZoLWdDVUJaVGhzaExuQ19SRno3Z3NZ?oc=5",
+    "title": "Rockstar North Makes GTA VI Secrecy the Point in Gta 6 On Ps5",
+    "publisher": "شبكة تواصل الإخبارية",
+    "publishedAt": "2026-11-01T04:59:51.000Z",
+    "discoveredAt": "2026-11-01T12:53:57.339Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-616c606cdd",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU3U0ajJkSGtpSE4yTXVCWS1xUUNFVGxIQVI0NlYxWG93X0x0OE5wNnJEZC1CWjZjbGRVRzEtdkk2djRLRWdNYnVOaXFYME9xN0RQNTJ4dy05U1BZUnpIUjJIdUdkeTFQcHJ3akljUkVNREk3VjlLWHRpVW9qaUIyMW9wMUJXQUZhVXhqUEhRVkRIRVFiODFhQ0t5SWhLM0hRTlpnVGhTS3c?oc=5",
+    "title": "Unseen GTA VI gameplay footage airs in new South Park episode",
+    "publisher": "The Independent",
+    "publishedAt": "2026-10-30T12:29:00.000Z",
+    "discoveredAt": "2026-11-01T12:53:57.339Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

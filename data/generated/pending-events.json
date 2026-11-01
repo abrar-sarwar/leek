@@ -12082,5 +12082,29 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-1a11bb09da",
+    "title": "GTA 6 File Size Leak: 210GB? Box Has Only a Code [2026]",
+    "reportedAt": "2026-10-29T17:30:40.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYk5lNnNtekpFYmJsVy15U294RTRCbXNZUV9ETGhNZlVJTkd4MmJpV0k4TWxOYzNtYkpoaFJkZ1M1ak1jRXd1cGxVNmxhRk1tNTR1eXdzTW5SY01kVDFYNHF1OVI4U090WUtjRXJWREtlVjZtSGJMZUxEUE9Weko1SmJuTXpNQQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-616c606cdd",
+    "title": "Unseen GTA VI gameplay footage airs in new South Park episode",
+    "reportedAt": "2026-10-30T12:29:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU3U0ajJkSGtpSE4yTXVCWS1xUUNFVGxIQVI0NlYxWG93X0x0OE5wNnJEZC1CWjZjbGRVRzEtdkk2djRLRWdNYnVOaXFYME9xN0RQNTJ4dy05U1BZUnpIUjJIdUdkeTFQcHJ3akljUkVNREk3VjlLWHRpVW9qaUIyMW9wMUJXQUZhVXhqUEhRVkRIRVFiODFhQ0t5SWhLM0hRTlpnVGhTS3c?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
