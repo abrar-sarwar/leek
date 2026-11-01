@@ -12106,5 +12106,29 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-fa658043e5",
+    "title": "GTA 6 Leak 13: Beach Clip to Prologue, 18 Days Out [2026] - https://tech-insider.org/",
+    "reportedAt": "2026-11-01T13:41:16.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSEtFdWh6d2doQWdpT2t2Y2I2b0RIeGlmOUQxNVg4cTRXeVF2X0Q5dmxVY0J3YVpDNXNjX01wWE9hV2d4WmV1TkF5RGZpeTgwQmRPNmlJZHM0aW9TNE12V0dUSG9UUGZHanR3NWREU0FQZl9vZWhmTzZ1NERSSjVqNzhDLTI4anFvZXd2TmF1cFk?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-ccebe2b027",
+    "title": "Travis Scott x GTA 6: Nike Air Force 1 Leak",
+    "reportedAt": "2026-11-01T17:09:09.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOMWg0Q01jR0hLVUdzcEktaWNkYVEzMzZVUEs3bjdza1lYRGt4RnNmMnpVNU4wNldhaXZxV21kTXUxYjAyTk1mLVJZczB1SEpDLXd6YUwwQXVVM2kwMjhyZWZJVkxYTzhNZ2NBcG0wSGE2RC1PTUJxalZsdw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

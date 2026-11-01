@@ -40095,5 +40095,102 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-fa658043e5",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSEtFdWh6d2doQWdpT2t2Y2I2b0RIeGlmOUQxNVg4cTRXeVF2X0Q5dmxVY0J3YVpDNXNjX01wWE9hV2d4WmV1TkF5RGZpeTgwQmRPNmlJZHM0aW9TNE12V0dUSG9UUGZHanR3NWREU0FQZl9vZWhmTzZ1NERSSjVqNzhDLTI4anFvZXd2TmF1cFk?oc=5",
+    "title": "GTA 6 Leak 13: Beach Clip to Prologue, 18 Days Out [2026] - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-11-01T13:41:16.000Z",
+    "discoveredAt": "2026-11-01T21:50:31.628Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-91b152f9f1",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORzhXLTNCSnUwSlJqOVJGTVZWclVidUxkYXlzcmk3a2FKTk04dzBkanlIMG5DSWZRVmFKbWxYTHFpcE9ZTkhJaXhRVGRpOTVQaVZ6MnQyWG1xdDQ0N0xjUkgzQ08td0h5eWtPb3lqWEdKVjNWRlZhQTUwYnZBSHBBaHVwb25vanNfWnc2Q2szYUI?oc=5",
+    "title": "GTA 6, everything we know so far, confirmed vs rumor",
+    "publisher": "Pasquale Pillitteri",
+    "publishedAt": "2026-11-01T20:17:16.000Z",
+    "discoveredAt": "2026-11-01T21:50:31.628Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "misinformation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-ccebe2b027",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOMWg0Q01jR0hLVUdzcEktaWNkYVEzMzZVUEs3bjdza1lYRGt4RnNmMnpVNU4wNldhaXZxV21kTXUxYjAyTk1mLVJZczB1SEpDLXd6YUwwQXVVM2kwMjhyZWZJVkxYTzhNZ2NBcG0wSGE2RC1PTUJxalZsdw?oc=5",
+    "title": "Travis Scott x GTA 6: Nike Air Force 1 Leak",
+    "publisher": "urbanstreet.com.pe",
+    "publishedAt": "2026-11-01T17:09:09.000Z",
+    "discoveredAt": "2026-11-01T21:50:31.628Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-d2176ce2e7",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYlpNSElPYkdTMWhENmFmM2dMWXNEeDBWSkM2RFRXclhfWlllLWU1SE9qUHZqQTBfTzlPVnRsTVZTRllkUTlLMllDeVVrQzhscmVLQTVGdHB0MUFJb3pDZmVoV0sxVVBTQnUzRUIyMUx2T1JWRG9hd1ZSTnZ4dkdoVjVyU29uVV9PWUt1eDg1Q2x0dVly?oc=5",
+    "title": "GTA 6 Expectations: 18 Days to Nov 19 Launch [2026] - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-11-01T08:11:09.000Z",
+    "discoveredAt": "2026-11-01T21:50:31.628Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-02736e9c08",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM3o2V3JMQWZPSTdhWnpRZ2pkYjFrbWlrYVgtLUwtTHBqYUNJbDR4Zk1idUZEUmF4VkdHUEN1cFlicFVDa1ZkN0hkNXlyWjQ2LTZMd25ZS1pENkxMWlFXcWNQTVNrc3JJbkNlV3h0ZXlPRUt4eDh1UWFMYzQ2TlFJSmNUeDQwZHVQNkZ4QmlyUDQ?oc=5",
+    "title": "Rockstar’s Free GTA 6 Poster: 1 Fan, No Program [2026] - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-11-01T03:30:17.000Z",
+    "discoveredAt": "2026-11-01T21:50:31.628Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
