@@ -12046,5 +12046,41 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-5ec2bb8b25",
+    "title": "Rockstar: GTA 6 Leaks Invasive, Launch Nov. 19 [2026] - https://tech-insider.org/",
+    "reportedAt": "2026-11-01T00:14:01.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNi16RXN4Y1BUY05RVG9mWFlwV0hsZEQ0MW1RcldTZ05jalhNeDg3TjQ0dXBFRGt5Qnp2aUFyY1VZbkZEOGQ4QjN4dU1hS21ONWhwYldsVjNsOEVYelJSMmxkdmJmTVlyX2JaU0xOMmkwSzN3TW53akppczN0eUlrTEJPMVZRWXQ5OTlsMDNBcTl0d1FVdEl4aUtR?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-8c589c1982",
+    "title": "Is Travis Scott Linking With GTA 6? Leaks Point to November Nike Air Force 1 Drop",
+    "reportedAt": "2026-10-31T23:22:08.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PR1h4WEkzQ3l0OHpveklXS19ETEpaLTRDa0RMbkZ6X3pCTndwWmZLRDRqaHpQaFpESmRuNi0xcUtVc2pRd1lhZlVoSmw1QWhPTktMODR3TzNtWG5kWGxqbHFkRFBiWUo2Um5z?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-495a320fee",
+    "title": "Persona 1 Remake Trailer Leak: 360p, Unconfirmed [2026] - https://tech-insider.org/",
+    "reportedAt": "2026-11-01T02:31:10.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRDNCMkViTWlFUDk3VTlyY2ZvMHhSeVMyLXFLR2RCR3UwWnlfX3hEUzUyd2Y4SmMydzJKQ2lIVHNNbjhsVEE5TEg0TWJrckFpd09JOE1PTW9Md3BCZTN5QVdKWDh4ZWJ5eDJIUzNJRWdBRG45dzc3b2JONUpBa0EzX1hzT0IxUHQ0UmNn?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
