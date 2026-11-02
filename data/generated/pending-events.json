@@ -12130,5 +12130,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-afafad2eda",
+    "title": "GTA 6 drops surprise gameplay footage in South Park, and it's absolutely hilarious",
+    "reportedAt": "2026-10-29T11:11:48.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSXY2ZWl5UDc3VmJFd0p0WHlVZ2tkRVA2NkF0YlAwdXJGMUlrVHpndl9XYTdXbUdMVzlwV29DSWZUU0pabXdRaEJxRi04MWJIZnk0Z21vTXBtOXRYMjRBLTdXQzhpN1V3OFp0QXloaFpCMHQtYWE2djQxTFFhQWVHWkNfeE0wUTZ5cnZSUWpWdw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
