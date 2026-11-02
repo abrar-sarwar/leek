@@ -40248,5 +40248,60 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-6fc6cf3bec",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBwOU9Rb0hSeFFuOEpYTnRpVHNJZE85X1BucDl5YWx6M1d4R2tlMFloTF9QX1I2d0k3TWZBMmw5NWtBMi1qaF8wUzc5Z2FLMW9wa2VpMmhWS213NUl4VldrNW5UMUFtTWZ2RllORjhGOWVNVnp5WVdYeXRDQm3SAXxBVV95cUxQcDlPUW9IUnhRbjhKWE50aVRzSWRPOV9QbnA5eWFsejNXeEdrZTBZaExfUF9SNndJN01mQTJsOTVrQTItamhfMFM3OWdhSzFvcGtlaTJoVkttdzVJeFZXazVuVDFBbU1mdkZZTkY4RjllTVZ6eVlXWHl0Q0Jt?oc=5",
+    "title": "GTA 6: All details revealed so far",
+    "publisher": "The News International",
+    "publishedAt": "2026-11-02T08:17:50.000Z",
+    "discoveredAt": "2026-11-02T15:07:12.044Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-827f06ad48",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa2t6RVhLX1NDeEk4cXRHYjdXZUJMMmZ4NE85ZVVhcklrMmFrd0VwR18yTzNqclRadmxyWnZQM1pXVDFzSk52Y0QzOGNQUW5FZnhMenlsZjFKSXhEa0xQU3NxTkRkZ3R6NnJ4WmE1ZEowbVVlSHM3ZVEtS0YyN29WejFEMWpQWFFWWnBzbG9R?oc=5",
+    "title": "GTA 6 PS5 Install Size: 210GB Reported, 31% of SSD [2026] - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-11-02T09:49:47.000Z",
+    "discoveredAt": "2026-11-02T15:07:12.044Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-1f9f6e8612",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae8a725eb984c93bf73817b369c4394&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fgta-6-may-need-200gb-on-ps5-heres-what-the-same-storage-space-could-hold-back-in-2010%2far-AA2gA4jj&c=6603012860542601271&mkt=en-us",
+    "title": "GTA 6 may need 200GB on PS5: Here's what the same storage space could hold back in 2010",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-02T01:36:55.000Z",
+    "discoveredAt": "2026-11-02T15:07:12.044Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

@@ -12142,5 +12142,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-1f9f6e8612",
+    "title": "GTA 6 may need 200GB on PS5: Here's what the same storage space could hold back in 2010",
+    "reportedAt": "2026-11-02T01:36:55.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae8a725eb984c93bf73817b369c4394&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fgta-6-may-need-200gb-on-ps5-heres-what-the-same-storage-space-could-hold-back-in-2010%2far-AA2gA4jj&c=6603012860542601271&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
