@@ -12298,5 +12298,41 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-59bd626e47",
+    "title": "PSN Account Reportedly Banned for Sharing GTA VI Leak via PlayStation App",
+    "reportedAt": "2026-11-03T18:41:32.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMilgFBVV95cUxONFhlN2xhZ3NfaFV3TlJscHd0UzJxbl9xWGpjT0JyNXRVRXVfb1JxSlAxZXk4S2toSTBUaHBsQ3JGRWs0b1NVOGlKSUxxMHItWDFTS2NmR2RXSDJDRi1abDJYTnMtRlhtcWtTQVFqalc2WEd3ZE9HNGFoa1hQa3RBcy1UMEdabVIxbmtNdHVXX0dEUlZrZVE?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-85f00b08e2",
+    "title": "GTA 6 leak in PS App chat reportedly leads to PlayStation account ban",
+    "reportedAt": "2026-11-03T00:46:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aea67b81d374e0693036148ebc67377&url=https%3a%2f%2fwww.notebookcheck.net%2fPlayStation-reportedly-bans-account-for-GTA-6-leak-shared-in-PS-App-messaging.1440431.0.html&c=13231015374304563724&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-f7c4c636ce",
+    "title": "GTA 6 preload size on PS5 revealed, and it's bigger than leaks suggested",
+    "reportedAt": "2026-11-03T09:27:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aea67b8153b4586ba708f50bebc816a&url=https%3a%2f%2fwww.sportskeeda.com%2fgta%2fnews-gta-6-preload-size-ps5-revealed-bigger-leaks-suggested&c=5913313107360168503&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

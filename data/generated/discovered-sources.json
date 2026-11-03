@@ -40704,5 +40704,190 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-d465e3f7fb",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSzhLYXl4RE9hNTFqZkJJTjJkLVZCQ0lTMDBxNjdvSUNtYUMteHlTTWtPYWJSamxkWmtxam9RYnBTZGI0N0k2a0Q4T09YaF96MVFHRF9ET3dqR1NNUTZDTW40ZFVaTWtkZVAtZXBqSEVlN2JhWE4zekdwM0tKOFB0NDAza0JlZ0NKejZ4OA?oc=5",
+    "title": "Despite new GTA 6 leaks, Cyberleek's cryptocurrency remains over $20 million short of goal",
+    "publisher": "Yahoo Tech",
+    "publishedAt": "2026-10-12T07:00:00.000Z",
+    "discoveredAt": "2026-11-03T23:01:07.213Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-015",
+        "LEEK-CLM-028"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-59bd626e47",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONFhlN2xhZ3NfaFV3TlJscHd0UzJxbl9xWGpjT0JyNXRVRXVfb1JxSlAxZXk4S2toSTBUaHBsQ3JGRWs0b1NVOGlKSUxxMHItWDFTS2NmR2RXSDJDRi1abDJYTnMtRlhtcWtTQVFqalc2WEd3ZE9HNGFoa1hQa3RBcy1UMEdabVIxbmtNdHVXX0dEUlZrZVE?oc=5",
+    "title": "PSN Account Reportedly Banned for Sharing GTA VI Leak via PlayStation App",
+    "publisher": "Yahoo Tech",
+    "publishedAt": "2026-11-03T18:41:32.000Z",
+    "discoveredAt": "2026-11-03T23:01:07.213Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-54d1151473",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSkM3ZGRkcmFyRS1DTDdQbGdzUWJ4N1Y4UDkwYV9iYzNpbUJWWFZFVE1PZ1NpUHExOWNTdGhGNk1WNjRzY0hUMEhPQ2F0bTk3NklNSHh0Z1hNVUo4VlNaRkdpSHNlR3ZfZ0NlRmNqa09OZklRb0tRWDdSSWlFeWw4WW4zQkRINk15RHBnT1F6WXpCSnJmNC1QVmJRY0NDSWNVemNieWpjbUhBclU?oc=5",
+    "title": "GTA 6 launch plans accelerated as earlier pre-load confirmed by Rockstar",
+    "publisher": "GAMINGbible",
+    "publishedAt": "2026-11-03T15:35:46.000Z",
+    "discoveredAt": "2026-11-03T23:01:07.213Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-28b3c0d167",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYVNYUVNRcDFYOGg3cXhBYU9zRWNjUktkXzRjaFppMTBYQmp4bHJ1Ym1qZXVLS1V0RWtWLVYydFRUQmZiNWlpTmctWU44NE9XRF9IVEJvQ1NJN2xLQmhTVHhzZllGYWR0WkVpd0ZxYkl5VWJrbnNYMjIwb2MzRkpqMVVNOWhzZjFrTEtoOEpxWTVHS2l4Mi15WDByT00?oc=5",
+    "title": "GTA 6 may just end up getting PS5 Pro optimizations",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-11-03T16:59:00.000Z",
+    "discoveredAt": "2026-11-03T23:01:07.213Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-4c839fd0b9",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSVozbnJHNS1RMjNWbUEtTkdMRFlPeHpoQ2lYbE1jN3ZIdmIwdWRseTJwektCU3NiQVNTcWxNWDE4SGJJWlpSMmhNWGFHWTh5eVhiaHUyUm1iN0t2XzEwNGptdld5WkdPR1RGM1loellRX2FWTDVLOWdEdjFGUzdKcDlYSFpNaHQxNnprZzc2RkoyZ0pzUElKUnVpOW12YW9ERTM5MWVrNUpPUEtOMjBCRERXbmxFX1d5THpFWXFveGl6QQ?oc=5",
+    "title": "GTA 6's massive download size confirmed as Rockstar moves pre-load date forward",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-11-03T15:35:00.000Z",
+    "discoveredAt": "2026-11-03T23:01:07.213Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-402c2f945e",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWmkzZlhpa1EtdDdGUmlGZFZmYzdpcGlKVE1QeEU1Wi1uNmk5REJVLUQ0cjZkSHFfZmRWWDBzWmRIXzk5SGRDX3Q5c3ktVUdKNGxHVTJ4TnZIZnNWWlRWZEpBTXZ1d2loZThjWmF0M2x4VnF6bVdYa0hGbk5TZ1pvdDBlb1NHeFJDRUp4SWd2SXI4akZxcDVLWmVVclV4U3BJbFpITlVYa1lvR25vT0gtZmRrbzd2WmxKNTh2S29qSm91T19ta0NEZFVMRzlmME0tckNRTXpIbHNTa0p4NjI0QkMzRQ?oc=5",
+    "title": "GTA 6 Leaker Threatens to Release Build With Full Story Mode Played to the End, Ties Lucia's Clothing to Crypto Scheme",
+    "publisher": "IGN Nordic",
+    "publishedAt": "2026-10-10T07:00:00.000Z",
+    "discoveredAt": "2026-11-03T23:01:07.213Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-015",
+        "LEEK-CLM-029"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-85f00b08e2",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aea67b81d374e0693036148ebc67377&url=https%3a%2f%2fwww.notebookcheck.net%2fPlayStation-reportedly-bans-account-for-GTA-6-leak-shared-in-PS-App-messaging.1440431.0.html&c=13231015374304563724&mkt=en-us",
+    "title": "GTA 6 leak in PS App chat reportedly leads to PlayStation account ban",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-03T00:46:00.000Z",
+    "discoveredAt": "2026-11-03T23:01:07.213Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-74e04dcc53",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aea67b8153b4586ba708f50bebc816a&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fgta-6-pre-load-schedule-rockstar-moves-download-to-nov-10-212-gb-storage-needed%2far-AA2gFY1B&c=12034347737627976240&mkt=en-us",
+    "title": "GTA 6 pre-load schedule: Rockstar moves download to Nov 10; 212 GB storage needed",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-03T10:15:00.000Z",
+    "discoveredAt": "2026-11-03T23:01:07.213Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-022"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-f7c4c636ce",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aea67b8153b4586ba708f50bebc816a&url=https%3a%2f%2fwww.sportskeeda.com%2fgta%2fnews-gta-6-preload-size-ps5-revealed-bigger-leaks-suggested&c=5913313107360168503&mkt=en-us",
+    "title": "GTA 6 preload size on PS5 revealed, and it's bigger than leaks suggested",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-03T09:27:00.000Z",
+    "discoveredAt": "2026-11-03T23:01:07.213Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Netflix"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
