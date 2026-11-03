@@ -40303,5 +40303,265 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-01de737cb9",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUmtZcTAtZVU3NmNIeEpBWkZJSVpoYkJRcmI5aV9HZmEyUzhtbzdXZGRSdUdUdmpYeUZoSWJOcGIySzcxQ3JXNGNHREdSMjRIQm14dkZ0bDFtMUFITU83OWZzU3pOcm92Zl9nanI4SXg4RlFvOGhXeExGMVY4VS01cVhORWVoYjFYcDlTSjVZSQ?oc=5",
+    "title": "GTA 6 preorders sell out on Amazon despite leaks",
+    "publisher": "The Ticker",
+    "publishedAt": "2026-11-02T19:18:45.000Z",
+    "discoveredAt": "2026-11-03T00:44:45.210Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-014"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-1567c7eb52",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRVpoYzZzNzZ6UkZ3Ukp2Y0lxb0ZJb090X0xrUlpXZzNZRzNjT2VPTW9BNFpmNE5scU83ZkVsQ3pTaVJQamRqdDFndU9HVjNyR2l2RG0xSndTaU1TNFhqbDZWRUVQWlZvVlFNWmlpQW9PM2lGMS0zM2VEUG1ka1BWVWVDb0d5YXpKTjJOdXlLTjFFNmNKOUE?oc=5",
+    "title": "Leaked $130 Travis Scott x Nikes Show GTA 6 Merch Can Outprice the Game",
+    "publisher": "DesignRush",
+    "publishedAt": "2026-11-02T13:06:02.000Z",
+    "discoveredAt": "2026-11-03T00:44:45.210Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-8465ea1024",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tVGFRbmpGem0yNVZ0bkswY0pCREVubG4xUDVyOEg2MHl1TGlBQnFvdEoxSl8zQ2xac2lIWUxLX0tHVzJXRFNVTXRaNUhfcEw1Rlg2MVNRUTFBdlUzYmhjN3NQaHhmVy1wM0dhcm9mc1l3QQ?oc=5",
+    "title": "Walmart’s ‘GTA 6’ preorder bonus leaked: How to score the free \"surprise and delight bag\"",
+    "publisher": "Mashable",
+    "publishedAt": "2026-11-02T22:49:59.000Z",
+    "discoveredAt": "2026-11-03T00:44:45.210Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-014"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-384a079a5e",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTzVTOVBzbThHMWRqV2ZWN1JZanZFdlA1TncwcDU0aTZveWEtc25hOVNhRE9OSDdJeVNWQ19kVUJ6NklpazVfUmItZGxHWmJSWFpaMnotM0t0LVFLUzZtQkhKLVlTTU5JTGM3bVdVVnYzNDhSNEVpVk83TU9GSXZvV1JyZk01eVU3YWE2SmhmNFJWeG03eHAzbHVhTXlUMklaU2otbkRZcHpqLTd2bUp1ZDZ2NlRTUS10Q0xZWXJjVWo?oc=5",
+    "title": "GTA 6 Map Revealed: Full Map Size, Vice City Locations, Interiors, and Major Changes Explained",
+    "publisher": "MMOEXP",
+    "publishedAt": "2026-11-02T02:02:06.000Z",
+    "discoveredAt": "2026-11-03T00:44:45.210Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-804d85202d",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KV3VLQU1JMXlHb3Q5UGZSWU9MdjdBUmNSVXhZWk1lRjkxZDJGWWV4aW8yMGhlYW1jVzY2QVRFTzFKalNXS0MtZVc0SVViUllvMVdpY3cyRkkwQmtZ?oc=5",
+    "title": "Interviewing One of the Most Interesting GTA YouTubers - @YTGrid",
+    "publisher": "YouTube",
+    "publishedAt": "2026-11-02T13:00:11.000Z",
+    "discoveredAt": "2026-11-03T00:44:45.210Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Google / YouTube"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-882f396832",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TUXA1V3EzaU93Vlo4NjBOWWVIYjJZc2tXWWRwRnB5YU5kTHB3VG9uSFY2cWVSVFEzMmRzYmxBb0lhWnlmRGlWemJNbGNIaGtURDQ1djcxNm9PVzdyRVczaQ?oc=5",
+    "title": "All GTA 6 leaks so far",
+    "publisher": "Sportskeeda",
+    "publishedAt": "2026-11-02T13:38:00.000Z",
+    "discoveredAt": "2026-11-03T00:44:45.210Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-398e8a0752",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOTR2UVVVWkVyUWNpMk1yNWNXN0JKN0JaNjA4QnFURVlaSUFGRHpnek9veW9iaFBzWXc1N25XQ0FJcHdJRHZvSGxhNUhHTGdUZi1mNjVfOGZQd3owVko1S0tGMHVzbWxWTThQLVZ0ZXlPTjl4RkoydjRHMmRfQnRCclJMQjFnYXBrT1FQM2xJcUhfNnc?oc=5",
+    "title": "Fake GTA 6 leaks are filling the internet as release date approaches",
+    "publisher": "Sportskeeda",
+    "publishedAt": "2026-11-02T12:59:00.000Z",
+    "discoveredAt": "2026-11-03T00:44:45.210Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-004"
+      ],
+      "category": "misinformation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-1940561a93",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOTh1WHdlZWtUbUJoQk90TXVDUHRSVmVJeEd3clUzRmZqa2xnNkdyVXJOWkFQMzI2cXNDUzljU3BEeTVyU1JaLVBJeGw2MDlvVlRPNElISWVmQ2dhcHpTbXVIVnQyTWF6RzF4V3VTWGxhRERVcU1LS3pYVjEzdUZXYU1sRGx3TGowSWxNYW1sem1FZ3lLMFJ3eDN3elNuTnFVQ1E?oc=5",
+    "title": "Self-made millionaire says GTA 6 could actually save players $5k",
+    "publisher": "Dexerto",
+    "publishedAt": "2026-11-02T19:24:26.000Z",
+    "discoveredAt": "2026-11-03T00:44:45.210Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-06947a0f0d",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSW5RS3F0emtFeExTWjZueXdNNGUtcjFYTW8xUUtsaDlrY0tHOVhmMzJqTVhGbWtnaW9lYlhUNFpTYWZwdHZNSS0waktYTWFXdElwQlpsME5QLW16d010WEFxT2ExR0xqbU1iczlHYjN4eElyV0dIMzZmYWRZbDZXVVpoTEhBR05lRnRKLS1LX0g1UWUzeVlNdmt0WkNNS1hBb0stdXJB?oc=5",
+    "title": "GTA 6 pre-orders at Walmart will include a mystery gift for PS5 and Xbox buyers",
+    "publisher": "Sportskeeda",
+    "publishedAt": "2026-11-02T10:20:00.000Z",
+    "discoveredAt": "2026-11-03T00:44:45.210Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-006",
+        "LEEK-CLM-014"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-ffa09d48fc",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcEJtZkx2YTd6ZDJ5Wjh4cVYyVkVlTzBMdFNOTlZYbVZjcmhFOE1wRVVtYm1uV09hUFE2ellDcFg1VjNYM1hBV0lXZEhVVXdIQV9zaGhVWTViUFhfbjZ5b0dCVE5DQkpNT2o3c25CcEgwQldxdHpDb1lHYmIwQ3h1dy1FZ1U3RU1UaXBJV0paVVRJZ2l5SkFj?oc=5",
+    "title": "Chess gets a GTA 6 style makeover dubbed Grand Chess Auto",
+    "publisher": "Sportskeeda",
+    "publishedAt": "2026-11-02T12:10:00.000Z",
+    "discoveredAt": "2026-11-03T00:44:45.210Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-028"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-746595c2e5",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVG1WZEhVSHN3Nm9nRTBrTzRfeXAzVmJLcENkVkl0b1MtQXU0cmo2TlIyOFhDSjZibGZJUWlDMU1rWUthcVluYUZzcnV5NkQwWlZ1dUlpdDUxcGJfOFYxVFotZ3BEclRIdFFjakN3T0xyNU5qRzJJU2lGS0k3WUhmWjJncVVSblV4SlBMYTVTQWV2ZkhSV293?oc=5",
+    "title": "GTA 6 Could Take Up 210GB on PS5, Nearly 50,000 MP3 Songs Could Fit in the Same Space",
+    "publisher": "https://ascendants.in/",
+    "publishedAt": "2026-11-02T18:54:01.000Z",
+    "discoveredAt": "2026-11-03T00:44:45.210Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-fe0a2fcdca",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae92e8380ee47ad872a6ed4f670dc02&url=https%3a%2f%2ftech.yahoo.com%2fgaming%2farticle%2fgta-6-preload-date-is-confirmed--plus-everything-you-need-to-know-about-the-most-anticipated-game-of-the-year-152314768.html&c=16689798406805591767&mkt=en-us",
+    "title": "GTA 6 preload date is confirmed — Plus everything you need to know about the most anticipated game of the year",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-02T07:31:00.000Z",
+    "discoveredAt": "2026-11-03T00:44:45.210Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-006",
+        "LEEK-CLM-028"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-453ebbdc43",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ae92e8380ee47ad872a6ed4f670dc02&url=https%3a%2f%2fgamerant.com%2fgta-6-leak-strip-club-store-robbery%2f&c=6026434027795688012&mkt=en-us",
+    "title": "New GTA 6 Leak Shows Off Strip Club, Store Robbery Gameplay",
+    "publisher": "bing.com",
+    "publishedAt": "2026-08-22T04:59:00.000Z",
+    "discoveredAt": "2026-11-03T00:44:45.210Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-028"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-033"
+    }
   }
 ]

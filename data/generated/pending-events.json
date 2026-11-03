@@ -12154,5 +12154,65 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-01de737cb9",
+    "title": "GTA 6 preorders sell out on Amazon despite leaks",
+    "reportedAt": "2026-11-02T19:18:45.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUmtZcTAtZVU3NmNIeEpBWkZJSVpoYkJRcmI5aV9HZmEyUzhtbzdXZGRSdUdUdmpYeUZoSWJOcGIySzcxQ3JXNGNHREdSMjRIQm14dkZ0bDFtMUFITU83OWZzU3pOcm92Zl9nanI4SXg4RlFvOGhXeExGMVY4VS01cVhORWVoYjFYcDlTSjVZSQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-1567c7eb52",
+    "title": "Leaked $130 Travis Scott x Nikes Show GTA 6 Merch Can Outprice the Game",
+    "reportedAt": "2026-11-02T13:06:02.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRVpoYzZzNzZ6UkZ3Ukp2Y0lxb0ZJb090X0xrUlpXZzNZRzNjT2VPTW9BNFpmNE5scU83ZkVsQ3pTaVJQamRqdDFndU9HVjNyR2l2RG0xSndTaU1TNFhqbDZWRUVQWlZvVlFNWmlpQW9PM2lGMS0zM2VEUG1ka1BWVWVDb0d5YXpKTjJOdXlLTjFFNmNKOUE?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-8465ea1024",
+    "title": "Walmart’s ‘GTA 6’ preorder bonus leaked: How to score the free \"surprise and delight bag\"",
+    "reportedAt": "2026-11-02T22:49:59.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMickFVX3lxTE1tVGFRbmpGem0yNVZ0bkswY0pCREVubG4xUDVyOEg2MHl1TGlBQnFvdEoxSl8zQ2xac2lIWUxLX0tHVzJXRFNVTXRaNUhfcEw1Rlg2MVNRUTFBdlUzYmhjN3NQaHhmVy1wM0dhcm9mc1l3QQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-384a079a5e",
+    "title": "GTA 6 Map Revealed: Full Map Size, Vice City Locations, Interiors, and Major Changes Explained",
+    "reportedAt": "2026-11-02T02:02:06.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTzVTOVBzbThHMWRqV2ZWN1JZanZFdlA1TncwcDU0aTZveWEtc25hOVNhRE9OSDdJeVNWQ19kVUJ6NklpazVfUmItZGxHWmJSWFpaMnotM0t0LVFLUzZtQkhKLVlTTU5JTGM3bVdVVnYzNDhSNEVpVk83TU9GSXZvV1JyZk01eVU3YWE2SmhmNFJWeG03eHAzbHVhTXlUMklaU2otbkRZcHpqLTd2bUp1ZDZ2NlRTUS10Q0xZWXJjVWo?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-882f396832",
+    "title": "All GTA 6 leaks so far",
+    "reportedAt": "2026-11-02T13:38:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TUXA1V3EzaU93Vlo4NjBOWWVIYjJZc2tXWWRwRnB5YU5kTHB3VG9uSFY2cWVSVFEzMmRzYmxBb0lhWnlmRGlWemJNbGNIaGtURDQ1djcxNm9PVzdyRVczaQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
