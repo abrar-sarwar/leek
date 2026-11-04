@@ -40889,5 +40889,51 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-91bc28a2af",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeac2d1e9ef422080df686f896c9383&url=https%3a%2f%2fwww.msn.com%2fen-us%2fgaming%2frockstar-games%2fgta-6-reportedly-requires-a-massive-210-gb-of-storage-space%2far-AA2gHvar&c=8769584912823601051&mkt=en-us",
+    "title": "GTA 6 reportedly requires a massive 210 GB of storage space",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-03T17:00:00.000Z",
+    "discoveredAt": "2026-11-04T05:28:29.659Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-58326e3acc",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeac2d1e9ef422080df686f896c9383&url=https%3a%2f%2fwww.eurogamer.net%2ftake-two-rockstar-gta-6-leaks-subpoena-discord-response&c=8287146689767711106&mkt=en-us",
+    "title": "Discord is yet to be served Take-Two's GTA 6 leak subpoena, which is set to demand broad access to user data",
+    "publisher": "bing.com",
+    "publishedAt": "2026-08-25T01:39:00.000Z",
+    "discoveredAt": "2026-11-04T05:28:29.659Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games",
+        "Take-Two Interactive",
+        "Discord"
+      ],
+      "claims": [
+        "LEEK-CLM-022",
+        "LEEK-CLM-023"
+      ],
+      "category": "legal",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-019"
+    }
   }
 ]

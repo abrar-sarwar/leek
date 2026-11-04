@@ -12334,5 +12334,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-91bc28a2af",
+    "title": "GTA 6 reportedly requires a massive 210 GB of storage space",
+    "reportedAt": "2026-11-03T17:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeac2d1e9ef422080df686f896c9383&url=https%3a%2f%2fwww.msn.com%2fen-us%2fgaming%2frockstar-games%2fgta-6-reportedly-requires-a-massive-210-gb-of-storage-space%2far-AA2gHvar&c=8769584912823601051&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
