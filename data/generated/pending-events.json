@@ -12418,5 +12418,89 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-399346e989",
+    "title": "Sony PSN Freeze Over GTA 6 Leak: 0 Confirmations [2026]",
+    "reportedAt": "2026-11-04T21:56:15.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS2dJYXZvTkFjSkFYcE5wNGtZVDBFSDJpVDl2UElFRi1uRVFHZU1xUlgtWXE4SFAtbWJKVnRROGdXV1lBZWdyMWVPa083OGJzZUNSUWh6a3RNN3BiUEdtVC1saVB2MGVBckxPN2FnYTAwX1gyZnZPYzhTOElNOWpMTWVkOHhieVd1enNmWHNR?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-99fb57e591",
+    "title": "GTA 6 Preload Date and 212 GB File Size Confirmed After Earlier Leak",
+    "reportedAt": "2026-11-04T10:25:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMinAFBVV95cUxObVhzcjgyOC1Yd1F6X1A2ek82UHU1MG5oQUNHcFFyQlhSeFpXaUlPZTV0Z1hIMC1Od1dzbmc0OW9FN2N6VVl5NDc3QnNUU0JDOFAzZE5NWHRqMGNtWTVoRUNnVVRlQlM0T1RFR0x0dktXVXdfNTJCUkRGcXFyaUR3SXhiTVphTTNWOWNPanB5X2hPZy12Q3lyeTBqVXc?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-ca46eadf1c",
+    "title": "Rockstar Will Prevent Someone to Leak GTA 6 Ending or Other Major Spoilers",
+    "reportedAt": "2026-11-04T16:59:48.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRmJZeVpaSzB4UDdGVzY0QVIxRW42TGFyWVNxdXZtbmZqMXVpbzZOVVhTdlg2dGRmcmltRzhmRjVPTFFCSVJkSHNkRUJsOTR1RVhuaWJKZHZsOTFhbGlBZ0hwVklWQmpOc19oN1pmUVVMN3ZNQ2pUYi1PUDg1VEljSU9WSlJOUmhZVFJ0SlZCWVRWTGhPSUdPQlhiNA?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-00347e714c",
+    "title": "GTA 6 Will Have Enhancements on PlayStation 5 Pro, Leak Reveals",
+    "reportedAt": "2026-11-04T14:30:23.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSGs4RTByU2VEMUQxaFIyYzlrdnpITG94bmt6bWtrZ0RvQzdJMjVrbnBNNnlNQUdMZ3d1azZZb3Y5V0ZGeEZhRzQwRW03YnRmR3Z6ZHFxN1cwQUNXN1NiZ3czem95QnB6VzhsT1BWMlM2Q2E3LTVnNlpBSDU0Wmh1OTFHaDFXS24tTFAyc1RYZWxXdTQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-a5e5030e8e",
+    "title": "GTA 6 PS5 Pro ‘Leak’ Raises Doubts After Fans Spot Ghost of Yōtei Reference",
+    "reportedAt": "2026-11-04T20:28:44.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMifEFVX3lxTE41SHd3T3U3VU1PeHo5dEl2azI3RkRqZkNwcmZZczZYVFNlckQwV0h6a2xvZEdBUktWTWtmaFNSY2VVeGxVWHUxaU4xMm16QmdGUEI1UVZ5YTFSdWJGQ0RwSHJiMnpDUURic2h4bElsMHh1TlRLTExPUGZuLXg?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-1847884a6d",
+    "title": "GTA 6: Game maker responds to leak and blackmail threats",
+    "reportedAt": "2026-08-20T18:45:04.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeTRlOEhsdWI1OXlFVUViTmxnR0ppdVFpa2pINHc0UGFEVlI0bUwtUTlqRU5YNm1SZVlJcW9Wc1JXMGJzUFBzQm9hak1hSnhjX1EwSW0zdi0wcUU5NUFmUjMyVlBhRU9abm43bk5KVllubWlYMHVqby1ER0l3YmI1T0xkcWNBZw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-5797e206ea",
+    "title": "GTA 6 leak: Nearly 200GB of files and map assets",
+    "reportedAt": "2026-11-04T12:20:12.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aebbec3a7954dddb02a7e3836120ef8&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fgta-6-leak-nearly-200gb-of-files-and-map-assets%2fvi-AA2cA8Go&c=3748260130684133352&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
