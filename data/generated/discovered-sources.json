@@ -40935,5 +40935,159 @@
       "model": "rules-only",
       "matchedEventId": "LEEK-EVT-019"
     }
+  },
+  {
+    "id": "DISC-46d27eec82",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPekUzSktGV2tfMTFCcEpCQ280cHVERFlzbzJCR1RtV3NYamVITmtXc0xJby15aWw5YmkyTGhiVWh1MFdQcXBuTGpPT2t6UFFkcFQ5SWlRUTJFWGlINXFINEp2WHUtcEFYUzBncFZpNWQwZXJTQms0MG51Vy1ta1RGWG5ELU9yOUhwUnpES0xhOVo?oc=5",
+    "title": "GTA VI Leak: $2B Budget Claim Unconfirmed [2026] - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-11-04T13:42:43.000Z",
+    "discoveredAt": "2026-11-04T13:58:56.532Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-26b166b164",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdVMyUHJjMVVFR09aM2o4akdPNDcyQzBMS1hiVU93aFQ4WG9EcENOMjZYSTZDRnByOEdWTFlTWEhVQ2ZWR0JzRTh4LUY3U1ZqejVXZzNmMzZYdENPd3d4dFFxYS1PdU5QOGdUVDBtLXFRdzY5TGVIejlNOXVDMmVJRTJBS0x1UUdpUDNyZThIS3Y?oc=5",
+    "title": "GTA 6 Leak PSN Bans: Only 1 Reddit Post Backs It [2026] - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-11-04T09:30:18.000Z",
+    "discoveredAt": "2026-11-04T13:58:56.532Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-807590fffe",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORHFjZG1GYzFhZ0VrOGYyelhaQVc3RjVfUHJ6T1p2RzBWVERNYnEza1ZVSllTSlVSSzZ2Zi1YbW1Cc25aejg2UHExb0tkYU9BcW9NODRTdExHb0xZcUc0NjVsZlpHZHoxSEdGa293bmxtMDFZQmd5YmJlVDF0REs4VlJWYm0yT1hjUkE?oc=5",
+    "title": "GTA 6 Download Size: 212 GB, Pre-Load Nov. 10 [2026] - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-11-04T07:53:32.000Z",
+    "discoveredAt": "2026-11-04T13:58:56.532Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-62fbd66bb7",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdkt3LXVtWnlMY1pyWmdpWFgxbHhqb1EtYzA0dVhPU19JVXZxakt3Ry01cnhNWnNyaWoxcWRNYjVwLUpWTG81Zkw2ZjVOOGh1T3dOS1RPMldmdmFSOEROZDNGTUh2Rll0RkxIQWpzRTlqUlhjeEpfeGEtVGVYZTRJSWpDV1kwX3dCY3FKSUxsZDZpdw?oc=5",
+    "title": "I'll Show You How to Play GTA 6 Early With This Easy Time Zone Trick",
+    "publisher": "PCMag",
+    "publishedAt": "2026-11-03T15:57:49.000Z",
+    "discoveredAt": "2026-11-04T13:58:56.532Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-edd9caf2bd",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUURmcEZkSEMzN1MyemZrNG1kZzVQVnZhZFA0QndCelF4SnMtNzd3SkVmbUhJMFVxSjRONXhoa2JfM2xaS2d0VDJTWmtCNTZmZlo4NERrNVZLSkUzTG15aTU2emE5eG1sV2psalhaUkRYUmVQcTlNd0tobFhlRXJodVhkSE5pYU0?oc=5",
+    "title": "GTA 6 Quietly Reveals Gameplay Details, Launch Trailer Out [2026] - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-10-04T07:00:00.000Z",
+    "discoveredAt": "2026-11-04T13:58:56.532Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-be40620c71",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZlFzQnBXS3JxckppQ29qenhmZ2xEcGhGNUFTUjNOYlFmWkM4MWh1dWQwMWJRVHBsWjFHZFV5THNuTC1rMDRlWU1rclNZWHAyellkZTZtMTNZY2FhbFRiUGxOaG9SZFBqZlZDbFlXdmFNOFN0dWM5a0lwazA4bGRURTgtNy1kaVlNLU00SWpfMVNpSHFUdjRJV1IyMnhEOUVqQXE4WGR3?oc=5",
+    "title": "Sony reportedly freezes PSN account after user sends GTA 6 leak through PS App chat",
+    "publisher": "eGamers.io",
+    "publishedAt": "2026-11-04T09:14:56.000Z",
+    "discoveredAt": "2026-11-04T13:58:56.532Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-b44cf40f27",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTEpmSXpCLW1kVWpEWnJ3eXNzNTJSd3E1eVh2Vy1ULU9IVk0zQVFLVkh0UDhPdF9EcnhEUmVMQUxWbzZ6Qm1vQzllckpZTkQybGg3T2RWUGxkeFBONVpxZ2I1SnFyWGhLM291N1NscjN1WjlTOERhN3JleUlwazh3SzNheTU1dVMxTGZmU1hXVHFsZlpNSk5OWmdNZWZyRjExTVFYOW02TDRSZDhpRjlDYmJ5RXhkNVFoakE?oc=5",
+    "title": "GTA 6 physical map confirmed as Rockstar reveals new preload date and launch time",
+    "publisher": "Dexerto",
+    "publishedAt": "2026-11-03T23:45:46.000Z",
+    "discoveredAt": "2026-11-04T13:58:56.532Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-bf9eb30bf6",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aeb3a2557f747549677cbc0c8599d14&url=https%3a%2f%2fwww.msn.com%2fen-us%2fgaming%2frockstar-games%2fgta-vi-leak-sparks-mixed-reactions-fans-say-it-looks-too-similar-to-gta-v%2far-AA2auuB2&c=15993272780897651185&mkt=en-us",
+    "title": "GTA VI leak sparks mixed reactions: Fans say it looks too similar to GTA V",
+    "publisher": "bing.com",
+    "publishedAt": "2026-08-19T11:18:00.000Z",
+    "discoveredAt": "2026-11-04T13:58:56.532Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
