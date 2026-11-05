@@ -12502,5 +12502,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-b7f0da2c55",
+    "title": "PlayStation Leaks GTA 6 PS5 Pro Enhancements",
+    "reportedAt": "2026-11-05T14:06:01.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTHAwMXpsMkNBV1IyWmtjeWNvWDR0enpoVEJXdG02SWFsdlJhMnVyYUJEZ29nc0M4OUNFcmhpM1pLWUdsX2pkRnAzcnJnazVIaTQtcXdWYVZDQVJKTW92RTR4Y19ZU3VrSVZ1eTZKQWZOLXJPUFc1clllV3Z1MmExYkRSZld0eHBK?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

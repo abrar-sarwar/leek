@@ -41286,5 +41286,128 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-9a564f0850",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYXlEa2xrcDVRZzczcmkwVmxIS2VJdXBxQTZ1UHV4MmpaNWU4d05OZUpYY3lOMFpYaEFCeF83OXlXQVlSUG5HUGltbXNpbGVmQzBLSGhPSzU2aGtsM3o2U1RVQXpycXNaUVFYV013RWNaTjZpUWNOYjZ1UXZSVXNJRTJoaFVUZw?oc=5",
+    "title": "Scammers capitalize on GTA 6 hype to push malware and crypto cons",
+    "publisher": "Help Net Security",
+    "publishedAt": "2026-11-05T11:41:50.000Z",
+    "discoveredAt": "2026-11-05T14:18:26.711Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-0217fa635f",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORkpzWW82ckR4N3A0VTVrWHlfNW5vRVlYUm9FWGpQdW1DVjJ3Y3BIUTdobFFvQTl1V2t6ZGVyUUdCLWJRX01LVHFScm5SdHIzNHJRZVBkS0FsMERqc0c0Nm9wRUR2UFU1YlNtc0xMWlEtWTR0RF9hSDIxQ09hTGRKSTlHYXNQLVkwQzFidms0Mlk?oc=5",
+    "title": "Reported GTA 6 Listing Claims PSSR and Advanced Ray Tracing on PS5 Pro",
+    "publisher": "GTA BOOM",
+    "publishedAt": "2026-11-04T15:04:03.000Z",
+    "discoveredAt": "2026-11-05T14:18:26.711Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-6c49fe23d8",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeEtmdUV1aEI1b3JMY0pJUEtTT0lPOEdpVU9BMnY2NkJCeE9fanBHTjNlZTdRYldGQmN3TlkyNTdIYW1aQy1TR0YzUzFyNXBTX3RTZHR3b1h5M05FVWNJTGFrd0tVaE9YemFFSW5kOWcxbWN0X3Y4aW0xSnVSNTUzWlViMGxCSmdhYlJMVG9ZQ0h1N3FvMFhyODc0RkZDSWRZbzlTVGhsbk5RLXppMWlSbU9LenllMXRBLTdGdUlyd01mSnR6?oc=5",
+    "title": "First Look at the Travis Scott x Rockstar Games x Nike Air Force 1 Low \"Grand Theft Auto\" in Black",
+    "publisher": "Hypebeast",
+    "publishedAt": "2026-11-03T05:14:06.000Z",
+    "discoveredAt": "2026-11-05T14:18:26.711Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-b7f0da2c55",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTHAwMXpsMkNBV1IyWmtjeWNvWDR0enpoVEJXdG02SWFsdlJhMnVyYUJEZ29nc0M4OUNFcmhpM1pLWUdsX2pkRnAzcnJnazVIaTQtcXdWYVZDQVJKTW92RTR4Y19ZU3VrSVZ1eTZKQWZOLXJPUFc1clllV3Z1MmExYkRSZld0eHBK?oc=5",
+    "title": "PlayStation Leaks GTA 6 PS5 Pro Enhancements",
+    "publisher": "ComicBook.com",
+    "publishedAt": "2026-11-05T14:06:01.000Z",
+    "discoveredAt": "2026-11-05T14:18:26.711Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-af05b68fad",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUWtuQ1lZVVlEM0pWRXd0UDVIRVZFd2hLMnJKMVdYQTlYUTdsVkFiMnZyMjJvcFdKbC1GU2pzSUF5UHcwdHlLOTBnd2Itd0lQbmJ6Wlc5TjkyOHNFd1VhMDdwRlc3R0w0ajNmRkFqM0tOLTU5TE1ic3k3R0tXTHdhZHo5REZLbU93V0w1VDY2d3h5V0ZkekxteUpYTEgxYmhvcmFaTkxVXzBaYzFSOExKSkVDMGhIbUtLeWdCdWhR?oc=5",
+    "title": "Take-Two CEO Strauss Zelnick Fires Back at Journalist Over \"Not Enough Hits\" Claim",
+    "publisher": "KeenGamer",
+    "publishedAt": "2026-11-05T13:54:09.000Z",
+    "discoveredAt": "2026-11-05T14:18:26.711Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive"
+      ],
+      "claims": [
+        "LEEK-CLM-028"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-f219bfc633",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aec9036f0f043b3af818de8a5f84fb1&url=https%3a%2f%2fwww.moneycontrol.com%2ftechnology%2fgta-vi-scam-alert-fake-sites-offer-leaked-copies-laced-with-malware-ahead-of-november-19-launch-article-14071668.html&c=8646399561895763488&mkt=en-us",
+    "title": "GTA VI scam alert: Fake sites offer leaked copies laced with malware ahead of November 19 launch",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-05T03:02:00.000Z",
+    "discoveredAt": "2026-11-05T14:18:26.711Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-004",
+        "LEEK-CLM-015",
+        "LEEK-CLM-022"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
