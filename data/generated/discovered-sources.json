@@ -41268,5 +41268,23 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-5a4d108e0b",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbmMzUTNYWTI0R3ZoTHYyVmhGYmY1TzBLUDNlMFZfOVdTUHNzWU53bDQxVUNMb01YYnJVMzNBYWxiWlFlRExFWFZ1Y1lnZ1BXWGxYa19JaUZKV1pmLVJxVWVlSkItTEJSb3lyV0xpYUdSQkluTUJLVWl0cU5oSFczelg1aEZZMFlrMkpsOThR?oc=5",
+    "title": "GTA 6 Time Zone Trick: 1 Report, 0 Confirmations [2026] - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-11-04T12:12:41.000Z",
+    "discoveredAt": "2026-11-05T05:47:54.822Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
