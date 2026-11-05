@@ -41409,5 +41409,87 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-6eb56b46eb",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ1EycUUtd3A2MHUzNGpISnVTZTBFZmxNeTJiZ2xSaDBjUXFENHh5TkQteXE4NWlLc1JUd3UwNms0ZHFTdXMyV3pRdVEyQmc0S2xDRzhVSFB2SGhJN3daSmJJcndHbFRVLVJmNlZqbVgtMjBwQXlpbkFGdEtjMmxxUFYzVXVBbTVjdnE0?oc=5",
+    "title": "GTA 6 gets 35+ new gameplay screenshots",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-11-05T15:55:00.000Z",
+    "discoveredAt": "2026-11-05T23:26:33.593Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-15a8686f06",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE55alFZYU5TUXh4bGZuLTZ4bXk2T3pBS1d3QmJvVTJvbzA5VzJrMGZDdUp5M0RnQ0lnSWg2UnZWM2RWWWVoT3Q1aURtR1ZmVm5nTFE3QVhtN3JkdUZrRmVxWEFn?oc=5",
+    "title": "What the alleged PlayStation leak really says about GTA 6, PSSR, ray tracing and 60 FPS on PS5 Pro at launch",
+    "publisher": "Ecostylia",
+    "publishedAt": "2026-11-05T19:29:45.000Z",
+    "discoveredAt": "2026-11-05T23:26:33.593Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-3cc82d711f",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVU9ENklmXzZSa2NULV90TC10OHRmaU5rZGtPQUxTR25OZURsM005RG5uU1k1SjU2WE54UXNBM2lhMEJkVVJmNDZkQ3VXNnhLcWI5ZTZUWXJjTmFxemdYTUdDdnZxemI2MUhYZUg0TG0tSEJoWGZWQm1rVG9qd0hQTURyMXdLTU1fZmpV?oc=5",
+    "title": "Rockstar releases 39 new GTA 6 screenshots two weeks before launch",
+    "publisher": "Pasquale Pillitteri",
+    "publishedAt": "2026-11-05T17:52:13.000Z",
+    "discoveredAt": "2026-11-05T23:26:33.593Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-38f9d0dca6",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed10ad8ee24a34ab72577cbf841878&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fcyber-leaks-claims-it-has-a-gta-6-story-build%2fvi-AA2gQ6h9&c=14456292598615904663&mkt=en-us",
+    "title": "Cyber leaks claims it has a GTA 6 story build",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-05T10:30:58.000Z",
+    "discoveredAt": "2026-11-05T23:26:33.593Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive"
+      ],
+      "claims": [
+        "LEEK-CLM-022",
+        "LEEK-CLM-029"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
