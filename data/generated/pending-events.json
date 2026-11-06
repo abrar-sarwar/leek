@@ -12562,5 +12562,29 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-80b8c86ab6",
+    "title": "GTA 6 PS5 Pro Leak Doubts: Atsu Slip [2026]",
+    "reportedAt": "2026-11-06T18:47:46.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaDBSZk9PRXFaMldNUzh5VVhmVWxrSkM2TDF2ZUNUSGstaGpyeUdrRE1KdlVyZ0F0dTZhRkRPbWF1Y2NvY2tuTHZncy1uS01hUkFTNDVraXRZQjlzRXNjQ0xyamRaa1JfejU5b2tuSGUxUURielUzY2pLT0VUY0l0RnZfX2M3QQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-8ab899a908",
+    "title": "Travis Scott Leaks New Images Of His GTA 6 Nike Air Force 1s",
+    "reportedAt": "2026-11-06T13:38:21.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQnNOOExtelFvbGdnX0k1S0pMZzZydERDczdBcEpiLXk3MjJxVm9sN1FXQXBTTTVxdEtWYlBKelF4dUhQYzFlY1A0V0hUOF9mdkFQWGUwVGl4TFEtRUJ5ZWFKM3RtWnlHN1BPaWNfaWw4dkt1Q3RxSEtmc0JQNTNZTDBGNUhQMVFVLVFRbjZpV3RwdUFhR3A1R3I3SVFkM1QwQVg0Zll0Yw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

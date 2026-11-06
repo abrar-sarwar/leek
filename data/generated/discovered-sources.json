@@ -41574,5 +41574,82 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-80b8c86ab6",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaDBSZk9PRXFaMldNUzh5VVhmVWxrSkM2TDF2ZUNUSGstaGpyeUdrRE1KdlVyZ0F0dTZhRkRPbWF1Y2NvY2tuTHZncy1uS01hUkFTNDVraXRZQjlzRXNjQ0xyamRaa1JfejU5b2tuSGUxUURielUzY2pLT0VUY0l0RnZfX2M3QQ?oc=5",
+    "title": "GTA 6 PS5 Pro Leak Doubts: Atsu Slip [2026]",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-11-06T18:47:46.000Z",
+    "discoveredAt": "2026-11-06T22:52:20.760Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-ae346d8036",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc0N5TVBJQUNNOVRUanIyY3UyVXJKWDd2UDVjbzRCR0Rlb2pnRXhaUWxZTFlqQ1BtbExyQUU5azVFWmxCS3FkREtxclBuNG5Jd0diVHBQd3ZzSDJoWHg4eDJqOGp6YXlNVVFoSGktd19hYWI1QUNTRUNFRm5iRERRRTFSOTk3QWJiTGh3VEtEeUctbnBhLUhybmxyWQ?oc=5",
+    "title": "Elder Scrolls VI Sentinel Zelda Claim: 0 Proof [2026]",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-10-31T18:27:33.000Z",
+    "discoveredAt": "2026-11-06T22:52:20.760Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-b80dd1a5b8",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSks1OXZ5dk9YRVpfSVBnSmRralBSWmV5c0szUWVwSUVzdXIyN3VfYUlGN1JILTlobHJNUXREQXVvc2R3cjh1RldiUlFxR3lpbUV0QnB3ck1WaEt5eXpBTEtaX1NNemNPeWZ0ZlozVVRkVDQydnIzdGtSMzg3cDJpYkdLTkpqcm4yTjNncEp2Mnh0cDZpcEdjRDI1dw?oc=5",
+    "title": "GTA 6 New Leak - Is It Real or Is It AI-Fake?",
+    "publisher": "EGW.News",
+    "publishedAt": "2026-11-06T21:05:26.000Z",
+    "discoveredAt": "2026-11-06T22:52:20.760Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-004"
+      ],
+      "category": "misinformation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-8ab899a908",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQnNOOExtelFvbGdnX0k1S0pMZzZydERDczdBcEpiLXk3MjJxVm9sN1FXQXBTTTVxdEtWYlBKelF4dUhQYzFlY1A0V0hUOF9mdkFQWGUwVGl4TFEtRUJ5ZWFKM3RtWnlHN1BPaWNfaWw4dkt1Q3RxSEtmc0JQNTNZTDBGNUhQMVFVLVFRbjZpV3RwdUFhR3A1R3I3SVFkM1QwQVg0Zll0Yw?oc=5",
+    "title": "Travis Scott Leaks New Images Of His GTA 6 Nike Air Force 1s",
+    "publisher": "HotNewHipHop",
+    "publishedAt": "2026-11-06T13:38:21.000Z",
+    "discoveredAt": "2026-11-06T22:52:20.760Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
