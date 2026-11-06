@@ -12550,5 +12550,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-010cf2f3b5",
+    "title": "Rockstar releases nearly 40 new GTA 6 screenshots ahead of launch",
+    "reportedAt": "2026-11-05T15:41:29.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVTJsdmxNb2RPdDlReTVFRXVFUWNKSjZKZ0dSSE9wVW9TaVBkRU1rWjB0dkI0dmtReFMzTEtiWUNlZ1c2TXpMcXNLMFZUVjZqM2FPRlB2ZVVTQXFZak5HTHhWNkNSR2lXOHotNnJ1QUhGR3BMY3U3NFl5UzM2bVhEV1lieHdaY2NOSTBiN09SRlNHdmRfNmhxTmh1TWppcEl3dThkQWwyY1oyVGc?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

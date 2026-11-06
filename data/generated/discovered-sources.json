@@ -41491,5 +41491,47 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-010cf2f3b5",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVTJsdmxNb2RPdDlReTVFRXVFUWNKSjZKZ0dSSE9wVW9TaVBkRU1rWjB0dkI0dmtReFMzTEtiWUNlZ1c2TXpMcXNLMFZUVjZqM2FPRlB2ZVVTQXFZak5HTHhWNkNSR2lXOHotNnJ1QUhGR3BMY3U3NFl5UzM2bVhEV1lieHdaY2NOSTBiN09SRlNHdmRfNmhxTmh1TWppcEl3dThkQWwyY1oyVGc?oc=5",
+    "title": "Rockstar releases nearly 40 new GTA 6 screenshots ahead of launch",
+    "publisher": "Video Games Chronicle",
+    "publishedAt": "2026-11-05T15:41:29.000Z",
+    "discoveredAt": "2026-11-06T05:44:21.547Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-87339813e4",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aed6939762e4cd09e4a2c476e5384d6&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fgta-6-scam-alert-dont-make-a-costly-mistake-in-your-excitement-for-gta-6-beware-of-fake-download-links%2far-AA2gROOE&c=867770819733369966&mkt=en-us",
+    "title": "GTA 6 scam alert: Don't make a costly mistake in your excitement for GTA 6! Beware of fake download links.",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-05T19:58:17.000Z",
+    "discoveredAt": "2026-11-06T05:44:21.547Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-004"
+      ],
+      "category": "misinformation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
