@@ -41533,5 +41533,46 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-11ae757937",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaDFaVVVhVVozOEthY2UxQUtNaGVQWmZ6TzJXWWZGRC1yd2N0Z2laX01vZmVjQ09Ic2NkbW5XbGFQb0JlQ2hDN3EtdGhxMkFCZ0s1N0pUMmV2ZmhkcWFsajRQOFZzSExfZGFIZHFiN0ZjNlhvM2JkQkw3UldyMGdNV1FlN3FnNko1N1BIM013?oc=5",
+    "title": "GTA 6 Screenshots: Rockstar Drops 39 Before Launch [2026] - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-11-06T10:43:34.000Z",
+    "discoveredAt": "2026-11-06T13:56:37.906Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-5363676cc2",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWFQxMExYUnZsYU1NVWlsemFqMmRPWTRsaV9CQ1oyaGlSc05keWh0aWdvT0tvZ3hsYnNrZE00b29ka3MxV3VJQk5yTTF5Q3dlY2pGdVAzd0l6aXlndVAzeTc1ZXlqTmRVbzhhcjg0bE1zMEZ4Y21FSUg3T0pJUTdMRVQzMFBOckRJVmRNMmkxOS1kWHhfWlNock1NQUhsVG1WNWJzVVZ6MWtoalVsR1d3dlpvWjlhSXlkY1d0eEZMMTRPaVpsY3E00gHMAUFVX3lxTE9Wc3JRdU5nd2xEV05QTE4yWXo1VzhCYXhiREZvejBXMXJTb0xvMzlRdWEtRUVwWlhtdHV2anBraHdHUUlmWllFM2xUNEtUc3hjMmIyS3NBbzRudkplVl9RQndfTkp0SHh3anYzTGJmTUFwd1pQU3B6emFDRjBRODVvVWZCbWszTEpwTjlOZUhlSjJEVGxGd05sVEJ4UWxtSEIyeC02bndRM0VBbzZBcTVSUUdMVlplcUMwa215S3pZRWVVMTRjWGpSMmlpbA?oc=5",
+    "title": "GTA 6 Fans Beware: Fake APKs, Game Keys And Leaked Copies Could Put Your Devices At Risk",
+    "publisher": "News18",
+    "publishedAt": "2026-11-06T07:40:29.000Z",
+    "discoveredAt": "2026-11-06T13:56:37.906Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-004"
+      ],
+      "category": "misinformation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
