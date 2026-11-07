@@ -41651,5 +41651,130 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-10d695b26e",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc19VNUxrVzFJQ290Z2tLaE5Ha09HWnhSTjdGc2dzZ1dyVTJ1OVdZZDdwU0U5c1c5NUNNRWthelNFX2Qzbmtva1d6LUJ2QldKcFYyZTRVUmllQmstQ2NJdTJIUlNuRWprT1JtV1hfR282QU1FWjAza080Nk81aV9nTVU0SDY3Z2xkS2pUdA?oc=5",
+    "title": "GTA 6 Poster Leak: MediaMarkt Pre-Orders, $0.99 [2026] - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-11-07T04:10:41.000Z",
+    "discoveredAt": "2026-11-07T05:16:03.177Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-014"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-b05be85c66",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdEJrQko1OC1maHdUVi1DMWlYNnE0a1Y3d1NteTMzb0tlSUo2MnZzQkhDR19IZzR2Ni1HajYzbG1uTXVraGNhOWZGVklMVk5QM3VkUTlkOVhYQ2Z1RGRZVGNXOHBidEF4TF85YTRiM2VOYUpGQ2s2MlVrUzVyQXNmVDlyQzZ0NWs0VkE?oc=5",
+    "title": "GTA 6 Xbox File Size Leak: 209.86 GB vs 225.34 GB [2026]",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-11-07T00:53:43.000Z",
+    "discoveredAt": "2026-11-07T05:16:03.177Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-006"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-865b51b4ae",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPam1Odk5wZXZyanN5cVNmSVQtY1h5ejVtMGRyckRnZzVmTFgtV1ZGV2lhbVNGM2FEemNxek44bXFyWVRzejFBQU5EaUQtMUJkdGZ0RldKb3htWnZhNTNKeXE1Q25EOEpRcTBqVTRjbGo2NmZVdzNHdG1QNkNRbkVzczFNSGpCUkVYcy0yeWloNk56cFNuMmRuTGc2WHprRjNPdXRKdy1KVjNLajVXbVAzY0ZlckpEOWVTeWMycE5ucw?oc=5",
+    "title": "Physical GTA 6 pre-orders may include poster instead of map after retail leak",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-11-07T03:59:00.000Z",
+    "discoveredAt": "2026-11-07T05:16:03.177Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-014"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-a887e52f1d",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZkNyTkFXeVdXU1ZGY1VKaXRfX25oVk1ZSjI1c2ZxNUlHbE9HMWN1SmowOGwtTWFRTE9LdWl5TllVZHcxMVdFWUZQQkZlWlRYLXNGaEtOQjJDZU9xcjFsYmpWbjF1RG1QQVY1RGt6R1JSWk4zQXZndGpiNENJQkQ1N1ZtaVpZVm5hNlQ2ejhCaw?oc=5",
+    "title": "GTA 6 File Size: Xbox Leak vs PS5, 212 GB Preload [2026] - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-11-07T00:16:43.000Z",
+    "discoveredAt": "2026-11-07T05:16:03.177Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-006"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-580b57b607",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU0U2MzQteWNKNkRnRHVRcGhJVzRWRlJ4c251Y0dadFpHN0s5SVd4cldYUXhKelQ0MWtCWDFDRVBhWFZNRGRrRXV1bVQ2WWhuTHRRWGZSZW5JaEhnMEFNTzJlM041aU1xNzJEOGpiSkZzaDZOUGRlNzEwNWpaRG55M2w0QnYxeVI1RUVNenNFT1Mwcmt5bzlHblBheGFHMUlYeU5weE91bkhiUllB?oc=5",
+    "title": "Pilot Spends Over 8 Hours Drawing GTA 6 Logo and Artwork in the Sky",
+    "publisher": "KeenGamer",
+    "publishedAt": "2026-11-07T01:33:34.000Z",
+    "discoveredAt": "2026-11-07T05:16:03.177Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-028"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-0679a31ae4",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNXVGZURucjFSZnFTSGFfb2NmWFRFTnJjcnZnenR0X0dRdm5GNXVzOS1SNnNxVkwtRV9zMGg0cjQweTBoNmlUcXljNGpIX1pwS3l0Z2wxMWhNRFVpbU1fVUFMXzgzdFdrV3pwbDZiVVktZDk1QjBOQ0QzaHRDbWdVNjcwcGlvVXhQZGpTMFM5N3J3SDNVeEM2aWh5clVRSnNLUXRndDlOZ3ZJMllRbDBMS2E2MVJpbGNQN3Rr?oc=5",
+    "title": "GTA 6 Xbox file size leak differs from PS5, with release day patch possible",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-11-06T23:59:00.000Z",
+    "discoveredAt": "2026-11-07T05:16:03.177Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-006"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
