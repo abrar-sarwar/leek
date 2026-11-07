@@ -41776,5 +41776,26 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-fbe4647529",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTUZRYmpHSW9UZUhWZzNSclR6SEFpaktXZjBFdTQtV0RuampzSjVTNDVPUV80bnp5cEJJeVZEd0wwa21ydGFJR2Y1bEhRSDQ4eW9KQUpETl9UcHcxazkxVC1hMkk4QXVXRTZJcnp2WUNFRGtXUlJhSDY3WUY2OGZESUplbW1YclBmb3ZCS0tnSHBZaU0?oc=5",
+    "title": "GTA 6 Pre-Order Poster vs Map: Map Wins at $70 [2026]",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-11-07T07:33:33.000Z",
+    "discoveredAt": "2026-11-07T12:41:10.078Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-014"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
