@@ -41797,5 +41797,195 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-5e10590a53",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdTYxb0ZnZ2VsR1FfMzR1N0FSZHNZeTFsdkZFV0Q4T3lZN2FmaEZYRHQ4SzRkOWtWLW9xbk5aZjVWanFfRjAxclVYQVE3dTBlMGMzcGQyZ0xBWUZiMWJZN0JmZlA3d2hVSjhwbEl0UUVOWTFqOThsVkpNZnVDcjZaOXpSUURtZTZQUGc?oc=5",
+    "title": "GTA 6 Leak: 230 GB Claim vs 212 GB Preload [2026]",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-11-07T15:26:06.000Z",
+    "discoveredAt": "2026-11-07T21:36:56.686Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-4cf8a7081d",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVEZoaDJfcGJlSHhMczc3MnNkNUxnalJWR2Z0YlNjR1FKcWpOTm1KbXdKc2dRSjFNVk5EYXltRGtPOWJqNVRLenFaRnVsVDVLRDNNV2JJSmM0dVQwNkVEeW1HelhKSjRLczBEY2dTQ0ZScXpWbHVRRWxNSXF5TlpDQkNudVJuSnNyQXo4Vg?oc=5",
+    "title": "GTA 6 Size: 212GB Preload Beats 230GB Leak [2026] - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-11-07T15:10:48.000Z",
+    "discoveredAt": "2026-11-07T21:36:56.686Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-ad47dab0a8",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeUc2ODRoWVpvQU5NSi1RVTk0WVpvb28zQTRYcUpfRTlmeGZNdS1XaGF6cm81MmZzc3hkbndNTG94bEVBY2ZXRkxsUWM2dlFfLXA0dzhnd0tmZzZCZ0VSTUFHOWlxRGNKREsybmV5V1h4OXpmZ1ZpaXQ4Y3dTdU9ZLUZSbw?oc=5",
+    "title": "GTA 6 Physical Copy Reportedly Leaks Early, Revealing 230GB Storage Requirement and Online Support",
+    "publisher": "TwistedVoxel",
+    "publishedAt": "2026-11-07T13:47:52.000Z",
+    "discoveredAt": "2026-11-07T21:36:56.686Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-f7be8dd964",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5veURLWmVXcXJMTlBFbS1PbXVySDBDY0hBblRBUHcxb25Za0E2SDd1VElJVDVIQk1rejBPYW5MZHMyNzJhY1B0Mmh4bW9VZ0VmZWFvbWt2TEZMdnZ1d0VZ?oc=5",
+    "title": "GTA 6 Physical Copy References In-Game Purchases And Online Functionality",
+    "publisher": "TheGamer",
+    "publishedAt": "2026-11-07T14:38:10.000Z",
+    "discoveredAt": "2026-11-07T21:36:56.686Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-a3a1f90f61",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTm9zdVBZQ3BlX0xRSDZkOTc0aTJPVWlCZ2R1ZV9DSnYxaFN5amJNSUxmTVdrRXVWekphNWlsUFotZm5GMVg2ZXR1aGl6Tk0zSE9oTEV3RS1EMEhjbk4tZ2tZaGdwVjlsVTFsZTNKd19jampYbjktUF9yY0I2ajdZZXowUVlVVkNqdVA0eEh2Z3RUblpDVnYyREU2MzJEZzZfTWl0WXU3MDFSNTFrNzFnbndB?oc=5",
+    "title": "GTA 6 Physical Edition and Double-Sided Poster Revealed Ahead of Launch",
+    "publisher": "KeenGamer",
+    "publishedAt": "2026-11-07T16:47:51.000Z",
+    "discoveredAt": "2026-11-07T21:36:56.686Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-aea87c679e",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdUdBeEJDalM3aE5jTlo1MWtQcWZnQThBX3A1UFdUY1VBRzZwVEpOMTRoSzZJTER0bUFYRjFmMjRTRzZKbzM3Tnp3TThfSk16cEU2Zm9SQ0l3UERWcmtQY1JKNVIwWkZ5Z0Y5SGdpM1BEQ1FzWFdUNUZBbHVvWmtpQ09vbDlNdjB6anNEWllUWnJiRFhuVlNXZ2ZzZnNaaHlzanc?oc=5",
+    "title": "GTA 6 Physical Copies Leak Reveals Collector’s Poster",
+    "publisher": "ComicBook.com",
+    "publishedAt": "2026-11-07T15:06:55.000Z",
+    "discoveredAt": "2026-11-07T21:36:56.686Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-a3f2060d5c",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQakhnMENEWjlzSEVwRU5aS0NGSTJGamF1UGpEQmdVSk5iTmt1cGJDZmFackVTRnNNUTF0OThvZXV2OU5TSDlacm1VT1ljZlBDTzV1OVNlank4M1BWZXFmcHZ3VHFXV19JMlBHUHpvNWhhVXNSMUlRTEoxeXB5akFQTFlyclNzRmRQYzBCSlBZVXhWeC14blRERzU0OVJpTDlpMzA0cjJzUTlOaFJoMnhRRGNDT3llcjczRnVocU52T3AzQQ?oc=5",
+    "title": "AMD Zen 6 laptop CPU leak reveals unusual core configurations and reduced cache",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-11-07T04:39:00.000Z",
+    "discoveredAt": "2026-11-07T21:36:56.686Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-dcb821093c",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMDNZbnFPMXpQRFNtUzJldGV2a2hxQncyZ3BuMUF4eUVKVVV1YVVDa2J1S3JYVUtmVVBRMTRoWlowTTVEVERTTTc0cGRzMS1hb1VidlZld1VBeEJ4SDB5eGtEcWFUdXJ4UUFROFNINU1lY3hTdXdMSElQNmJpZkJTT2U4Ui1ia19keXF4OV9uMHd5MHdHcHFJRk5kUzRvb0VfT1A1aFdKOTFSUUVtSUM1ZHVPWmV5aTM0Wk82Rg?oc=5",
+    "title": "GTA 6 Physical Copy Leaks Early, Revealing Massive 230GB Storage Requirement and 'Online Support'",
+    "publisher": "The Nerd Stash",
+    "publishedAt": "2026-11-07T19:12:16.000Z",
+    "discoveredAt": "2026-11-07T21:36:56.686Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-1b1e7fd585",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef99fdb7194108b113b296b9835ac1&url=https%3a%2f%2fcoinmarketcap.com%2fcmc-ai%2fcyberleek%2flatest-updates%2f&c=17501901294304570522&mkt=en-us",
+    "title": "Latest CyberLeek (CYBERLEEK) News Update",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-04T18:11:00.000Z",
+    "discoveredAt": "2026-11-07T21:36:56.686Z",
+    "feed": "bing-news",
+    "query": "Cyberleek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-028"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-847faf2196",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aef99fd8d6d430d83a8a32f4ae6f2e0&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fgta-6-ps5-physical-copies-surface-signaling-a-shift-toward-digital-gaming%2far-AA2gXPXz&c=8761109693609230&mkt=en-us",
+    "title": "GTA 6 PS5 physical copies surface, signaling a shift toward digital gaming",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-07T12:36:07.000Z",
+    "discoveredAt": "2026-11-07T21:36:56.686Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
