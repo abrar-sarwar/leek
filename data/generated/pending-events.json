@@ -12730,5 +12730,29 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-cdd0a48f87",
+    "title": "GTA 6 leak reveals more PS5 trophies and Xbox achievements on release date than GTA 5",
+    "reportedAt": "2026-11-08T02:29:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdS1YcXBRNkpqZjFsTUFNNXpsSVhGbmtMZjJBRWR0eF9vUjBWWHRJdkZxNG9uc3FJNHcyWi0tWGcwdmJtN3FkMW4xNEI3R3RHU1RXN2Z2eEdUOUE1b3M0Ni1VX21TclNkS3BmUHZwYk91YTFRWWlwckFrWlNWZ09JZkJYMFg4WnJVcUpSYjc2TDVSbGl3eE5WSTdtNkhXZW4wcW1mcHNQUmx6UnZVeThLd3B2bE1KMkJJTDR0SG1iNVIzNlFwMzBkZU1B?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-a3b3056cf8",
+    "title": "GTA 6 Physical Edition Leaked Ahead of November 19 Launch",
+    "reportedAt": "2026-11-08T03:38:45.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVkdBR2VRLWRLZFlraEg4TkxscFI0Y0RHcHF1SERUWTlVMGRzNU5oYTZTLTBDQzlNOEZ4Z2JmVVB1d0VicEl1TkpRejBxRlNHNWEyaEdhMW9aajc0Mmc2clAyTF9iTWhtUWlHUUE3LVJUX2lGMklDeHJIN0JwYVNfN0d0NkZtMXE3MWdyOHotV0NGUQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

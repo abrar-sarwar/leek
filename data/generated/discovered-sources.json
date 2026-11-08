@@ -41987,5 +41987,45 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-cdd0a48f87",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdS1YcXBRNkpqZjFsTUFNNXpsSVhGbmtMZjJBRWR0eF9vUjBWWHRJdkZxNG9uc3FJNHcyWi0tWGcwdmJtN3FkMW4xNEI3R3RHU1RXN2Z2eEdUOUE1b3M0Ni1VX21TclNkS3BmUHZwYk91YTFRWWlwckFrWlNWZ09JZkJYMFg4WnJVcUpSYjc2TDVSbGl3eE5WSTdtNkhXZW4wcW1mcHNQUmx6UnZVeThLd3B2bE1KMkJJTDR0SG1iNVIzNlFwMzBkZU1B?oc=5",
+    "title": "GTA 6 leak reveals more PS5 trophies and Xbox achievements on release date than GTA 5",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-11-08T02:29:00.000Z",
+    "discoveredAt": "2026-11-08T05:11:05.820Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-006"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-a3b3056cf8",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVkdBR2VRLWRLZFlraEg4TkxscFI0Y0RHcHF1SERUWTlVMGRzNU5oYTZTLTBDQzlNOEZ4Z2JmVVB1d0VicEl1TkpRejBxRlNHNWEyaEdhMW9aajc0Mmc2clAyTF9iTWhtUWlHUUE3LVJUX2lGMklDeHJIN0JwYVNfN0d0NkZtMXE3MWdyOHotV0NGUQ?oc=5",
+    "title": "GTA 6 Physical Edition Leaked Ahead of November 19 Launch",
+    "publisher": "TelecomTalk",
+    "publishedAt": "2026-11-08T03:38:45.000Z",
+    "discoveredAt": "2026-11-08T05:11:05.820Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
