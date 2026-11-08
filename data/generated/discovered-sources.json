@@ -42144,5 +42144,237 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-b3cd274187",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ0dhVHZmM0hVRHZoM1dnMHNRTzNrZDFpNGZCczlGWWFLQm44ZlRxTThKRk1OSXpNeVFRZk1ST0dSUHUzUGZ2M3pCUTBmTGQ4eDFPaU01MzlvUi1pZ2ZNUVpLbE5fdGNSTlJvX2RvLTBJZHVfcHc5RnpJc0ZBTTVBelhDMnR4UXFSRkE?oc=5",
+    "title": "GTA 6 reportedly has 55 achievements, according to a forum leak",
+    "publisher": "eGamers.io",
+    "publishedAt": "2026-11-08T18:34:58.000Z",
+    "discoveredAt": "2026-11-08T21:50:40.251Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-6648eeef34",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GS3dHQmtGLTB1VVZFMGVpYWEwRnBQS3hZN1dEcFJLeWFCbWVoY1EyY0JLX2tTZjZlZkpUNW1RMG5VeUl4dzhjN3BNbnQ1eGpOc1pUZGhpWnBIeGt6OFJFOEVjb1doUm9QUmFCVW93MA?oc=5",
+    "title": "GTA 6 PS5 Physical Box Leaks Early, Revealing a 230GB Surprise",
+    "publisher": "ThePCEnthusiast",
+    "publishedAt": "2026-11-08T13:18:52.000Z",
+    "discoveredAt": "2026-11-08T21:50:40.251Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-281aeb5775",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZVhnR3JaTUYzVTh0eWUtZmlUQ2YzZndMRnY2MUZPZmZIWFhfeHlKd0JpM011dlF6enU1QmJRRDFIM1l3ZjVSdzVubk9jWktyVnhYZFZqTEVmYWE1cnBJaGMtUHpka1dlbmMwUDVjQndMb0V1Q25oYzlqLWduTEVzS1hPUFhxQQ?oc=5",
+    "title": "GTA 6 Piracy Claim: 0 Proven PS5 Exploits [2026]",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-11-08T21:23:53.000Z",
+    "discoveredAt": "2026-11-08T21:50:40.251Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-cdd33dcd27",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcGtCMHA2WlBEb1gyTDd5TkxSU1MxOXl5NG9iVVZTQmp4ZVdWcmZfanJjekt4Y0ZpMVNkdDg0bEgta2JvLWxqSmNIdkJqY0ZQN0x6dlY1bXVlYzJiTHNtaElORGpzczJSMjJGNGxxN0owUjB4NDk4cThUcFJWeUE3M0t5Nno5TGJ5RElBbQ?oc=5",
+    "title": "GTA 6 Piracy Risk: Take-Two Cites 10-20% Film Rate [2026] - https://tech-insider.org/",
+    "publisher": "https://tech-insider.org/",
+    "publishedAt": "2026-11-08T21:14:33.000Z",
+    "discoveredAt": "2026-11-08T21:50:40.251Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-73115691ce",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbG9OeDkwSjF6TEM1aDdtTkUxQ3Q4T2hpeWxKSEVmS3kybldjWmRDQjlaU0JCY2NMMk9NcG9ORzR4VFpHYWJUNUFHYm8zMVpZOW5TMFlMNDN3T1pxdTctSjVDYWRqaGFDWnNYblVQaUtoX0N1U2NiMExia3lYRzRJOQ?oc=5",
+    "title": "GTA 6 PC Port: AI Clone Fears Before Nov. 19 [2026]",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-11-07T07:29:14.000Z",
+    "discoveredAt": "2026-11-08T21:50:40.251Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-eac3d49704",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSDVaRGp4LThVaUNuMHFRWVlEdVBvQkYxcmZoMUNTS3lsU1VQMWtXSkE4bGxQekMxS3UzVVFKZnJmU3ZfWi11TUl4Z0g1a2ttckR2RjdKbjZlQTJNaVNsQmw4V2llWUhyUmc0VDI0NWFuUDVmb1BjZXJSVnhKc19uRGItVXZUTnpBazVMX003azhJRWV2MTBvSXRMdzFGZXlyLTh2eUg2cw?oc=5",
+    "title": "Every GTA 6 Keyword You Should Mute on Social Media To Avoid Spoilers",
+    "publisher": "ComicBook.com",
+    "publishedAt": "2026-11-08T20:05:21.000Z",
+    "discoveredAt": "2026-11-08T21:50:40.251Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-387ac5f9af",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTk9ZbzVpd2hRTmlxenJuTHVtR0libVFadzZHU2dsTmJ3NVhET3ZINFRzZHBVMjVQZnU2bGpwMi1WUU41TmpKSm90Rnpod3B6cnNWSkJmaFF0ZFZLN0tvdW1JOUtPQlFPYmRSTW9iQ01KY2hqWWM4d3JoVHVnZkJfcW5JMUxVNWRlYlpJTU5fRndodnZ5TGc?oc=5",
+    "title": "GTA 6 Physical Edition Cover Image Leaked Online Ahead of November 19 Launch",
+    "publisher": "https://ascendants.in/",
+    "publishedAt": "2026-11-08T14:31:15.000Z",
+    "discoveredAt": "2026-11-08T21:50:40.251Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-028"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-1a1859f198",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdURfNmtRWklnNTN4M0Q2cG1SQjF2aEhIWko1a2xNRHB1UTVCWHY1YlZsVFNvWERRNHFSR2dOWjVUaXZVc1J5b2o5b3R0VlRaa2piVGltNWRvUzRld3NyYlpzQ0NwM1cxaFFLQUJQdHltTGFEWXdrNHRWNTZyMTJHdWVveWpvSkZZc2FvUG9MZ0h3MVhhNlNtQzdwRjEtcXdDUFJDN2VRRkhYWkZUTFd6UzdMclJxRDFlTmJENndDNjM?oc=5",
+    "title": "The LEGO Ideas team may have accidentally leaked its first 2026 review results",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-11-08T14:28:00.000Z",
+    "discoveredAt": "2026-11-08T21:50:40.251Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-a2d78b5f54",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM2c5ZzBIOU9CNHRDQjAtZzJ2NEFXcFFPQ2cyVnIyYXFtNmhJN19lYW5CcjNLQ1BDMmJlVVpwNERZWTJUUWNEc2Z4VXJQUHRTNEFDWldXNXFzVUFFQmtQYWtlNl9ueGNtb3psc3dLU2ZGMDJtVnZ3UHdrS1JDTlZvWEJESlliOTRVOWktb25oTHZrMGdrUUJGVENMcEtfa3lXdDlrcHBLWFUwci03WVJfeWVR?oc=5",
+    "title": "GTA 6 or the real Miami? This image comparison makes fans look twice",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-11-04T08:28:00.000Z",
+    "discoveredAt": "2026-11-08T21:50:40.251Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "community",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-30f2b6e97b",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbTZvNmNpWi0tMWlMWENucXpKYUhXS1hKb0xBVkt4VnlJbXlTRlNUX0hQbWdIdWkyZkNWTVFVWUVfYWZ4MVNlRWV6OWJ5VGQ0emlzMV83QTF4cFZqSENuQTFjZ084b3lqelVkWDBydDY5cERBMHBQSEVSZURHbkhuRFFCcGpwOGN4OHJYeHdTYw?oc=5",
+    "title": "Leaked GTA 6 trophies reveal 55 solo objectives for console players",
+    "publisher": "ARYnews.tv",
+    "publishedAt": "2026-11-08T15:30:26.000Z",
+    "discoveredAt": "2026-11-08T21:50:40.251Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-8619aba10a",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af0eeb4777247409a1cc088397aed9a&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2frecap-of-when-gta-6-leaker-cyber-leak-was-possibly-identified%2fvi-AA2h0u6g&c=18371249991377970422&mkt=en-us",
+    "title": "Recap of when GTA 6 leaker cyber leak was possibly identified",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-08T08:55:54.000Z",
+    "discoveredAt": "2026-11-08T21:50:40.251Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-016"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-0c755d588c",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af0eeb5e9fa4e7b864ad78404ae35a7&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fthrowback-to-cyber-leak-s-gta-6-leaks-after-the-official-reveal%2fvi-AA2h0vzC&c=6372647576935009387&mkt=en-us",
+    "title": "Throwback to cyber leak's GTA 6 leaks after the official reveal",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-08T07:10:26.000Z",
+    "discoveredAt": "2026-11-08T21:50:40.251Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
