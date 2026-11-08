@@ -12754,5 +12754,65 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-dac80bb975",
+    "title": "GTA 6 achievements leak hints at how massive the game could truly be",
+    "reportedAt": "2026-11-08T09:34:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMingFBVV95cUxNeFhIWVJxQVItZWJRd29ZenJSbXU1d0FOcDE0dU54NmRNSHV0WEZiX0xoQ2FvcHgxZVU2amUxb2stRkZuZ3VVVmxVSW1PVmNrVWpKZlBHTElsUFJGOGhXMURTUFA4enZJdFBFQkZHSUxocURNSVd2cm1vYXFoOTRXNF9KeUgyaVJkdEw2ZndoUEdaZUk2eXh0aGIxWTg0dw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-16d33295a3",
+    "title": "Take-Two Sheds $2.83B on GTA 6 Leaks [2026] - tech-insider.org",
+    "reportedAt": "2026-11-08T12:32:10.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQndYMmFjWHoxNkt5dFI0d3NRbWQ4REdXUjRkTXR3NHIwS0dIWXVIS0NCZ0liRjd2S09CR09TcUlqNjd0QUlJRE1YZWZHNnVXOFE4U1doNTd1VkNGMmgyN2RSOWtDamU2RW5UNWxCZHFmUXFGd2xYd1NIYTQ5aVlxNU1rOW9zUQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-6fcb540e75",
+    "title": "Rockstar's GTA 6 Physical Edition Reportedly Leaked; Here's What We Know",
+    "reportedAt": "2026-11-08T11:14:21.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMDJIWG9DdC1ja1o2d1U4U0dLUVdCWWlXVzEtT0M5ZmtqMzlOY0lleUdYb2piSG52ZzNINFZESlNhcmk4dnFpMmJHOGphdllkdnZBTFZJRWJ5WGRJLTA1SDBQcGhldzBRbjFPZmZQUnhsRm93MzRUS2NjUWQtV3VBVDYzdVM4MWxqLXg4aVdrWGRlTFN0THBtY0hucmcxdFdqR3hrRTFXWGNnbXpIdmNTMDZ4SXlQY03SAb8BQVVfeXFMTXBfN3EzRUNxMFpYM1d1NTNmVnRlaGk5TmZoX2RIMUt3WUxBcjZLN3U1M2M2WXJLRnNpdTNHeHIzUWFqaC1MVWVXNVBZeS1YOGNCZVpLWWxwaFo2VWZRbVZJWHdBMnhWNFpqRWJUb1NadlJKZEdoMzVpcHpjSTN5MFJabHI5bFBYTndRR3FpV2JIRVZfQS1OMUJzLTF3dW12R25QckdDUkNlOGlxTmRiV1pmeFF6bkNyaVRiZlAxRW8?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-be03145297",
+    "title": "GTA 6 Release: Grand Theft Auto 6 Physical Edition Reportedly Leaked Ahead of November 19 Launch",
+    "reportedAt": "2026-11-08T06:39:07.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM0U5MDRuNVJsRG1kTk9YQ1dITWh2Si01ZWRrX091d0JONXZmRlNMWnVXZzBSbFNfY1VxU1p3cXVhV1d3ZHVQRWdsWlV2YVZITEszN2xJZ2dPLTlDOHZMMDRfUnFITUxBSUxOR2tJM0FxMlpPWVBkUHAzTExCd1ljWE0xS1FhOUVpU1laZ0xKeEQtUkFCU0FzN2s1aFhVQmFFa283QVdKR1BrLXFSc0hCOGhsbnhPaS1hem1HMnU0QkJyelVIbzdnZHMwYw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-b63fefc92b",
+    "title": "GTA 6 trophies and achievements leaked",
+    "reportedAt": "2026-11-08T10:01:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3T05GTWVaZ085MWhhZXpySWticU9OYnYtWWswX0R0ZDVkNzZRSzc3aS1DUkc0OEFzLWJwTEdVTklvNVBOd0FWc1FnQjFteTE0YkVuOXptd3V5LVV1Nkl2ekpxUnBjSERXSklN?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

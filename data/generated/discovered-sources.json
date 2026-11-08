@@ -42027,5 +42027,122 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-dac80bb975",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeFhIWVJxQVItZWJRd29ZenJSbXU1d0FOcDE0dU54NmRNSHV0WEZiX0xoQ2FvcHgxZVU2amUxb2stRkZuZ3VVVmxVSW1PVmNrVWpKZlBHTElsUFJGOGhXMURTUFA4enZJdFBFQkZHSUxocURNSVd2cm1vYXFoOTRXNF9KeUgyaVJkdEw2ZndoUEdaZUk2eXh0aGIxWTg0dw?oc=5",
+    "title": "GTA 6 achievements leak hints at how massive the game could truly be",
+    "publisher": "Neowin",
+    "publishedAt": "2026-11-08T09:34:00.000Z",
+    "discoveredAt": "2026-11-08T12:58:04.589Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-16d33295a3",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQndYMmFjWHoxNkt5dFI0d3NRbWQ4REdXUjRkTXR3NHIwS0dIWXVIS0NCZ0liRjd2S09CR09TcUlqNjd0QUlJRE1YZWZHNnVXOFE4U1doNTd1VkNGMmgyN2RSOWtDamU2RW5UNWxCZHFmUXFGd2xYd1NIYTQ5aVlxNU1rOW9zUQ?oc=5",
+    "title": "Take-Two Sheds $2.83B on GTA 6 Leaks [2026] - tech-insider.org",
+    "publisher": "tech-insider.org",
+    "publishedAt": "2026-11-08T12:32:10.000Z",
+    "discoveredAt": "2026-11-08T12:58:04.589Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-6fcb540e75",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMDJIWG9DdC1ja1o2d1U4U0dLUVdCWWlXVzEtT0M5ZmtqMzlOY0lleUdYb2piSG52ZzNINFZESlNhcmk4dnFpMmJHOGphdllkdnZBTFZJRWJ5WGRJLTA1SDBQcGhldzBRbjFPZmZQUnhsRm93MzRUS2NjUWQtV3VBVDYzdVM4MWxqLXg4aVdrWGRlTFN0THBtY0hucmcxdFdqR3hrRTFXWGNnbXpIdmNTMDZ4SXlQY03SAb8BQVVfeXFMTXBfN3EzRUNxMFpYM1d1NTNmVnRlaGk5TmZoX2RIMUt3WUxBcjZLN3U1M2M2WXJLRnNpdTNHeHIzUWFqaC1MVWVXNVBZeS1YOGNCZVpLWWxwaFo2VWZRbVZJWHdBMnhWNFpqRWJUb1NadlJKZEdoMzVpcHpjSTN5MFJabHI5bFBYTndRR3FpV2JIRVZfQS1OMUJzLTF3dW12R25QckdDUkNlOGlxTmRiV1pmeFF6bkNyaVRiZlAxRW8?oc=5",
+    "title": "Rockstar's GTA 6 Physical Edition Reportedly Leaked; Here's What We Know",
+    "publisher": "NDTV Profit",
+    "publishedAt": "2026-11-08T11:14:21.000Z",
+    "discoveredAt": "2026-11-08T12:58:04.589Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-be03145297",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM0U5MDRuNVJsRG1kTk9YQ1dITWh2Si01ZWRrX091d0JONXZmRlNMWnVXZzBSbFNfY1VxU1p3cXVhV1d3ZHVQRWdsWlV2YVZITEszN2xJZ2dPLTlDOHZMMDRfUnFITUxBSUxOR2tJM0FxMlpPWVBkUHAzTExCd1ljWE0xS1FhOUVpU1laZ0xKeEQtUkFCU0FzN2s1aFhVQmFFa283QVdKR1BrLXFSc0hCOGhsbnhPaS1hem1HMnU0QkJyelVIbzdnZHMwYw?oc=5",
+    "title": "GTA 6 Release: Grand Theft Auto 6 Physical Edition Reportedly Leaked Ahead of November 19 Launch",
+    "publisher": "Mashable India",
+    "publishedAt": "2026-11-08T06:39:07.000Z",
+    "discoveredAt": "2026-11-08T12:58:04.589Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-aa8c506f81",
+    "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxONTN0a3ZvRE1kY1J4ZExkaDJDNk52elE0TU9zRlRXblpvMVhKT2FVTnFOSXBUUnRtUnU5Q3Z4d0ZZUXZDTUd1M3NvQ25DM08xZHI0YndhREx2ZmRpTUNJRW0wUENZZGFIdzhSMW91RnFtUnRaS2JGaGpBejdPRVM0VHFCNGkybzlSTDdqM2RkcUlIMHNKT2xxRnVvaVZ0NEs4WmxYb19GTzZoMXlUN1hkcXQ3Y1pndThxWGVjd2YxV3gtWV95Q0J3VGljN25iZ1hjbTNsOGxqWllWU2NNcHAzSGpVbFV5OVdxY1VRUlNjSVJsNnpPZGlmVzQ0ZXliRjJucENocnJPMmZkMHlSMnRiRGN2V1owRXAzWnhJ?oc=5",
+    "title": "GTA 6’s dynamic weather and water system to feature individually moving clouds, storms, and waves that can damage aircraft, boats and the environment",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-11-05T23:45:00.000Z",
+    "discoveredAt": "2026-11-08T12:58:04.589Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-b63fefc92b",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3T05GTWVaZ085MWhhZXpySWticU9OYnYtWWswX0R0ZDVkNzZRSzc3aS1DUkc0OEFzLWJwTEdVTklvNVBOd0FWc1FnQjFteTE0YkVuOXptd3V5LVV1Nkl2ekpxUnBjSERXSklN?oc=5",
+    "title": "GTA 6 trophies and achievements leaked",
+    "publisher": "Sportskeeda",
+    "publishedAt": "2026-11-08T10:01:00.000Z",
+    "discoveredAt": "2026-11-08T12:58:04.589Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
