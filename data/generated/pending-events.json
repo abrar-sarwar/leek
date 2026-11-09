@@ -12898,5 +12898,53 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-1afc75fece",
+    "title": "GTA 6 Trophies and Achievements Leak Shows 55 at Launch",
+    "reportedAt": "2026-11-08T14:04:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMie0FVX3lxTE1mRV9KM0NEcEZkMjNRVU9ucWczSHczN1hGaGlhajhNOVZsODhGR2ZDYng0NHhjcHdWeVBjNnNWQzZETkRHUzh3QVg2R2k3bGpWcnVueGw5eXhobGxFY1Ayc2haZlVUQmNOdEtvYmV5c0ZuTzBveUJpZnlWVQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-6b8408bd50",
+    "title": "GTA 6 Preloads Bring 55 Launch Trophies & File Leak Warnings",
+    "reportedAt": "2026-11-09T05:04:53.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmVlpGTWJ2S0tyR2xQT0FhcjVjVXVVUng0eC1UeVFxb0NTVmlSeDRCNnRIeGtYNWRLdXg0aThoMXo5N0tMMUFPQ09QcXAwSnNsTldWeEdKcWZuQ1lfTWl1X1lOZ19QMFM0aUhYTFN6ZXg?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-9dc19098e7",
+    "title": "Leaked GTA 6 release date build hints online multiplayer could launch soon",
+    "reportedAt": "2026-11-09T03:55:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMVVZZW1IUlNoUGRZYTBZNk9rYjdWSW55TlR4WTFyeTFSMzhWdUJkUVMxd3NWTVl6VlR2Y2hSYWV5b0VtQi1Db05WeHdKQkJHLThmNEp5WTNwTFNNRVBZeVZOaEFZSFMyeXFDXzRiUTUxWk1yc1NFQTI5b1hrU1RWcDhuampYa0hQbEdFdGpIeHU4VDdPY1V6bnZ2WTVyT3dfZWFnUG14dUNsSlhKQnpGNEZxXzEzWVNIZnBJ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-8360e2a0c0",
+    "title": "GTA 6 Achievements: Leak Points to 55 Trophies at Launch",
+    "reportedAt": "2026-11-09T02:15:43.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zeUNDeU1zWkNua1B5REhPWVRtVEFIcnJ6YllVVVdmeWJwSS01TDlTSnoycHFpdHFHV3l6ZDlFcGhBbjZJRHI5M2Z2bGNlNGtXQzlkTU15WmU?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
