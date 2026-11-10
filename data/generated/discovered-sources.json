@@ -42926,5 +42926,374 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-e0b0fe31a4",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FakJjUTdNa0poUDZOb0FDeFEzYWdFSzZsZU5pdXBQSERESW10TlRRcUxCY1JVcGUtNEIwbWtqa3QxWDAxNnhJeGptRHQ1WlhZOVlaYTYzVi05Y0RIVXlmTTl2TFlSMGNSMUgtY09jeUd6dw?oc=5",
+    "title": "GTA 6 Multiplayer Surprise Leaked In PlayStation Files Ahead Of Launch",
+    "publisher": "HotHardware",
+    "publishedAt": "2026-11-09T17:49:00.000Z",
+    "discoveredAt": "2026-11-10T01:18:52.427Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-661c32ebbb",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KQmRjdTQ5UzFPRHB0VDhKWEpVWmp2Ni1zamswSjQyS01zcjQ2T2kxY1VDUnFoS19RT2NvbE4wUkpyTUdoZWxvdGZjWUJwZVdGNWwzbA?oc=5",
+    "title": "How to Avoid GTA 6 Story Spoilers—Best Words to Mute on Social Media",
+    "publisher": "Insider Gaming",
+    "publishedAt": "2026-11-09T16:11:02.000Z",
+    "discoveredAt": "2026-11-10T01:18:52.427Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-eea7b8debc",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdVdNUVF1Vy1uc2FFX1o1NF9kQUQ0ZW9ldG5nX0xkdUVoRGNRT044TnVqcGFaY0RHWHRoNDNDSHlFYjRWb2hXc0xlYVZlSk9PeGhkQU9ha1BRTlZWZnVMNkUtU0tFSTItNWhrWUl6M1JJN2dPLXFXZV9hZHlIenFCdDBCeG13SXZfWXNOTEJ5OV9lQTl5V3M0RkJFRGJkdWJZWmh5bnY4aFRCaXdwdDNHTHBSSzlQcDlnejBZ?oc=5",
+    "title": "GTA VI pre-load on Xbox Series X|S opens at 12:00 a.m. GMT on November 10: local unlock times explained",
+    "publisher": "eGamers.io",
+    "publishedAt": "2026-11-09T19:58:55.000Z",
+    "discoveredAt": "2026-11-10T01:18:52.427Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-006"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-3cfc4472db",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxTzhYR01ZMENfVncxTHVtZGJZRjlrdlNteDl1dWxXSUpHUVhtd1FtQzRQNDlTYk9zeklXRldSVlJoeFlPMUdvMkozMDU0ZWVGTmRCOFpEeFdQVmZfRFg5aHdrQmc?oc=5",
+    "title": "GTA VI Leak Reveals Possible In-Game TV Programs With Dozens of Unannounced Episodes and Music Cues",
+    "publisher": "TwistedVoxel",
+    "publishedAt": "2026-11-09T18:35:22.000Z",
+    "discoveredAt": "2026-11-10T01:18:52.427Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-89f1a7092d",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNFZlNXJpN3ZUNWhVRTlsSzdFYlY1UWtIQW9KajZHdm01c3h6eDVmYmtfX1dSamc4blk2R3RUcEJ6aU9wamJXNTgwMFRJNmlZRDVQTHlScFl3LUVWclZFQkdNNENrUk05LTB3a0RRcUdocUdweXNQc2dyai04b0VrX2swTHQxMkJHZDFv?oc=5",
+    "title": "GTA 6 Preloads Nov. 10: $79.99, No Disc Included [2026]",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-11-09T21:57:09.000Z",
+    "discoveredAt": "2026-11-10T01:18:52.427Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-50302ab80b",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYy1lN1UzU1pvcnpwR2h5MDFpX0gyZVBNaGFNczZvX3NoTWtiMlZMQkc4aDhHSzZxaGdvZHpndzVTVnl1ZkdSVl9OLW53M2FBWmE1MlJSUVlCSWotalBPR1lGSEdQQ1JwTXdGT0dqdmpYSkF2aDVlM1Y1cnlMUkE4SUVsOGtKT0pab21MV0FVVUk2cXNlUG9wZHU0RTJ4WTByZVBLUHRuT3JuQQ?oc=5",
+    "title": "GTA 6 piracy \"a fact of life,\" says Take-Two CEO Strauss Zelnick",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-11-06T02:09:00.000Z",
+    "discoveredAt": "2026-11-10T01:18:52.427Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-af68ab7b3d",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZjdsYU9GSFlWTm52eHFObFNvZWx5WWlCNHhRbHdSYnN4R2xXMGh2cWRENVJfOVU4OHo2b1ljbjJmdTFlMW80NE1OUXBzcFFwVVNReGhUTFl2Qzljak0zTlkxSTlyaVVmckU0ZGhzcDBScWdzbjd0WDVJaU1vZlh2TUlicDFMY1VreG55Vy1zamh1Sl9ZelZkaA?oc=5",
+    "title": "GTA VI PS5 Box Leak Reveals Packaging Design and Double-Sided Poster",
+    "publisher": "eTeknix",
+    "publishedAt": "2026-11-09T16:55:41.000Z",
+    "discoveredAt": "2026-11-10T01:18:52.427Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-862f209781",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IM05FZk5hSWl3YVc2U2tudGI3NEFkdlo2NnZHODZtRGdzQzVaZkl4TFZrMXh6bHl6QTNvZVdmeTN2clUyUFZ2SU1OcmpsWS1wYjFSblB5UlYxMkd1?oc=5",
+    "title": "GTA 6’s PS5 menu music leaks as preloads start in New Zealand",
+    "publisher": "Tbreak UAE",
+    "publishedAt": "2026-11-09T15:20:42.000Z",
+    "discoveredAt": "2026-11-10T01:18:52.427Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-00d10255c1",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVjdFbjh2aTVjcVZhMDNMbGhHbzA2amwxV2FPSmRiS3dYUnVmd21BemVBeVdnMVhYOXFmRk00U3ZuRVpScExvOGMweWdzS1lZNkN2clIxa3dHaHJGLWliTUJtZXR6MEltVXBacVR1Z3FCM2x0MDdMWmE4VmFCUDhaaFlSZ0R2RzVZeFE?oc=5",
+    "title": "Alleged Tracklists for GTA VI's \"Dirty South Classics\" And \"Vice City Hip-Hop\" Leak Online",
+    "publisher": "HotNewHipHop",
+    "publishedAt": "2026-11-09T16:58:02.000Z",
+    "discoveredAt": "2026-11-10T01:18:52.427Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-d55260b3ae",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXanN1emktQ2FqVXd3ZnVCMkVVdk8yN3RKdjlZRDdwU2pfZTFTdUNoa2hrVHI4UGdPNUNBZE9zaWxTc2J1TlBnaEc4UjRCTEFITFo3azI5NDA3cndHY1Jhb1JUZkpYME5sZE92Sw?oc=5",
+    "title": "Thanks to Sony, the existence of GTA 6 Online may have just leaked",
+    "publisher": "PCGamesN",
+    "publishedAt": "2026-11-09T16:27:30.000Z",
+    "discoveredAt": "2026-11-10T01:18:52.427Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-14f18b703a",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX0xCeE03RG1TX2hWR3hGaW04VEUyYVFTZFpJY3Nld1Zldm1TZlV1Um90VmtEN0NGSDRfdDRMOEtpaTlObGxlSE1RUXhqXzFOMGdTWjBNeVF5cHpKREFpN2UwMWU5a20yWkphYlhwYU5ZMnRKSUN4b2ZSTkE4a3pHeXF1MGpQWTl6dmFiSnVrRzdNMzU4QWxR?oc=5",
+    "title": "GTA 6 Supercar Available for £1 Million in Real Life",
+    "publisher": "KeenGamer",
+    "publishedAt": "2026-11-09T21:39:48.000Z",
+    "discoveredAt": "2026-11-10T01:18:52.427Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-83fd839071",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMV9VMzR0MFBHMEY1aWFkVDBLaW9jTDZmelBrOGVUMnhtSS1JZjZ3RFpJTlRaQzU2OTY2b1dIanJFS1lvU2QxNUJPS1BVOUNWNEgybWVSbkFENnZYWmRSbXBZbmpIaUxKSnREQmhPc3ZqcjZBZV9aYXRpLVdCdWhxZjlxUEhYV3FmdTkwcDhsVDBmSXRzU0pRb0FjUVJyLXdiNkFIVWVHZXpnYnNnLVF3?oc=5",
+    "title": "GTA 6 Pre-Load Is Now Live in New Zealand Ahead of November 19 Launch",
+    "publisher": "KeenGamer",
+    "publishedAt": "2026-11-09T20:41:34.000Z",
+    "discoveredAt": "2026-11-10T01:18:52.427Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-c0f7fa4a09",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeXZZdldJcnFIdkZRMjZDUXNGQ2JyOTk2MVpfN1NXR1lLMTc0ZGRmd2pxRXZMMkZXV1d2Q1l4UUFlcHdrMGhjdHVvaTVRX1VUdjNlTXVVREJPZm11UlpPY1JhWV9heTdiSzkwS2kzSU5TMThMQy13U2ZjSF9VT3VjcVlueGRnQW9BLUozUF8xRDE5U0hqUkU5dWlzQTZ5NDNycl9Ia2pSQnZwWmVPdko2R0FaQ1V1d2ZoSDM0NENPcFdabm43?oc=5",
+    "title": "GTA 6 Pre-Orders Reaching \"Unprecedented Levels\", Per Take-Two Interactive Earnings Call",
+    "publisher": "KeenGamer",
+    "publishedAt": "2026-11-10T00:19:06.000Z",
+    "discoveredAt": "2026-11-10T01:18:52.427Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive"
+      ],
+      "claims": [
+        "LEEK-CLM-014"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-be66ba914d",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YM0lCZEhSUmp6WDRUZi1qRDNaVjN2WWlKR1h3TUZFQ3FneWNIS2d1Q2xfdnFNWkdfZS1iaUx5WmVtalRSejJLdzFqNXJCMF9zZjJ3ZkoyZjJpVG5lczE1dVNlRFZfRGVRM2tWNQ?oc=5",
+    "title": "GTA 6 Preload Leaks Reveal Regional Censorship, and Early GTA Online Features",
+    "publisher": "NoobFeed",
+    "publishedAt": "2026-11-09T20:11:47.000Z",
+    "discoveredAt": "2026-11-10T01:18:52.427Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-7ce234bcb8",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcjc4Ny0wd0tOMl9rNms0UTUtdXFuMVN2VnMzM1JCekQyd3psWk52bnpQZWROMXJEVnVSZ1hYd3dfcnBBMXJRbDY2Z2pQNXYyN2ZYZFh6d2ZfYjJpRzE3TFcyY3BwcDJnTVdJanVNa0Y3TUpUcmh0Q29neTFleXNtNmNqM2xCTDNLcVRCcWtUbXpLMHdXUUE1ME9Iekh1TVZGQkpLN2dSS2dueDJMSjBOckFRWTBnTWJTZWJB?oc=5",
+    "title": "Physical GTA 6 Xbox case leak reveals possible advantages over PS5 version",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-11-09T23:17:00.000Z",
+    "discoveredAt": "2026-11-10T01:18:52.427Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-006",
+        "LEEK-CLM-028"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-04e75aeab2",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZnF1TUpiSERIV2FFVmFUeUVyV0w0UFFOOEpwMTR4S2EycGlUV0hGVVUxVVNiQmtpT1d6SlNrTW54RnhKbEtzeVBkSkJMYW83bE1hMnJYeGgzQlpyaHEwMFhIel9QUkMtNnRQNi1GWnFqTzFWNzZJcUtNYjBRWWVwU3Vub0o4WFll?oc=5",
+    "title": "GTA 6 Festival Miami: Lottery Closes 4 p.m. ET [2026]",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-11-10T00:44:45.000Z",
+    "discoveredAt": "2026-11-10T01:18:52.427Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-d215404ee9",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af27100abd7406eb59f53733ab488bd&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fnetcraft-found-121-new-cyberleek-domains-including-scam-sites-ahead-of-gta-vi-s-nov-19-launch%2far-AA2h5pYY&c=16637895528766568385&mkt=en-us",
+    "title": "Netcraft found 121 new ‘cyberleek’ domains, including scam sites, ahead of GTA VI’s Nov. 19 launch",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-09T10:35:00.000Z",
+    "discoveredAt": "2026-11-10T01:18:52.427Z",
+    "feed": "bing-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-955efea188",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af271007cde4658bf991ec3df10c1ec&url=https%3a%2f%2fwww.msn.com%2fen-us%2fgaming%2fpc-games%2fthrowback-to-the-reported-gta-6-map-leak%2fvi-AA2h4APQ&c=2838593717517839299&mkt=en-us",
+    "title": "Throwback to the reported GTA 6 map leak",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-09T10:34:41.000Z",
+    "discoveredAt": "2026-11-10T01:18:52.427Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-bfb6cc6a1f",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af27101445d42a5ad8cbfb9a21b80f5&url=https%3a%2f%2fwww.msn.com%2fen-us%2fgaming%2frockstar-games%2ftake-two-reveals-how-gta-6-hype-affected-previous-entries%2far-AA2h6Ctl&c=1336582301803793618&mkt=en-us",
+    "title": "Take Two reveals how GTA 6 hype affected previous entries",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-09T16:41:09.000Z",
+    "discoveredAt": "2026-11-10T01:18:52.427Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
