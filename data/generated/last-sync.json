@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-11-10T14:33:50.351Z",
+  "ranAt": "2026-11-10T22:58:35.999Z",
   "feeds": [
     {
       "name": "google-news:CyberLeek",
@@ -34,7 +34,7 @@
     {
       "name": "google-news:CyberLeek Microsoft",
       "ok": true,
-      "items": 19
+      "items": 20
     },
     {
       "name": "google-news:CyberLeek Discord",
@@ -74,7 +74,7 @@
     {
       "name": "bing-news:GTA VI leak",
       "ok": true,
-      "items": 11
+      "items": 12
     },
     {
       "name": "bing-news:GTA 6 leak",
@@ -94,8 +94,8 @@
       "error": "HTTP 401"
     }
   ],
-  "discovered": 2057,
-  "newSinceLastRun": 12,
+  "discovered": 2062,
+  "newSinceLastRun": 5,
   "pending": 1111,
   "analysisMode": "rules-only"
 }

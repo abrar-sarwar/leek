@@ -43533,5 +43533,105 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-48ee04715b",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQWtpUm1GYThzNDVNc185UjNxeVJNYkhtY0tLRlF4aHFJUE9xc1hiczNfRE9XRGNZMHRaS0lBQVF6b1RkMVV6SU9SazBGZHd2M3c2WjYxN2MtQ240WVYwSzR2Rkp0R3lrYk5PZTYwU1U4WWs2SlRMdWhEcVFZVkxXTGstdE4yalBTWkdqcEhmbWk5bmtMcFVCQTg0TFlmM0VXWWlUMnJmeWJrN2I3bVFUZ0lmS014bnc?oc=5",
+    "title": "Rockstar reveals GTA 6 console performance targets and PS5 Pro upgrades",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-11-10T15:02:00.000Z",
+    "discoveredAt": "2026-11-10T22:58:35.999Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-1e18978597",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdlRJVlQzWlFmUE84X3RxXy1lZ01UTjM0OVVWeHdueUdmS1hEUjdGTGMxQmp5Z3RJQ2tVdVBGeHZFSUNuNm0zc09FdXFJT3A4bkJ2VVM3Vl9Sd2hrRzRIaGg4M0hUMzNWSFlTM285dk9wbDhoaWtnVi1WczV3LXhwQmFJR2Q4WC1ZeWVfeVlUTDBqWmxoZ0QtOEduMG92b3VqZDlDWm5XeS1zQ0l6RkpLOFY4WXZHZm92VlRYbzg1QmRiSHVPd0cw?oc=5",
+    "title": "GTA 6 PS5 reviews already live on PlayStation Store before embargo and release date",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-11-10T17:07:00.000Z",
+    "discoveredAt": "2026-11-10T22:58:35.999Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-604cb49910",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPamtJMWFmRW5tY0NwMmQtcExsY0VJR2FWeGl1cVJxWXIxRjVGMUs5cjc4WGlhNE1WYlI0WTYwU1VTb2dLcVlwUkdHMU1nQzZ1cE83WnlEUTAtTlhJU1NQMFcxWHlzdUtZa2R0M2RiX2tDeHZIcXZ5R1RHTDhQU2VVak9HeXlueTNGMm90WHRwa3FfWGV4Rm11ZzhR?oc=5",
+    "title": "GTA 6 to Be Playable on Xbox One Through Cloud Gaming",
+    "publisher": "KeenGamer",
+    "publishedAt": "2026-11-10T21:35:32.000Z",
+    "discoveredAt": "2026-11-10T22:58:35.999Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-001",
+        "LEEK-CLM-006"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-1db54b41a7",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY2lOclNoS25ieXdXSHdvck9WLXRDMVB4dDdmQ2NPV2g3cUlrMFkwa2hHX0pKT1VjbUh0dDlUZHRmdmtZM0RWZGR5djh4VFFnRGI4bGxmRUtCZ01wUDU1VXZic3NvbUE5TmR1VGFTNE44WmpJWk1wU0VuWVFFTFBBLVBKT1YwTDEybmdfd2dRbmRsTTNmZGpXbENkLWtMX3FFNm5SOHVUR1dIVVh1?oc=5",
+    "title": "Grand Theft Auto VI Pre-Load Is Now Live for All Digital Pre-Orders",
+    "publisher": "KeenGamer",
+    "publishedAt": "2026-11-10T16:41:49.000Z",
+    "discoveredAt": "2026-11-10T22:58:35.999Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-014"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-28d3f565a2",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOekRKSEFPTUpXTTUwUWFQQkhGTTFxcncxWHFEdkJ0cWsxWXVJcDBxQkRTZ2sxMzE2MHRELVlOVUJ0LUY2NGU5T2JybGtOUnJ0ZmdVazBmdDU1R0xSelI3Q3R3empmb0JQNUZ5ZEU3dTE4Q1ZWcWVaYnNOTzQ1R0pwWE5jclB3UzIzV3hxLWEwa2YtV1BpZDFwZTlpS3M2VDdtMFNaSDRyZ2NPWTNfMzU5bjcxRUttWnoyRmprNmhSdzNJQQ?oc=5",
+    "title": "GTA 6 Reportedly Becomes the Most Pre-Ordered Game of All Time on Both PS5 and Xbox",
+    "publisher": "KeenGamer",
+    "publishedAt": "2026-11-10T18:12:04.000Z",
+    "discoveredAt": "2026-11-10T22:58:35.999Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-006",
+        "LEEK-CLM-014"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
