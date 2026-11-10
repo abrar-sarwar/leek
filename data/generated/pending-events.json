@@ -13210,5 +13210,125 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-fdce9ae6cb",
+    "title": "Take-Two Value Drops $2.83B on GTA 6 Leaks [2026]",
+    "reportedAt": "2026-11-08T12:53:53.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSDR5OE1PakRndHFkQmIyYVNRVFB4ck5aYmUtZGZYMllaYURCOHRXZ3l2cEJaclpUTmhPWW94ZTBjWGxTWmdwRndrX1JkYVlSbkctVE1UN3BDYzFtc0pkRnZVUG0zQm9iZndBRG5FRmxuMGRwRnBWN0ZCVnJRakpnc0dLOWd4Zw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-c4c09cae0e",
+    "title": "GTA VI Metadata Leaks Detail PS5 Pro CPU Boost And Advanced PSSR Support",
+    "reportedAt": "2026-11-10T08:24:08.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMingFBVV95cUxNSkJqRUltcWRwdWJQa1ZaTVJoNEUta2gxU2xoRGkzZ180U1hmMWlOdE9mbzAwVFNZdlZ2Q2NlTllxY3JZaE9tNUhVV25hSU9EVzVsX21BclU4Tm1sYkVDVmVGbnp3eTFxd2lSNmRMbG5hSzhPbkFfTVMtenhDUXB2SG4weVBtbHpvMkpnNVIzejZ2THlELWdOcDVQbWptdw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-13c9783722",
+    "title": "(SPOILERS) The list of 55 GTA VI achievements has leaked",
+    "reportedAt": "2026-11-10T11:15:52.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM01odEJfY2YxTlZULUd4Rk1ROUE0dDNLWDhSOG01eTg2NXBOZlE2ZFdrR2tJa05BS3V1ZlpyT0V4UUJ4RWdHalo1bThOVl9NUHFpNlAzbHRPOGpUZnRjNXN3VVFzWkxnYlpZOXRSM3U4MEozclRYdEV3UldvVWJlZ2ZzdHdqaFMwT1BjazhfZkMyVzlVTkd5TEJWY1VvaDlSVVBUc0FVOA?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-70fc294e1f",
+    "title": "GTA 6: Leak reveals 55 trophies & Achievements",
+    "reportedAt": "2026-11-09T12:57:26.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMifEFVX3lxTE0yZ2ZKVk1DbmNvdDNXRUU4RzVBT3ZWRGlOTXpsQ2NLa1VvMmtYYTEyRmlUY3VPOF9xc3lXQlY4OWE2bzlId181cENaYVlWdUx1Wm1MMWJZUFhSZmR2WDk4QnRrWlh2UE10d0xTeTFlNHlMekY0M0JvWG1xVE8?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-d69e3a5575",
+    "title": "GTA 6 Xbox leak hints at display and audio features PlayStation users won't get as preload goes live",
+    "reportedAt": "2026-11-10T10:24:04.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaE5zelVzM2FPTnljRmF3M2I1c3FxOEJhYXJvem9lODNXNnhFWTZSaG5GZnVMVmNEcld3VHh4ZDZuV19KeGN2T0V6emZPLTd2OFQ1bV95RzJiTEdnYXU1VG5IcEhibzY4X1NKbmc5dHVkRFhVNU54NjBHSE5NN3A3VndjeWRBaTV0Ql9hM21RdWQ5dlJqQmZsczgwTFNYQzU5MnNUM0JrdERMZw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-14d383f79e",
+    "title": "GTA 6 Leak Points to PS5 Pro 120Hz Output and Dynamic Crowds",
+    "reportedAt": "2026-11-10T14:25:23.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMickFVX3lxTFBENHFHcE54bXl5bzU3YzZSNHBCVEFGeGg1Z3EwbGVNeWx6TV9VTENCSlpIRnBvUTZYSDVENnoxc0MzMVA2aXB0Z2JMVmpOZjduczd4M1ljS3EzMWF6NjhNb09ueXpBTElacFE0SUtpYWJ5UQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-447d6b3c90",
+    "title": "NBA 2K27 x GTA 6 Collaboration: Season 3 Release Date, Vice City Content Leaks, and Player Migration",
+    "reportedAt": "2026-11-10T05:44:44.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOTNmNWlod01FUlRwZDdIRmtOQk9nM29XYkJGWGRTaVJPWktFWlQ1ZXVCTkpYc0Nma3I2VDFDNGZCWTc4b0JBaVRUaXQxS1Q0RHFxS0FQLUU4bWhUc2ZmYjBndXZFMEdTblVVXy0yMFNlYUtDYXZSUzltMnZSdVFkWWpBcDltQ241UnZOODVEVTdHdk9XYXU3N1h2V1lwYXB4NTMwckIwcnZHQ19GajhsaFVOdFVodVJfY25pS1pkY3VFd1Q1Njh6WU5n?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-8091f74120",
+    "title": "GTA 6 Online Launch Date Coming Soon? Check Multiplayer Leak",
+    "reportedAt": "2026-11-10T10:39:34.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdVZxTC1CaUpLLXFJUk93S05NYkxIb19pUWdLRTJuemNaOFNhTzZiZVRJb2xaVVRGVkZFZHlkQ3ZaRmk1akZ0QVpZM2JPaEppSTVXT19VdFBkcGlpZ3Y4UlpMWlBSMEJGVXl2MV93enotMHNkSVVHdEdsMjBsUEJQM1JpT0RZeHlmUnU4eVkzTDZnNDBoVXIwUnhJVGxUM2NtNXUtRkRELWtqcmVITUdqLXZicU1lRWlZRXFMb2oxQm1xcVNJNEhhYVFfTzdqZXhnUG0wVlZqM0dVV3NBRkFST3VDM2tRNjF1dnE0ekR1a0bSAf4BQVVfeXFMUHg3QTJVa183bHRhWTlSZkYzUl9zdEJhZUlQSm8xbHV6cGZJMTRJYkpsbk1ibzJnUjV0ak1KLXFzQ1ZuM3BJZ25pMWloX3d3aTdYZ2hQRUZBa2xsRHhZaHR5RWdUckxRcDJleGZZVE9PTzRNMnpTQ0toUTRHVV9oQWtwZXcxMTdHUWFRcE9VY1JzdVdYVHZ2dnIxX21nWXVZalNVeHYzMDlGUWE4a1RxUjZHMzBEUVY4ZU93TGVIbi0wUFh6RmdNN1RaWjRtNFFLWDlGMnVuMG5WYXpDc3ExMWlEb1BWb2VtVm5pUEp1QTNJWTJhRVdFWURNVlVySFE?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-687afd7215",
+    "title": "GTA 6 fan's star charts predicted a May info drop",
+    "reportedAt": "2026-11-10T06:14:30.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af32b5220a24ca8aa74a0e294b54927&url=https%3a%2f%2fwww.msn.com%2fen-us%2fgaming%2fgeneral%2fgta-6-fan-s-star-charts-predicted-a-may-info-drop%2fvi-AA2h8i1k&c=8241825944468384146&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-2fad2b2661",
+    "title": "Remember when a GTA 6 fan's star charts predicted an info drop",
+    "reportedAt": "2026-11-10T06:14:30.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af32b52f85b4491aba4af1eacf33810&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fremember-when-a-gta-6-fans-star-charts-predicted-an-info-drop%2fvi-AA2h8i1k&c=6769864030091827594&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
