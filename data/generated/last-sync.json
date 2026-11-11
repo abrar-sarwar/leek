@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-11-11T05:21:32.300Z",
+  "ranAt": "2026-11-11T13:48:15.571Z",
   "feeds": [
     {
       "name": "google-news:CyberLeek",
@@ -29,7 +29,7 @@
     {
       "name": "google-news:Rockstar CyberLeek",
       "ok": true,
-      "items": 54
+      "items": 56
     },
     {
       "name": "google-news:CyberLeek Microsoft",
@@ -79,7 +79,7 @@
     {
       "name": "bing-news:GTA 6 leak",
       "ok": true,
-      "items": 12
+      "items": 11
     },
     {
       "name": "gdelt",
@@ -95,7 +95,7 @@
     }
   ],
   "discovered": 2067,
-  "newSinceLastRun": 5,
+  "newSinceLastRun": 0,
   "pending": 1112,
   "analysisMode": "rules-only"
 }
