@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-11-10T22:58:35.999Z",
+  "ranAt": "2026-11-11T05:21:32.300Z",
   "feeds": [
     {
       "name": "google-news:CyberLeek",
@@ -29,7 +29,7 @@
     {
       "name": "google-news:Rockstar CyberLeek",
       "ok": true,
-      "items": 55
+      "items": 54
     },
     {
       "name": "google-news:CyberLeek Microsoft",
@@ -94,8 +94,8 @@
       "error": "HTTP 401"
     }
   ],
-  "discovered": 2062,
+  "discovered": 2067,
   "newSinceLastRun": 5,
-  "pending": 1111,
+  "pending": 1112,
   "analysisMode": "rules-only"
 }

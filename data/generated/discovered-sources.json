@@ -43633,5 +43633,109 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-cb146a09e9",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTUZlbzE0TjMzS2FkUy0wRkpOdFBFVDRqU3RtSHplRG1waE9wM1RoNDdKckpta2JNQWp2R0tfSk5CS2xxUzUxQnJBOFBaRGZxTFNtZWE4QjVuc0ZleF9sRVlBaERvNGgyMWRaMGpCNWtyRW9NNGRUcEtta055TjY2RjRMaXFNeE03ZzFpdncyZWtabi0tQ1RFbUlCX2VETzVqVnQ4Ny1QM2FlUGk2eFZMalVIU0dWdEFFUnhTMmxIeS1kZzA1MGc?oc=5",
+    "title": "GTA 6 could get FSR 4.1 support on Xbox Series X|S to compete with PSSR on PS5 Pro",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-11-10T23:41:00.000Z",
+    "discoveredAt": "2026-11-11T05:21:32.300Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-006"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-166e4be9be",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tMFJXY0hxOUluYzNCTG5TeUFEVU14NkhOODFSU0pycTl5U216R19kM0ZCVVllVmVpM19JYzduR2EzU0ktUjI5NnYxQUVVN2o4cUVjUmZBNDc4bkdoa0J1YkRmWjc0TGJxRkpudm8zbnFUR3F0SG8wSkhMQVFmaEE?oc=5",
+    "title": "GTA 6: The iconic Grotti Cheetah became a reality – It is for sale for 1 million pounds",
+    "publisher": "SecNews.gr",
+    "publishedAt": "2026-11-10T16:16:06.000Z",
+    "discoveredAt": "2026-11-11T05:21:32.300Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-aaaded2785",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBX1FmTHdWNmFkX1NWOEJPT0YySmxjWHI3aS1vUkI2RmM5aVdGME1kMjdIS2NVMUVCOE93bXd1TmpEa3M1NmRmQjNjbkh5TnZwZWVJRnNQdHc?oc=5",
+    "title": "GTA 6 trophy list reportedly leaks with 55 achievements, but fans aren’t convinced",
+    "publisher": "GameByte",
+    "publishedAt": "2026-11-10T14:01:06.000Z",
+    "discoveredAt": "2026-11-11T05:21:32.300Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-6fd1a4c2fb",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3fb5f2dc84956bc8306de553cc59b&url=https%3a%2f%2fsundayguardianlive.com%2ftech-news%2fgta-6-new-leaks-cyberleek-leaks-new-24-minute-gameplay-clip-and-threatens-to-release-alleged-200gb-full-playable-game-if-meme-coin-hits-30-million-market-cap-ahead-of-november-19-launch-304717%2f&c=16813218438700416731&mkt=en-us",
+    "title": "GTA 6 New Leaks: Cyberleek Leaks New 24-Minute Gameplay Clip and Threatens to Release Alleged 200GB Full Playable Game if Meme Coin Hits $30 Million Market Cap Ahead of ...",
+    "publisher": "bing.com",
+    "publishedAt": "2026-10-13T00:44:00.000Z",
+    "discoveredAt": "2026-11-11T05:21:32.300Z",
+    "feed": "bing-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "$CYBERLEEK holders"
+      ],
+      "claims": [
+        "LEEK-CLM-001",
+        "LEEK-CLM-002",
+        "LEEK-CLM-015",
+        "LEEK-CLM-028"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-6291c9917d",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af3fb60c9384993a7c3388e7c7f4ead&url=https%3a%2f%2fmp1st.com%2fnews%2fgta-6-wont-reach-40-fps-on-ps5-pro&c=14987586206522112238&mkt=en-us",
+    "title": "GTA 6 Won’t Reach 40 FPS on PS5 Pro, But the Console Will Still Get Some Exclusive Features",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-10T05:13:00.000Z",
+    "discoveredAt": "2026-11-11T05:21:32.300Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

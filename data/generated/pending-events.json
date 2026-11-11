@@ -13330,5 +13330,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-aaaded2785",
+    "title": "GTA 6 trophy list reportedly leaks with 55 achievements, but fans aren’t convinced",
+    "reportedAt": "2026-11-10T14:01:06.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBX1FmTHdWNmFkX1NWOEJPT0YySmxjWHI3aS1vUkI2RmM5aVdGME1kMjdIS2NVMUVCOE93bXd1TmpEa3M1NmRmQjNjbkh5TnZwZWVJRnNQdHc?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
