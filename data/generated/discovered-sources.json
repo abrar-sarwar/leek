@@ -43737,5 +43737,145 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-e4f346a8b1",
+    "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQN24weXBnNFVPQ08xcWNfQXdPY3A4RWFpSlVRQW9rY0dtTW9wOFRid0Naa2RQN2hLYnc3X1djc0pWVjZ0bHd4bUtDVkFlX1doOGpMV2dXYUV6XzVaWVFvSng3b0FXaElHRERja2JUb09pNnVpTEN3YU9WWVpiZXlDbll4U2hjcWR2ZzN0MjdqekdGSngtalVKdHpiNlhseWczRVU0a2xyZFh5cFFEZHhodURCWXZ4WTUxYzVXdDdBS0tSMXl1OHREZDhpUHkyeWYzc3M0TDY3OF9hS2swb2tUTS1TbEVqSERRWUlia1RyT3B6YnMxaElXNVhSZnhQRnQ0YjQ5VExnMC05X2NTdDlJbWFSdzJrRUNvUmRPWDlfQ2wtczJ1bjNvSjNRSTNLQmpHMGVyTw?oc=5",
+    "title": "PC peripheral maker Logitech giving all of its 7,000 employees the day off to play GTA 6 — company announces ‘Game Day’ initiative, dedicated vacation day to play video games",
+    "publisher": "Tom's Hardware",
+    "publishedAt": "2026-11-11T15:55:12.000Z",
+    "discoveredAt": "2026-11-12T00:15:45.810Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-55e0550a8a",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjMDlMRDJ3bFVOSnR1aVJhYTl6MDdYc2hqdDlTVWFRb1MzWlhrMi1QNHZ2aFptd1ZNSncyT2YtV0NSXzdyUGFMWURFQV9VYkhBcmIwZ29LSzY5Sy1nSVNnckpYSGpiTGFoOWNCYWsySmhFdHk0cU5uRg?oc=5",
+    "title": "GTA 6 First Review Scores Appear To Have Surfaced",
+    "publisher": "ScreenRant",
+    "publishedAt": "2026-11-11T10:38:29.000Z",
+    "discoveredAt": "2026-11-12T00:15:45.810Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-bd3866836d",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRldBdjlmUjU3STRXMm1WNy0zeHZMYTNyZ3lraG50aUxOeUdRdThzQVJJQkgyY1pESDJpOE8xU0g1UlZFYTgyM2pjVWJ5N1E0TjFaNGdXY3FYWV83V0NHdmhSendXRFdvSzRsYkRxSVBqZThSaXphWk5iQ3dremtEWEg5RC1uYUpzZElqbWlLVnFxbkFSbHBGYW5kODFVcUVIYmlZVFY4QlpqZU9EdkZrcWI2NEFySTFFUlpOY2Y5ZjVDREgzQmdJ?oc=5",
+    "title": "Take-Two reportedly targets GTA 6 Mapping Project, closing Discord that shared leaks",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-11-11T23:29:00.000Z",
+    "discoveredAt": "2026-11-12T00:15:45.810Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive",
+        "Discord"
+      ],
+      "claims": [],
+      "category": "discord",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-60c7717221",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb2g1cXVYbkZ5S201Zm5fMWhjeERtTV81Z1JYZVlLSlUyUHNtTUhOMFoteTI0TWR1dVJKOGN0RmYzaUlrQk1UZ2lYUk1JS1EzTHh4MmphaU9wVTlNd09ZSzBTNndaY1ZxNGlFMG1hUHNZTjNVekNrRkp1VU5oNXZSX2ZzYjl2RlNHOEpUWlRPaS1DeXhla3Y0MllLcE9EdmpJcmcyQWtaMFRqdmhzd1BTajd3?oc=5",
+    "title": "Logitech Gives All Employees a Potential Day Off on GTA 6’s Release Date",
+    "publisher": "KeenGamer",
+    "publishedAt": "2026-11-11T20:01:54.000Z",
+    "discoveredAt": "2026-11-12T00:15:45.810Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-bb0b7e49ab",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ3JGQVU1QUl3QzFrWFNKeVh4dG9OOXZfM2pvS1JrZ3hyZEl6YlowZ3p3LWxZejg4bEk5RUpDQnpybUFMUEZKaHlFTENGa1VUX3FXNlJEMGZVS2VIdXhobk45LXIyRVdCYkU2bDloeDg2Qjc2YTVVOGFWWFIxQnZZX0N4M2R1cWNmT3pWTjlsNkhNaFJ4V2FzRElRVWR3QUJmTm5iLTBMM1lob0Q3SklOVDRkbkZITll2amVmT2VhNldsZw?oc=5",
+    "title": "Bethesda denies The Elder Scrolls 6: Sentinel leak of news on Skyrim anniversary",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-11-11T03:46:00.000Z",
+    "discoveredAt": "2026-11-12T00:15:45.810Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-7f2daa58c9",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5053536bb46e2a6c515d84d2cf633&url=https%3a%2f%2fwww.msn.com%2fen-us%2fgaming%2fgame-reviews-and-previews%2fgrand-theft-auto-vi-reaches-1-billion-in-sales-ahead-of-release-report-says%2far-AA2heGUK&c=18010766967969052517&mkt=en-us",
+    "title": "Grand Theft Auto VI reaches $1 billion in sales ahead of release, report says",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-11T11:53:53.000Z",
+    "discoveredAt": "2026-11-12T00:15:45.810Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive"
+      ],
+      "claims": [
+        "LEEK-CLM-014",
+        "LEEK-CLM-025"
+      ],
+      "category": "take-two",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-022"
+    }
+  },
+  {
+    "id": "DISC-98ce99a3d5",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5053536bb46e2a6c515d84d2cf633&url=https%3a%2f%2fwww.msn.com%2fen-us%2fvideo%2fother%2fall-55-gta-6-achievements-trophies-leaked-grand-theft-auto-6%2fvi-AA2hehsw&c=15570591001457218518&mkt=en-us",
+    "title": "All 55 GTA 6 Achievements & Trophies Leaked (Grand Theft Auto 6)",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-11T09:37:38.000Z",
+    "discoveredAt": "2026-11-12T00:15:45.810Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

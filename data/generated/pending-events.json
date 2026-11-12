@@ -13342,5 +13342,53 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-e4f346a8b1",
+    "title": "PC peripheral maker Logitech giving all of its 7,000 employees the day off to play GTA 6 — company announces ‘Game Day’ initiative, dedicated vacation day to play video games",
+    "reportedAt": "2026-11-11T15:55:12.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMitAJBVV95cUxQN24weXBnNFVPQ08xcWNfQXdPY3A4RWFpSlVRQW9rY0dtTW9wOFRid0Naa2RQN2hLYnc3X1djc0pWVjZ0bHd4bUtDVkFlX1doOGpMV2dXYUV6XzVaWVFvSng3b0FXaElHRERja2JUb09pNnVpTEN3YU9WWVpiZXlDbll4U2hjcWR2ZzN0MjdqekdGSngtalVKdHpiNlhseWczRVU0a2xyZFh5cFFEZHhodURCWXZ4WTUxYzVXdDdBS0tSMXl1OHREZDhpUHkyeWYzc3M0TDY3OF9hS2swb2tUTS1TbEVqSERRWUlia1RyT3B6YnMxaElXNVhSZnhQRnQ0YjQ5VExnMC05X2NTdDlJbWFSdzJrRUNvUmRPWDlfQ2wtczJ1bjNvSjNRSTNLQmpHMGVyTw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-bd3866836d",
+    "title": "Take-Two reportedly targets GTA 6 Mapping Project, closing Discord that shared leaks",
+    "reportedAt": "2026-11-11T23:29:00.000Z",
+    "category": "discord",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRldBdjlmUjU3STRXMm1WNy0zeHZMYTNyZ3lraG50aUxOeUdRdThzQVJJQkgyY1pESDJpOE8xU0g1UlZFYTgyM2pjVWJ5N1E0TjFaNGdXY3FYWV83V0NHdmhSendXRFdvSzRsYkRxSVBqZThSaXphWk5iQ3dremtEWEg5RC1uYUpzZElqbWlLVnFxbkFSbHBGYW5kODFVcUVIYmlZVFY4QlpqZU9EdkZrcWI2NEFySTFFUlpOY2Y5ZjVDREgzQmdJ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-bb0b7e49ab",
+    "title": "Bethesda denies The Elder Scrolls 6: Sentinel leak of news on Skyrim anniversary",
+    "reportedAt": "2026-11-11T03:46:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ3JGQVU1QUl3QzFrWFNKeVh4dG9OOXZfM2pvS1JrZ3hyZEl6YlowZ3p3LWxZejg4bEk5RUpDQnpybUFMUEZKaHlFTENGa1VUX3FXNlJEMGZVS2VIdXhobk45LXIyRVdCYkU2bDloeDg2Qjc2YTVVOGFWWFIxQnZZX0N4M2R1cWNmT3pWTjlsNkhNaFJ4V2FzRElRVWR3QUJmTm5iLTBMM1lob0Q3SklOVDRkbkZITll2amVmT2VhNldsZw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-98ce99a3d5",
+    "title": "All 55 GTA 6 Achievements & Trophies Leaked (Grand Theft Auto 6)",
+    "reportedAt": "2026-11-11T09:37:38.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5053536bb46e2a6c515d84d2cf633&url=https%3a%2f%2fwww.msn.com%2fen-us%2fvideo%2fother%2fall-55-gta-6-achievements-trophies-leaked-grand-theft-auto-6%2fvi-AA2hehsw&c=15570591001457218518&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
