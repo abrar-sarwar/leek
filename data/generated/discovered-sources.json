@@ -43877,5 +43877,204 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-2af895fe32",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zLTJyaEtzTDVXVllLLTZwSFhfalV1bnZqZFJJeUJmWXpJMFZrMTFuclF6cU02dU1OTVFvUzhfeDkzNzdTUmdiWERmZDlXX3NLS1FGd1FscF9vS1pBdDFENUtXOUpuYVppQzBXVDFKZUhOYVRqLXphQUY5UGhQU2M?oc=5",
+    "title": "All GTA 6 Radio Stations & Songs—Full Soundtrack",
+    "publisher": "Insider Gaming",
+    "publishedAt": "2026-11-11T13:13:28.000Z",
+    "discoveredAt": "2026-11-12T14:51:50.864Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-ddd231517c",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYWxHcE9yblN2S3hYTXNTLW4zMVh1QUtBa1NkOFNvYVN4Zm9iMFlEc3owWGFYaGZja0xRS3N3bDMxWU9rdUJDczhlMVFVOW9zR0ZWNzVjTUlHTnRKb0tzWVI4WU53QUU5ckZSeEx1ZXhQN01PU29rQXVQSUdmdGpBb2dRZUtEQ01MaFFkUFpwSDJwdElTTWZwWGs0b2ZrT2M?oc=5",
+    "title": "GTA 6 Full Soundtrack: All Radio Stations & Songs",
+    "publisher": "games.gg",
+    "publishedAt": "2026-11-11T19:47:14.000Z",
+    "discoveredAt": "2026-11-12T14:51:50.864Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-2b645ffed4",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUURqcXEyZ3NMd1BYMkd6MU56bHBhWnAtQ1p2ZWdEWXlDWUVRTXJoWGQ5M2JEMkZ2a0ZBdWhVQVdZV0kwN2k4OHM1OWJyVGlXYzlObE91bm5ZYl9GVWpHWGljNW9nZDgzVHYyLTVrVHpTYXpUSngzSVZyRXFOSU9waC1Cd1JQd0pLYjlMWEVzc21Hb3o1aVZpanJn?oc=5",
+    "title": "GTA 6 Map Leak Reveals New Locations",
+    "publisher": "ComicBook.com",
+    "publishedAt": "2026-11-12T12:41:00.000Z",
+    "discoveredAt": "2026-11-12T14:51:50.864Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-0dcdba6893",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93ZVJQMFl2anEzUk9raGpMdHdsaXMzdGxfV1dlSndFdUhHTEJBMkVZZDZqQWhHa1dISGpKejJNUHZVeUNXbmhsaEx4SV9DRVRWaWUzUjdOeUtqcTNiOFNvb2ZHUGFpVlZJSUdXb3F30gFzQVVfeXFMUHNMbF9xeVJFX0trVTVvY1ZOS1V4RmdWaXZueER6SzVVUnJoT2VmVWlGZTVtWHFVcnY3blRYZWYwX2didl9lVDJoUkZlVUFKcHd6UExXU2labmhYdFZjU2lVNFJtZXVPNy10c0tZbjEyVlI4Zw?oc=5",
+    "title": "How to Avoid GTA 6 Spoilers: Words to Mute on Social Media Right Now",
+    "publisher": "Beebom",
+    "publishedAt": "2026-11-12T11:06:25.000Z",
+    "discoveredAt": "2026-11-12T14:51:50.864Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-fabbe3181b",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRGRVV2tFbk43NThYaW92Ni1ZM01OT2YxYlJQUEZBQ0gxS09jdGo2RW1iSGxlQlI0OVNFeW1FdXg1RUQ0QWp0UDZkdUpsUS16eDE5Q0J4SDNHR0QwRWZUUEtTb2hVQ182azJzVnQzRDFqai1IUGo0dU9URU1VQV9yY21aS0pjRThQcFlMZjBRTzNzcFEyaVRsaEpnME5WWXhNX29WcXFFdE5pVkpsdUFxaWR1Zk9tYXpZVVE?oc=5",
+    "title": "Rockstar Shares Hyper-Realistic GTA 6 Gameplay Clip That Looks Like Real Life",
+    "publisher": "KeenGamer",
+    "publishedAt": "2026-11-12T00:49:26.000Z",
+    "discoveredAt": "2026-11-12T14:51:50.864Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-025"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-a29d131546",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX2U1TUFDWUZFYUdhWHJicXg2SkJHYnRUMFlYdXBvQ2ZYVURab25LTE5vWHUxLXh2ekxSc3QyZERuX2syUUFvWUtDNEJSaFppSWlPWk94cHFqbHB5bUlSeGdQNlFnaFlWejBUN2hMQU9YZlVDSV9aZzBXMWpHdTVNa291RjBDa192ekpjQ0J4RjNoLTNfTWg4?oc=5",
+    "title": "This company wants to pay you over $100,000 to play GTA 6",
+    "publisher": "Dexerto",
+    "publishedAt": "2026-11-12T12:19:50.000Z",
+    "discoveredAt": "2026-11-12T14:51:50.864Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-028"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-cbf2c353d2",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPajZIaWNINVdHTWwzemFsMmJUUGltbVhXYmN3SklzTnJrS2xJdXZZeW9aSXJIanhUNDRwNVVudUtOTFdNODFIOVhCVEdvbjhtRUhaLVI5b2xKRFNBcWVXdjlPMnJwdG92NDYtUG9TQm9pYlREaVlLMzdIek5jMWtyUy1XaDhyWWk0bDRJOXAtaFhGdmhUdDlTdm9PWkFOcjg3QW5JZzhoRkg4ZzRJUmh6Qm5rczA5OEhWVVdRaXVlV09xRjZ3TXdBQ0U2QS11d0dxNHo2UtIB2wFBVV95cUxQd0FyWXJNSXZXMDkySW5wNkUzeWNkWGZqUldOcl9vNFdYNW1OWHZ5cGh1MGxJajktTFN3SGFPQ3EwUC1scnQ4S3RyejJ6X0YtQ2dhTG1JUmVlUDcxS05SSHpoTGU3bWFLUjF2YThLakozN2k0MWJ3N0hGbFBGUTNZbk91eW0zOHcyMWNGVXBKX0VmeUN1R0JWV2dEYWR1UDRmQVJUVWppMWw5NU13OTkyYWJJN0tmYTBjbnBIOHFscVRQQmRsRjVQWGR4MWhlWEk3SDNWeEdUUlRBY0E?oc=5",
+    "title": "GTA 6 livestream time, gameplay, leaked footage, download size, release date, price and other details",
+    "publisher": "Digit",
+    "publishedAt": "2026-11-12T11:33:14.000Z",
+    "discoveredAt": "2026-11-12T14:51:50.864Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-2776f9d48e",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSVdYb0hxUEp3d21ZdDlUQzlJYk95VmRJbkJxR1lDaC1zWXI5RjdGOFhWU2I5LXlJM09LU2hnNEwtVlNCMnpMUUFBNDlLVlVxZVRYSi1pRENvNDlHY3VVYXRVZWlqUzE3bDQwWWxlZm9CMHNYQ2tLWlRvN1JnZjBGWnJYR1RMSm5DdS0yclVZVGNVQkpWWFJQRXhKWVdQdDR2Z2syNFZDZExTdmRfam9fSFlreVNheHFybXhqd1RHdGU2RVJySGQ3UW1LZ9IB2AFBVV95cUxNVjFmbjM2bTVKMThsTWpNV09ITG9TTUpxZVpWZkFQVlZYczJqZkNMM2N4dWRJcFNZR2lkb2hSUjBzbmFVOHIyNUdtblJ6UW5xVXh4ZjhLU3ZmSGNSRjJiOEEtTnVxNlVNTlphUE9BS1R4MjZyVWZwQ080dHpzZFpGZFdYWVJLX3hDMmdCdkppdkJ1ejVwQXZRQVNDYmRGUmZ3WWZCSnk5alB0YzQtS0c5b2NRMjdrd0g3UXlkT1I5THhjVVZrcEVqc1hNYUZzR3NINW9XOU4wc2k?oc=5",
+    "title": "How Many Single-Player Trophies And Achievements Are There In GTA 6?",
+    "publisher": "Esquire India",
+    "publishedAt": "2026-11-12T13:16:33.000Z",
+    "discoveredAt": "2026-11-12T14:51:50.864Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-abe84326db",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5d28be3ad4dfaba33f603a956c8be&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fgta-6-live-brand-new-gameplay-video-shared-online%2far-AA2hijwr&c=4359079155906625930&mkt=en-us",
+    "title": "GTA 6 live: Brand new gameplay video shared online",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-12T06:38:08.000Z",
+    "discoveredAt": "2026-11-12T14:51:50.864Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-d0a7631502",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5d28be3ad4dfaba33f603a956c8be&url=https%3a%2f%2fwww.notebookcheck.net%2fTake-Two-reportedly-targets-GTA-6-Mapping-Project-closing-Discord-that-shared-leaks.1448191.0.html&c=3438933584237750397&mkt=en-us",
+    "title": "GTA 6 Mapping Project reportedly targeted by Take-Two, closing Discord that shared leaks",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-11T19:46:00.000Z",
+    "discoveredAt": "2026-11-12T14:51:50.864Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games",
+        "Take-Two Interactive",
+        "Discord"
+      ],
+      "claims": [
+        "LEEK-CLM-023"
+      ],
+      "category": "legal",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

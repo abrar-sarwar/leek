@@ -13390,5 +13390,65 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-2b645ffed4",
+    "title": "GTA 6 Map Leak Reveals New Locations",
+    "reportedAt": "2026-11-12T12:41:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUURqcXEyZ3NMd1BYMkd6MU56bHBhWnAtQ1p2ZWdEWXlDWUVRTXJoWGQ5M2JEMkZ2a0ZBdWhVQVdZV0kwN2k4OHM1OWJyVGlXYzlObE91bm5ZYl9GVWpHWGljNW9nZDgzVHYyLTVrVHpTYXpUSngzSVZyRXFOSU9waC1Cd1JQd0pLYjlMWEVzc21Hb3o1aVZpanJn?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-fabbe3181b",
+    "title": "Rockstar Shares Hyper-Realistic GTA 6 Gameplay Clip That Looks Like Real Life",
+    "reportedAt": "2026-11-12T00:49:26.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRGRVV2tFbk43NThYaW92Ni1ZM01OT2YxYlJQUEZBQ0gxS09jdGo2RW1iSGxlQlI0OVNFeW1FdXg1RUQ0QWp0UDZkdUpsUS16eDE5Q0J4SDNHR0QwRWZUUEtTb2hVQ182azJzVnQzRDFqai1IUGo0dU9URU1VQV9yY21aS0pjRThQcFlMZjBRTzNzcFEyaVRsaEpnME5WWXhNX29WcXFFdE5pVkpsdUFxaWR1Zk9tYXpZVVE?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-cbf2c353d2",
+    "title": "GTA 6 livestream time, gameplay, leaked footage, download size, release date, price and other details",
+    "reportedAt": "2026-11-12T11:33:14.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPajZIaWNINVdHTWwzemFsMmJUUGltbVhXYmN3SklzTnJrS2xJdXZZeW9aSXJIanhUNDRwNVVudUtOTFdNODFIOVhCVEdvbjhtRUhaLVI5b2xKRFNBcWVXdjlPMnJwdG92NDYtUG9TQm9pYlREaVlLMzdIek5jMWtyUy1XaDhyWWk0bDRJOXAtaFhGdmhUdDlTdm9PWkFOcjg3QW5JZzhoRkg4ZzRJUmh6Qm5rczA5OEhWVVdRaXVlV09xRjZ3TXdBQ0U2QS11d0dxNHo2UtIB2wFBVV95cUxQd0FyWXJNSXZXMDkySW5wNkUzeWNkWGZqUldOcl9vNFdYNW1OWHZ5cGh1MGxJajktTFN3SGFPQ3EwUC1scnQ4S3RyejJ6X0YtQ2dhTG1JUmVlUDcxS05SSHpoTGU3bWFLUjF2YThLakozN2k0MWJ3N0hGbFBGUTNZbk91eW0zOHcyMWNGVXBKX0VmeUN1R0JWV2dEYWR1UDRmQVJUVWppMWw5NU13OTkyYWJJN0tmYTBjbnBIOHFscVRQQmRsRjVQWGR4MWhlWEk3SDNWeEdUUlRBY0E?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-abe84326db",
+    "title": "GTA 6 live: Brand new gameplay video shared online",
+    "reportedAt": "2026-11-12T06:38:08.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5d28be3ad4dfaba33f603a956c8be&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fgta-6-live-brand-new-gameplay-video-shared-online%2far-AA2hijwr&c=4359079155906625930&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-d0a7631502",
+    "title": "GTA 6 Mapping Project reportedly targeted by Take-Two, closing Discord that shared leaks",
+    "reportedAt": "2026-11-11T19:46:00.000Z",
+    "category": "legal",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af5d28be3ad4dfaba33f603a956c8be&url=https%3a%2f%2fwww.notebookcheck.net%2fTake-Two-reportedly-targets-GTA-6-Mapping-Project-closing-Discord-that-shared-leaks.1448191.0.html&c=3438933584237750397&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
