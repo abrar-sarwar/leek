@@ -44488,5 +44488,84 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-f9c36a1c3a",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSTJSX0haZklJZ0ZoQjNiVnVHeEVSeHVyNHZTclB4NlFpY3BaaDd0eHR3VGY3SnhLMkxzZUJKMDdWOHFuVlRUWXpBZ3NIRzhKeVNBVG50cTB3dGtjWmFZLUQwdFVBT1VXeXNQSW1RNGFOdEh5VmtTZjZhMThuYWFUYVlLRS0wbGdjWlUtdm1fMA?oc=5",
+    "title": "GTA 6 Map Leak: Full Leonida Map Reveals New Locations",
+    "publisher": "MMOEXP",
+    "publishedAt": "2026-11-13T02:12:07.000Z",
+    "discoveredAt": "2026-11-13T05:45:33.219Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-d8cab7530d",
+    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPLWJhSE0ycHFDU2d0V01hUGhOWUwtOFdCRzB2YlB0THdMYktPejZVYUFxbjh0SFVoLXNLc0E4S2dORE51UG5uZ2pKbzBXZ2FjU2ZBcDQzcktoM2UxZjZVbmQxWFhNYnVrYkdMUWo0cy0tREVYQVhGU1ExZllmcWtuekdvMmx6RHZmSDhRQ0JFU3dJVUdEeTlFZ0NXd0tXR21RMU9PbGI0NHpoZm02d1JwcjNfWTVsbE1MLTVxWEVESHlkSnRwYW00dzA0SURLVlVuWkhWZDFLaGs2Nk1aLWhSQXlobkJMUWJuTWU3Vml0ekhnSEdBYWZTTUtUTy01NzZMS0hrblJQZ3M?oc=5",
+    "title": "South Korean game rating board almost blocked GTA 6's release, fearing its 'out-of-context genital nudity' would 'disrupt social order'",
+    "publisher": "PC Gamer",
+    "publishedAt": "2026-11-12T19:06:41.000Z",
+    "discoveredAt": "2026-11-13T05:45:33.219Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-49b1c4d278",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUERqNVh5MkdBTnp0enNfaTRCbEZTQWR1a0RwUm9NRVNmcmJka29MMlFQMUNrcEJHQjJlb0k0T0l6OFNIcUNmMFVtemdfUDREUUhEOXhpUXl6eDd1NEtQa19xMl93Y1ZHZmlxV1JFOHA0TG9EQlQ5NHRuWXY5X0VLUlRKUFdlSlRzaWJRTU0yU2VUSlN3SjlPdjk0a2VuNFBLQjlhZUZnRkQyNkhfUloyT1lBMG9hNGt6UlZwaUttUHpqNDV2UGc?oc=5",
+    "title": "Rockstar says GTA 6 PS5 Pro build ran at 60 fps with major performance compromises",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-11-13T01:58:00.000Z",
+    "discoveredAt": "2026-11-13T05:45:33.219Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "rockstar",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-021"
+    }
+  },
+  {
+    "id": "DISC-9f09e8e703",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUEw5T1JnUFZyei1KN1hHVG9xUERHaWpSVDVpRWZvNnZzUUl6VjhPdEtYZUh1OEFkbEU2VkFCT1VHcC1CSi1mWkFtSmhrMnJEZDdxUTEzRE5HMXRjeU5meDREWkRKdVdCMHQtUWE1NERZaUpoeGEyU1FjUDlsQnotQUtabmFMMXQ5MEkzVjFjalE1d3V6aGZNODdMWjBwYUNfenRtVmtXdlF2LWNSd0gtZGVkYw?oc=5",
+    "title": "GTA 6 nearly refused a rating in South Korea over “genital exposure”",
+    "publisher": "AltChar",
+    "publishedAt": "2026-11-12T20:02:00.000Z",
+    "discoveredAt": "2026-11-13T05:45:33.219Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-028"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

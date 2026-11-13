@@ -13678,5 +13678,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-f9c36a1c3a",
+    "title": "GTA 6 Map Leak: Full Leonida Map Reveals New Locations",
+    "reportedAt": "2026-11-13T02:12:07.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSTJSX0haZklJZ0ZoQjNiVnVHeEVSeHVyNHZTclB4NlFpY3BaaDd0eHR3VGY3SnhLMkxzZUJKMDdWOHFuVlRUWXpBZ3NIRzhKeVNBVG50cTB3dGtjWmFZLUQwdFVBT1VXeXNQSW1RNGFOdEh5VmtTZjZhMThuYWFUYVlLRS0wbGdjWlUtdm1fMA?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
