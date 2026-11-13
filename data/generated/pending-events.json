@@ -13690,5 +13690,65 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-b2bbee58ae",
+    "title": "GTA 6 Online release window has apparently leaked",
+    "reportedAt": "2026-11-13T11:38:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN2MyZ3ZmRk1PMndPdktPWVFKaFY4U3VjWUZETDFhemRrbGMzNEsyVGR6RGJ6SWF5QUFmcEFGS3ItMnZIMUZrTGdTc0JieHNHTktUZjdOcnM2MC1idVcyV1cyblhEX3hkWEpEWE1MMm5CVHdfZnNRdnpXNUhUTXVKVHlLSjdLZ0Y3QUw1a3BzbXVORHFGT2pCSVpR?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-c934321f9d",
+    "title": "GTA 6 Map Leak: New Leonida Locations, Counties and Islands Revealed",
+    "reportedAt": "2026-11-13T06:30:10.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMioAFBVV95cUxPblNid3c0blBEVHVsODdRam4xS1hjRkhzTjZYQ18yUGUtb3JTekI5WUpya21tZkdMeHNqek1GUFNCV0Fzd01nZnlROGpyR19PR0ZDYjduanZVZDR2bjZ1ek1rQ29TclBKS29QR0NFWDk5UTlvWUhZbVJuOFZNNUtSMTlBNjhZQXFqSFlSNXN5dEpPVDhQRTNGZWNKWDZ2XzJf?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-e0a7951acd",
+    "title": "GTA 6 Map Leaked Online Ahead of Launch, Revealing Several Locations",
+    "reportedAt": "2026-11-13T10:57:31.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc1ItZjZBMnc3MFVEQnptSkJxd29qc29kSDZDZUN2NWlUaWRzQnNCY19ONkhfSE9Cc01aWC1IbUVncXFKZ1V4NlAxUGY4azgwZ2VweE50dTI3MW1Lckd5LVZGNWNWQlpEY0NmTl9UaWc4SlBjei1pZ3hrTFJZUjAxMW9MbHMyd2xPa29Mc3JrTEtOc0NEeUVCTEtWRWNaMktTRWR4bmVobnUwdTVkVlhrNW5qUQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-394154bb79",
+    "title": "GTA VI Collector’s Box Map Leaks Online After Early Sale at Selfridges",
+    "reportedAt": "2026-11-13T05:49:53.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWFJQS2MzNzNjNXVCM2w4SXRBLU5JWTdOYmx2RXc0YVZLU0NUMm95N0pPUW82VC1QVGhuQld1SFVNdjVrYV82cDRueDB3d0RocDFpNnBEUDNNbDY0OFBFZ1pWa2ZFbzQ5UDJaZy13SEE4STB5UlVPamFRNlk5UWw0VW5VQmxlWDlObXhkQnV3eVRsaEU?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-3f18c5cedf",
+    "title": "GTA 6 live: Full map leaked online ahead of release",
+    "reportedAt": "2026-11-13T00:47:17.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af71b002734447bb201708584179b5e&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fgta-6-live-full-map-leaked-online-ahead-of-release%2far-AA2hlfZm&c=958286961954577806&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

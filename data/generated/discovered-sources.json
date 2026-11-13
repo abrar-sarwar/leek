@@ -44567,5 +44567,118 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-b2bbee58ae",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN2MyZ3ZmRk1PMndPdktPWVFKaFY4U3VjWUZETDFhemRrbGMzNEsyVGR6RGJ6SWF5QUFmcEFGS3ItMnZIMUZrTGdTc0JieHNHTktUZjdOcnM2MC1idVcyV1cyblhEX3hkWEpEWE1MMm5CVHdfZnNRdnpXNUhUTXVKVHlLSjdLZ0Y3QUw1a3BzbXVORHFGT2pCSVpR?oc=5",
+    "title": "GTA 6 Online release window has apparently leaked",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-11-13T11:38:00.000Z",
+    "discoveredAt": "2026-11-13T14:13:16.960Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-c934321f9d",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPblNid3c0blBEVHVsODdRam4xS1hjRkhzTjZYQ18yUGUtb3JTekI5WUpya21tZkdMeHNqek1GUFNCV0Fzd01nZnlROGpyR19PR0ZDYjduanZVZDR2bjZ1ek1rQ29TclBKS29QR0NFWDk5UTlvWUhZbVJuOFZNNUtSMTlBNjhZQXFqSFlSNXN5dEpPVDhQRTNGZWNKWDZ2XzJf?oc=5",
+    "title": "GTA 6 Map Leak: New Leonida Locations, Counties and Islands Revealed",
+    "publisher": "MMOEXP",
+    "publishedAt": "2026-11-13T06:30:10.000Z",
+    "discoveredAt": "2026-11-13T14:13:16.960Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-e0a7951acd",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc1ItZjZBMnc3MFVEQnptSkJxd29qc29kSDZDZUN2NWlUaWRzQnNCY19ONkhfSE9Cc01aWC1IbUVncXFKZ1V4NlAxUGY4azgwZ2VweE50dTI3MW1Lckd5LVZGNWNWQlpEY0NmTl9UaWc4SlBjei1pZ3hrTFJZUjAxMW9MbHMyd2xPa29Mc3JrTEtOc0NEeUVCTEtWRWNaMktTRWR4bmVobnUwdTVkVlhrNW5qUQ?oc=5",
+    "title": "GTA 6 Map Leaked Online Ahead of Launch, Revealing Several Locations",
+    "publisher": "IGN India",
+    "publishedAt": "2026-11-13T10:57:31.000Z",
+    "discoveredAt": "2026-11-13T14:13:16.960Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-e061378e62",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbmN6el9UcEZYV0U2dEFLR0NqR0FXQlllS1hUZ1pfU0w0TXZUbnZPNi1PbHNFOEhuREFwcWdYRlFSbms1OFF2VnZVd1cybENDdjNZRU04emFnZEs4aWxET3B3SkFKMFNBT1JGQm8yZW1RTHpCb001bGp1TGgwbGh2RUc4NmJITEY5?oc=5",
+    "title": "GTA 6 timeline, 13 years of waiting from GTA V to November 19",
+    "publisher": "Pasquale Pillitteri",
+    "publishedAt": "2026-11-10T16:57:54.000Z",
+    "discoveredAt": "2026-11-13T14:13:16.960Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-394154bb79",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWFJQS2MzNzNjNXVCM2w4SXRBLU5JWTdOYmx2RXc0YVZLU0NUMm95N0pPUW82VC1QVGhuQld1SFVNdjVrYV82cDRueDB3d0RocDFpNnBEUDNNbDY0OFBFZ1pWa2ZFbzQ5UDJaZy13SEE4STB5UlVPamFRNlk5UWw0VW5VQmxlWDlObXhkQnV3eVRsaEU?oc=5",
+    "title": "GTA VI Collector’s Box Map Leaks Online After Early Sale at Selfridges",
+    "publisher": "JournalArta",
+    "publishedAt": "2026-11-13T05:49:53.000Z",
+    "discoveredAt": "2026-11-13T14:13:16.960Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-3f18c5cedf",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af71b002734447bb201708584179b5e&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fgta-6-live-full-map-leaked-online-ahead-of-release%2far-AA2hlfZm&c=958286961954577806&mkt=en-us",
+    "title": "GTA 6 live: Full map leaked online ahead of release",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-13T00:47:17.000Z",
+    "discoveredAt": "2026-11-13T14:13:16.960Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
