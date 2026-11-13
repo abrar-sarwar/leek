@@ -13750,5 +13750,77 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-161f906ba3",
+    "title": "One week from launch, GTA 6's physical map reportedly leaks online thanks to the £350 collector's edition on show in a UK department store",
+    "reportedAt": "2026-11-13T15:13:40.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fX1luZG9CVUJHSUxpSUFSc3gySEdGUkY4Y1BoaXRabFNUdXluVmtueEdDZVQ4X2habXBTQlRpOTBhVVBrZnFsS2dnUWZ5azN3U3ZZWEk4T0cySndHb1ZGNU1xUkY5Qm9LdVpjX05ZQ0FZSkQw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-e2b2147d8b",
+    "title": "GTA 6 map accidentally leaks days before historic release",
+    "reportedAt": "2026-11-13T16:04:21.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaVM5S0xLaF9SeHRfQTNPMWlFRjZWVXNpXy1TMTlqTU10ZkxXWk8tR1NZZXpiTVBYX1g5ekl4cVJrLTdhU2RlUWU4cUlBdFpWcnNSd05XbGdUbm56MGlZdG1rdFVtaTFla0dEVWRGNGpmcWFqOHdsLWVwdmJSQjU0N01fdXZNVHM0YlBUdGRMX2R6QmZwX0Q1UDJJZUx6bTR3?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-242ed823a5",
+    "title": "GTA 6 Map Images Seemingly Leak via Retail Display at Selfridges in London",
+    "reportedAt": "2026-11-13T17:22:14.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdUU3QVVoeGtTLU1iajAyU05CQlRDYlM0d1JwMDd1b29HOXM5b0VqcGdhVTV3TElMRERCOHl6amlwQVY0aTg3UmJCMHV3QWpDdlA4NmJONzJaMGNWN21XZkdFYllmdXhLYldDdl9nTnBwZ1BCUXV4bVY5VFc1VWZIYnpwTFpVWFJranlWdWdzMA?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-e751fa3247",
+    "title": "GTA VI Map Seemingly Leaks at UK Retailer",
+    "reportedAt": "2026-11-13T07:30:38.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiekFVX3lxTE5DeHIybW1ray1lNW9DVmw5cUtvLXdVcUJwdnhIWXNwQ2ZEVzZNdWxqaU1TclQteXBQNTZxWXVGcEpINU5YVG8yZW4za0trNGsxTEFWMVc4MWFLMmFJc1JtTzQ4THo2bXVRUHhQMTNvUkV3Si05QndncTNB?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-c9f51276c4",
+    "title": "Adin Ross Loses It Over Missing GTA 6 Disc, Then Appears To Leak His Game Code On Stream",
+    "reportedAt": "2026-11-13T14:48:55.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRkJiR0tMNzRycnRBSXZ2X1F1elZvZmZ1N2I5QmdyWEhheERBaVhfLXNZeFF3NUc2cWRpOTJoNVdpMTFGVHdjWFVSejZBTkJTdURoZDlQaEdhVXY5UUxYbVlXSl9nbjJhUUxQbWRfRFg2dlU0WHd3T1ZLOU1hWHdjYm5uc29IdHBsdm04OVFtS1I1MGt4TGNXOTJDZklHWE40aGQ1Q2tWSFFZS0xESndSQ1ZIVEs5dGVjN2JPR2pCR084YmVVcVp4SVEzak5LOS03d1E?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-932be6b582",
+    "title": "GTA 6 Collector's Box physical map leaks ahead of launch",
+    "reportedAt": "2026-11-13T07:38:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iaGJnQXEyTXlfM19QOUhURU1CUTM4cDNoTzRuV05mcTcweTR2X1ByODBfWFBxbEJXSVFZS2NZbVBNeklBbGlOVDlzVEhPY1hqQTNNRVZEckEzYUdFRTd1NTd6TGFwS1VZcFdRb0V0LTg1STZESVE?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

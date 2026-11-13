@@ -44680,5 +44680,215 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-bdd9868894",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdjhOenI1Y1FoWDZpR01QRC1jMjVVemFTd2xmM0xqVlBQOVpvd3FzaTJfMzE0ekZaOExQejRxLUNRajlmcGZncVp0cXFuYnVZdHE1OG9LbENnRXdWdERtYW55M3NQaUdNOWthUi04MnRaSnBxblJkRmN0Z0ZqUEIwOGVDYl9Ka1o2RVRDTHF3?oc=5",
+    "title": "GTA VI isn’t out yet – and the scams are already out in full forc",
+    "publisher": "WeLiveSecurity",
+    "publishedAt": "2026-11-13T10:38:18.000Z",
+    "discoveredAt": "2026-11-13T23:23:31.903Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-161f906ba3",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fX1luZG9CVUJHSUxpSUFSc3gySEdGUkY4Y1BoaXRabFNUdXluVmtueEdDZVQ4X2habXBTQlRpOTBhVVBrZnFsS2dnUWZ5azN3U3ZZWEk4T0cySndHb1ZGNU1xUkY5Qm9LdVpjX05ZQ0FZSkQw?oc=5",
+    "title": "One week from launch, GTA 6's physical map reportedly leaks online thanks to the £350 collector's edition on show in a UK department store",
+    "publisher": "Eurogamer.net",
+    "publishedAt": "2026-11-13T15:13:40.000Z",
+    "discoveredAt": "2026-11-13T23:23:31.903Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-6672f3b6b5",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNm5KR3FrSVFYRkNCc3FxdE85djFNNUxYVTQtMWZucmNjWWcya2ZFQmM2aXpXNG1EbG1RNHhJTFpUYmUtZ21mZm9GZWE1SURpNGs2Vnl1T2dvQXBKS3FvQXh6MFBLSmNlS1NPejRZd1A0VXhCbWdDQTJ3SmRlcndXOC0wbTZETzBmQUUxWlhMaFRHM1AzMHBRZ0drWTZXWjA?oc=5",
+    "title": "GTA 6 Review Embargo: Verdicts Reportedly Due Nov. 18",
+    "publisher": "25YearsLaterSite.com",
+    "publishedAt": "2026-11-12T16:31:09.000Z",
+    "discoveredAt": "2026-11-13T23:23:31.903Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-e2b2147d8b",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaVM5S0xLaF9SeHRfQTNPMWlFRjZWVXNpXy1TMTlqTU10ZkxXWk8tR1NZZXpiTVBYX1g5ekl4cVJrLTdhU2RlUWU4cUlBdFpWcnNSd05XbGdUbm56MGlZdG1rdFVtaTFla0dEVWRGNGpmcWFqOHdsLWVwdmJSQjU0N01fdXZNVHM0YlBUdGRMX2R6QmZwX0Q1UDJJZUx6bTR3?oc=5",
+    "title": "GTA 6 map accidentally leaks days before historic release",
+    "publisher": "UNILAD Tech",
+    "publishedAt": "2026-11-13T16:04:21.000Z",
+    "discoveredAt": "2026-11-13T23:23:31.903Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-242ed823a5",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdUU3QVVoeGtTLU1iajAyU05CQlRDYlM0d1JwMDd1b29HOXM5b0VqcGdhVTV3TElMRERCOHl6amlwQVY0aTg3UmJCMHV3QWpDdlA4NmJONzJaMGNWN21XZkdFYllmdXhLYldDdl9nTnBwZ1BCUXV4bVY5VFc1VWZIYnpwTFpVWFJranlWdWdzMA?oc=5",
+    "title": "GTA 6 Map Images Seemingly Leak via Retail Display at Selfridges in London",
+    "publisher": "Xbox Achievements",
+    "publishedAt": "2026-11-13T17:22:14.000Z",
+    "discoveredAt": "2026-11-13T23:23:31.903Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-006"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-e751fa3247",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5DeHIybW1ray1lNW9DVmw5cUtvLXdVcUJwdnhIWXNwQ2ZEVzZNdWxqaU1TclQteXBQNTZxWXVGcEpINU5YVG8yZW4za0trNGsxTEFWMVc4MWFLMmFJc1JtTzQ4THo2bXVRUHhQMTNvUkV3Si05QndncTNB?oc=5",
+    "title": "GTA VI Map Seemingly Leaks at UK Retailer",
+    "publisher": "GLITCHED",
+    "publishedAt": "2026-11-13T07:30:38.000Z",
+    "discoveredAt": "2026-11-13T23:23:31.903Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-0910e909e1",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUUlDTDhYay1pV0xmNHBfNmR0M0pTUzdhRHB6eVI3YWY4Q2JkaGFqUi1IaWVoTnBzTk1KQlU0SWt5SjZSNms2X1hnSzBRclNtMHBiUFRlcVdPQ3pmM0lESThQWVk3U01DTHROMkt4VUZLR0tTZ0N5UTlWM3dNUldYbGpzcklkNWJPU2VNRG9OQUhfb2ozYlllVS1jbzZmR1BfWWljd3ZqVVBBWTR0TEtkd3JmRzk?oc=5",
+    "title": "GTA VI: How the Hype and Launch Windows Compare to Vice City and GTA V",
+    "publisher": "KeenGamer",
+    "publishedAt": "2026-11-13T21:13:41.000Z",
+    "discoveredAt": "2026-11-13T23:23:31.903Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-7a4e49d72e",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNM2VwNkxBZVpNVV9OTmxUUWx2YmdneWtURlhyN29GdzBiVWRfYUxFalJfQ0Nxc0FHZi1iYkZNQkJMYmdMa0ZKRkdNYkFTNEluSTlWR0J0a1Z1Z1BkZW1zU0xGOV9WQlRXU1BnWTVXZzdsU25PazdPa2lTUVRtemJPNURkbzZHcm9GaDA4aFZ1Z0hEYkt6blpvblg2NjFhel9jRTI3V3pLOC02TW91RVVfVkNR?oc=5",
+    "title": "Rockstar Games to Vote on Formal Union Recognition During GTA 6’s Launch",
+    "publisher": "KeenGamer",
+    "publishedAt": "2026-11-13T22:00:19.000Z",
+    "discoveredAt": "2026-11-13T23:23:31.903Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-a5d5127b33",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbXhXVFU4MTZ6Z1ducElHa1J3aGc1R1ZRNHBsdDVWTDlDQXZ2Q21QcG1FRmVxRTlnUjh2dFU3WFJMSkY1S0NyN1NJWXF5MUI4QnVSTnAtbWFxTy1PTUZ2M0NDdTVOU3QxZ3hPdzZiMVJlYXMwRGFxaWZ6N0tEcW8wb184UQ?oc=5",
+    "title": "GTA 6 Cartoon Unveiled: Macca & Friends",
+    "publisher": "KeenGamer",
+    "publishedAt": "2026-11-13T20:01:54.000Z",
+    "discoveredAt": "2026-11-13T23:23:31.903Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-c9f51276c4",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRkJiR0tMNzRycnRBSXZ2X1F1elZvZmZ1N2I5QmdyWEhheERBaVhfLXNZeFF3NUc2cWRpOTJoNVdpMTFGVHdjWFVSejZBTkJTdURoZDlQaEdhVXY5UUxYbVlXSl9nbjJhUUxQbWRfRFg2dlU0WHd3T1ZLOU1hWHdjYm5uc29IdHBsdm04OVFtS1I1MGt4TGNXOTJDZklHWE40aGQ1Q2tWSFFZS0xESndSQ1ZIVEs5dGVjN2JPR2pCR084YmVVcVp4SVEzak5LOS03d1E?oc=5",
+    "title": "Adin Ross Loses It Over Missing GTA 6 Disc, Then Appears To Leak His Game Code On Stream",
+    "publisher": "NDTV Sports",
+    "publishedAt": "2026-11-13T14:48:55.000Z",
+    "discoveredAt": "2026-11-13T23:23:31.903Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-028"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-932be6b582",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iaGJnQXEyTXlfM19QOUhURU1CUTM4cDNoTzRuV05mcTcweTR2X1ByODBfWFBxbEJXSVFZS2NZbVBNeklBbGlOVDlzVEhPY1hqQTNNRVZEckEzYUdFRTd1NTd6TGFwS1VZcFdRb0V0LTg1STZESVE?oc=5",
+    "title": "GTA 6 Collector's Box physical map leaks ahead of launch",
+    "publisher": "Khel Now",
+    "publishedAt": "2026-11-13T07:38:00.000Z",
+    "discoveredAt": "2026-11-13T23:23:31.903Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
