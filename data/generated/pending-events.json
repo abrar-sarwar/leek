@@ -13846,5 +13846,65 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-86a6e2e692",
+    "title": "GTA 6 Map Leak Names 9 Places, Sequel Tease Unverified",
+    "reportedAt": "2026-11-14T12:54:24.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWUlqblMtRXlWbGoyS3dyeGR1enRhbkVuWURYXzQxSEx4R1Y3SHJsWndBSXNCNHFkUWlBM2VkRXpfM0Vab29xa3J5NkdDZ0pFVWMwVndjQk5JTUREajRqT09YRzFJbmdlUUV2QVZkdnROYmFMclpZWlFXM1hIbUgzQ09ucGt1S2hWTEdYWQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-f2143ce21b",
+    "title": "GTA VI map leaks from a Collector's Box at Selfridges in Manchester, days before launch",
+    "reportedAt": "2026-11-14T07:29:01.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcWFaaUlvNVFtODBqOUhKVFM3N20tc3BxUVdzLVZ3VTZDbUhwSUtNWlhGX1pjMFFUQ3dkTGpPUk9kTGxqNHowY2pnZDA4aVgwM2hTekktMDJOaHY1Ynp1U1dJZTNBUTNfeTBoVzZIMDNhdTlURm1xVG92ZXlxTS1UOUR3REk0MkJWanhUNF9LNmFqM0xoS2Eyaks2YXdSbzh5ckpiVDlHQVdFV2s0OFdpa3Npb0NwcUFp?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-1fc39420b2",
+    "title": "Full GTA VI The Album Track List Leaked",
+    "reportedAt": "2026-11-14T08:49:43.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoTUpsSDRyTm5GaWVCMVRmTHQzckQ1OHdYNVN5XzJIaFlBbzdxRzV4X3hkdWY1cWdlWUJOenBKUmc5ejJfRFdJdmxScEZDM2JpcjY0MGpoVFpRRXBUb1hnTWQ1dzRJMVlYREpNdERVQVI0M2Rn?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-a0bb59a4d8",
+    "title": "GTA 6 Map Leak: £350 Edition, 1 Week Before Launch",
+    "reportedAt": "2026-11-14T06:13:21.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRWFLdy12eHpYXy1iZzFiQU10cFlLSVFBWmVnYmVSM0lQeXp5MGcyREFWQkRtYl9tb0k2aVk4NFhibHFYbXlPWFlleEFCa19zcEFjc2cyeFZoLVpHYzAta0k5Z1BJTFBhanMyTEk0TjhQSlFUVHpKdFF5aE4xQkhjYjNwNDBHS09GM29F?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-612dd5923e",
+    "title": "GTA 6 Map Reportedly Leaked From Collector’s Edition, Revealing New Leonida Locations",
+    "reportedAt": "2026-11-12T18:11:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LSHBVUFJYeWlwb2lSbzJpX3RzakJJSExkWmNwSkZRSGZ6MGpOYmFCczBFYjF3MHVuV3gyNUx1UnQtQjhjWTNTV2kxMVpfYmFRX1d3UmlFbnVpTEVGRjRzOXhEU2h3OXA5VlJuMTVnMVUybG9veS1jNQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

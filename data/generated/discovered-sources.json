@@ -44986,5 +44986,218 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-86a6e2e692",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWUlqblMtRXlWbGoyS3dyeGR1enRhbkVuWURYXzQxSEx4R1Y3SHJsWndBSXNCNHFkUWlBM2VkRXpfM0Vab29xa3J5NkdDZ0pFVWMwVndjQk5JTUREajRqT09YRzFJbmdlUUV2QVZkdnROYmFMclpZWlFXM1hIbUgzQ09ucGt1S2hWTEdYWQ?oc=5",
+    "title": "GTA 6 Map Leak Names 9 Places, Sequel Tease Unverified",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-11-14T12:54:24.000Z",
+    "discoveredAt": "2026-11-14T13:12:02.646Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-f2143ce21b",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcWFaaUlvNVFtODBqOUhKVFM3N20tc3BxUVdzLVZ3VTZDbUhwSUtNWlhGX1pjMFFUQ3dkTGpPUk9kTGxqNHowY2pnZDA4aVgwM2hTekktMDJOaHY1Ynp1U1dJZTNBUTNfeTBoVzZIMDNhdTlURm1xVG92ZXlxTS1UOUR3REk0MkJWanhUNF9LNmFqM0xoS2Eyaks2YXdSbzh5ckpiVDlHQVdFV2s0OFdpa3Npb0NwcUFp?oc=5",
+    "title": "GTA VI map leaks from a Collector's Box at Selfridges in Manchester, days before launch",
+    "publisher": "Nacionale",
+    "publishedAt": "2026-11-14T07:29:01.000Z",
+    "discoveredAt": "2026-11-14T13:12:02.646Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-07a0988c81",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSXFfeWZEOVF2dXhkUVVLeFZjeUV1c28yUl9PY3NqOGU3RGpPZVp1UFQzcTdxMEM4ZjZsM01GQ0hwZWZIVjUtcl9zS0lUQzdBWDI3QlZET0ktRXVIeVVvNUxzaUx2Mlc4VmhHX0RwQ2doN2t3T25wUVJ2TWhMWW5LdVVXM08?oc=5",
+    "title": "First Look at GTA VI’s In-Game TV Show ‘Macca & Friends’",
+    "publisher": "RockstarINTEL",
+    "publishedAt": "2026-11-14T09:05:23.000Z",
+    "discoveredAt": "2026-11-14T13:12:02.646Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-85545308fc",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcXg0WkJUTEMybVpDdTl2c1VWVFEyVXdMX1o0Y2F2aExhSTE0eHBGUEFnVW9XOVg0MmZnTVV3dTdOR2xKbzZTX3J6OGdvR0JDM0FDSDM3QXhUeU1kOGtpWVRRcU5HcVBBYUktOEtVai1PaGdCem8yRTRDbGN5N2hDUVY4NXdpQ3hWRkcwLS1WcDFvTThNMFE?oc=5",
+    "title": "GTA VI Physical Copy Code: 1 Flashlight Claim, 0 Replies",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-11-14T11:32:52.000Z",
+    "discoveredAt": "2026-11-14T13:12:02.646Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-1fc39420b2",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoTUpsSDRyTm5GaWVCMVRmTHQzckQ1OHdYNVN5XzJIaFlBbzdxRzV4X3hkdWY1cWdlWUJOenBKUmc5ejJfRFdJdmxScEZDM2JpcjY0MGpoVFpRRXBUb1hnTWQ1dzRJMVlYREpNdERVQVI0M2Rn?oc=5",
+    "title": "Full GTA VI The Album Track List Leaked",
+    "publisher": "RockstarINTEL",
+    "publishedAt": "2026-11-14T08:49:43.000Z",
+    "discoveredAt": "2026-11-14T13:12:02.646Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-a0bb59a4d8",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRWFLdy12eHpYXy1iZzFiQU10cFlLSVFBWmVnYmVSM0lQeXp5MGcyREFWQkRtYl9tb0k2aVk4NFhibHFYbXlPWFlleEFCa19zcEFjc2cyeFZoLVpHYzAta0k5Z1BJTFBhanMyTEk0TjhQSlFUVHpKdFF5aE4xQkhjYjNwNDBHS09GM29F?oc=5",
+    "title": "GTA 6 Map Leak: £350 Edition, 1 Week Before Launch",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-11-14T06:13:21.000Z",
+    "discoveredAt": "2026-11-14T13:12:02.646Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-8a7ff45cfc",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWjdmdmhfQW5panBraVVvRElwY2JjTlF5RE9Jb1QzaGwxWFpyS0s5Z0lYanl2VDgyUExDZU9Kb2x5aHZ2MUFRdVJjdHZ5TzRHSjd4Rm00N09qUzFmbzdpRDdYOE8xbV8wRVdVbTc2c3c5bGJmVjhqUWVBQnNaaDRUUTlRcmRWcGVIZWxlekp3?oc=5",
+    "title": "New GTA VI Update Released And Here’s What You Need To Know",
+    "publisher": "RockstarINTEL",
+    "publishedAt": "2026-11-13T14:17:21.000Z",
+    "discoveredAt": "2026-11-14T13:12:02.646Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-7eed213b9e",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMWFqcGN1TmZaSkJianBjMUtNQ09tTFV0dkQtN1V0T013U3BLQ2JnX1NXdlpjd2ZRVFd5S0dUUHZLLXRyeC00S0h6QmZFTDYtU3hnQWNYY1hBNGdRNWJZaUFFNlN3bWEzQWpqNU0xX2hBQWlhalBwbjBVR3FidWpqa0IySWJCVGN3YXBV?oc=5",
+    "title": "GTA Online Event Week: Last One Before GTA 6 (November 12th-18th)",
+    "publisher": "RockstarINTEL",
+    "publishedAt": "2026-11-11T23:21:10.000Z",
+    "discoveredAt": "2026-11-14T13:12:02.646Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-612dd5923e",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LSHBVUFJYeWlwb2lSbzJpX3RzakJJSExkWmNwSkZRSGZ6MGpOYmFCczBFYjF3MHVuV3gyNUx1UnQtQjhjWTNTV2kxMVpfYmFRX1d3UmlFbnVpTEVGRjRzOXhEU2h3OXA5VlJuMTVnMVUybG9veS1jNQ?oc=5",
+    "title": "GTA 6 Map Reportedly Leaked From Collector’s Edition, Revealing New Leonida Locations",
+    "publisher": "Shane the Gamer",
+    "publishedAt": "2026-11-12T18:11:00.000Z",
+    "discoveredAt": "2026-11-14T13:12:02.646Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-fe91cd5a77",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORm1Ecm1zamFNTFVPNTdzM1NWYnY4WDhhY3hXQ2FpOHcya192R3Nwd1JBMXhkVWpvQVNsU2lKZG9YM2ZBcTFrZnlXeXdjZnNPeVk4TXc3aHFIeU0tNzNPdC11eHdwS25lRVo3ZVdqMlhzMmlPNnRsdkJ4eXNWVC1oOExSejJfVk9OaFlfNThFQ2QwemtVRkFqbzFnRHhFeVB0Mm54NA?oc=5",
+    "title": "Rockstar confirms GTA 6 at 30 FPS, ray-traced shadows only on PS5 Pro",
+    "publisher": "Pasquale Pillitteri",
+    "publishedAt": "2026-11-10T08:00:00.000Z",
+    "discoveredAt": "2026-11-14T13:12:02.646Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-b6993ab704",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWmFSQktlV2J4Y1VvQjF6bG9ZVjI4TlNLaDA1Wk9XNjVLRUlfQXQtRjZsYXlLamd6ZHRDMHhSYkxnZzJ3VHJrR0doVkFVQUJDTkhERDFIcTR2eVhCMU9odDJGZXgwYnRsN29qcUVkc2NDbEs0NWtOR19fR0NLbHk4aA?oc=5",
+    "title": "GTA 6 Macca and Friends: In-Game Weazel Show Nov. 19",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-11-14T07:33:22.000Z",
+    "discoveredAt": "2026-11-14T13:12:02.646Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

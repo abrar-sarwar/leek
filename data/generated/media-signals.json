@@ -6254,5 +6254,21 @@
     "domains": [
       "news.google.com"
     ]
+  },
+  {
+    "date": "2026-11-14",
+    "feed": "google-news:GTA VI leak",
+    "count": 10,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-11-14",
+    "feed": "google-news:GTA 6 leak",
+    "count": 1,
+    "domains": [
+      "news.google.com"
+    ]
   }
 ]
