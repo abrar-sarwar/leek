@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-11-14T22:07:32.072Z",
+  "ranAt": "2026-11-15T05:32:48.302Z",
   "feeds": [
     {
       "name": "google-news:CyberLeek",
@@ -34,7 +34,7 @@
     {
       "name": "google-news:CyberLeek Microsoft",
       "ok": true,
-      "items": 16
+      "items": 17
     },
     {
       "name": "google-news:CyberLeek Discord",
@@ -94,8 +94,8 @@
       "error": "HTTP 401"
     }
   ],
-  "discovered": 2163,
-  "newSinceLastRun": 21,
-  "pending": 1172,
+  "discovered": 2177,
+  "newSinceLastRun": 14,
+  "pending": 1182,
   "analysisMode": "rules-only"
 }

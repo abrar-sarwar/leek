@@ -45606,5 +45606,276 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-b6af2629dd",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRmhUS0s1LThsaFlfbUN5Y09HMXpfMHdlRWtHNzN0R25XeHgzUFdHY2o5WlFvLUNxN3FlbjlTZF9Eb2xmQks5UEJqUGtHZFBiNkJNNXVLdUMyQzlVX291WHdCeGNLUWlnSFp0ejlvb01qdTJRWTFMOVlqZHhuV2V4cUJFNDFSa1NuaFFkbmpFVmlVbENnLTNF?oc=5",
+    "title": "GTA 6 Track List Leak Reveals Contributions From Dua Lipa, Lana Del Rey, Zara Larsson, and More",
+    "publisher": "IGN",
+    "publishedAt": "2026-11-15T01:14:00.000Z",
+    "discoveredAt": "2026-11-15T05:32:48.302Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-062fab0775",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQV3dHR1kyV2VqaFpHSndydE1sbXpuX1BoU1pFU0o4UEhQTkNacVVvd09NWGJ2U1FLeTBhZUFQTFFXTTQ3YUFaY2tnUUxmVmxtdXR6ZDhGMUdjS29Fb2pvbWtZc2JSc2I5U2hHbnh0X0s5WVlxRWhreDdoN1hEdkktYXl2QjdmQ3RMTTFWeWRmTjNRVUdkWktkOFcyaVhDQWc5M1VXeXd1OVU1UnRCYzhMbUc4bkZpbVFvbUxFWk5sYU12NVZ6dWpFc3lkckFUODhuZHhONkZCNXdCVDMxR2JmZkIxRHFZbDhpcjBaRUxkWEEwR21IMEpR0gH8AUFVX3lxTFBOM00wSHpEeVZCemp3LVRWNzkyOVRZLXNXRG1QT01JZzVRWndGSmEta0dFNkdEZlA5ejZqaVFBcGVDZ1pLSC1PTk5qNmw5cTNKNktFMm1rX0x4M2FrUXZSY0FtSGdrR2tKRVZScTBoR0hVUVVZd3FOSHlvVmNVX0ZQbHpZUjM4eXJCdU1WMUlmaVRjWDd4aEZ0VjU4QkgxeTZQWk4wUjExSXduVFFRR1pjUU1FcmU1NjNUSjRkMGZHWFRCYW5HNGMxY1JVZVJIalU5RzlNUkRzMnpXc1dnT0FiQTB2eHVnZDNpU0dsaTBBTG1vLU92bkQwT2xiZQ?oc=5",
+    "title": "Grand Theft Auto VI: The Album Tracklist Reportedly Leaked Featuring New Music From Dua Lipa, Lana Del Rey,...",
+    "publisher": "mxdwn Music",
+    "publishedAt": "2026-11-14T23:18:27.000Z",
+    "discoveredAt": "2026-11-15T05:32:48.302Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-9396dbae5a",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOY2lOUDNiU1M4d3NYdkdoVHdNaVQ1ZDJKRTBlU2tiellrSE9fa19XU3FNdEdHb1l0Q3Y1MHhySmxBNW93SnhoeGhRNFpzc0htaXFQLVdPakx4Y0NDUGFKREdjQ2dhYkZTU2lkZnlFS0w?oc=5",
+    "title": "'Grand Theft Auto VI' Leaked Soundtrack Confirmed Real, Feat. Travis Scott, Playboi Carti, and Mire",
+    "publisher": "Complex",
+    "publishedAt": "2026-11-15T03:01:40.000Z",
+    "discoveredAt": "2026-11-15T05:32:48.302Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-8bbea2f60f",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LRDNhMGZaZHdvVTdza2ZROXRTVFpGTV9LVTN2SWloNURYWl9OOEdsY0JEV09WUlpEOTRscUhOc0JDX0pCRXFXVDdDNlpRUmFUQ0poYWZOd3huNlBMOUpCR3pDQTdCT2dyV1BCZlFiaWdmR0YtLWxtTw?oc=5",
+    "title": "GTA 6 Soundtrack: All Artists, Songs, and Radio Stations",
+    "publisher": "Mobalytics",
+    "publishedAt": "2026-11-15T01:53:36.000Z",
+    "discoveredAt": "2026-11-15T05:32:48.302Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-aa0080d460",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNektzT0V4b0tNUTZiR1BxTzFpbnVnczQ5SGVFTG4yQlJ4cWZBMzZDMlhhX09FSTRXQjh5SFppN0hmYnlyQk9qX0hWSUF3cWo0RW5lc19YZmJDdW9NakNzR1V4eERxRFpVbko2S19NemFYYkNkY2xLTGVUNTNFZ2RBX1VtSEJVaTlrWENZTUF0dUh1cy1ZOVRRTEgxejE4aXl2a1lpS1ExUmZhd2Q4YmJTRlk4SGNYQy1RWFAxN2loMU00d1lhSUtjaHFjLUdPcC1mOUliUkgzSjJhcy1o?oc=5",
+    "title": "Lana Del Rey, Dua Lipa, Justice x Michael McDonald, & More Appear On Leaked 'GTA 6' Soundtrack Tracklist",
+    "publisher": "Stereogum",
+    "publishedAt": "2026-11-15T02:26:00.000Z",
+    "discoveredAt": "2026-11-15T05:32:48.302Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-e45345aa74",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcksxaS1pdEF2b180NktTeXExdUd3eVZMcS0ySDBfMHZ4YndhcDNWS0NTNFhsdXUyMzlYTUtCcDNiT3Ywd2cteWtmemZxeWk1U1NOdjRSNWtTS1pIeTBjTWtvcmF0bjhuNk0yajJjSUZyZ0F4Y2hEWmRmM2l0ZDlnaEFJSVZQeFFmMXpwSVJCMA?oc=5",
+    "title": "Fake GTA 6 Downloads Hide Vidar Malware, ESET Warns",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-11-14T22:30:14.000Z",
+    "discoveredAt": "2026-11-15T05:32:48.302Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-004"
+      ],
+      "category": "misinformation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-90a288d437",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbTQwTjdZOWJXdXZENnhNOGVqVnpSQld5c2JRMGNXSjVSdHA3MDliWmFMRVRpb3JkN1B1UU01WlhjaUZ0cnM3RWJnXzRSYUhQLUlUdWtxLWhvLWNKVVZ1YzluRFF6b2ZGNTBpelFITFU2dXNEVEZ0X3Exc3NIRkJDMzBkdVpaa0xGSEhIcnB4ck1ZNE5iV3k4ZDU3SnVGM21LbUJxSzBsb3h1ZDFsZzdnckMwYUozUm5FdEFBeTFOVmZWWC16aHhtWmszakpYSVpZSlo3QnVoM2NpVzQwRGlTYmpQd29sSzVKWHc?oc=5",
+    "title": "GTA 6 soundtrack leak confirmed accurate with new songs from Lana Del Rey, Playboi Carti, and Keith Richards",
+    "publisher": "PC Gamer",
+    "publishedAt": "2026-11-15T04:55:25.000Z",
+    "discoveredAt": "2026-11-15T05:32:48.302Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-5e09459c3a",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNjRPNm9yQTF3dGdWRUlFV1hSVnpraVhJbjE3WXN6MG94ZXJkWmZyZzJxTkRGQ2JFalBlWFVVV3h4XzdXLU9DZVY1aVFTLUMzSzh0LTNpbnZWNDRCa3N2MG5UdURjU1hIaEFEZWhISDNjUjdUSmpYaXJSam9RTFVDVFh2YWtVSFpIOGFGR3ZTTVJrRm9N?oc=5",
+    "title": "'Grand Theft Auto 6' Album Tracklist Leaks; Lana Del Rey, Michael McDonald Contribute New Music",
+    "publisher": "Parade Magazine",
+    "publishedAt": "2026-11-15T02:10:00.000Z",
+    "discoveredAt": "2026-11-15T05:32:48.302Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-4a8f183a62",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcEt6RC1icW1GaldGY01BejNxM1liWVdGUzZrMGVicm1MYWFBa1ZhaThvck1kSEc3TVZ5ai1JdkZyYUtiV2NIRWpja3R0RnVRLU4xVUJvVmtmVEl0S2N0Ykt2OGR5MnJjaEQ2OEF1ZjVZNm54eGxpakJkWW9NbUdkN1lpYkZXVHNOZlU3ejN4RHUzWWxlYXFaRHFidnZuUmNBWU9jTDlkWG95Sy0yOUUwd1lSZVlCb1ZtTWpzQ09iOVF4S1V4OUN0MkFaQVN4WlRBVjBB?oc=5",
+    "title": "GTA 6 Will Do Something the Franchise Has Never Done Before: Encourage Empathy",
+    "publisher": "IGN Pakistan",
+    "publishedAt": "2026-11-14T17:34:51.000Z",
+    "discoveredAt": "2026-11-15T05:32:48.302Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-4e5b6a72c5",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af94403ca534aec81455e81c1ab4731&url=https%3a%2f%2fgameranx.com%2fupdates%2fid%2f563806%2farticle%2fstop-the-hate-cyberleek-looks-for-support-from-gta-6-community-and-calls-for-protests%2f&c=16597880024307906846&mkt=en-us",
+    "title": "“Stop The Hate” – Cyberleek Looks For Support From GTA 6 Community And Calls For Protests",
+    "publisher": "bing.com",
+    "publishedAt": "2026-08-25T04:07:00.000Z",
+    "discoveredAt": "2026-11-15T05:32:48.302Z",
+    "feed": "bing-news",
+    "query": "CyberLeek",
+    "suggestedTier": 11,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-012"
+    }
+  },
+  {
+    "id": "DISC-63c78825d0",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af94404b3014319bc6ba125c59b9758&url=https%3a%2f%2fwww.ign.com%2farticles%2fgta-6-leak-seemingly-reveals-full-track-list-days-before-launch&c=5800615101296924372&mkt=en-us",
+    "title": "GTA 6 Leak Seemingly Reveals Full Track List Days Before Launch",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-14T15:00:00.000Z",
+    "discoveredAt": "2026-11-15T05:32:48.302Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-ef740c2ce3",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af94404b3014319bc6ba125c59b9758&url=https%3a%2f%2ftech.yahoo.com%2fgaming%2farticles%2fgrand-theft-auto-6-album-021015227.html&c=17949192371535405474&mkt=en-us",
+    "title": "'Grand Theft Auto 6' Album Tracklist Leaks; Lana Del Rey, Michael McDonald Contribute New Songs",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-14T16:00:00.000Z",
+    "discoveredAt": "2026-11-15T05:32:48.302Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-70514800fb",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af94404b3014319bc6ba125c59b9758&url=https%3a%2f%2fwww.yahoo.com%2fentertainment%2fmusic%2fnew-albums%2farticles%2fgta-6-album-seemingly-leaks-174721707.html&c=7294999109793646022&mkt=en-us",
+    "title": "GTA 6: The Album seemingly leaks with Dua Lipa and Lana Del Rey as part of the 34-song tracklist",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-14T09:47:00.000Z",
+    "discoveredAt": "2026-11-15T05:32:48.302Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-6ba8f45bb6",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af944041c6241428be88e1f932114e7&url=https%3a%2f%2fwww.keengamer.com%2farticles%2fnews%2fgta-6-full-album-tracklist-leaks-revealing-all-34-songs-and-artists%2f&c=9285785642378939891&mkt=en-us",
+    "title": "GTA 6 Full Album Tracklist Leaks, Revealing All 34 Songs and Artists",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-13T16:00:00.000Z",
+    "discoveredAt": "2026-11-15T05:32:48.302Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
