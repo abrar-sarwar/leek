@@ -45877,5 +45877,177 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-a6016a5c3a",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOODdSakp5S2lFcldWWWV6WDNmV0JQa05Ta3FFRkhKRmYwWUNLVEVRMTBqd3lWSEc3QVc0OERabkhKOUVYZkhSYXA0WGlIcGtMNk9MNU96d0JiUm9zenZxa1VkZGVLUzloLVg4M1loN0oxM2lIRUhudTBtZTZ4UXBXeE5IQlFSUFBmdk1jaFpYeXlxaC1OalJWZlZZSXh3RUtRWjdMeHpKaVcwTnZuaEgxV3h5SVJSYUtnUFNnQ2VGNHN2RTc2X0pJTHdWVGc3ZGZieTFV?oc=5",
+    "title": "Full GTA 6 album tracklist leaks with Dua Lipa, Playboi Carti and Lana Del Rey among 34 songs",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-11-15T06:36:00.000Z",
+    "discoveredAt": "2026-11-15T13:40:40.075Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-d817b00670",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeV9MU3ZNaXNVbFVWQjctLUdGX252U3dkUVpTSV9XZ2RGY2JvTjV0RjhRMWUwUWdUM2N3a04tMFJremZsd05xVHV5SmIxZk9oNjJ5SkU1UmRwOUtHbEdVQlF0SWRFX1JuUW5WRUpuYk1uNmh1eU1GZ0NjcV82SDdZVENzLVFpRkQ0ampMTFEzMlo4clFuUzVWU01jUHdqdzFCUVRqU1Z0VjBUZkRYN2pFZ1R1Q1BaQjFGVjhR?oc=5",
+    "title": "Some physical GTA 6 boxes are missing codes, with Rockstar refusing to help",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-11-14T04:11:00.000Z",
+    "discoveredAt": "2026-11-15T13:40:40.075Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-f253dd51a7",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbmd1RUQzZ2FBWS1CZ0R2VzhpdW0zUlpmZmlLQ1FVNmo5OV9IdFVTSXBEc1hfeTRXejc5SmU0akltZW44eHR2RU5hN3FuU2gwQ3JCeUFST21Jcjk0LVVtd0VaZkowM1BaQ0ZxckxzVXV0OElDUEdoQnVSWDE2a0NvWjVtRDZ5czBNak9YUA?oc=5",
+    "title": "GTA 6 Album: Dua Lipa, Lana Del Rey Among 34 Songs",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-11-13T09:56:17.000Z",
+    "discoveredAt": "2026-11-15T13:40:40.075Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-97fb6b3aed",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeDNMSXNyclc1R2dGUXdhQld1WS1iNVYyTm05Yl9tQnZCQXlEYlFlTXVXLWNEVGFtcnZhZnJNeEhKbkxZaG50SUY5VW4zWHp5NWRhZGNMc09hc2JnYkp5dFlGMUlibUVDT2JfeUVQel9RMnJHbDZiMzBhakwwbk8xc2lYQ3NfTk9JUVN2QlJKdGFEeVZ5NlExVlhPMC1QRzFlOHhtSEtZclFnN2xfT0pMTVZnUjZJSG9lU1lfYXVXS01IUQ?oc=5",
+    "title": "GTA 6 PS5 Codes Potentially Being Stolen from Physical Copies Using Flashlight Trick",
+    "publisher": "Push Square",
+    "publishedAt": "2026-11-14T01:00:00.000Z",
+    "discoveredAt": "2026-11-15T13:40:40.075Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-e67954d13a",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdVFad1NQRjFiZkJVVUV3dkhLNTVKOFRQbUZmSjQ5Z0hRS3F5S0I2aE1XRlNPWk0yRWVnZGtvUlluUjdfajdZT1AwamE5UW42bm1CRDNRVUxtc2NxbTRvR1M2U2o3ZGVFV3VhcmJLU3FKa2ZfcDJocFFCdlk3eVNFRE9kTFFvQVdmZlphbzNRNEQtTXZRMnN5ZDdzWG13cVh3?oc=5",
+    "title": "Celebs: GTA VI soundtrack list reportedly leaked ahead of release",
+    "publisher": "Gulf Daily News (Bahrain)",
+    "publishedAt": "2026-11-15T11:55:06.000Z",
+    "discoveredAt": "2026-11-15T13:40:40.075Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-c4346866d6",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZlRyN2xMT2ZWdHl4aG5vcmh6ODlpZHdTemtfZl8ycnUteWZxYXM3c0lpSEdDVEY5dkhwblV6a0dOZ0ZudE5La0FOWUFVSXlabElMX3NOMUFhc3JfWVBLMHE1c2xnY3lCalBKVHNmVFhyZWFDbzJISFZ3QXMzSXh3ZDFvWGFaZW1nVFBKbHlJNTJMMGdiSjd4X0hRVzRKNXFDSm05Sk1rcmgxeW42eXprYi1IOHZBdm9kcmh1cmY2REVXXy1q?oc=5",
+    "title": "Some of These GTA 6 Clips Look So Good That I Don't Care if It's Running at 30fps",
+    "publisher": "IGN India",
+    "publishedAt": "2026-11-13T22:24:26.000Z",
+    "discoveredAt": "2026-11-15T13:40:40.075Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-fd8bca096e",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9b65c2bc348e7a13aaba5a55aa8c4&url=https%3a%2f%2fza.ign.com%2fgrand-theft-auto-vi%2f245556%2fgta-6-leak-seemingly-reveals-official-albums-full-track-list-days-before-launch&c=1084137671786440230&mkt=en-us",
+    "title": "GTA 6 Leak Seemingly Reveals Official Album's Full Track List Days Before Launch",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-14T15:00:00.000Z",
+    "discoveredAt": "2026-11-15T13:40:40.075Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-1ee497dfd8",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9b65c2bc348e7a13aaba5a55aa8c4&url=https%3a%2f%2fshiftdelete.net%2fen%2fgta-6-soundtrack&c=6356740715773839004&mkt=en-us",
+    "title": "GTA 6 Soundtrack Leak Adds Dua Lipa and Lana Del Rey to 34 Songs",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-15T05:14:00.000Z",
+    "discoveredAt": "2026-11-15T13:40:40.075Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-9628b2b4fe",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6af9b65c2bc348e7a13aaba5a55aa8c4&url=https%3a%2f%2fwww.msn.com%2fen-us%2fentertainment%2fcelebrities%2fgta-6-soundtrack-leak-confirmed-accurate-with-new-songs-from-lana-del-rey-and-keith-richards%2far-AA2ht9ne&c=8942904889662080028&mkt=en-us",
+    "title": "GTA 6 soundtrack leak confirmed accurate with new songs from Lana Del Rey and Keith Richards",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-14T20:52:26.000Z",
+    "discoveredAt": "2026-11-15T13:40:40.075Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
