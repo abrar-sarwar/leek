@@ -46395,5 +46395,140 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-1a60cdede6",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUl9nSV8tRVdhVUl0akxJd0xaWDVQcUF0dXNUQVFtTlo3VnBzTTJZUm0wSE1mTkQ2X09YSG1RYWxCaVc2bXNsdGxlcXBQU3FaZkhBVENhMW5aM2NqdVU0cml2SmxDc0hIbmtKYVVHTEg5ckpyWDZuTVJ3TkhUZUUxaUpURjNqN2dELWNlbHR1QlRmRzBSQ0VQTHlmejlnaGpfeThNSE9NTWFaV29PWGpMUk1kcy1fVDZTOG5zQzlYc002Zw?oc=5",
+    "title": "Blackpink’s Jennie found on leaked Grand Theft Auto VI soundtrack list: Report",
+    "publisher": "The Straits Times",
+    "publishedAt": "2026-11-16T04:20:00.000Z",
+    "discoveredAt": "2026-11-16T05:32:02.095Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-57783428a6",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNVd4UC1jaGktM2JKYW9KY0d3cjFETWV1V0ZmVlhmV3VESnRmanVwbTQ0UkNlSXlKUmNYV01aOFpVaGRITi1Tb2s3b0JjSVZ3NjFZVVJJN3lkVm5WYkExblhDcnZORFhSdEdyYnU2UWpTRk9lMVhfS0wwbVJLdFlrV0xiN1RmYkJETFZQS3RkSzlPQmx1c0EyOUVlcER3VE5yc3Ezcl8wOVlIS1QyX3JrOUdva3NHdnpteXVqcGk4dVdsc3NVc1JJdE1R0gHXAUFVX3lxTE9HSXNOZ2taY2VvSTFPbXhram5JOHJfWDdNejZQY094Rlk4N2Joek1iT3RxZUctZ1JwUFRveGhZVGN1QWNzclQ5R251QzJnQnZ2bWl5YlJDeVV0RURfN0I5WWJJbzBvMDZwdHlHMHdvYnNJVGZ5cFNkcUpmaXZOd2piRnhkMGQ0NHNtemRyUWFvRHNsTTZKQm1EMEtpLVB0b1ZBQm5OQlhtSTdWcnFsVGw2N1hxV0RRdVV1d01nUGhKNXdySFM5RndCOUp3dXlJWmVBeWR1eEF3?oc=5",
+    "title": "GTA 6 Soundtrack Track List: Lana Del Rey, Dua Lipa and a Very Loaded Radio Dial",
+    "publisher": "Esquire India",
+    "publishedAt": "2026-11-16T04:48:11.000Z",
+    "discoveredAt": "2026-11-16T05:32:02.095Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-af90d2b612",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeTVkdlRuT09uaFlYMzVRTjBiUW96R093dXlFMVI2N0hlQzZPQ0loVG53ZmN6UURBZmdsR2U4RDE1RXd4bG1JMjlKOVN4ekZOZExiN2NFZE9KcWhZOVhmZDJETW1hZlZuLWJiMWVZSTJOS19uenpSVU5maHcyNjdjdjNnZGN1YVRCRXBJeVNRemtpRzBFSGo1X1FGUm1tNkg2Z1BLQjBiSFdWa2VzMXU5dHJibVBielJMRjJoMzFIRnJaOUxWVHBJVg?oc=5",
+    "title": "New GTA 6 Surprise Gameplay Seemingly Released in Yet Another Viral Marketing Stunt",
+    "publisher": "IGN Africa",
+    "publishedAt": "2026-11-12T07:36:17.000Z",
+    "discoveredAt": "2026-11-16T05:32:02.095Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-021"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-d199316e85",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUlJkd1l0TDFHR2ZEcnlMVFdVeGNtcEtVamtuLTRQRVpfLUg5a0FpUTdCeVNmdlBuQ1pSeGhWajJtUU5CZUEwM25XdElXOEVNbktIb3pMRVh6QkdMQ1lIbUVtcE5UUTY4ZlRZSVc0a0dGdWI3SGMwSXFodEJ5clhTWnBMNUhfbTVLYjJaQ0JEUU1lMkVuY2dSa3R5c3QyWGEyQVBrdXpCT1NjWXNMNE82YUxlVGYyRnprQ2JxTw?oc=5",
+    "title": "Palworld Developer Pocketpair Gives Employees 5 Days Off to Play GTA 6",
+    "publisher": "IGN Nordic",
+    "publishedAt": "2026-11-12T16:02:14.000Z",
+    "discoveredAt": "2026-11-16T05:32:02.095Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-ba454c3a23",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGt4bUtRMS1TVFdGWnRmSEZNT0pURXFzbDQ1NWhpRml4ZnM5VWU2b2h5UlNpY2wyQ2swcC1jR3hKVGdaZDR5TndJMHJILWlIaTVWdHhxOTZSQ0VaSW1SSWdZS0JnZDQ0WXdEb0ZYcG0tNnY3b3pBSWlTY1ZoZ0c5aE51VVpRZkhINU9mS293bWtNLXZUMmdrMUVtX29wYVZ5M2ZpcGFCd3VUcG1jTHp3?oc=5",
+    "title": "Grand Theft Auto 6 Album Track Listing Leaks Ahead Of Game's Launch",
+    "publisher": "theMusic",
+    "publishedAt": "2026-11-16T00:25:54.000Z",
+    "discoveredAt": "2026-11-16T05:32:02.095Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-d15e041f46",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02dGoxQ1UwTjBNZ195YzdzU2FVUWVocWFKOUJQMGI4dGI3WW03cmY5U29BODF3YlZ2NnM0ZXE4NU9fYWVYOW9rcWREdXVIci1RZG9UaVk5cDBOZHhra0s4RjJZMEhVdHZhUUJvWEloaEtiV1hDZlk4ZlN4Zw?oc=5",
+    "title": "GTA 6 Album Tracklist Leaks, All 34 Songs Revealed Before Launch",
+    "publisher": "Shane the Gamer",
+    "publishedAt": "2026-11-15T08:46:00.000Z",
+    "discoveredAt": "2026-11-16T05:32:02.095Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-f349d40c43",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ3F1TkFVMVpzaWVSMHUyWURfRnBReWtMNlpZb1ZlY0pIRW1LdGVNMDktVDFKRG4wMG1GZFBOYXpKTVJUX3lpZmdFcmxnZUVvcmMwcHp2TXNRVkR0SjVHeHdONmdPZmlyMVE4N2tVbXdZVkJCdnozV0xhSlE0YkphVFFHUXAyaFZCRWxPV09KVnIybHpObnIxRlczSWFwYjJ0NnhnVw?oc=5",
+    "title": "GTA 6 Story Length, Achievement Details, and More Detailed in New Leak",
+    "publisher": "OpenCritic",
+    "publishedAt": "2026-11-16T03:07:16.000Z",
+    "discoveredAt": "2026-11-16T05:32:02.095Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
