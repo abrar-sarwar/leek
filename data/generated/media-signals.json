@@ -6454,5 +6454,21 @@
     "domains": [
       "msn.com"
     ]
+  },
+  {
+    "date": "2026-11-17",
+    "feed": "google-news:GTA VI leak",
+    "count": 17,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-11-17",
+    "feed": "google-news:GTA 6 leak",
+    "count": 6,
+    "domains": [
+      "news.google.com"
+    ]
   }
 ]
