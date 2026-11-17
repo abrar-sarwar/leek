@@ -46866,5 +46866,476 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-d371b37fe8",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNjd0cFVONGI3aVlGLXcxbWcxTTJydTRrRDBBT0xVTzhhX3cxN2w0VjAzNDVhajRYTE5qNEdRQWFxV3dqYm40RGlxNzJsT1F5djU4dDNja1djUnpOcmlLaWRRaE5lWUJCNFBxMFlqaGZhcDBEdmpWeElydGdRSHFwMV8yZkhBdw?oc=5",
+    "title": "GTA 6 Hacker Pleads Guilty To Cybercrimes After Infamous 2022 Leak",
+    "publisher": "Kotaku",
+    "publishedAt": "2026-11-16T18:30:14.000Z",
+    "discoveredAt": "2026-11-17T01:44:34.660Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-b4f61e6734",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MWkYtWkJ5SjhTNi1CX2J0ZWV0TXlkY2RPc2lBQ255QndvM25SYnhmZE44aGdwdkxjTWRBVFRSVlk1RnFRUl9yaWZIcWJHWFV0X3pra2NtUVZxNFV4VGZSSk1aTmFXVVU?oc=5",
+    "title": "GTA 6 leaker pleads guilty: the hack, the cost and the court case",
+    "publisher": "qz.com",
+    "publishedAt": "2026-11-16T19:25:37.000Z",
+    "discoveredAt": "2026-11-17T01:44:34.660Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-023"
+      ],
+      "category": "legal",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-70769c93bd",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNnFiYTZtZWJlT2JlOWViRF9WQkU1TENucVhEc0twd21NN3NxZ2lHM3F5bTc0N3B6aXpWaTVNZ2kxZmNBbDZrcE5FUzFrb0VIbnNWZmF5QzZmWktHNE1zRkpxbnMyRVlOLVp0S1hPUlRJSk1VR0NUN05ob0xTUzBiM3cwdmxSQUQ5elFPc0N2cXNxUFRPeWdRV0RKZHNFVW15Q2xR?oc=5",
+    "title": "GTA 6 Hacker Pleads Guilty To Stealing And Leaking Gameplay Footage",
+    "publisher": "Engadget",
+    "publishedAt": "2026-11-16T17:50:38.000Z",
+    "discoveredAt": "2026-11-17T01:44:34.660Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-c588f25105",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWEZ3dDVrUk1tQU1PUlFuWVI0NExhcHl2Vm03cFdJTmptUXkwTXdVQV9tMGRTNkJpZWF0bXBMMk1wZ0dndU9lU1FWSUtXN0VlNzRQZU9RZC1MUlhPQUZtdXk3U2xkdURvTlktN1I2eG5fTFViXzZNbkdkdXlaa2hOa3R0dEdWUkVPLVktSTRId09jQVk?oc=5",
+    "title": "'GTA 6' Hacker Pleads Guilty To Extorting Rockstar, Trolling In Prison",
+    "publisher": "Polygon.com",
+    "publishedAt": "2026-11-16T17:38:05.000Z",
+    "discoveredAt": "2026-11-17T01:44:34.660Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-b7ae4ec1a0",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZ2Jkc3FrZmFSRHRkY1Vaa3RVSXAxazZ0R09iaXlSYTNDc2hoamZ1ZWp6LVZVZVptYmR6QkhIQzdtTDFVeXlQY1hLVjVXMTBOWFhkbUQtSklGdDJUM2tKbjhWUXp0S2lzMzNuRG1yS3IwZDBjaGFBV1QwQVppZ0N1LVVjeEw1Q1VxdFVrdzhBdm5STUk?oc=5",
+    "title": "GTA 6 Tracklist Leaks Featuring Gunna, Future & More",
+    "publisher": "Black America Web",
+    "publishedAt": "2026-11-16T22:59:46.000Z",
+    "discoveredAt": "2026-11-17T01:44:34.660Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-7b81f284b4",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5qOFE0MzZLUlo2Z3BQUzMyS2dUVFc2dFZTZ1p0Q2VOVlVsMFhaUmVhS2RkNDNGQ3piNzBMVm51ZzZhcG9rZktUMlJGVGxUVFloWmQzaXZVcHR5b0FoRC1IaHM1SVpwcnBmN1Q0dGVEWmY5dTQ?oc=5",
+    "title": "The full 'GTA 6' soundtrack reportedly leaked: See every artist and track",
+    "publisher": "Mashable",
+    "publishedAt": "2026-11-16T22:15:08.000Z",
+    "discoveredAt": "2026-11-17T01:44:34.660Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-cd152a5ea2",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVXhZSWNnclM0cVRYSXRYSUkyRzdjZkgyd2R4SmV4NGhvMHlqclo1WjNJRDJyYlNFOXZlSDV1NndOek1sdmN5cFUxWVExNi14cUp4NTZiLUJaM19RZ24xWFQtS2xUN1RKYng0ZUlyQ2JXNnlWck9yRDlyUVhFMUVmRjJ1ckFocURyT0J4Nzk4NFBqQQ?oc=5",
+    "title": "GTA 6 Hacker Pleads Guilty: 90 Clips, $5M Rockstar Cost",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-11-16T20:12:20.000Z",
+    "discoveredAt": "2026-11-17T01:44:34.660Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-7f6e278918",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZjRsSER1ZkZOZUZnMXBXRDhEYkVycjRRVWpjXzlqSlpZVW92Ny1nY3ptbklOdEFrTzhLZkkzWVNQcWpDS21NQ2V5N1RWR3FvUkpZWVZYYXJIVThjWE5faS1hNV95cWNQbjUxS0RnVWpOcE9WVmcxQ1hoZS14X3d1QlNoYW5qNklu?oc=5",
+    "title": "Kurtaj GTA 6 Hack: 12 Offenses, $5M Rockstar Cost",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-11-16T22:21:34.000Z",
+    "discoveredAt": "2026-11-17T01:44:34.660Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-018"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-52d8deb9b5",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pUm1zX29rUTh3Z29taUFSSTYyU3prS3p4aGI4S1A2SVdYZ3dIZC02TWUyQ09oV2xVZ2p2b19qa2s3MFk1bHJDUV91RzVQTmRzYVhuVU9ialBaMFhmckE?oc=5",
+    "title": "GTA 6 hacker pleads guilty after release from secure hospital",
+    "publisher": "BBC",
+    "publishedAt": "2026-11-16T13:34:22.000Z",
+    "discoveredAt": "2026-11-17T01:44:34.660Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-54e18323e0",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbktZOWVaMzNPcGFiTkNzMGtHUWZReERVYlR5S2NSQ1Qzakh0SFBiRmtPOEVrMnNFVXVhSEtpWjMxTXBGaVRHSGw3R2NtakNDdVptU3N6MERZWkhVZGN5TWQtQWtiVkJ4MXhIVnRKOUpPcTFKQXJ0elh0bk5SbFBTb3VUQQ?oc=5",
+    "title": "GTA 6 leaker pleads guilty to Nvidia, Uber, Microsoft hacks",
+    "publisher": "Protos | Informed crypto news",
+    "publishedAt": "2026-11-16T19:07:20.000Z",
+    "discoveredAt": "2026-11-17T01:44:34.660Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Microsoft / GitHub"
+      ],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "microsoft",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-52e78d4c5e",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZk80d3gxU0ZWRlJQUkVOUElJYXZRNWpaUVhLN3JWWXQyR3hRX0NPMmpZWjA2eWFmWEZ5WUp3dDI3SVRiYURxSl9odlBvZGtPaFZuTjVuNGV5bHdJUjloMUZjdzllOUZPLVVKODJnM29Zc1ZVVUc2UWxjVHBSS3BQMXYwSUFjeVBJMWN4a3JWV00wWHE5bVdsMTNhMndTVTVsbkxTazNXYlZBV1lUTkpkX1M5Zw?oc=5",
+    "title": "GTA 6 Hacker Pleads Guilty Just Three Days Before Release After Costing Rockstar $5 Million",
+    "publisher": "MP1st",
+    "publishedAt": "2026-11-16T18:15:47.000Z",
+    "discoveredAt": "2026-11-17T01:44:34.660Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-2bd17c73b2",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb3otYXNjQW1kZDdxVThjWFc5X0kxTmc2bnZobFpCVlFJTHFpdy1vU21TOHRqRGd2YUNFX2N6ZXp0RXRiblpLTWQ0NkpBdGdhemZsZ3BEY1pHakZEdmpFQUFYcUxfek9lc2x5Mk5YTnpCWFVpVHhSZXFNdUFzaGIwVXRSYXRwWGxMQmFtVkkwTmdwMXJ6UDF1aw?oc=5",
+    "title": "GTA 6 Leaker Arion Kurtaj Pleads Guilty Ahead of Release",
+    "publisher": "DualShockers",
+    "publishedAt": "2026-11-16T22:49:09.000Z",
+    "discoveredAt": "2026-11-17T01:44:34.660Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-018"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-ebbc8879d4",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdXMyaXBDRWdoaXFLRGNKbzVpdmF1RHJnZ3Yya29NekxqeWtTdEVhRURSdkJyYTEtX2RzQTNBT19JVlZ6Z3pzTTVydXBHYXNsUTRfREp3amNxeWxiRTdMWGxCYm5JT1FOS1lWM2dCMEZUQnBMaXN1ZlRrdUZQejZqYjZFNVhfeEk1SWg3c3pNNDhCMmxtN2UxTlRRUEtQclQtVDRCLUplczZEU1Z5NUVJZDQ4RHZhczBOTHBn?oc=5",
+    "title": "Streamer faces ban for using GTA 6 early unlock time trick on release date",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-11-16T17:34:00.000Z",
+    "discoveredAt": "2026-11-17T01:44:34.660Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-f2667837c2",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNb1hqVDJ1eHh1c2NMUEdBTnMzZTBQNDJPZjh6WGlmV1c5dFAwVDRVV0UyRXNZRlZ6YTFybDk0cW1MU2M4VzEtb1VUSGxfTlI3dnRPcmNuc0N2UGpDQzJDSXF5cG5QQV9CeUwtZGJOOE5fWXEwQmxYdWc2UTRmb3JJSE04YXM0Mk9iMUZYdGo0VU43RjJaZ1RDbG5mdEVWc3BpMkE5bnUzbEFaNWdsUWZCWUxrUjdaOWhGWi1lSzdiTkNtaXVockVvLVFUOFhYUQ?oc=5",
+    "title": "GTA 6 hacker pleads guilty to 2022 Rockstar Games breach which the company claim cost them $5 million",
+    "publisher": "Rock Paper Shotgun",
+    "publishedAt": "2026-11-16T15:36:40.000Z",
+    "discoveredAt": "2026-11-17T01:44:34.660Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-18749f0a58",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOckg4eWpNdmlWczZXWkdVNy1kX25OR2tRNkxoa3g1SUdQeXRZbmFuQWo3M3I2ZHNRZUR0a0RCa1pqYTQ0UlJBbWFMY2gyYzdIWDBxaFNLZlJTdF91dWJqMkVDdzRkUUVwMXgtZkdlRVBLaUVWeHh1VDBEUXVybzZGN3pVbzJXZ3kzZ1ZxWmpFMHFZckEyR3h5d1NLU25qWHV6SVZHdFFKR0JyZzQ?oc=5",
+    "title": "Lapsus$, the teenage hacking gang behind the GTA 6 leak, also breached Nvidia, Microsoft and Uber",
+    "publisher": "Nacionale",
+    "publishedAt": "2026-11-16T16:35:07.000Z",
+    "discoveredAt": "2026-11-17T01:44:34.660Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Microsoft / GitHub"
+      ],
+      "claims": [
+        "LEEK-CLM-018"
+      ],
+      "category": "microsoft",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-7184fa3808",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNajg1R1VHZVdoQWZoQ1BzM2ljUGpfVFY2dzRTeXY5d1FFdHA0bjdMT1hpLVoxbzhLdDk1VVcwWmN0RFFnbUl4b0xTTVExTmxJQXpwbUgyYmYyWnY3emhBRjVvbW5TUEJ5OWdoNHRZRzVaeEJ6Z09YUENwcEJIYU1HaHZsbDFCLTNfUHhudl9JdHhOY2RteEIyajhCc3A2WWFpVVhfSTVVRnROdDQ?oc=5",
+    "title": "GTA 6 hacker Arion Kurtaj pleads guilty to Rockstar breach after move from secure hospital to prison",
+    "publisher": "Nacionale",
+    "publishedAt": "2026-11-16T15:25:04.000Z",
+    "discoveredAt": "2026-11-17T01:44:34.660Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-018"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-63cf76ebfe",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa0U4MkhzOWtKa1RVZ0NBSGJjQ0dtU1ZFMlpacmk1eXBkcVFXV3BhWFViWmxaMHpDMi1fblNrMkRIaTMyODVEamtsTXdYVnA4WXp5Zm9udVc1LXV4LUZXUXRzejhRcFhDTGl3RzF2NUFUaWRfeTRsZGw1Y2xXbGEtdnpKT0V6UFhsSjJDZFNsaE9PMVJoX2VmRG1ZamxjbWhyN0VGQ0tn?oc=5",
+    "title": "GTA 6 Hacker Pleads Guilty Days Before Game's Release",
+    "publisher": "Gizmodo",
+    "publishedAt": "2026-11-16T20:55:41.000Z",
+    "discoveredAt": "2026-11-17T01:44:34.660Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-58506953ec",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA2T0dxY2lCLXk1MmRYLU1UYzB6NGV0Q0hUWkdTM0JoVG80VlZGZUtydTRqaWdyUFBxSjVObjN2VjlFWFgwVXI2TjlWVnB1SjlZamV4a3AtUWlGOGRBaGM1UDh3?oc=5",
+    "title": "Original GTA 6 leaker pleads guilty to hacking Rockstar Games, years after first revealing Lucia",
+    "publisher": "Eurogamer.net",
+    "publishedAt": "2026-11-16T18:51:40.000Z",
+    "discoveredAt": "2026-11-17T01:44:34.660Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-f5a6921bf9",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcGxtUTI0b25UcWxIczEwS2dPNkhvdWhNZGtWZkY0Z1NNY0x5Ui1laHdEc1FRQ0xmdEZPS200Mm14Um5SdEM1dmR1aVNicVRkOHduX3JadUE1SXFqM0V2WnFSLTRMU0pjTzViQTRLdnlDaDdaQ3p4UUpKb0ZqNzc3UlBIcnBGOHZMUWItb0ZPSW5PVjBmd3Q2clZLYXJ2OXd4aDRuZWxUWXlxYW1selBrN0VmejRjMHE0QVlIOFBkQjM?oc=5",
+    "title": "The GTA Leaker Who Revealed Lucia — After Hacking Rockstar Through His Hotel TV — Pleads Guilty",
+    "publisher": "IGN Southeast Asia",
+    "publishedAt": "2026-11-16T17:14:32.000Z",
+    "discoveredAt": "2026-11-17T01:44:34.660Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-6a9c2c14ad",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcW01Rm5VNUVxeGVtcjBDM0xKc1M0dlN0NXpsZkdLSjZpMlUzbHBERFMyQURaUk5nLVB3MXRlaHFCRzVDV2tJbkhFZkZqRXZ4Z3hBTWk2Ylc2ZUtrU19oQXBXcUNwQ3VhUFh0aFYxZGYyUDNkZE04MUtVTHlETjZ3Vw?oc=5",
+    "title": "GTA 6 Hacker Arion Kurtaj Pleads Guilty to 2022 Rockstar Hack",
+    "publisher": "Shane the Gamer",
+    "publishedAt": "2026-11-16T23:49:01.000Z",
+    "discoveredAt": "2026-11-17T01:44:34.660Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-018"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-50852d276b",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQkVJUklXSnJ6VWN4c1V2MWZCVE9lMzdSVjZyd2oyX1ZHN08tRV9OSDdnYmRGcUkxYUNSUlhMOXlrUVVMUmxvUHR5eFpsSGRndUlicWF0WnhKa2NoZlBJREZBWVRMTmFQckcyWFNNX1Vyd1RRZkFBUDlZR2trQk9jeW9Kd1g2akp4Ym0tejZhT2VTcHViYlNaMC1IV3hVeUJRVXRnOFNiSHZkeXIxLXhkT3VYdVdlZ084NVR3?oc=5",
+    "title": "In Britain, hacker pleads guilty to hacking Rockstar developer and leaking GTA 6 — Engadget",
+    "publisher": "UA.NEWS",
+    "publishedAt": "2026-11-16T22:17:10.000Z",
+    "discoveredAt": "2026-11-17T01:44:34.660Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-c58c6dec88",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMnhFcllSdmtrOExTUS1qM1Bhb3Z6eW5EV1h6ZG54SXl0TjdOdmhLNGlkMnVyVG95WHhGSnhQMUd2UlhpblRRQlczaUNGc2RRZlhfQWsxVEtXeDl1SXRyRjY2c21BeFRGZktmMTZrSWVWV0ZWTFY3NjV2ZEh0Q0c5WlY1NXFoSllaZ2wzM2dpTjlQalJUeHc5bl9TZTl0N1pSM2dmdUZlLUNwRzRQX3QxUFQ4UEsyNC0tNE1Z?oc=5",
+    "title": "What sentence could GTA 6 hacker Arion Kurtaj get? No date yet, and his age at the time weighs heavily",
+    "publisher": "Nacionale",
+    "publishedAt": "2026-11-16T16:34:20.000Z",
+    "discoveredAt": "2026-11-17T01:44:34.660Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-018"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-e40424432e",
+    "url": "https://www.msn.com/en-us/news/other/gta-6-launch-live-latest-updates-as-fans-gear-up-for-release/ar-AA2hxlLR?ocid=BingNewsVerp",
+    "title": "GTA 6 launch live: Latest updates as fans gear up for release",
+    "publisher": "msn.com",
+    "publishedAt": "2026-11-16T05:21:03.000Z",
+    "discoveredAt": "2026-11-17T01:44:34.660Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "community",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
