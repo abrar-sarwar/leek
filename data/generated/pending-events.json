@@ -14962,5 +14962,77 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-e53c10c4cd",
+    "title": "The hacker behind the massive GTA VI leak pleads guilty in an extortion case involving millions in damages",
+    "reportedAt": "2026-11-17T19:13:55.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbTFSc0E1N2tTZ3paT0hVMHhUVFZFVk1IdENVZndCWGc3WVFVbXJhWGJHX0hkbk04cW12N2ppNUNUSFB3ejF2ZmFxalEyaHJtYmFfT0hJbG9MQmFmUk5EbzNRTjFZa3piX3NvWms2R3VtMnJ4aG53QVlpQnV4UTVZZ0tTQWhLa2lTVThWS1RNMA?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-d97d22ec63",
+    "title": "Rockstar Games Hacker Pleads Guilty: GTA 6 Leak and Cross-Border Cyber Law",
+    "reportedAt": "2026-11-17T18:21:16.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMia0FVX3lxTE04M0pwWUZ0MnlvTkc2WXR6em9PSW9VZUhvbkxIYVExLXk3QUlkZF9sa2F6WmM4dms4TU40U2gwQkhHbmlSektHRms0cmcxTXcza1ItQTA4Ri11ejNDZmJYMWhSOXdrWl82VWRj?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-126deacc05",
+    "title": "GTA VI Leak Case Surfaces: Arion Kurtaj Awaits Sentencing - hi-Tech.ua",
+    "reportedAt": "2026-11-17T17:13:02.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMihgFBVV95cUxQc1N5aXVSOFpVeGc5OGVQQ3lYZmEyczlQTmZVemJPajE5OE5feWJUNnZYQ1JPSjYwZmNFS00tWDdlbFkyRmMyWWZZNlFTa2hOb2t1RUZzdlBYSTNFalRXLTREbWN3NHgzZjZWSWlXOTFOb0VoVzl5TFJkS0JZV3l5bWZORmlCQQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-5fa9629a54",
+    "title": "GTA VI Hacker Responsible For 2022 Leak Pleads Guilty",
+    "reportedAt": "2026-11-17T09:20:26.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMikAFBVV95cUxQclBWWTJTUl9JdzVjbFV5MEk2QWxuSnB1SThRQjNXaXVzbmlQcUk5b2EzSUNQeGZkT08xLWhpckEzTDNlQlJmMFlBMGlHR3NiNHZsNHR3ZkExMEQ0ZEpaUUJaeVFSVl9hbG92X2JXU1JWbW1ncnZHT09lX3NLdkpsQTlHSTRub04zOV9HcDFlNU4?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-87d296edcf",
+    "title": "Hacker Who Leaked 90 GTA 6 Videos Pleads Guilty Three Days Before Game's Release",
+    "reportedAt": "2026-11-17T09:39:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMibEFVX3lxTE55dWwya0R2cklyZGc0MFoxVkRuMWpTSHpaVS1rbUhOSnhhWTFaRnlvTElhSENJNWhsZjlpUDNEZ0xDRzA2MTI0NEdtM2hSOGk5LTBtaDhoaFd0VlhEa0NBUjVvX1ZDbmswX0lsT9IBckFVX3lxTE9NVzduWmR1b3ZqUzdpdW81WUdUcVJSbkYxQkVseDM0SUVOcHRWQUUtdVEwTWk5Q0FjWjQtc3FqZkhabXM1aDR4bWNaa05DaGJ5NVVEbUFXbWxYWUxmUFBmZy1ROV9oMWE2ZkN3VjMyQ2RfUQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-3df4afe06f",
+    "title": "GTA 6 Soundtrack Tracklist Leak: 34 Songs, Lana Del Rey and Dua Lipa and more",
+    "reportedAt": "2026-11-17T17:57:26.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU3hvOWhoeTBvWVFaeVZrZWc5MmV4Sm12MVBhSjd6T2MtM0RjTVBlR3p3MmQ3OW00cGFtdXcxeFd1QUxDVXFjU1lFRkV6NjZBMUo4R2hQOEhNdmJuWHVzZGxPcWJZQjVxbVVpUDNQZFpKYVNPdC1IUl9hLU13bUFFS1liTGdnTkcwZUVFMXU0ZmZZY0h3ZDZzZ1FSRjlrQjNZVDUtcFhGOXV2dGRLV1diV0praUN3SVFQb2VZ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

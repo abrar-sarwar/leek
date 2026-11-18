@@ -47793,5 +47793,249 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-fd70faa065",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Jdmh6STEySTVEWkU3ald5UF81QXladUxOcktCUmNMbDhkQXlPbkp2OU5DZ0d2VHhfZDNkdk40bVB5VHlkZTNOR1c3dzJCNXB5TjU2cWYwOXJzUGZDNHlsTTVMMnQxdFhUdmo5VjZ0MTExZw?oc=5",
+    "title": "Grand Theft Auto VI Hacker Pleads Guilty to Cybercrimes",
+    "publisher": "The New York Times",
+    "publishedAt": "2026-11-17T16:27:32.000Z",
+    "discoveredAt": "2026-11-18T00:44:51.471Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-342191d3d2",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRmlHSndlRFN6bzRYT01ubWctc3p6RFN4eUpzc2JuejFNQ25RdW9JTHUydkZNTFlEVGNFajFaN2tNT1BCckdMay0wMVQ3Q29JRFplcWlEQ0xvbVlscm9JV3ZzM3RoanZxQVhvUERKeWFXNzZweEs3UTBXSjAzUnh3YVdkVk52TzlEN0FSNGcxcmFFNzJHcV8tZ2paRld0R3RxbXlCeVVjZHJuVExUUmg5dXRhNjhQeWdYUWFzWThzeVJmZHN5MDlCVFNTMGtHTHRUSktMN1k4Vk9tMTFLeUxObmtHYm91YkRRUzU4?oc=5",
+    "title": "The long road to 'GTA VI': The 13 years that led to Nov. 19",
+    "publisher": "The Derrick",
+    "publishedAt": "2026-11-17T16:06:00.000Z",
+    "discoveredAt": "2026-11-18T00:44:51.471Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-e53c10c4cd",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbTFSc0E1N2tTZ3paT0hVMHhUVFZFVk1IdENVZndCWGc3WVFVbXJhWGJHX0hkbk04cW12N2ppNUNUSFB3ejF2ZmFxalEyaHJtYmFfT0hJbG9MQmFmUk5EbzNRTjFZa3piX3NvWms2R3VtMnJ4aG53QVlpQnV4UTVZZ0tTQWhLa2lTVThWS1RNMA?oc=5",
+    "title": "The hacker behind the massive GTA VI leak pleads guilty in an extortion case involving millions in damages",
+    "publisher": "Yahoo",
+    "publishedAt": "2026-11-17T19:13:55.000Z",
+    "discoveredAt": "2026-11-18T00:44:51.471Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-d97d22ec63",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04M0pwWUZ0MnlvTkc2WXR6em9PSW9VZUhvbkxIYVExLXk3QUlkZF9sa2F6WmM4dms4TU40U2gwQkhHbmlSektHRms0cmcxTXcza1ItQTA4Ri11ejNDZmJYMWhSOXdrWl82VWRj?oc=5",
+    "title": "Rockstar Games Hacker Pleads Guilty: GTA 6 Leak and Cross-Border Cyber Law",
+    "publisher": "Diplomacy and Law",
+    "publishedAt": "2026-11-17T18:21:16.000Z",
+    "discoveredAt": "2026-11-18T00:44:51.471Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-126deacc05",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQc1N5aXVSOFpVeGc5OGVQQ3lYZmEyczlQTmZVemJPajE5OE5feWJUNnZYQ1JPSjYwZmNFS00tWDdlbFkyRmMyWWZZNlFTa2hOb2t1RUZzdlBYSTNFalRXLTREbWN3NHgzZjZWSWlXOTFOb0VoVzl5TFJkS0JZV3l5bWZORmlCQQ?oc=5",
+    "title": "GTA VI Leak Case Surfaces: Arion Kurtaj Awaits Sentencing - hi-Tech.ua",
+    "publisher": "hi-Tech.ua",
+    "publishedAt": "2026-11-17T17:13:02.000Z",
+    "discoveredAt": "2026-11-18T00:44:51.471Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-018"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-22c0e052a4",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kRFl0Nkt3ZUtocTY2ZEstSk9QTjM3U0NWdVEtUzZodFpvcENUNEN6N3c3N1pDSFhuUlMyaHcxamdYZTB1Q2g5TWxya1BYMVh3SVJFeV8tVEpQdzdIYmZFN3Y2ZTNBMUlfMUNfWnZ4YW9lOWVqRmc?oc=5",
+    "title": "GTA 6 Online: Release date speculation, latest news and everything we know",
+    "publisher": "GAMINGbible",
+    "publishedAt": "2026-11-16T12:00:00.000Z",
+    "discoveredAt": "2026-11-18T00:44:51.471Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-5736744948",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hRXNYVkJ5VmJjMXcwam9RZS1rLUNORUkzWU5iMVdVdFE1czNGcDM4WjlEVm12OEVtVmJNZzZaZFZCajZ1ZzZNY3oweXV5Nzg2M2hGaWRRM3FHY2dhc2FMREtfa1h1cmR3Z1FESHpfYTRNOW9X?oc=5",
+    "title": "GTA VI Ends a 13-Year Wait: $79.99, Nov. 19 Launch",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-11-16T08:24:52.000Z",
+    "discoveredAt": "2026-11-18T00:44:51.471Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-5fa9629a54",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQclBWWTJTUl9JdzVjbFV5MEk2QWxuSnB1SThRQjNXaXVzbmlQcUk5b2EzSUNQeGZkT08xLWhpckEzTDNlQlJmMFlBMGlHR3NiNHZsNHR3ZkExMEQ0ZEpaUUJaeVFSVl9hbG92X2JXU1JWbW1ncnZHT09lX3NLdkpsQTlHSTRub04zOV9HcDFlNU4?oc=5",
+    "title": "GTA VI Hacker Responsible For 2022 Leak Pleads Guilty",
+    "publisher": "Nexus Hub",
+    "publishedAt": "2026-11-17T09:20:26.000Z",
+    "discoveredAt": "2026-11-18T00:44:51.471Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-87d296edcf",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55dWwya0R2cklyZGc0MFoxVkRuMWpTSHpaVS1rbUhOSnhhWTFaRnlvTElhSENJNWhsZjlpUDNEZ0xDRzA2MTI0NEdtM2hSOGk5LTBtaDhoaFd0VlhEa0NBUjVvX1ZDbmswX0lsT9IBckFVX3lxTE9NVzduWmR1b3ZqUzdpdW81WUdUcVJSbkYxQkVseDM0SUVOcHRWQUUtdVEwTWk5Q0FjWjQtc3FqZkhabXM1aDR4bWNaa05DaGJ5NVVEbUFXbWxYWUxmUFBmZy1ROV9oMWE2ZkN3VjMyQ2RfUQ?oc=5",
+    "title": "Hacker Who Leaked 90 GTA 6 Videos Pleads Guilty Three Days Before Game's Release",
+    "publisher": "Mezha",
+    "publishedAt": "2026-11-17T09:39:00.000Z",
+    "discoveredAt": "2026-11-18T00:44:51.471Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-3df4afe06f",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU3hvOWhoeTBvWVFaeVZrZWc5MmV4Sm12MVBhSjd6T2MtM0RjTVBlR3p3MmQ3OW00cGFtdXcxeFd1QUxDVXFjU1lFRkV6NjZBMUo4R2hQOEhNdmJuWHVzZGxPcWJZQjVxbVVpUDNQZFpKYVNPdC1IUl9hLU13bUFFS1liTGdnTkcwZUVFMXU0ZmZZY0h3ZDZzZ1FSRjlrQjNZVDUtcFhGOXV2dGRLV1diV0praUN3SVFQb2VZ?oc=5",
+    "title": "GTA 6 Soundtrack Tracklist Leak: 34 Songs, Lana Del Rey and Dua Lipa and more",
+    "publisher": "DLCompare.com",
+    "publishedAt": "2026-11-17T17:57:26.000Z",
+    "discoveredAt": "2026-11-18T00:44:51.471Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-690c9fdd74",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82cDlmdEx1UHllSFh0M2pkdGZYbGNvRkt6Mjd0WTZjQTdGZmdJaS1HMHR3REpNaUhqR3NSLVRWY1EyYW1LUUF0UllOOW5EX3l3OTdGM0t0ajE?oc=5",
+    "title": "'Everyone's talking about it' - GTA 6 generates huge hype ahead of release",
+    "publisher": "BBC",
+    "publishedAt": "2026-11-17T16:38:50.000Z",
+    "discoveredAt": "2026-11-18T00:44:51.471Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-0cc64f5b67",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fanFINGllZjRsUC1JajE2Y0R1VjFEblNxdkZQRFFmVVlaVzdSX0NVLXlXS0NPRkg2eU5qbXdjUU9zVEFYZDZRY3JlOW9zMjEtZ1VHOHhRbnlfaFNfaTRKYmhzQWRTTTl3VDZ4eFpFYXlXUEIycXc?oc=5",
+    "title": "GTA 6 Reviews Expected November 18 as Early Metacritic User Score Disappears",
+    "publisher": "ThePCEnthusiast",
+    "publishedAt": "2026-11-17T10:41:11.000Z",
+    "discoveredAt": "2026-11-18T00:44:51.471Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-89cdd4f375",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYVlNUWQxNDV1V0ZGckQxLVJuOFRqdVE5NzFPMjdQbkNLWER5TWRnYllQalFmekJBVk9WNGhGYVROMUpobUFteWF4RVg2RVRwN21BS1d3RGhLMVA4OXBjS3lsalVEZEhZN3gtSV9Oa0cwMHAxNFhwQ1lFTkF6d2lKNFRFUjlMX3cxeEdvTURCeTJCMVk1ZWxEcVZwSnJISEd2OUJNRm9mdzhMb0tKSFh2SVlwNEVOQndoMkg2Yw?oc=5",
+    "title": "New PC app boosts GTA 6 PS5 performance from 30 fps to 60 fps, but at a cost",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-11-17T17:22:00.000Z",
+    "discoveredAt": "2026-11-18T00:44:51.471Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
