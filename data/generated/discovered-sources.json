@@ -48037,5 +48037,341 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-93b1517214",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcUJJS1B5X3FIR1NIb2M5Q1RBUkJ0dzI1bzd4c29wMkJMRF9mMS00Uy1lTjBWdktrT0tvcm1lS1kwRldPWjJrdnozRnRGcEliakNDb1h1cEpYeTZKaVlCMXp0VExHQk5GTG9ZeV9EcUFJc2JGYnFob2ZsLWdXd25ZanprbGdaUWwxdkRQYndnbXZLd1NNTHJXcVA0SlFsMkE5Y01XSzJsUW5MZzg?oc=5",
+    "title": "GTA 6: Six new screenshots leaked – revealing interesting details",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-11-18T08:30:00.000Z",
+    "discoveredAt": "2026-11-18T15:20:56.160Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-6fb5f65fdc",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LazFtLVpoQTd1d2hnOUJsdGRGLVZJMExPVzlZREFaUXVFNVBCaUJRTkt1a1A4NHlqel9nUGtFcnNqWGJyeXg0ZTRTWmRfeGRFekFHaURqdUlRYXkybTRv?oc=5",
+    "title": "The full 'GTA 6' soundtrack reportedly leaked: See all artists and tracks",
+    "publisher": "Mashable",
+    "publishedAt": "2026-11-18T14:48:44.000Z",
+    "discoveredAt": "2026-11-18T15:20:56.160Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-8e801042b8",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNGpfTXlwWmZuV0Nka3NPbkotdEc1b0NWWTQ0MnhZcUlVRTF1UGp6MGZOMWxDR0RiR1U2MHBIR2dOdWZHdUpQNEZXbDNIRFNjM3hGSUlCd0xRZ3N6bHQ3b3piVF9keHZXcWY5VmdfRVR4WDNXY0tPUEp0ek9fcmR5QmswbVNXTUlJU0lyQm9GN2dKY0pRZ0V4NUN4VFYtQ05ROVdTYWdFYTlnMk9jR3g1cXZMSV9zWGJISE96ZzR3Um1pODluWGJKWjdn?oc=5",
+    "title": "GTA VI scores 99 on Metacritic, tying Ocarina of Time as the highest-rated game ever",
+    "publisher": "AltChar",
+    "publishedAt": "2026-11-18T11:02:00.000Z",
+    "discoveredAt": "2026-11-18T15:20:56.160Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-41addf50f6",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbzV1TkRZVXIxZ1IwbmhLV3FDaUs2RHFxS0JwQUFhZjY1bXJfdzFZTjhpbTIzZ0xzY2Z1UzJwaHFZaHlLaXdiTHNibHhmVDFlMFJ5YjBSaUtWY3Vqa0lRU3NCenNiMEY3RDZQUllzV2lRSGF5LTNMQzZMUXN1QWk4V0NsbE00ODhBNDRqUDhzOF9QOXZMYzlzZXVQSWFFaTBDQV9ZZU9IOWRfYnFBZzNYT0ExWlQ2YWtsSk9lZ21aNk8tMEtaaC1qXw?oc=5",
+    "title": "GTA 6 reviews award 99 Metacritic score, topping GTA 4 to become Rockstar's top-rated",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-11-18T12:47:00.000Z",
+    "discoveredAt": "2026-11-18T15:20:56.160Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-e8cbc8ab1b",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWVI5dUowdERkcnRtc09DTzE4Z3VOa0hyMWxBMUhYOWh6b3VZbE9GeXctemRkTy1FcFV5Z0NYVlpYTWtLNUM2R2RhNXYwT3VfbmR4ak1TOFY3dWpiVk9kWVNQbmhod2NBV21raXpCa29pS0dRYmFOTmtra1ppdWhWMHN2QkZxZUdVWjI3Nk02WEptVFpmeTdnRUxtbVZmRmp0ZXA0V2pFMk5nckNZbEtQY3pxVHJNNk5yTjl6a0FMa2w1bE8tOEE?oc=5",
+    "title": "Official Images of Collaborative Travis Scott and 'GTA 6'Nike Air Force 1 Low Plus Apparel Merch Leaked",
+    "publisher": "Hypebeast",
+    "publishedAt": "2026-11-18T07:10:29.000Z",
+    "discoveredAt": "2026-11-18T15:20:56.160Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-d1b1c65b5a",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTFc1bXZyd1d0WmxIWThTVEozOUZWMXJrR09hR1d1MWpnTUhQeDBIV2Y0ZTBLRmN1THhjQjNwLTlOdXFrelRtYldYcUZSbm9aMENINUVVMHdVLU12NEthenQ0R2UyclNteHB5MmV1bDlkT1pvV3hTRjNBcTJKRGM5Yzh3b3lBcFhaUFB6Y3ZsaEc4dnlicTZmRDhublI3emhsdHJ2Z2drVlA5dw?oc=5",
+    "title": "GTA VI uses AMD’s FSR 4 on Xbox Series S, but not on Series X",
+    "publisher": "AltChar",
+    "publishedAt": "2026-11-18T12:46:00.000Z",
+    "discoveredAt": "2026-11-18T15:20:56.160Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-006"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-4acfb81a30",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRjRlVHRtZHJaX0xzUUMtUldjTjhmeW95ZlJqUHZkWF8ySTExMWl5TWZrUzJGd3hsS202NDlqYW0yOWJrYm9ZWmw5S3Z3SlcxVGxsVmxZeUU4T2VJSTc0Q3JTenRGUEIwUHlaRFVPLS04Y2N1QmJCek9pNlZrWDlNc2Y1Nl9jT0tOTFF6Z21oNA?oc=5",
+    "title": "GTA VI Preorders: $1.5B Estimate, Not an Official Figure",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-11-17T18:42:45.000Z",
+    "discoveredAt": "2026-11-18T15:20:56.160Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-014"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-26e093c0d5",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVjItRy0zV1JUNEl2V1ktZDBWYVlYOXdlM1Mtc2lpZXhjUV9jNmwzT2JaeWlDUTFCTHI0RGxkMjVuNlI4M0ZJSVFEUmM5VUExVFhDa1V6eUQxc3F1NW52YzB5Mmk1ZmxvLXYxMDk0RDdVWVQzNVh2Q2JuMnhXcy1Yak9admNEcWlrNUpLUEpqX2hRQ3BSVzA4ZHNKNU5HYW84c0xLTmNDdXVQVFFXYklodlc4eGdVOUdN?oc=5",
+    "title": "The Game Awards Just Leaked Manni L. Perez For GTA 6 – By Nominating Her",
+    "publisher": "Gameranx",
+    "publishedAt": "2026-11-18T10:31:50.000Z",
+    "discoveredAt": "2026-11-18T15:20:56.160Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-b73e20ddb5",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMUdLOFZlUlV2aVN3SktsTzkzdWFwRW1FZnM3NzFIcm51RURlUlRRMHc0WEJSc2dzZHU2OGNlNzVybURvWTE4am9PdjRUVDk3N2Y3dGZNOXdpcXA5a2lQZ2RLNTdRaHVtMGlnb3ZwS2pFWHBHaG5JajBKVTJxSGVzX2FDWFp4QlZMV2tjWk5GZ05YTFE?oc=5",
+    "title": "How To Avoid GTA 6 Spoilers On Your Social Media Feeds",
+    "publisher": "GameSpot",
+    "publishedAt": "2026-11-17T16:37:14.000Z",
+    "discoveredAt": "2026-11-18T15:20:56.160Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-73406456ef",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8xTW83d0kyVWJsdVR0UURGRzNCRnNBcTZSQWh0cWFncjBHbThlOVo3eVhCXzQ2Zm1TNGpkNFAtTF9QMVVlX0ZpckdqaVVrNnZUV1h6NmJuSWdUZC1nTFpuRUJid19uUGVKSzhQeWVGRlpMX2RrQlh6aWkxSQ?oc=5",
+    "title": "GTA 6 Hacker Arion Kurtaj Pleads Guilty Before Launch",
+    "publisher": "GodisaGeek.com",
+    "publishedAt": "2026-11-17T19:01:23.000Z",
+    "discoveredAt": "2026-11-18T15:20:56.160Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-018"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-2b07a52a4a",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MbG9JRFVrc1NnbGpza0YyZUY0YlozSFA3alNER1owQnE0bEtQUmRpWEQ3QmNyMGI4ckZET3g1RzIxdmdSY2pMNmRWTWlwczE4YzhYX1R3RjVNR0JfbFhhM1lBUHFWNUkxaTI4UEVLbXV1TUU?oc=5",
+    "title": "GTA 6's 34-track soundtrack lineup, with Lana Del Rey, Dua Lipa, Playboi Carti and JENNIE, leaked through photos of vinyl copies sold before the game's 19 November launch",
+    "publisher": "Make Tech Easier",
+    "publishedAt": "2026-11-18T04:12:23.000Z",
+    "discoveredAt": "2026-11-18T15:20:56.160Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-0ed9da693e",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVTVRbDNDV3dsdk82MXVWdHdwQ3NmUERSWWFYR0wzV0NrU0NucGZBMjdwRlA4ZU5mbGt1OXRfT0NtTVhIZUIyd0U1dHRzSVJZb3llU3Q3QkNVS2RJTnBaZGlpNFBTYkpoRXNLemxQREtrbnRzWlJTQnA5OTNfMHhSc3lTQ3hyTGFDNG5qRW45ZWw5NTFHVkpocTQyeE9BRXRFb0lqdDRJbW4zVHh2eFlxUFlB?oc=5",
+    "title": "GTA VI Hacker Arion Kurtaj Pleads Guilty to All Charges Three Days Before Launch",
+    "publisher": "stupidDOPE",
+    "publishedAt": "2026-11-18T13:37:59.000Z",
+    "discoveredAt": "2026-11-18T15:20:56.160Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-018"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-b216a30258",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNd3JoQThYUHppTktJS3pJYjRTZUtZWV9KaVVEMkZmSUtUN2pjcFRfZlFuLVcwZmZYbWx6X3lkRkJfN0tTUjUyTTZDdEZtQnM0UV9fTzJxME5tWW5WeVlvWUZPTG53Zk0xMWxNb2FpSkpTanozbUNnaFJjQTdlR2QxdS1WZHJIQnVoU01kU3FsX1NETC00RGFHMk9FTW1yWTFINmI3dWRuVnhqOEVqR0NIVU1sQlp4akY2TnhtUUVxYmdLdUl2d0JF?oc=5",
+    "title": "Xbox reportedly warns against GTA 6 New Zealand trick for early release date unlock",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-11-17T23:33:00.000Z",
+    "discoveredAt": "2026-11-18T15:20:56.160Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-006"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-c3fa24252c",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOa0diVEpLUzBTS1FNMmk1YldJVVpKSWxmSWpkNm9WNzlqMGlUdXJKZHZqNXNHcTJ4T1FMaDFKdk53TFdhUUJzWVVWNmRwS2pzbVJ6amhBNXd3SjR0aHBrMnFyYm9IWnRWb0hhMm1yVV9WcnVFZXYzdlRCRVFiTjVUVl82eTdCdEpsQ3IzZ3JqaGYyUGlRXzc2THF0OWh4UHhTbm90NWxHNHkyckpURVR6c3BfNGFHNlpvekVnMno2RHVrTmNjSjVsNnJuOHYzd0JtbmRWeXBSandpckdVaGx1SU5sakd0SDMwMFhiNdIB-gFBVV95cUxNTDhIT29FUFRrWEJOM2lYSmtjei1vZEVuLTJ1RDR6Nk5iTk1HZFBsWERuZEVraEFYb1VzNHVlbDV2NDhiWjJKZVVkYS1zNm9WLVlOUVhOaXR5bzZtVU9uRVFjRHdBeHhTY3Vqa1gtS0VoUy1UYlpmTTFadG1CVjk3M2lJZDgxWkpLekIzaDBTWU13RVN5QUc0X0xJSV9CT3FfcjBROG9Id21RLUdzQWNJNmFUTEN0dDR3UHYzcDNqU01uQWJ3NHdCZ251MEhjcWZxbnhTUEphV0VvNHRIYzFvd3lxZGZPWXlWa1B1SnVtYnZJbl9kZUoxUWlR?oc=5",
+    "title": "GTA 6 Story Length Leak: 50 Hours To Finish Jason and Lucia's Campaign, 200 If You Want It All",
+    "publisher": "Esquire India",
+    "publishedAt": "2026-11-18T05:25:43.000Z",
+    "discoveredAt": "2026-11-18T15:20:56.160Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-13dc7065ef",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQlRwUkNlNHFtbGUxNEs5NWIwUDhUV1ZCa0dwc2RXOU5WM290M3dYeEdiT0R3Mm9qY0VEVEtSWURLZllXMmRKa3g0cFY0MFBQR3pnLXI2bmNpcTlZM0lhMkpKWmN1N21qeXVlbURPaTIyOEI0eDg4c3NQX0JBNi0zbmlEQlI3WVhURUtpd0R2enl1c1d1TUFJQUNzeWVVZDJJSkJlZURfNUVKbllIR3Iya3ZfVzBLcnkzLS1vclFTSVdqM1kyN1RGSzZ1MnJUeDFPYzdV?oc=5",
+    "title": "The publisher of Grand Theft Auto VI obtained court orders on Friday requiring Microsoft and Discord to turn over data in an effort to identify the source of recent leaks surrounding the eagerly anticipated video game. READ: https://www.gmanetwork.com/news/s",
+    "publisher": "Facebook",
+    "publishedAt": "2026-08-21T07:00:00.000Z",
+    "discoveredAt": "2026-11-18T15:20:56.160Z",
+    "feed": "google-news",
+    "query": "CyberLeek Microsoft",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Microsoft / GitHub",
+        "Discord"
+      ],
+      "claims": [
+        "LEEK-CLM-023",
+        "LEEK-CLM-028"
+      ],
+      "category": "legal",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-90ba8898a4",
+    "url": "https://happygamer.com/gta-6-china-streaming-restrictions-175415/",
+    "title": "GTA 6 Streaming Rules in China Reportedly Block Car Theft and Police Fights",
+    "publisher": "happygamer.com",
+    "publishedAt": "2026-11-18T02:39:00.000Z",
+    "discoveredAt": "2026-11-18T15:20:56.160Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "investigation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-65e0a197bd",
+    "url": "https://www.msn.com/en-us/gaming/gaming-platforms/how-are-people-playing-gta-6-already-how-players-got-it-early/ar-AA2hHjM4?ocid=BingNewsVerp",
+    "title": "How are people playing GTA 6 already? How players got it early",
+    "publisher": "msn.com",
+    "publishedAt": "2026-11-18T05:37:30.000Z",
+    "discoveredAt": "2026-11-18T15:20:56.160Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

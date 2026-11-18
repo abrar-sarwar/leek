@@ -6486,5 +6486,45 @@
     "domains": [
       "news.google.com"
     ]
+  },
+  {
+    "date": "2026-11-18",
+    "feed": "google-news:GTA VI leak",
+    "count": 12,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-11-18",
+    "feed": "google-news:GTA 6 leak",
+    "count": 2,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-11-18",
+    "feed": "google-news:CyberLeek Microsoft",
+    "count": 1,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-11-18",
+    "feed": "bing-news:GTA VI leak",
+    "count": 1,
+    "domains": [
+      "happygamer.com"
+    ]
+  },
+  {
+    "date": "2026-11-18",
+    "feed": "bing-news:GTA 6 leak",
+    "count": 1,
+    "domains": [
+      "msn.com"
+    ]
   }
 ]
