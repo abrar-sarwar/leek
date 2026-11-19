@@ -15130,5 +15130,65 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-6407c6cedb",
+    "title": "Take-Two shares jump as ‘masterpiece’ GTA 6 lands top Metacritic spot",
+    "reportedAt": "2026-11-18T13:51:21.000Z",
+    "category": "take-two",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeGRxZEVDbmcyQW5VdTc0T2pSSmNsSmtjcnlzd3ZXUmJKcm9VRXJZeUVSeXpiblEwazk2TkxDdWdwRUlRS1NZc0QtNmNOSlJjUU9VMjhFOHl2MXhfNk5KVEVra0RRMzc5WmlScWYyNUV3b19WRVRhM3ZuOU1tWG5nZnQ1ek5lYm5oY0ZCb3ZqN3c?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-55a093caed",
+    "title": "GTA 6's Physical Map Reportedly Leaks Ahead of Launch",
+    "reportedAt": "2026-11-18T22:45:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbjZjSjdqdWJ1LXJIbndBelVtbDBkUzZtazdLazZPS0hUNUxtanJBSU1SLUNVcnhrUWFwSFM0V1RUektQWkZ6bVZuMk00SG5WYnctOWtLN3NZdE1RbUx4VDRnTTRlOTFNbHNvcDdpY1c3dE9meUZXWHdZZHlLTkxqcGpQaDB3LWNoMGdxSi1CRWswS2lrbXc?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-94fcd4d876",
+    "title": "Two delays, several leaks: 'Grand Theft Auto VI' launches worldwide to near-perfect reviews",
+    "reportedAt": "2026-11-18T22:02:30.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQWE2VC1FenJmOUZSR0NCSVM2X2YyRmM1T3o0WTA2S2IzQS1KajN4aXlLUzlaZ2VjUE0zcWprVURDQjhrLXdpNVI2dkFNRVNRRG9NcHNfTlh1akpCRWtCRl9CdzJtMEhJVGNJbzVobzlqM2FYNVEtbU1YejJjLVlDTlVYUWozQTZvRklGVDJMVS1WcWRubXA0NXJGbXpvVlU3?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-70ad91c65b",
+    "title": "GTA 6 album leak lists Dua Lipa, Lana Del Rey and Jennie songs",
+    "reportedAt": "2026-11-17T08:52:33.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe3c9a5ab54f039ac8e33d25fc4d73&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fgta-6-album-leak-lists-dua-lipa-lana-del-rey-and-jennie-songs%2far-AA2hDf23&c=18435614101713650144&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-358bf20c8a",
+    "title": "Hacker pleads guilty to GTA 6 leak days before game release",
+    "reportedAt": "2026-11-17T19:59:29.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe3c9a5ab54f039ac8e33d25fc4d73&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fhacker-pleads-guilty-to-gta-6-leak-days-before-game-release%2far-AA2hFaKm&c=8745103539517710346&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

@@ -48373,5 +48373,286 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-5e53aaaf0c",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOWVfOFhJRS03a0dVTFM3R1lNQ21SZGFEYmlQdjJLTVZDNVdGV1dmU25KWVpMVnNDdno0c0pseElwRjJ6OWVWZ0hiazZKLVZGUEViVlh1TFE0N3dpY05aRm45aXNKZU1HN0p0YnBfSWJmUHNpXzMtTFBoeU81QUpDSWxCQzhleERWNERVSkZ5T3RQQ3NV?oc=5",
+    "title": "Lucky Trader Banks 66,000% Profit on GTA 6 Meme Coin Ticker Confusion",
+    "publisher": "Yahoo Finance",
+    "publishedAt": "2026-11-18T17:32:13.000Z",
+    "discoveredAt": "2026-11-19T00:02:29.883Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "$CYBERLEEK holders"
+      ],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-6407c6cedb",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeGRxZEVDbmcyQW5VdTc0T2pSSmNsSmtjcnlzd3ZXUmJKcm9VRXJZeUVSeXpiblEwazk2TkxDdWdwRUlRS1NZc0QtNmNOSlJjUU9VMjhFOHl2MXhfNk5KVEVra0RRMzc5WmlScWYyNUV3b19WRVRhM3ZuOU1tWG5nZnQ1ek5lYm5oY0ZCb3ZqN3c?oc=5",
+    "title": "Take-Two shares jump as ‘masterpiece’ GTA 6 lands top Metacritic spot",
+    "publisher": "Protos | Informed crypto news",
+    "publishedAt": "2026-11-18T13:51:21.000Z",
+    "discoveredAt": "2026-11-19T00:02:29.883Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive"
+      ],
+      "claims": [
+        "LEEK-CLM-015",
+        "LEEK-CLM-025"
+      ],
+      "category": "take-two",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-55a093caed",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbjZjSjdqdWJ1LXJIbndBelVtbDBkUzZtazdLazZPS0hUNUxtanJBSU1SLUNVcnhrUWFwSFM0V1RUektQWkZ6bVZuMk00SG5WYnctOWtLN3NZdE1RbUx4VDRnTTRlOTFNbHNvcDdpY1c3dE9meUZXWHdZZHlLTkxqcGpQaDB3LWNoMGdxSi1CRWswS2lrbXc?oc=5",
+    "title": "GTA 6's Physical Map Reportedly Leaks Ahead of Launch",
+    "publisher": "DLCompare.com",
+    "publishedAt": "2026-11-18T22:45:00.000Z",
+    "discoveredAt": "2026-11-19T00:02:29.883Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-499215c487",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tMVl1NzVTX2JPWXB4WlhNMlNaQlQtVTk1Z2JBVUtHcTc5OXJrbmNVY29yN0lfcC1GSEM5Q2c0YUl4a0FGTjVGRDVuUGtyUlVuaEV5V3M5WjRiZUpMd195ME1WY0Z6Zw?oc=5",
+    "title": "'GTA 6' on PC: What we know about the PC release",
+    "publisher": "Mashable",
+    "publishedAt": "2026-11-18T20:51:04.000Z",
+    "discoveredAt": "2026-11-19T00:02:29.883Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-297df3e5bc",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM3dHTGwtd0R0Z3NDYWQ2RkVKQXdrbjZtaGVFdl9nSHNvYkhXSl9MeFNGZE5PYXpaNHJlNVltZFRuWVZVYXJ4VEs2b1pTR1VveTZwd3RRY29aR0RuUHQ4MWFaSng4UVlDUHM1V29zVlJoZ1ZzYnpxdHdvRFhxNnpxYVBjS2tjQkhnMy1oY0NCWlFVeEJqUkVDblpCeVVPNVEyRUoxVWlDaXl3V0QzeHFxRG9DTDFxNjZqMllsWTRGVUtaQQ?oc=5",
+    "title": "GTA 6 PS5 Pro performance jumps to 280 fps on PC, with DLSS 5 transforming Lucia",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-11-18T17:25:00.000Z",
+    "discoveredAt": "2026-11-19T00:02:29.883Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-0f2e05af7c",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaFJwVG5PTXRlckU0dGk5akFUVS1EeVhuR243aUl0Y2VLNXYtYXZqVEQtZ1JIZjczWmNqbGl5eE5xc1pIeWpROVpNUHBWZmpnUEFrekdOUjJ0ejlLY0VYak81VmZXU3BTTHBRaFZVc0ZxOE9yUnZTNWxFeWtSdkFieV9GU3l2X3ZPb2hXcnpyNUJZUFdRT2RNTmxhM3hkVmlmcEtsRmlVRmRPcjZ6emRkc25GOHBVS2FRdmlaNHF5ajRrQmFSX19xcnd5ZGZ2c0o0TVpHcmdhVQ?oc=5",
+    "title": "GTA VI runs slightly worse on Xbox Series X than PS5 in heavy action, dropping to around 20fps",
+    "publisher": "AltChar",
+    "publishedAt": "2026-11-18T14:41:00.000Z",
+    "discoveredAt": "2026-11-19T00:02:29.883Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-006"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-94fcd4d876",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQWE2VC1FenJmOUZSR0NCSVM2X2YyRmM1T3o0WTA2S2IzQS1KajN4aXlLUzlaZ2VjUE0zcWprVURDQjhrLXdpNVI2dkFNRVNRRG9NcHNfTlh1akpCRWtCRl9CdzJtMEhJVGNJbzVobzlqM2FYNVEtbU1YejJjLVlDTlVYUWozQTZvRklGVDJMVS1WcWRubXA0NXJGbXpvVlU3?oc=5",
+    "title": "Two delays, several leaks: 'Grand Theft Auto VI' launches worldwide to near-perfect reviews",
+    "publisher": "RTL Today",
+    "publishedAt": "2026-11-18T22:02:30.000Z",
+    "discoveredAt": "2026-11-19T00:02:29.883Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-dc2427c96b",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOckxKTFh5dlFjZ3JHbzJYYVMwZGxXcjNsR1RLOWlNenNneXQ0V2RpSnl1eENWYWVuUmtDQ1JNTTJEVWtqSEFRWjJ2MzdzWHZtU0JyQ0tUOTVwb1k1YVB4OGY3ZU42OW96X0tzRWREa1l4ejB0aUVRRUJDR2xpY0w1dWNCR1QyVTZuYVFmTllNNXpZSHdhdkw3Qng2TXBwMEJUVGxocnJKNXU3b1g3ZFZLRTdtY1BlQUVKc2pUSTI5RVlJQTI5M0dITFBaNy1SVmFOR3F1dmZ3?oc=5",
+    "title": "Fake GTA 6 PC downloads are spreading malware through dark web scam bundle, NordVPN warns",
+    "publisher": "TechRadar",
+    "publishedAt": "2026-11-18T14:07:52.000Z",
+    "discoveredAt": "2026-11-19T00:02:29.883Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-004"
+      ],
+      "category": "misinformation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-c1c7f36ad6",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DX0xacW5BeXNXWlQtZW8tSzhQb1BlOUNZbzJGUHlQSW9KN0ZDT19RdmNWMGo1ZmlsOWxWVVFQX2dSWVRYR3lMVnd2ZHZ2YkxReFZyOXRhQThlcm93VWVVMXUzVE5mWWZTRXg2eHBMSXF6aF9mZVE?oc=5",
+    "title": "Grand Theft Auto 6 | Critical Consensus",
+    "publisher": "GamesIndustry.biz",
+    "publishedAt": "2026-11-18T14:38:20.000Z",
+    "discoveredAt": "2026-11-19T00:02:29.883Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-72b6af2948",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaEZ0cXZzMEZ1TGNXZXE0T2tHNVotZl9KMHFtTzVjd0F3VW5nOU4zRkJPMHNJNGJJSkc5WEZPNkRWeF9pUGZFaXd6WlNsa2dYNWh3eGJvYVowd0lQaWlPdGpUQ0VCcVo5R0t5WGotRElvdHdUX1B3ODhWWUotQU5XNnRqVVAzektiTGpodDEtR2pEcDhCUmltY044QWZGVnotM2ppVl80RlZrQUVMZVAySmhlbmxuR0tuNjBQQlBaTzBqNFQxb3llZg?oc=5",
+    "title": "All PS5 users forced out of accounts as GTA 6 executes strictest measures yet",
+    "publisher": "GAMINGbible",
+    "publishedAt": "2026-11-18T13:01:04.000Z",
+    "discoveredAt": "2026-11-19T00:02:29.883Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-107aca937b",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNU3Z2eTU0UkhGYnFEQnBzSEw0TXdiNVRQZncydWJhMVEzYWFhLXdraF9maV9TZDFNdWgwNzZHT0lZXzU3SFlhYmZvdzVDaGhhVDdRd0Zxc191bTQ0WE44bkoxSXRhZ0VHeVU2VEJDUXhLM2RjNS1TNDI0Q1NHQlNNci1vWWJlajVhZUc5ZHRwaXpRQ3gzRUt3QnJPWUswUlotRkd3WnNOb3BRUUZoLVJOWHZlcDhXbnpuWGRDUmduOEtmcG40aHFXYXExMU9lX3N1Tkhoa1BiU1B6ZFQ4aF9BLQ?oc=5",
+    "title": "'I'm going to miss GTA 6' Here's the bizarre moment a killer sobs that he's going to miss playing GTA after mudering his ex-girlfriend",
+    "publisher": "Facebook",
+    "publishedAt": "2026-11-18T20:13:00.000Z",
+    "discoveredAt": "2026-11-19T00:02:29.883Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-a3302b46b7",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOak5FOWRZekkyWFJCdGJyWlFQOGZSYzFwcEJpQWdSeU51VDNfZDVSOUdIYlV0VThqdWRRd2p1VjV1ZlRhWkUzOER5THJjaHBQQnJVR2RiLVNYdFpXSU5qMU9CV3p3d3BMR3hDWi1JWWhieHhfWmxOdTBJaExraEFBT3FkbVFQVlZaQ2NXaWN2dV9IS3FUYUNsNkZhVFdWWXh2Zktjcw?oc=5",
+    "title": "Grand Theft Auto 6 hacker pleads guilty to all charges",
+    "publisher": "PC Gamer",
+    "publishedAt": "2026-11-16T19:40:15.000Z",
+    "discoveredAt": "2026-11-19T00:02:29.883Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-70ad91c65b",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe3c9a5ab54f039ac8e33d25fc4d73&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fgta-6-album-leak-lists-dua-lipa-lana-del-rey-and-jennie-songs%2far-AA2hDf23&c=18435614101713650144&mkt=en-us",
+    "title": "GTA 6 album leak lists Dua Lipa, Lana Del Rey and Jennie songs",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-17T08:52:33.000Z",
+    "discoveredAt": "2026-11-19T00:02:29.883Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-358bf20c8a",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6afe3c9a5ab54f039ac8e33d25fc4d73&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fhacker-pleads-guilty-to-gta-6-leak-days-before-game-release%2far-AA2hFaKm&c=8745103539517710346&mkt=en-us",
+    "title": "Hacker pleads guilty to GTA 6 leak days before game release",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-17T19:59:29.000Z",
+    "discoveredAt": "2026-11-19T00:02:29.883Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-004",
+        "LEEK-CLM-018"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
