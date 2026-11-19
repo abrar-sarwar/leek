@@ -15190,5 +15190,65 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-ebe450a21b",
+    "title": "GTA 6 Online Mode Leaked",
+    "reportedAt": "2026-11-19T11:24:37.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Dam83eWFKVG51SEh1cFRTV0RrUjJOQXVabXR4WGk0VWY3NmZIZ2ZfSnh2bEo4WDh2bHBTelJxa25xb3ZJV0JXbG1XbW12VndveXFyUHU0MHJheTNYVFBCX2REYUtMMVE1cVE?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-37bf4cbd2a",
+    "title": "GTA 6 Album Leak: Dua Lipa, Lana Del Rey in 34 Tracks",
+    "reportedAt": "2026-11-18T15:20:51.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUFNpNzhLSFFIUURDSEs2MjdKM3RWWVV1bkZRcExmNDAtLU5vOTFqLXlzcGFmelJHVDhpMTRYVDAyMEpvQWs4cFVrZlhhc0h0TGo0eHNHaVpIUFRscFFRZUt3NXplNjBsSEZKc3REUnZ3MnJnNVF6NDdjN0cyVzRQWWJ1WQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-2f0ff337b5",
+    "title": "GTA 6 Releases November 19, 2026, Leonida Map Allegedly Leaked! Here Are the Facts and New Regions in the Spotlight",
+    "reportedAt": "2026-11-19T05:57:51.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiekFVX3lxTE1wLWIzR2FrelBzbVJzaGJLTExzZnF0SC14ejFvQnVUMUcxY1NoY1AwZloyNjJPSjF5R2VSRUpfSjRKdGI0cXFGdjYtdk52WDM5Wi1xdmFSS2hFYnE5N3VGSW9zZnZtVWtXbHNRYTNnUWgxSG5nZFRRYlhB?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-eb6b482c4a",
+    "title": "GTA 6 Soundtrack Leaked Online a Few Days Before Release: Featuring Dua Lipa, Travis Scott, and JENNIE - Судово-юридична газета",
+    "reportedAt": "2026-11-16T21:30:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUUktaF80X0ppSVVyUHIwUlR4aDVlRzI4dU9mZ2NUUVZQbmdCdHVOVHdxYnVjZldHWWJNZVVMWFZXRURQMGZ6eXNOSFg0Z25JRG5lcl9FektQUks0ZVNkemx4aHZWYTFRbEZuWUNMSkowMzctZGhzNWhJTDduNnlrZC1kMWVRWmxnNmIzX2RZY3VRVmxsSGJIQkY1THdYZ3JXNGwyOFJLaEdCNlFBc3ZUUmJTekNsQjZzdmpCcnVJbzRxX3dseUJDbGdOanRvUQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-8ddf1ff95f",
+    "title": "GTA 6 hacker behind original 2022 leaks pleads guilty just days ahead of game’s launch",
+    "reportedAt": "2026-11-16T15:04:23.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVWxlSmMxUDYxNXZ4SXVrem9QdzFycXZTWVgxLTRoRkUwZC0wWHBYVkxneEtXOUNOQWktVFIzVjVjTmpWOXZLR3hfSnNJUThzNC04ZnA2b3h1bktJTlp4LXJFb3JQSGx5X1pvTF9DaFRveXlJZjVpa1plaFlFT2hvUWlLRFlBdFVaTWc?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

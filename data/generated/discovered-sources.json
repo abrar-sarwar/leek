@@ -48654,5 +48654,177 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-ebe450a21b",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Dam83eWFKVG51SEh1cFRTV0RrUjJOQXVabXR4WGk0VWY3NmZIZ2ZfSnh2bEo4WDh2bHBTelJxa25xb3ZJV0JXbG1XbW12VndveXFyUHU0MHJheTNYVFBCX2REYUtMMVE1cVE?oc=5",
+    "title": "GTA 6 Online Mode Leaked",
+    "publisher": "OpenCritic",
+    "publishedAt": "2026-11-19T11:24:37.000Z",
+    "discoveredAt": "2026-11-19T15:28:13.073Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-d3a9d7de37",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbnprMEg2WnVKaVZIaXdoNDBrRUNMX0pBdXFnb091T0RfQkpuRkxrakJBR1ZILWhTT19QQ0VMSTIyTHRGOUVtLTJxUFhtNE1yRVg3anZRb0RnamhTbk0yYnV6dVlOM0trczE0ODBpWkdhNk1BVTc3d2UtQ1QtdFlOMGJuN0xpVndnMFJDb3pIeFBMOF9XNEE?oc=5",
+    "title": "Blockaid Warned of a Wave of Crypto Scams Amid the GTA VI Release",
+    "publisher": "Incrypted",
+    "publishedAt": "2026-11-19T14:48:56.000Z",
+    "discoveredAt": "2026-11-19T15:28:13.073Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-7bc62c6853",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9FZXlTaHhnZGYwNmZDZzlLelQxSFg5Ykk0dkxkazBkUEpmTTg2TWZ5NHVPQjlnUF83cEJmRF9MQmwwMUdJdnVlTVpBZXZyVGVtTUlDWEZpVFJKN0lsYXZRNk92VEw1QTU5aHhOUE53?oc=5",
+    "title": "GTA 6 Score: Justice, Pusher and the Launch Trailer Song",
+    "publisher": "MNEEMO",
+    "publishedAt": "2026-11-18T08:07:27.000Z",
+    "discoveredAt": "2026-11-19T15:28:13.073Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-37bf4cbd2a",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUFNpNzhLSFFIUURDSEs2MjdKM3RWWVV1bkZRcExmNDAtLU5vOTFqLXlzcGFmelJHVDhpMTRYVDAyMEpvQWs4cFVrZlhhc0h0TGo0eHNHaVpIUFRscFFRZUt3NXplNjBsSEZKc3REUnZ3MnJnNVF6NDdjN0cyVzRQWWJ1WQ?oc=5",
+    "title": "GTA 6 Album Leak: Dua Lipa, Lana Del Rey in 34 Tracks",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-11-18T15:20:51.000Z",
+    "discoveredAt": "2026-11-19T15:28:13.073Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-3b09712cf6",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSHR3WjR6bzVIVHp3SHpxTzZkenZudjQwV1Jmd2dsUHZlNkc2S2RLTXhKekxPNTNGMnJ6WTlWNFZlOEQtOVVDd2tNLXJMS3d1Q3RzZGVZLXU5b2ZyNjdzRGtjU2kwMUJ1ci0zTERHZUd5bldmelhVZlJFNFlONlNJQUthZEV4RGIy?oc=5",
+    "title": "GTA VI Reviews: 99 Metacritic Score, 147+ Critics",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-11-17T18:42:45.000Z",
+    "discoveredAt": "2026-11-19T15:28:13.073Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-2f0ff337b5",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1wLWIzR2FrelBzbVJzaGJLTExzZnF0SC14ejFvQnVUMUcxY1NoY1AwZloyNjJPSjF5R2VSRUpfSjRKdGI0cXFGdjYtdk52WDM5Wi1xdmFSS2hFYnE5N3VGSW9zZnZtVWtXbHNRYTNnUWgxSG5nZFRRYlhB?oc=5",
+    "title": "GTA 6 Releases November 19, 2026, Leonida Map Allegedly Leaked! Here Are the Facts and New Regions in the Spotlight",
+    "publisher": "Aktualita.co",
+    "publishedAt": "2026-11-19T05:57:51.000Z",
+    "discoveredAt": "2026-11-19T15:28:13.073Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-eb6b482c4a",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUUktaF80X0ppSVVyUHIwUlR4aDVlRzI4dU9mZ2NUUVZQbmdCdHVOVHdxYnVjZldHWWJNZVVMWFZXRURQMGZ6eXNOSFg0Z25JRG5lcl9FektQUks0ZVNkemx4aHZWYTFRbEZuWUNMSkowMzctZGhzNWhJTDduNnlrZC1kMWVRWmxnNmIzX2RZY3VRVmxsSGJIQkY1THdYZ3JXNGwyOFJLaEdCNlFBc3ZUUmJTekNsQjZzdmpCcnVJbzRxX3dseUJDbGdOanRvUQ?oc=5",
+    "title": "GTA 6 Soundtrack Leaked Online a Few Days Before Release: Featuring Dua Lipa, Travis Scott, and JENNIE - Судово-юридична газета",
+    "publisher": "Судово-юридична газета",
+    "publishedAt": "2026-11-16T21:30:00.000Z",
+    "discoveredAt": "2026-11-19T15:28:13.073Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-abcdd5e5b9",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5yTnlwR2YwWnBzb1plZnYtd1FleUJaNGFWTFBCeG5rNTRoM3o2TVRiZlVBTXlSak1ZRXNPdHZxdm1qYzBkMU9fek5ldTZyUklkdHVIMmtGc1NnbktNTTZ2cThfYWd6QWV1MmxUb1liNmtIVUNpTE5RUGFCbUI?oc=5",
+    "title": "Rockstar Just Confirmed Where It Stands On The GTA 6 FPS Controversy",
+    "publisher": "BGR",
+    "publishedAt": "2026-11-18T21:40:48.000Z",
+    "discoveredAt": "2026-11-19T15:28:13.073Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-8ddf1ff95f",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVWxlSmMxUDYxNXZ4SXVrem9QdzFycXZTWVgxLTRoRkUwZC0wWHBYVkxneEtXOUNOQWktVFIzVjVjTmpWOXZLR3hfSnNJUThzNC04ZnA2b3h1bktJTlp4LXJFb3JQSGx5X1pvTF9DaFRveXlJZjVpa1plaFlFT2hvUWlLRFlBdFVaTWc?oc=5",
+    "title": "GTA 6 hacker behind original 2022 leaks pleads guilty just days ahead of game’s launch",
+    "publisher": "Yahoo",
+    "publishedAt": "2026-11-16T15:04:23.000Z",
+    "discoveredAt": "2026-11-19T15:28:13.073Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
