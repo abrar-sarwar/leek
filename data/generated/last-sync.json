@@ -1,15 +1,15 @@
 {
-  "ranAt": "2026-11-20T00:25:03.800Z",
+  "ranAt": "2026-11-20T15:04:17.203Z",
   "feeds": [
     {
       "name": "google-news:CyberLeek",
       "ok": true,
-      "items": 66
+      "items": 71
     },
     {
       "name": "google-news:Cyberleek",
       "ok": true,
-      "items": 66
+      "items": 80
     },
     {
       "name": "google-news:GTA VI leak",
@@ -19,58 +19,57 @@
     {
       "name": "google-news:GTA 6 leak",
       "ok": true,
-      "items": 100
+      "items": 102
     },
     {
       "name": "google-news:Take-Two CyberLeek",
       "ok": true,
-      "items": 51
+      "items": 53
     },
     {
       "name": "google-news:Rockstar CyberLeek",
       "ok": true,
-      "items": 61
+      "items": 66
     },
     {
       "name": "google-news:CyberLeek Microsoft",
       "ok": true,
-      "items": 30
+      "items": 31
     },
     {
       "name": "google-news:CyberLeek Discord",
       "ok": true,
-      "items": 31
+      "items": 30
     },
     {
       "name": "google-news:CyberLeek subpoena",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP 429"
+      "ok": true,
+      "items": 27
     },
     {
       "name": "google-news:CyberLeek dead man switch",
       "ok": true,
-      "items": 42
+      "items": 22
     },
     {
       "name": "google-news:CyberLeek arrest",
       "ok": true,
-      "items": 10
+      "items": 9
     },
     {
       "name": "google-news:CyberLeek $CYBERLEEK",
       "ok": true,
-      "items": 10
+      "items": 9
     },
     {
       "name": "bing-news:CyberLeek",
       "ok": true,
-      "items": 11
+      "items": 12
     },
     {
       "name": "bing-news:Cyberleek",
       "ok": true,
-      "items": 11
+      "items": 12
     },
     {
       "name": "bing-news:GTA VI leak",
@@ -80,7 +79,7 @@
     {
       "name": "bing-news:GTA 6 leak",
       "ok": true,
-      "items": 11
+      "items": 12
     },
     {
       "name": "gdelt",
@@ -95,8 +94,8 @@
       "error": "HTTP 401"
     }
   ],
-  "discovered": 2356,
-  "newSinceLastRun": 29,
-  "pending": 1289,
+  "discovered": 2390,
+  "newSinceLastRun": 34,
+  "pending": 1305,
   "analysisMode": "rules-only"
 }
