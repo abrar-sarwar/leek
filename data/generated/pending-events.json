@@ -15250,5 +15250,221 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-4e156a7054",
+    "title": "Infamous GTA 6 leaker CyberLeek is back, and this time the group claims to have leaked a full development build of the game",
+    "reportedAt": "2026-11-19T21:08:50.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01M1VfaUxoZVA3bXVHRkxnMExKUDhQaFl2Z2FmZkV6elVFQ3ZXVG9HT0syR3gxX0tXVGMyX2gtTEVIQ20zRlk2MnBrcXhTY1FCS0d5ZmFpSjZvNG5PRm1vcw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-dbdf21768f",
+    "title": "Cyberleek claims to release development build of GTA 6",
+    "reportedAt": "2026-11-19T20:27:49.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMinAFBVV95cUxObDc1UUhvWldjTk5tM2N5UVFocHR3X3hwN3c1RDdFRnEwMkF6bG91b1dlNzZNWHdMYUJYZkFnZzJWSDhoU2U0RzRWZGExMVBueWgyaXRTbHBabW0tYkY3YU9JZUFrZVBEOWpNckZscFB6cVBEWThwcEQ0TWd3SlBGc2ZHMDNzeTJHb0FfbkRLcE9rZ190UVJVREtxSzY?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-ad01d8cac9",
+    "title": "GTA VI Xbox build allegedly leaked by Cyberleek",
+    "reportedAt": "2026-11-19T20:10:53.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaFRKbnN0UjQ4LWdscDY0MDA0NVYzOUN6dmxIdU9sTVA1UEVQb3VCZHlwTm1sUm9WUGFSUWROSzlmNEJ3YTdZalFXT3dRRkJHb0dTYXQzdlJCMkw3OTZzbE5FR0pQSUxKUDhXcjBDMG9GeEFnMEp4WGpheWRabHc3Ug?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-bf585d4bca",
+    "title": "GTA 6 Leak: CyberLeek Claims 209 GB Xbox Build Is Out",
+    "reportedAt": "2026-11-19T20:41:44.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdmNIYTRMRkJfdHhEMlVjeFdjdTc0elV1TGpJNGZPUVpoZjJNcVlOVWhHNGJwRUs2YjJYbHJVUWlwSWQ2RDZnM2F2VEppczRXQ2U2dkp5a1VjQ0tCZGxjenJ3MWt0ckNTeDBvVlBBQ3Jmb3pPbHhpM3g2cE05b2pobGRBZ1VfSDQ4eDlOT3NnRzktRDlXb0tRdFFic3hNaVpFdlppWjNzdTVZcURFaTNyTkxBeGdTRlBnaGZkek9Gaw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-2608f44777",
+    "title": "Cyberleek claims it leaked a GTA 6 development build—minus the file that runs it",
+    "reportedAt": "2026-11-19T23:20:02.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5KVVRIQkdmZGlleG5RX3dmQmRNcTRvQUJjLWotT19aWlh2ZUE5TmUtUWhJYzVJd21KZ25oSHQ1TENwcEk1bXpB?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-cbe288b527",
+    "title": "GTA 6 Xbox Build Allegedly Leaked by Cyberleek, 209GB Files Surface Online",
+    "reportedAt": "2026-11-19T20:58:51.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZFY5aTJkMTlvNUxlUGxIZ0hDWExrT2Vtb0QyUGF6ekhmV0RVNEdPZi12TEFITmFzUkZUcGh5QUs5TUd3YmZEeGY4dEhYdXM5bjJZeTA0STRLcFBPeHNJU1l6aEE0eC1EcEtuUE5rUlNjZ1lONkdUZWViaFU0ZlJVU2hyRWlSWXNxTENUdmJ4eWpBc19iQWRDLXBEUjNlTnRKYlljdFJPZTlTOENObEU0ajNjdHE?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-c24e232a04",
+    "title": "GTA 6 Xbox build reportedly leaked by Cyberleek, but it's not playable, yet",
+    "reportedAt": "2026-11-19T21:38:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUDQwaWxkZ2lyOTdzeC1veHpJZWdkRXhuaERtdm5yZjk3OHgxNmNBQmF6SFN5X3JLZFZncWFUellxYkZWWHN0aUx4d1hjQ0pwMWdSQ25IVVRYWDRZdnMxTDA4WVVXVzNjYTVUa2tjQ3FfaHhPQjNMTGpuQ1JrNVp4SGFLYWp6RlY0VHd0RDhoRW1hNnZDR2VSVV8wS0ZReGZfcjFN?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-d529ad8cce",
+    "title": "GTA VI Leaker Releases 209 GB Xbox Build Without Main Executable",
+    "reportedAt": "2026-11-19T21:36:16.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HQ3NoZlp3YmZZUk5vWXV6MEczZjJPb0ZzRXRpQ2pIOGJ1bzVHTHZPLUdhSktiU1RpbDhtQk50WEhUSHczU1V5cFFSTlM5amFGbmhlbm0yN09uZkZf?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-3568229bc1",
+    "title": "The GTA VI Leak Cost Rockstar $5 Million. For Most Studios, That Wouldn't Be the Biggest Loss",
+    "reportedAt": "2026-11-19T18:46:24.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb1NuWnh0c1pDZ01kWWJuQk9OVFM0R2F6eVFqUWtMUlFmMW5JQ1VSNlZ1QWltdWRiR252Ym5PaFRYME56NzRQRWNCLThOUVczNVRNcEVBZXM0UXpaekFzem9HQUFQanNGd1UtWjlfYzQ1OW5jZ2FiT2psNDU0emRGWGhyR1JPX3lsS1JfamFyb1lGMlhYSUtJR3l0empiaFZKVFZBQmFRTXFLZzIxdm9mS1k2SHVjZHhnM1dDajFDV0NtOTA?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-1ca9129f1e",
+    "title": "GTA 6 could require Ryzen 7 9800X3D as leaker thinks \"most PCs won't hit 60 FPS\"",
+    "reportedAt": "2026-11-19T12:15:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcUhxOXg2WjRXRU1rRGtlTjhja2EwdllrVGQ1ci1OTm1UNGlfUHhuRGtTa041VWtKdkpnemdJWDhzd3FkRk1vaEpHUEhLb1dKS1RXMTh1Vk1wMkxNNXZNWjRfSkt1azRYYnhkR29ac3hsdDNBZ0NnMHA1RzVTWGNXTEFfNlRhXzFuQVBIdnA2a0I2Y3hUcWFMV3p6d3JwOUJVX3RKR1B1ZGxBcExoeEVMaFIzc18zQkVqVEoxakR0a3I?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-9ae60f30c7",
+    "title": "GTA 6 Gameplay Clips Leak After New Zealand Launch",
+    "reportedAt": "2026-11-19T19:42:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wYVFSaFN5WExYSjh1eS1KUlUyZnBxeWpDLVE2REhuT0h4OWRoMi1mc0VTYm9pbkNQRHNVVTJrSlhSWEFJOE5DQ2V6LVZPQklmeWFabFFBZ21zVWsta2dhUkE4TFk4YzQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-8fe006716a",
+    "title": "GTA 6 hacker who used Amazon Firestick to leak clips & tried to blackmail Rockstar faces jail",
+    "reportedAt": "2026-11-19T11:22:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVThVdEJnbVpSVFB2aGVtTlJNbmIxbTZrRXRBS2FBclZEdzlmMV9XNVlBOTdjQlZyOXVQVV9wTVpHS25QMXFSRTRnZWVCNk9iQU9EUlNRMjRWdGJuLWFQVmFIczhUbnBna3dEZC1WR096b3VpTGsxX0plVGEyRGUzaW5za3dlWC1tN1dxNFpQNS1FdEU?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-db4fc898d4",
+    "title": "GTA 6 music leak reportedly features Drake, Nicki Minaj and Frank Ocean",
+    "reportedAt": "2026-11-19T08:13:52.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOFBRUDVvaFFUNmJBV0RMS3gwQzFQTV8zOFVJM01hWTByMGNoUC04bkFMNDloc0Q0Z2ZtcWF4WTZWanAybzV2WXhSRkJGZ1hhdEVWQzBJdGk4MFdzejdXZ0lrUHFNTFdOTDRQMlVqZEUtNkgxb3dWVzN6bXNNdldycVQxWUg3a3lwNzBZeDgzR3NHbDJ0Mm1pTDl4RUN5UW1ya1ZVWHVHYm9XVnNJYWhGOG1pck4?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-1b3ac7f5c4",
+    "title": "Huge New GTA 6 Leak Headlined By Naked Jason",
+    "reportedAt": "2026-11-10T15:03:03.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5WY0lacUtCalNKWDdQYUhTeHpwaU43aTRzM3gwQWs0eGFYRkJ0VlVMVWpyenBXYVFOclZTMjRHMnZLYVNjOE41cktOM0RVNGV2T2xQOWVuUjFyajBib3EtYmgtR1c2YTA?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-9a6cbb6a92",
+    "title": "GTA 6 leak points to more launch trophies and achievements than GTA 5",
+    "reportedAt": "2026-11-08T02:44:54.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMieEFVX3lxTE5rX1dtNGRQeGlUTVpOS3JfVGNOM1laeW1SaFdkdlJXRGlUNFR2VTVlU0JWbXVpeVZlUFUxeTNCSVQ2V0FidnZyTS1JUHlnMFlEblF0MWNFYnpFejVQVlJTZlVySlM0QnExYkw0dEVEYlNFTmlXcXZBMg?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-d21fc24d20",
+    "title": "GTA 6 Leaker Halts Releases but Keeps Spoiler Trigger Active",
+    "reportedAt": "2026-10-15T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtZnRZbFNyWVRfOGJ3bkl0WTRrNXZTZ2FvQThoNWl1YURZZy1zNXdoc0UxVV9ZS19VQ3g5TEYxRnJfS1U3QlpDOVJ3RkxteDB6emt5TmZpXzF5c215RUg3Y2JTWklyQQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-3eb06ff998",
+    "title": "Hacker Behind ‘Grand Theft Auto VI’ Leak Pleads Guilty to Multiple Charges",
+    "reportedAt": "2026-11-16T12:55:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff9364f9dd43d6a160e27e6eeb06fc&url=https%3a%2f%2fgizmodo.com%2fhacker-behind-grand-theft-auto-vi-leak-pleads-guilty-to-multiple-charges-2000840562&c=13651203980043792332&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-d93f2a3d4f",
+    "title": "Rockstar’s GTA VI Launch Overshadowed By Bitter Legal Fight As Lawyer Makes ‘Caught Red-Handed’ Claim",
+    "reportedAt": "2026-11-19T12:15:00.000Z",
+    "category": "legal",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6aff9364f9dd43d6a160e27e6eeb06fc&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2frockstar-s-gta-vi-launch-overshadowed-by-bitter-legal-fight-as-lawyer-makes-caught-red-handed-claim%2far-AA2hNTgz&c=17660465359769127705&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
