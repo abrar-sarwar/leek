@@ -15658,5 +15658,101 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-ddf046b763",
+    "title": "GTA 6 Leaker Returns, Circulates Alleged Xbox Build of the Game",
+    "reportedAt": "2026-11-20T16:35:45.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM205ZzVpNFVWYlJEaDU1R3RLNXc4VG5yM09oTGNrMG9ZX3lkZmwzQ1d0U19xWXRGbGhjYWpYM3ZIMHAwXzh0Y1lmUF83RUpHRlhGdEhrMDdKbVN4NU9fV1JVZmxIdHlSS0ZUSnpFTndfci1zYU5WLVVjQ0d4cDcwSkJWa0pJSnZmVXJSRHRKMndWTEk?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-889ac3219b",
+    "title": "Infamous GTA 6 Hacker Cyberleek Claims to Have Leaked Development Build",
+    "reportedAt": "2026-11-20T10:27:08.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdkh1bk1HZ25DM1BLMTJTVG5qWGdCdXdQNzFwNFdDSC02d0U3WnVrSXRNbXNZNFhtV0JFYmM2SWh6azFFYnBvMzRJQXc0RzhFU2V1dlNURXp3NlF4Nkx3MDFzQmpGQnp6OXVjaFlrNnhBbmFCQ0Y4dExaeDFYYk5ncTlfdzFUQ2QybkhrQlo2c25QbHJ2QzcxZkRKUi1aQ2dfU0NEUENWd1hmRVNwczhRMUJaMlBIblBhSHl2eFJSWl9JX2JiMFk3bi1QUkRZSVpCRGFvTA?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-0e2915779a",
+    "title": "GTA 6 Leaker Drops Full Xbox Build Minus One File And Threatens To Release It",
+    "reportedAt": "2026-11-20T18:10:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiYkFVX3lxTE56ODQ4OG1OS2VtSkJMVHlIcG5wYk9zVUtOZmswQWN1LWdzaWRWbGZiZXN2alFHZ2h3TW43dGRPUHJlbUE4MzFyY0dMTW9FUTd1WE1zNFROaFdHSGxNVno2a2Vn?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-291ce1678b",
+    "title": "GTA 6 For PC Just Got Closer Thanks To A New Leak",
+    "reportedAt": "2026-11-20T16:00:08.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sN0lxdk02ZENrak5Ud3pMWlNlQmpHS0FiVVplbldIYzk0enp2VWFfdE5IYVM3Qkg0ZzZxQXp3YmdnR0JsdU12elVFMUl4eGtwdTVnc2ZoVThQbXc?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-b3599df3cf",
+    "title": "GTA 6's notorious leaker claims to have released a dumped Xbox build of the game on the internet",
+    "reportedAt": "2026-11-20T16:15:30.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN3p3MUlsUmxUcnpraVBMUHVRQVNGLWRUbDk4N1ZMcjNuRHpkVEY3WVByZG1JUjVUa3NRZUZGSWtyR1E1LTJhV3Y3a0VoYS13dlY1YWoxQlhVSWNHWXF3TGpLN252cnJ2YmdrWnNteEs1cFY0QldBdklOYV9sZWtMTFl3TDhHLVUzQVd2eVc3X3VwWUZkcUx3eEFWV0tKZHB0cEw5VnZBTUwzcHhJVEE?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-7592ee709c",
+    "title": "GTA 6 Xbox Leak Reportedly Lacks Executable, PC Emulation Unproven",
+    "reportedAt": "2026-11-20T16:30:28.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMickFVX3lxTFAwQ0t2MDY4cU1ZZS1KYkYwLTIzeFY1LWZfbjZhekR6OHZ1WktSTzlOcmVZck5EOVVUeHR2bjVJb3NQbnlpRWVPZG5rdE5tTTJlcVA5d0N3RDdqU1FCSW9GSm5XQVIta1hYMkdOejEzWUFpUQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-bbec9c8ce8",
+    "title": "GTA 6's notorious leaker claims to have released a dumped Xbox build online",
+    "reportedAt": "2026-11-20T20:34:01.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLURyazlEX0dYTFAxTVlEbDl3NjJPQVlMWUZScnJ1SzJmQlhGMVpyTHpmbTIybTV3TTRXYWlJNlVmLXZralVFOS0zVGZjblQ0d1FkTDRVNjVJM2d1R1BWdGg1N2dQSlRKWDVzZ1gxRzZydHNDQlYzMGI2bmY4c1lwQ18yS3ZzVk9McmVHOC1lbnZUb3JYZkk0SVdvSkRvLTJoN3c1R1pJSQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-c469e36fe9",
+    "title": "GTA 6 Leonida map leaks nine locations from Selfridges souvenir",
+    "reportedAt": "2026-11-19T09:17:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://zalebs.com/games/leaked-gta-6-souvenir-map-reportedly-names-nine-leonida-locations/"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
