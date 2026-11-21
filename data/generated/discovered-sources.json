@@ -50526,5 +50526,282 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-6a42b3869e",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbkVYZzNGZ01zb0c0cExGZjVRdE85ODg2YU0tekNDTWdUVm5lQUN6dm9ib0puWFhGWTdEZWNOWnhsdHNxN3ZTRzdMVDM1bkd1MVVCTTVJNXhuYjE3c3VyRjJTc0xRdER4akU3Q2NQbHE3bDhYd1BwOEZtbjhpSkJzanBPMA?oc=5",
+    "title": "GTA 6 on PC next week? A leaked Xbox build has sparked a bold claim",
+    "publisher": "MIXED News",
+    "publishedAt": "2026-11-21T01:43:21.000Z",
+    "discoveredAt": "2026-11-21T06:14:37.055Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-006"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-5978b9c3a2",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa0VTQmE1WjhIeTNOSFBsM3B1OGVaVkt3LTdQaEFyN0pfN3FWZlIySk5VYUpMMTRkZ00wdW51UV9rdTRpcGZmWDJlVjFNbzZtUFJfV3VSR1BtZE9ZWGhkb1lqWVVBblJBTU9zSUk0OGpFSTZhS0thMWIyYmxwVXEwZVlmV1I?oc=5",
+    "title": "CyberLeek claims to have released a full GTA 6 development build",
+    "publisher": "Mezha.net",
+    "publishedAt": "2026-11-19T21:17:01.000Z",
+    "discoveredAt": "2026-11-21T06:14:37.055Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-9f04d2b8a9",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE83WGxxdkJzT3MtOUZmN3dtLWI5WVBxT3E0Vm5IYWVXbmtKNlZJXzdJYXFtSFV5VDBqcXJ6RWJOay1rcGpFMUt2VElvNUFZdFhBam1ya2RpeS1oTzBrWlZhZTN3YldvVXVhZEYtYVpWeTNJblBYMnhURQ?oc=5",
+    "title": "CyberLeek: Over 355 domains are spreading fake versions of GTA 6 for PC",
+    "publisher": "SecNews.gr",
+    "publishedAt": "2026-11-20T15:37:20.000Z",
+    "discoveredAt": "2026-11-21T06:14:37.055Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-004",
+        "LEEK-CLM-028"
+      ],
+      "category": "misinformation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-151492773e",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUjdPWWkteDRxMW12M0lxV0xtS2phc0tYX1ZDVUtkenUxcldsdnFleS1YcS00SFBfdlkya0pMeDJ5b25ieXFrZnI4LS1sR1NiaHl1NzdJa0RaTUFaZmQ3SXYtZnVseFRSbVBGN0FyVTdxb2owVF9aaVM0SFJ6X2M2bDM0MjFGb1lxODJzYWw1Tmw?oc=5",
+    "title": "Cyberleek claims GTA 6 Xbox build leak, with executable held back",
+    "publisher": "games.gg",
+    "publishedAt": "2026-11-20T17:53:14.000Z",
+    "discoveredAt": "2026-11-21T06:14:37.055Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-006"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-007"
+    }
+  },
+  {
+    "id": "DISC-d640877e15",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBibzJWVkNLTnBpUEE1UXZITUhuUmg1bjFvN2twdjR0aEcybnp4ZmxEQXEtanFGaDhacGZIWVdyVHktcTd6R1VSSktjT2JnTEV0NHRBdTg4SDlkNEMxLTlab203VlZDMHV2NGc?oc=5",
+    "title": "Cyberleak's leaked GTA 6 build runs into a wall: there is no Xbox Series X|S emulator",
+    "publisher": "Gamereactor UK",
+    "publishedAt": "2026-11-21T04:07:30.000Z",
+    "discoveredAt": "2026-11-21T06:14:37.055Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-006"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-82e81b05c8",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcXJYazQ3eDMyU3AxUUhMYkJ0ejdPMjZCR1NLUlAxU2lFamRMcWRna2FkMHB4T2hZVTdTUTh6dGVROUNwVzVJYzIwd3lUMHNMck44U2JSWkJHdGJ6SkRMR0dIZ3VKeU1Va3FvVld2cC0waEEzTWtPR2hnWE9QRTNFSVByWDZwQnhieDVrTFRyU3k4V2RETmplM1c3WVhuUlVnbEpsLTVSeTZxWU9Yamx6eEloTjhrTjdwb3RMeFY2NUZZdDN5R2R0Q2g4d25BTEFmMzREOQ?oc=5",
+    "title": "The New York Times. . Why did Rockstar Games take a massive swing with Grand Theft Auto VI — a game 13 years in the making? Our reporter Joseph Bernstein, who had early access to the game, joined the “Hard Fork” podcast to discuss the quality and craf",
+    "publisher": "Facebook",
+    "publishedAt": "2026-11-20T21:20:12.000Z",
+    "discoveredAt": "2026-11-21T06:14:37.055Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-026"
+    }
+  },
+  {
+    "id": "DISC-ee52be090d",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSlZBemIzRUpSVjJxSDVyZEJ6VkdLaEV5QnJaWnpBWlgzdXBjNklQX0xrRDZ0UEFCajV0bDhybDl3UEF2RlAxaHUyejhTV3JBWWloSldDVXhVMzVnWXpGb05WT2Rfalg1VmhPdVJHTUZoU2pTRjNCWXJaNzJiZlBSZlV5MS15R1Jz?oc=5",
+    "title": "GTA 6 PC Port Leak: 209 GB Xbox Dump, No Emulator",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-11-21T05:44:21.000Z",
+    "discoveredAt": "2026-11-21T06:14:37.055Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-006"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-62786aa1ba",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NZXZCUHBUOFo0Smt4ZU1ZWGVQYVQtcTR0ejBBNGRxUkR5MmYtR2dUclRKWGt6eGxqNkJ6cC05X3pjWlVyT2s0bFdQTF9FcW5JdXZzVmdQQUJpa1lMZDFMbld6UklhNmJxZDUw?oc=5",
+    "title": "GTA 6 PC port leak: Cyberleak threatens Xbox build dump",
+    "publisher": "GameLuster",
+    "publishedAt": "2026-11-21T03:55:29.000Z",
+    "discoveredAt": "2026-11-21T06:14:37.055Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-006"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-6371aa9dc6",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03VXk0Xy1oNC1BR3NaMXpRcGVxYnpyaWlIRURTTmhaOUJXeTdIQ01QMXRDVXh3cVFDVlNOTXY3TEVQZkNjSXdzbHdQWEVQUV9GWm9lZUxSZ045TWVpLXgtc0tNRGdZOEVhWlZZM0pmNFlIOU1nclp5b2FiTEg?oc=5",
+    "title": "Cyberleak’s GTA 6 leak threat looks more like a crypto pump than a PC port",
+    "publisher": "WellPlayed",
+    "publishedAt": "2026-11-21T00:52:30.000Z",
+    "discoveredAt": "2026-11-21T06:14:37.055Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-86961ce0d4",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJRGphWGxNRFZrTjkyR0l6a25MdHdLVlN6aUFkdk5udXdGR0pqcFhsRzMzTGoxLW5sV1hGNjBNQ2hSR1JDSU9qemo3czQ1Y3VsVWlsbXAzenhqb1VjRUpSNGlkV2hrWmxRY0ljY2tQcUlHRkk?oc=5",
+    "title": "GTA VI on RTX 5080 at 25 FPS: PC Claim Unconfirmed",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-11-20T17:10:40.000Z",
+    "discoveredAt": "2026-11-21T06:14:37.055Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-1b0b18633f",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4Z3BfMUFXbzc4S0J0d1VtQjgwRkplcXFiUEY2bDRVZUN5UzZXVlFyaXpaZ2YzVklNcXk2V01qZzI4VGtyZzJwci0wM0VsVm1sNmQyNGk2OXJEQlhYdmc?oc=5",
+    "title": "GTA 6: How to Find the Nudist Resort",
+    "publisher": "DualShockers",
+    "publishedAt": "2026-11-18T11:03:00.000Z",
+    "discoveredAt": "2026-11-21T06:14:37.055Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-bfa818b6bb",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0136d0c5f84f92a0cc6bf9398d314d&url=https%3a%2f%2ftech.yahoo.com%2fgaming%2farticles%2fgta-6-pc-port-could-214949627.html&c=11593990005594217364&mkt=en-us",
+    "title": "GTA 6 PC port could come from hackers before Rockstar, if Cyberleek makes good on its latest threat",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-20T13:50:00.000Z",
+    "discoveredAt": "2026-11-21T06:14:37.055Z",
+    "feed": "bing-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "Rockstar Games",
+        "Google / YouTube"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-090442340b",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0136d1dea34e52898204d9a5fd8aa4&url=https%3a%2f%2fwww.ign.com%2farticles%2fcyberleek-returns-for-gta-6-launch-to-reportedly-release-a-near-complete-xbox-build-threatens-to-release-the-games-executable-in-days&c=12526006337643249506&mkt=en-us",
+    "title": "Crypto scheme in full effect.",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-20T02:11:00.000Z",
+    "discoveredAt": "2026-11-21T06:14:37.055Z",
+    "feed": "bing-news",
+    "query": "Cyberleek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-006",
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

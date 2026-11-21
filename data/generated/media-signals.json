@@ -6694,5 +6694,37 @@
     "domains": [
       "zalebs.com"
     ]
+  },
+  {
+    "date": "2026-11-21",
+    "feed": "google-news:CyberLeek",
+    "count": 4,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-11-21",
+    "feed": "google-news:GTA VI leak",
+    "count": 7,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-11-21",
+    "feed": "bing-news:CyberLeek",
+    "count": 1,
+    "domains": [
+      "bing.com"
+    ]
+  },
+  {
+    "date": "2026-11-21",
+    "feed": "bing-news:Cyberleek",
+    "count": 1,
+    "domains": [
+      "bing.com"
+    ]
   }
 ]

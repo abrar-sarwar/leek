@@ -15754,5 +15754,65 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-6a42b3869e",
+    "title": "GTA 6 on PC next week? A leaked Xbox build has sparked a bold claim",
+    "reportedAt": "2026-11-21T01:43:21.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbkVYZzNGZ01zb0c0cExGZjVRdE85ODg2YU0tekNDTWdUVm5lQUN6dm9ib0puWFhGWTdEZWNOWnhsdHNxN3ZTRzdMVDM1bkd1MVVCTTVJNXhuYjE3c3VyRjJTc0xRdER4akU3Q2NQbHE3bDhYd1BwOEZtbjhpSkJzanBPMA?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-d640877e15",
+    "title": "Cyberleak's leaked GTA 6 build runs into a wall: there is no Xbox Series X|S emulator",
+    "reportedAt": "2026-11-21T04:07:30.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiakFVX3lxTFBibzJWVkNLTnBpUEE1UXZITUhuUmg1bjFvN2twdjR0aEcybnp4ZmxEQXEtanFGaDhacGZIWVdyVHktcTd6R1VSSktjT2JnTEV0NHRBdTg4SDlkNEMxLTlab203VlZDMHV2NGc?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-ee52be090d",
+    "title": "GTA 6 PC Port Leak: 209 GB Xbox Dump, No Emulator",
+    "reportedAt": "2026-11-21T05:44:21.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSlZBemIzRUpSVjJxSDVyZEJ6VkdLaEV5QnJaWnpBWlgzdXBjNklQX0xrRDZ0UEFCajV0bDhybDl3UEF2RlAxaHUyejhTV3JBWWloSldDVXhVMzVnWXpGb05WT2Rfalg1VmhPdVJHTUZoU2pTRjNCWXJaNzJiZlBSZlV5MS15R1Jz?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-62786aa1ba",
+    "title": "GTA 6 PC port leak: Cyberleak threatens Xbox build dump",
+    "reportedAt": "2026-11-21T03:55:29.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NZXZCUHBUOFo0Smt4ZU1ZWGVQYVQtcTR0ejBBNGRxUkR5MmYtR2dUclRKWGt6eGxqNkJ6cC05X3pjWlVyT2s0bFdQTF9FcW5JdXZzVmdQQUJpa1lMZDFMbld6UklhNmJxZDUw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-bfa818b6bb",
+    "title": "GTA 6 PC port could come from hackers before Rockstar, if Cyberleek makes good on its latest threat",
+    "reportedAt": "2026-11-20T13:50:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0136d0c5f84f92a0cc6bf9398d314d&url=https%3a%2f%2ftech.yahoo.com%2fgaming%2farticles%2fgta-6-pc-port-could-214949627.html&c=11593990005594217364&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
