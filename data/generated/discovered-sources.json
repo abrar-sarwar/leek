@@ -50803,5 +50803,283 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-96431066b9",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdS1QOTZjY0thVTlDUndYUTJPc3ZiUlFHUlV6R2R4Mm5TY05hcV9sWm9mUXUzRXZSdm9wcWd5OHVoR1ozQ1UzbXR2WG5GTGRCNElUUV9hMVdIVXo4bHplZ0MzUjJvV0xvOEFZVmlzWUhWOTJQQjZ0RzhyVnRydHdmdDB2bm4?oc=5",
+    "title": "GTA VI Leak by CyberLeek: 5 Claims, 1 Missing File",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-11-20T07:14:03.000Z",
+    "discoveredAt": "2026-11-21T18:52:34.127Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-cc8be582fa",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPVnVYYVYwY1RNMkVBVlowZDJ0anQ0elU0ODJpZ3N3R19ucG5oeTdTQzRHY3p3SktmZGUteGVVSjlRekRsR1BEN3U3d2h0V013QUVNSnJsaXVTY1lrZUtLOFVQWkFfX3c1YzBpZ0xwNjF5WHJrX1E?oc=5",
+    "title": "GTA 6 Leak Tied to $15 Million Crypto Goal as Pirated Build Spreads",
+    "publisher": "BigGo Finance",
+    "publishedAt": "2026-11-21T18:25:00.000Z",
+    "discoveredAt": "2026-11-21T18:52:34.127Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-007",
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-661e42d4e4",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeDVoTzVfczI2LUF2M0RwMUFpTnE3dHRid2U4QlBNN0c2YzlLdXhoMWxiMXZuSzYyaFRmTFdiNnZ4NHBOQlpZUWtfdjhCdzZGYkVXUlAtRjdqb2llT2RkNEMwY0tobTlDNHEtRk1KS0NQSlBiZE9rYmdra1l2U0xBSmxrS3psOWxSbFpnZGtn?oc=5",
+    "title": "GTA VI First-Day Sales: $3.79B, 4.7x GTA V",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-11-21T12:59:09.000Z",
+    "discoveredAt": "2026-11-21T18:52:34.127Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-6c0ef3f22b",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPemlMbjVKNVpWMFNMRXJiWGRQM2NlLVEzT1U2RnRjR0VNNlIyOV93NV9fYWVzU05wSGliUnB1am5Tb1ZqdnRsUHNFVU9JZklYblVhX2ZrNjVhdy1KQXZGckVmUHRBNnMxZ0loQmhzTWZsdGsxT2xqaDIxVDdpSVdjdDZSRUZkY1IyQXFfa21ydVFGb2ZCSGl2WWp6Nm5oYjVrTW1IQlFKdEtfNFl3ZzVucEN1b25OUTd5YXkwSHNTWUQyRTc0SFZF?oc=5",
+    "title": "GTA 6: PC gamers welcome unofficial PC port despite potential damage to the industry",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-11-21T09:43:00.000Z",
+    "discoveredAt": "2026-11-21T18:52:34.127Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-bd0044a7e2",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12aGdvUDVGMjFmYlMxUUtRNzdoRGl2X3hBTG1kNFF1a2xaNFRrZjhWZEFDV2NrUWhZalBlUE5jaFg2Mk1kZ2otSE1rcm1qN2NBN1ZpOTJ5NExvVDha?oc=5",
+    "title": "How ‘Grand Theft Auto VI’ is reshaping gaming, entertainment and workplace routines",
+    "publisher": "Indianapolis Recorder",
+    "publishedAt": "2026-11-20T17:11:47.000Z",
+    "discoveredAt": "2026-11-21T18:52:34.127Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-0ad0006d26",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSU1QUExOdDJGZDRZZWpWTjJUOVRZZV9jQXllbjZXamRJNWxNbktWVWFWUE1rWnRaaHBRSktVbW1Fa1c3bmp0LXFXN2RHZkIxdmxNcTZVYzdrN0IwekhuZnV5TTNldnVVUXloNDBXcWQyWkZtYlRBU2g0RlkwQm9xYVFDVHEtaWg4aWxNLVFYYTZsZw?oc=5",
+    "title": "GTA 6 Quietly Mocks an Infamous Donald Trump Florida Moment",
+    "publisher": "Polygon.com",
+    "publishedAt": "2026-11-21T09:20:18.000Z",
+    "discoveredAt": "2026-11-21T18:52:34.127Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-3ca99571df",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdmd1bDhjUlAtUlBMMkZ1SWkxczUwSG1vV1J2UXVDREMxb2VvMmM2eExSSWhpN3pCNVNlXzJqemxndnNlTjhfYnBoUHFuSEUtVUJqcktXZTdRbGYtNmZYTHFRTHhRdlBmZmxYb0lLel9ONkJGVEFnVVdiRzNHYTRibUVOaw?oc=5",
+    "title": "Cyberleak GTA 6 Threat: $15M Token Pump or PC Port?",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-11-20T02:43:03.000Z",
+    "discoveredAt": "2026-11-21T18:52:34.127Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-c8232d1f03",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRVlQUEZPekhrMnJNNkVpNmFKQ29aVnBNUHRIRTRUN09mRjJZOS1KWkktcUFRRk9jLUtham9XSjAweXZ3RG5zZkRuSTBjbjgwODBuOXVFWm5yT1dsMlYwN3BZcHFxMndLUlJtZ3NSX3lTeFJjcTNaQklzXy14X0NZdA?oc=5",
+    "title": "Rockstar Union Ballot: 1,600 Workers Vote as GTA VI Nears",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-11-18T17:14:33.000Z",
+    "discoveredAt": "2026-11-21T18:52:34.127Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-f1da711b73",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HUTY5UU1DWWUtVFhpYXJOelBZWkhKdWJnaUJhc1E5Wmh4dFlQX3VJMUJnQl9RbXl1STdzckhkVDA4cXlaRUE3c1ZhdGV5R1pOaDNCNFo3UklqY0pQWkxsMGFRX0xXZFdCVG9MNjJ2a2NfMU13dnB5a3RpUDBGQQ?oc=5",
+    "title": "GTA 6 Radio Market Flips: XO Tour Llif3 Falls 78 Points",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-11-19T15:34:06.000Z",
+    "discoveredAt": "2026-11-21T18:52:34.127Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-3b2f1a1303",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZWUJxRV9BemJpV3FFMng5QWZSeTU1S25PVU9CZ3R1cGZibTZBNTBYWXBwVDhIbEgtbDF6TGRoMnlaRVhaSTA2OEZDeGVEekFudFlDd0ZTRUpBWGs?oc=5",
+    "title": "GTA 6 leaker might be right about LA Noire 2",
+    "publisher": "Indy100",
+    "publishedAt": "2026-11-21T16:33:19.000Z",
+    "discoveredAt": "2026-11-21T18:52:34.127Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-2d00223f65",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01e875b185432eb88895b411e8b7a7&url=https%3a%2f%2fdecrypt.co%2f383756%2fgta-6-leaker-dangles-pc-port-15-million-crypto-pump&c=2330729120633032213&mkt=en-us",
+    "title": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-21T10:01:00.000Z",
+    "discoveredAt": "2026-11-21T18:52:34.127Z",
+    "feed": "bing-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-007",
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-3df7d4c08e",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01e875efec46d491c8106459235244&url=https%3a%2f%2fwww.el-balad.com%2f17068425&c=7081360099157609232&mkt=en-us",
+    "title": "CyberLeek Claims 209GB Grand Theft Auto 6 Build Online — Cyberleek Gta 6",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-20T02:25:00.000Z",
+    "discoveredAt": "2026-11-21T18:52:34.127Z",
+    "feed": "bing-news",
+    "query": "Cyberleek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-6b98d19b21",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01e8766cfd41e2a3c7ef927cb8caff&url=https%3a%2f%2fthedroidguy.com%2fgta-6-pc-download-fake-scam-1293055&c=7431302707879404268&mkt=en-us",
+    "title": "Is There A GTA 6 PC Download? How To Spot Fake GTA 6 PC Files (2026)",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-20T16:00:00.000Z",
+    "discoveredAt": "2026-11-21T18:52:34.127Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-004",
+        "LEEK-CLM-006"
+      ],
+      "category": "misinformation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-551e83f330",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b01e8766cfd41e2a3c7ef927cb8caff&url=https%3a%2f%2fwww.dexerto.com%2fgaming%2fla-noire-2-leak-resurfaces-after-source-gets-gta-6-ending-right-3430249%2f&c=9169119530701186171&mkt=en-us",
+    "title": "LA Noire 2 leak resurfaces after source gets GTA 6 ending right",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-20T18:43:00.000Z",
+    "discoveredAt": "2026-11-21T18:52:34.127Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "misinformation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
