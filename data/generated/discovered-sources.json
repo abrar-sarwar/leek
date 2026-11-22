@@ -51926,5 +51926,316 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-70fdcaf584",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOTBSZGdpTDFwZEhrNVAxNkxMWS1Ta1Z0TDhlTFpqNi11RHdfdjRHcGZXUGdGVEZBOWNXMWtpMXhUYU92Yzk1ckNVb2dFYV9mUU1fVEp6TEZoMXNkNFNWRjk5Vl9xS0JIanRIcFZmMUZELVhwcnhkZHdsZy1xdFRBWUhCYlE0SnJsVkY0bFlOMHBBU1NMb3pDeVIwLS1tc0RFRFA0eWlPVzJnN3ZMTUNoUmlFMVRZRW9wTVVxN2NCM0laVEVFRkYxc2RlTlVlN0JXV2duUkxOTkZzV2VrdWM3bExR?oc=5",
+    "title": "Cyberleek claims modders could get GTA 6 running on PC within a week after reported Xbox build leak",
+    "publisher": "TweakTown",
+    "publishedAt": "2026-11-22T16:10:02.000Z",
+    "discoveredAt": "2026-11-22T23:25:18.024Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-006"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-47e1fc3011",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbWdWUVg3WTkwb2lLVTY2YkZnclN4Wkh4Nmx3QklfTEpCNTZjVTBURmRTZDQ0MGQ0NXo1NG5KX256a3FORVhVaFhycVRIbDkwTXJhOWJrQlZhaGc3YnFjajFhWk92R3htbWpyZzFBVlRLOXJISU1VQ3E4Mkl4dHhYQmFpamRJTmFaWnFKQnlXSy1DcGtucV9WcmVvUnpBbC1hMmFXYi1FT1FJSUZ5VmFET3JyX2tJcEZQWDhlUzFUaEU0WEJTSVlrUTVSd3k3YnFLMGtpZGIwb3UtdXd6YWVNS0EtdDNUbDliS0ZMdzBB?oc=5",
+    "title": "Can Cyberleek's leaked GTA 6 Xbox build become a PC port? Three GitHub projects are trying, without the executable",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-11-22T20:58:00.000Z",
+    "discoveredAt": "2026-11-22T23:25:18.024Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "Microsoft / GitHub"
+      ],
+      "claims": [
+        "LEEK-CLM-006"
+      ],
+      "category": "microsoft",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-007"
+    }
+  },
+  {
+    "id": "DISC-3030241e80",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWEVCV3pjUXo0T29hNG9VeEYya0x4azJTRnh5VW5CR3k5Q0VCVTVkNm9oTjVwQmZEQkNQeDlTYXc0ZWY3Njg1dndldURZN0o0REs2a2RzMnZFWDd4S3FLYmdXSWZBRUVROHludWJodG5DVDRXbFBINlFQQ3owenpDUWpKb2daRVFRc2NB?oc=5",
+    "title": "Cyberleak's GTA 6 Xbox Build Could Reach PC Before an Official Port",
+    "publisher": "MMOs.com",
+    "publishedAt": "2026-11-22T23:16:24.000Z",
+    "discoveredAt": "2026-11-22T23:25:18.024Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-006"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-66bfb717ff",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcHJpNldRUm1ZUElCYUFvVU5IbnNjZTl4eGVGM1hhSFhuZWQ4R19iT0hCejl5eFJCWG5uUjI2OTBaaXFsZ0JrZ3YybE5FcXBKNFNuVlpfV3dZRDFYZzdORG54NlNWbUJ4LWxPMXhvWVQwZUVlTmZqdVVhUTJyRjVBNjFyYlFnR0lXaGRnQ0g3TDI1WnUwVnhSU3ZTTUtaamhRRGFF?oc=5",
+    "title": "GTA 6 Leak Fuels Xbox Emulator Rush, 188 FPS Test",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-11-22T16:41:15.000Z",
+    "discoveredAt": "2026-11-22T23:25:18.024Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-006"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-7f6eab66b4",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdFM3YVl5enJxS2Y0QXJveU0zbm9wR2M4OUlsb01MU1FQeS1IakpaSF9TVV9FekRIcVdmWjdhNVNGMXZ3YUlDWWRTSk9sZUx5Sm9UeUM3YWZwZl90UTBPcE9ic0VqVUdQbm10NDZhZHFEd1ZKMGlGMnZTUkQ4VzBWVWQ2dm1lT1ZPVXdISGlGdy0?oc=5",
+    "title": "Rockstar Next Game After GTA 6: L.A. Noire 2 Leak",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-11-22T17:13:16.000Z",
+    "discoveredAt": "2026-11-22T23:25:18.024Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-70abf736f8",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMkRSeE5Vc0s5NXQ0bThBVFZoZU1JSUVBQmJTWDBuMk5tLV9oaG5tZXpDYkdRNTZpTkZfbjQ1OTQ2Q2NDd3JoNWxmM0pPelRfaGJlc2tfSG96eVh5d2hNT3QtNmNUelRhaTg2dnkxcWVSMWxmekduTWxNRDU5ZXdaM3BLeTBHbU1W?oc=5",
+    "title": "GTA VI Pre-Order Bonus Now Available To Buy Separately",
+    "publisher": "RockstarINTEL",
+    "publishedAt": "2026-11-22T14:05:33.000Z",
+    "discoveredAt": "2026-11-22T23:25:18.024Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-014"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-07b3dbdf83",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeko2QzJzb1RwSXNyMGFYMUNiZTVFWWdkdlNRRTU0SHBiVnRhZlloNTdpUGRJQVVqRUF3VFVJWE9EdUF1bDVSZWN4R0NCODVManVZZUxUS3VEZmE5YVE2a2dxMmxVUE1rVFAyX2g0cFJnVjR5MmVJdW5wZWR6SFctYTMxRlFaWHhFcHhlR0RhU29UZGZmVUxPX3pVLWpqVHhFQ0R6T2s4ZmNrc0pIVUx6V2g5aGRiMlk?oc=5",
+    "title": "GTA VI PC efforts have already kicked off, with multiple Xbox emulation projects underway",
+    "publisher": "VideoCardz.com",
+    "publishedAt": "2026-11-22T11:12:41.000Z",
+    "discoveredAt": "2026-11-22T23:25:18.024Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-006"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-617bcc7528",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR0FGOWxydWJ1OUIyQ0hDQy1WVXZ4b2NMSU9LSnIzT2JLbGNDMVhRM0ZReFZVTW1fMGVfYk5zUWlQRFJTSl9uSWJQb0ktSnZjbWpaUUVUSG5GbEVCQWZFUmFFdWlyRFV0MFNzZmZ2SklCejdGdXA4NGVraWJMNVpCclkwZllRY1I0a1hVY3k0b002alVzN3lOVA?oc=5",
+    "title": "Grand Theft Auto 6 Might Have Confirmed Rockstar's Next Game",
+    "publisher": "OpenCritic",
+    "publishedAt": "2026-11-22T16:12:59.000Z",
+    "discoveredAt": "2026-11-22T23:25:18.024Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-851fb680c8",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObnl4Qk4wUU1KS0k0TDhZZzZWckNMeTFTTk0xMFRVMEttQXk5dF81RU4yVDBCRlR3djRXT2YxYmRrV0xNdUY3dm9pT1QwZ1NueVNQVFZtMDR2OUhJSXlUcFU0SVY4bExNOXVOTDNpRTdBX3dxanBNTVJIVFkwcVZrYTRqaV9RT29HZ2w4bUhsVURjVlZEcjZDQg?oc=5",
+    "title": "GTA VI Books $3.79B in 24 Hours: Film Claim Unproven",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-11-21T01:14:21.000Z",
+    "discoveredAt": "2026-11-22T23:25:18.024Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-64dd101c07",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbXlGdjFiSlVmNkhKQ3U4bEY2NlMtbkI4M2NUTW5PNE1fbTBjSWsyUHQycjhTVW0zaHRZNWJ2a1hxaTRWMVNvMFJqRUl0R0RYT1o1MUstbndvWkg4Z2VSMnNVVzdyaXNmUG1zU2pTS1dyZjVlVHBfWUFTWC01Ylh1bmhhT09pUkk?oc=5",
+    "title": "$12,000 Galaxy Z Fold8 GTA VI Edition Is Unconfirmed",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-11-20T17:10:40.000Z",
+    "discoveredAt": "2026-11-22T23:25:18.024Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-b35ba81cfe",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbk1LTVlXWGVma2lVUGtKdDFrNGtTTmFUNmtBRDN5eml6Yk0wMV9CY1ItT3g2VU5jV0FlSklSbXlvSTVCdEZPS2pnT284eUxTNWVqdnhvZ2JQS2NOcUtJN0FXbHNXSm5IZTBUbGQxbzVMdENTMU1EeVJHc1JmS0drSnlDTGg1Y1YwMUxqbzFBLUJIY21INDhmLXZpRE5qN2xueENoa29HNlJpVXNBNmVtdWltMHFxRTcxVzhnMUtORQ?oc=5",
+    "title": "GTA 5 Steam player counts surge in anticipation of GTA 6 PC port release date",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-11-22T21:29:00.000Z",
+    "discoveredAt": "2026-11-22T23:25:18.024Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-24ca483771",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaEQxNnhHczVFWGdyaWZ0ZTBabklpS090cXJSbzdmZUFHbzB6MUdsMkR4SHFWRVZSRlNLSWN4MFBMa1lkRzE4WHNmMFFiV2pNbmZSRW04OENXNDhXRWFQYnp3ZjNWNDVubndPNmZTVlI3RU1rc1pWUDI0MTJ1a210SGR0S0hla1FTTGdKOFZPcml6NlVqTm9sc0l3bF90bUk5MzRYbnpTMWx4Mk1hWEN3UjlqYmxKaDV6aEZId0dtYl81SjVEZjFzSGppbkhWTTBTUG5FWUpjcw?oc=5",
+    "title": "Ubisoft confirms Assassin's Creed Jade is still being developed as it merges Creative Houses",
+    "publisher": "TweakTown",
+    "publishedAt": "2026-11-22T16:30:07.000Z",
+    "discoveredAt": "2026-11-22T23:25:18.024Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-52852597b5",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQk1XTVR6aHBhNU5ZbFZydU1Uc081ckRHTFpnc3VuOF8xN2t5bEtFWGpnRVpNajE0SFA0VHhpZUNzXzhHeW4tX1lBbnhLZ0l1WWtjZGMzWkJJQjFldDFNSTdBYzRraVA3Vkc4ODlocHlqdm1CeU1LeDdKSDFXNC1lc002ME9SQm1ZTWdCanlBTUhQSXdSNXZWTEhvWQ?oc=5",
+    "title": "New GTA 6 Leaks Could Happen Soon as Hacker Cyberleek Might Return",
+    "publisher": "EGW.News",
+    "publishedAt": "2026-10-05T07:00:00.000Z",
+    "discoveredAt": "2026-11-22T23:25:18.024Z",
+    "feed": "google-news",
+    "query": "Rockstar CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-ed967d97ae",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGM3FuS0VJU0xaa1JJc3lidDhMMnJrc25HQmpqa2M1S3IwdEJMQ3JvWVh5NjBoam4tUjY5QWdZdHdWOEpxRDlnWjR5VTVkUUdwTFZsQkxUOUQxMFBsTUZvbnhn?oc=5",
+    "title": "Cyberleek Claims to Leak 209GB GTA 6 Xbox Build",
+    "publisher": "SuaraGarut.ID",
+    "publishedAt": "2026-11-20T10:29:24.000Z",
+    "discoveredAt": "2026-11-22T23:25:18.024Z",
+    "feed": "google-news",
+    "query": "CyberLeek $CYBERLEEK",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-006"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-6eafb008ec",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0379e2c525428a9ff7f18b9cfd02e2&url=https%3a%2f%2fbeebom.com%2fgta-6-early-pc-port-rumors%2f&c=5551697219795167532&mkt=en-us",
+    "title": "GTA 6 Early PC Port Rumors Grow as Xbox Build Leaked Online",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-22T07:11:00.000Z",
+    "discoveredAt": "2026-11-22T23:25:18.024Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-006"
+      ],
+      "category": "misinformation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

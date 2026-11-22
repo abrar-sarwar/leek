@@ -16030,5 +16030,89 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-70fdcaf584",
+    "title": "Cyberleek claims modders could get GTA 6 running on PC within a week after reported Xbox build leak",
+    "reportedAt": "2026-11-22T16:10:02.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOTBSZGdpTDFwZEhrNVAxNkxMWS1Ta1Z0TDhlTFpqNi11RHdfdjRHcGZXUGdGVEZBOWNXMWtpMXhUYU92Yzk1ckNVb2dFYV9mUU1fVEp6TEZoMXNkNFNWRjk5Vl9xS0JIanRIcFZmMUZELVhwcnhkZHdsZy1xdFRBWUhCYlE0SnJsVkY0bFlOMHBBU1NMb3pDeVIwLS1tc0RFRFA0eWlPVzJnN3ZMTUNoUmlFMVRZRW9wTVVxN2NCM0laVEVFRkYxc2RlTlVlN0JXV2duUkxOTkZzV2VrdWM3bExR?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-3030241e80",
+    "title": "Cyberleak's GTA 6 Xbox Build Could Reach PC Before an Official Port",
+    "reportedAt": "2026-11-22T23:16:24.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWEVCV3pjUXo0T29hNG9VeEYya0x4azJTRnh5VW5CR3k5Q0VCVTVkNm9oTjVwQmZEQkNQeDlTYXc0ZWY3Njg1dndldURZN0o0REs2a2RzMnZFWDd4S3FLYmdXSWZBRUVROHludWJodG5DVDRXbFBINlFQQ3owenpDUWpKb2daRVFRc2NB?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-66bfb717ff",
+    "title": "GTA 6 Leak Fuels Xbox Emulator Rush, 188 FPS Test",
+    "reportedAt": "2026-11-22T16:41:15.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcHJpNldRUm1ZUElCYUFvVU5IbnNjZTl4eGVGM1hhSFhuZWQ4R19iT0hCejl5eFJCWG5uUjI2OTBaaXFsZ0JrZ3YybE5FcXBKNFNuVlpfV3dZRDFYZzdORG54NlNWbUJ4LWxPMXhvWVQwZUVlTmZqdVVhUTJyRjVBNjFyYlFnR0lXaGRnQ0g3TDI1WnUwVnhSU3ZTTUtaamhRRGFF?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-7f6eab66b4",
+    "title": "Rockstar Next Game After GTA 6: L.A. Noire 2 Leak",
+    "reportedAt": "2026-11-22T17:13:16.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdFM3YVl5enJxS2Y0QXJveU0zbm9wR2M4OUlsb01MU1FQeS1IakpaSF9TVV9FekRIcVdmWjdhNVNGMXZ3YUlDWWRTSk9sZUx5Sm9UeUM3YWZwZl90UTBPcE9ic0VqVUdQbm10NDZhZHFEd1ZKMGlGMnZTUkQ4VzBWVWQ2dm1lT1ZPVXdISGlGdy0?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-07b3dbdf83",
+    "title": "GTA VI PC efforts have already kicked off, with multiple Xbox emulation projects underway",
+    "reportedAt": "2026-11-22T11:12:41.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeko2QzJzb1RwSXNyMGFYMUNiZTVFWWdkdlNRRTU0SHBiVnRhZlloNTdpUGRJQVVqRUF3VFVJWE9EdUF1bDVSZWN4R0NCODVManVZZUxUS3VEZmE5YVE2a2dxMmxVUE1rVFAyX2g0cFJnVjR5MmVJdW5wZWR6SFctYTMxRlFaWHhFcHhlR0RhU29UZGZmVUxPX3pVLWpqVHhFQ0R6T2s4ZmNrc0pIVUx6V2g5aGRiMlk?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-52852597b5",
+    "title": "New GTA 6 Leaks Could Happen Soon as Hacker Cyberleek Might Return",
+    "reportedAt": "2026-10-05T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQk1XTVR6aHBhNU5ZbFZydU1Uc081ckRHTFpnc3VuOF8xN2t5bEtFWGpnRVpNajE0SFA0VHhpZUNzXzhHeW4tX1lBbnhLZ0l1WWtjZGMzWkJJQjFldDFNSTdBYzRraVA3Vkc4ODlocHlqdm1CeU1LeDdKSDFXNC1lc002ME9SQm1ZTWdCanlBTUhQSXdSNXZWTEhvWQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-ed967d97ae",
+    "title": "Cyberleek Claims to Leak 209GB GTA 6 Xbox Build",
+    "reportedAt": "2026-11-20T10:29:24.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGM3FuS0VJU0xaa1JJc3lidDhMMnJrc25HQmpqa2M1S3IwdEJMQ3JvWVh5NjBoam4tUjY5QWdZdHdWOEpxRDlnWjR5VTVkUUdwTFZsQkxUOUQxMFBsTUZvbnhn?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
