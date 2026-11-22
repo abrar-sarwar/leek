@@ -15982,5 +15982,53 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-6de2fcebff",
+    "title": "CyberLeek Claims to Leak GTA 6 Xbox Development Build",
+    "reportedAt": "2026-11-19T22:39:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BOWQ3TWJObGVwZ01jQUtHSlE3M2wzcTJJZ1htNHdLb3lZNnBaUEpwMDRSZXh3cFJEMVZVaENqRnlvMGRNV0ZOYlRiT3FyY0V2aUxuTUdoNVNQcFZSZ2tPR0pFRnJ6SUYzeGc?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-638bb84f7a",
+    "title": "Leonida Brings GTA 6 PC Porting Tools to GitHub",
+    "reportedAt": "2026-11-22T11:48:24.000Z",
+    "category": "microsoft",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KNGJrWENhS1ZacXN5LVNwSVNtU2tQNEpkTXNpYVk1M3dlMTFLUjdEQ2x6M1ZwUmMtRGoyWVhBOFhXYndYYVMwMjZPendfNVp6UHlMU0Y1OVVqdG1HZm1vdWxjNlk4Q2daUjVIVA?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-f35a95bb49",
+    "title": "GTA 6 songs: Full list of tracks included in the game",
+    "reportedAt": "2026-11-18T00:54:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://www.primetimer.com/news/gta-6-songs-full-list-of-tracks-included-in-the-game"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-7049042689",
+    "title": "Grand Theft Auto 6 Leak Comparison Shows You Should Never Doubt Rockstar",
+    "reportedAt": "2026-11-22T05:24:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02f9b2e9c041e699512ee7a0e8ae12&url=https%3a%2f%2fgamerant.com%2fgta-6-leak-comparison-never-doubt-rockstar%2f&c=5644490842754969450&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

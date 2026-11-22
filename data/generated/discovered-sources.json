@@ -51545,5 +51545,386 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-b7df659c38",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wVnU2UUhfWWRNdC0tSjJFQ19NZEpmYU85OXk4OU95b2paaFhEMjctc29HN0g4TnhmenVUdzFkWGFYTkZwdlJVX2dmWnZ2TDJHS3VIa1ZrWkdBT20wdzdKVA?oc=5",
+    "title": "Cyberleek Attacks Surge 35% as Crypto Security Vulnerabilities Expose $500M in Losses",
+    "publisher": "OneBullEx",
+    "publishedAt": "2026-11-21T08:53:54.000Z",
+    "discoveredAt": "2026-11-22T14:18:21.490Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-44aa3cfce2",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPM1N1OXYxWjFtaElLblRZTkFZMWJhWE80WHRURk5NSjZ0Q3ZXRTVOZ25EcFZXdGdKQ1dIaDR0Y2FpV0pVM2QwN3ZDN21OMmlCUWdyOHRrVVFKblRFc2sySHQyeEhwMWl6X3loa0pZZDhiMWplQV85VVJmNlRNRzN0clBNSDNTTmxkampadDBRZ2I3Zm4wTHV3bWdSTlpXWjY2TU5xSUg1c0Y3NHpCcko4OW85NTBJOE1tWWc?oc=5",
+    "title": "Cyberleek resurfaces with a GTA 6 Xbox build leak that's not playable yet",
+    "publisher": "DLCompare.com",
+    "publishedAt": "2026-11-22T07:30:00.000Z",
+    "discoveredAt": "2026-11-22T14:18:21.490Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-001",
+        "LEEK-CLM-006"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-007"
+    }
+  },
+  {
+    "id": "DISC-e06e1f86cd",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNXFGZDRTb3Q4MFZVdDh5a2xLNmFfNjBIOXRNUUt1dmFBeEVuYzhkYXZXTDBhb2tLMGstODdzWUlUWmM3c29rSDV6ZHBqUkE4Q0d4dlJFblpYNHFGalpFdzJVWkZYdGNldW1UN1V5czYzaUV3aUNyNW10X2FaNzQ0eVlvQ25acmxUenRyLUFleTc0eFJpYS1HRDFMbnN0VTBOZFZkQWttcjZjc1Y1LXpfejl5WFhQU2JpUEI0RDlkVkRnZW9E0gHKAUFVX3lxTFB1NWdwR1BZNkVZRE50M1dpU3Q1U2JBUExYb0U2TGtkdkthUzBObWx0bnFuSHotTXQ0M3dnTXBjc29qVTlhYnBqWnNTaUNyNlhZYlU1c2sxSVNhR09FNnBhclh3YVZaSzZqb3BMWkxrb2xLSERDbXhaTElDelR3bnRFX3I4ZXNCLXVEblEwLVNBd19BN3BpMTFtY20zbVNzN2s4UkV3MDFSWS1Tc2J5TFJjUjJaYko0UXlUUlZUSXRnQ2RiTk0tT1BFYmc?oc=5",
+    "title": "Hacker Group Cyberleek Allegedly Releases Development Build Of GTA VI Following The Game’s Launch",
+    "publisher": "mxdwn Games",
+    "publishedAt": "2026-11-21T02:27:53.000Z",
+    "discoveredAt": "2026-11-22T14:18:21.490Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-81b53d14b9",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83ckdPRzByUGJtWXpVUWM2bzN1bnNDWjhWOWc5T29UYXhVdXJSUnVvbGpSTFJ0T3pqdTFyQVZnZWltcU1obTBVdUZkbkZpUkpIMTRYUzJxVnQwN2RBV1JxMFU0NkpaTEFJN0VZ?oc=5",
+    "title": "CyberLeek USD (CYBERLEEK-USD) Cryptocurrency Forum & Discussion - Yahoo Finance",
+    "publisher": "Yahoo! Finance Canada",
+    "publishedAt": "2026-11-20T23:42:00.000Z",
+    "discoveredAt": "2026-11-22T14:18:21.490Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-e4639f11cc",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9YdGhkQ1JOMzNUT01fWGtDTmpHQUNpem8xTDIzYnVGbVRlRjl1XzFPME0tZ0RmTTJZZkRWNG1zTHJ4M0V0dHM1enc4aFNqRHF2Y2NpQ3d1aTJJaFVCSDhF?oc=5",
+    "title": "Cyberleek Claims to Release 209 GB GTA VI Xbox Build",
+    "publisher": "cwibc.co.id",
+    "publishedAt": "2026-11-22T12:17:58.000Z",
+    "discoveredAt": "2026-11-22T14:18:21.490Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-006"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-98a4426e31",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5scXNWUGF1bFdIVEFJbDRLSkxOMVBHb0YzYTluWGNnSWJ6NjNwUWJ0cGd4OGxCUV9xWVctQXMyOFZGQXNCUmdfWHJXM0VEOXMxRlJ0c0dGcy1FZw?oc=5",
+    "title": "CyberLeek Futures Price",
+    "publisher": "CoinGlass",
+    "publishedAt": "2026-11-05T09:48:07.000Z",
+    "discoveredAt": "2026-11-22T14:18:21.490Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-ca32f1d0ae",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84YzcydXNfTnlZeTdmaERlWmRCVzlsN3pFRE5aZElRQWR5b2xCdmo5NDUyVlVRczctajJ0R2tjWXp1VG9aVHVuQ3IydV9OMWd0NkU5S3doYkwwX0FXVXBmbU5zQVN3VERo?oc=5",
+    "title": "GTA 6 Leaker Ties PC Build Release to Crypto Token Target",
+    "publisher": "Demokratis.co.id",
+    "publishedAt": "2026-11-22T10:54:41.000Z",
+    "discoveredAt": "2026-11-22T14:18:21.490Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-007",
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-6de2fcebff",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BOWQ3TWJObGVwZ01jQUtHSlE3M2wzcTJJZ1htNHdLb3lZNnBaUEpwMDRSZXh3cFJEMVZVaENqRnlvMGRNV0ZOYlRiT3FyY0V2aUxuTUdoNVNQcFZSZ2tPR0pFRnJ6SUYzeGc?oc=5",
+    "title": "CyberLeek Claims to Leak GTA 6 Xbox Development Build",
+    "publisher": "Demokratis.co.id",
+    "publishedAt": "2026-11-19T22:39:00.000Z",
+    "discoveredAt": "2026-11-22T14:18:21.490Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-006"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-c85b50c759",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZC1JZDU4dHBqcWpZbExsWXRHY1BESzhFRUlUU1JieDBnV1FFT2lVbDJSNmtxcmxSZWIxTnJxQ2gtSGpiTzBRYmx5UjhmdW1pNDhSdjVDcWF5VTJFUHhma1l5TkZiRXBsNnZuQ2tFY08xWXp3amZGdHQzWkdFNUpaZktHV1RTeWl2dDhCXzUyVDFha3BpYWE0bmlEUzF5WmM?oc=5",
+    "title": "CYBERLEEK Price, CYBERLEEK Price, Live Charts, and Marketcap: nu",
+    "publisher": "Coinbase",
+    "publishedAt": "2026-10-11T19:55:28.000Z",
+    "discoveredAt": "2026-11-22T14:18:21.490Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-a48c7ab29e",
+    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOU2dHTWp1STdGLW85SzV1bHRHd1I3UFZrTTNGVzltWTRCSzI3dFRVMnY3QUR0ckVKVHU3SU52MFBvZGhCRENRS0ZvQ0Y5clBBZE1LQ0pDMzliSi1ZQWhwakQtTjE3MGI5LTlGZHFLZVVrLXlISGEweFh5TEVTOFVjRVI4d2o0NnU0cm1ZUlYwUFBzU0lKZGN5alh5MEZ4NHRsemNBMzl2U3dwcjQ3OWJNYVZ2Nm10NTMybXc2RTlYaGQ2YXFhUXA4UlJEWkFDM1FEeHFsODMzQUhPUUQyLVBUUm8ybWc1NTdkRDhvck4xWllRRFNwVzZtQmRfTFnSAYICQVVfeXFMT19Xck1TTmRIVHpmQlpDRGpLLVNCRkM3ZDdSS3l3Sy1IbmdRZ094V2hvNTI5Q19IMWpWSmpVQnJlcTN4ZEhEV1c2M1M5OVBoWEMwdWtubFFHMGtyeUtfampyM19GRnBGU0htM2g0SWJ6YkR1dHpDdmpINUtCMVZrQVB6LVlOUUtaRlVUeC1hTXFMTG5mQnBoX0RsYUNaVmpGNjV3TWtEMndKeGpYZWdRZ2lnY21TeUNLa3gyVkN6QWFqZm56anl2UGFYWUk4U2o3OTQxaUdmdmFNRlJITXc0bmJ6bFBNN25yeXAyV0tRT1VLUWhCcDlWN2JsRVB3enkxaVRB?oc=5",
+    "title": "GTA 6 PC port rumours grow as hacker claims Xbox build could be playable on computers within days",
+    "publisher": "The Economic Times",
+    "publishedAt": "2026-11-22T11:32:06.000Z",
+    "discoveredAt": "2026-11-22T14:18:21.490Z",
+    "feed": "google-news",
+    "query": "Cyberleek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-001",
+        "LEEK-CLM-006"
+      ],
+      "category": "misinformation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-cc70262a9a",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOWtoWENTRGVOMzUxXzRFQzVLZFhZY1JtRlZkc3F2M2NsNWpsb3dSWFJ5ZlUySkNmSDN1eG4zTU82NHFCUDRIQWdnM2dLZnBhMlZoSkNmV0kwWHFqaWF5QXZjRml0RWpKOFMzeHBWVVFkMEhhY2t4RnZjdXdBYWJPQkpEYjU4S2hwbmdTS2tsUUs1ZTlKY2Vub2F6NkVrV24xbjI4WVMwUQ?oc=5",
+    "title": "Rockstar Games' next game revealed as GTA 6 ending confirms long-standing theory",
+    "publisher": "GAMINGbible",
+    "publishedAt": "2026-11-21T21:52:52.000Z",
+    "discoveredAt": "2026-11-22T14:18:21.490Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-967bd3627a",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUkFHMkpDLUhFcFpxOUpBR3dkNm0yTHdTVVN4d1dteEpUU1BIQ1lmcjZRaTJ5cDlyQ3hCa1lhR3NsU2FVSC1xUTdWc1dYYUtvcUQyLVdTVHpPWlA3MGFSVlM4ZEVSRUhUVWVFQ0xzYV8yT3g5MzgwSG96YkdMbmJKZzU1V29vdUU?oc=5",
+    "title": "GTA VI 60FPS Glitch Discovered And Here’s How To Do It",
+    "publisher": "RockstarINTEL",
+    "publishedAt": "2026-11-22T11:33:11.000Z",
+    "discoveredAt": "2026-11-22T14:18:21.490Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-6d0e5eda61",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWklrVjlFQllzNnFjbllqY2l4ODJTNi1BZzd6UHpZckZJQnhkRy1IV2E4QVdPNTlha2Z5QU93UkRXR1l6bmI4X0l4aXJ0RmREVl9EV1NrWWNzcUlsWWF3clNBRTRnTFZXNzVSWmVOeDR0aVJGaHJyUU1aT19RaFM4LVRrR2JON3ZPdV9vOEZyTktCUG5kZlJBTnM2TzJHUzczV19ENw?oc=5",
+    "title": "The Xbox2Win tool will allow you to run the console version of GTA VI on PC.",
+    "publisher": "GameGPU",
+    "publishedAt": "2026-11-21T23:12:00.000Z",
+    "discoveredAt": "2026-11-22T14:18:21.490Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-006"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-749bd7823d",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRUFJQU1ZaFhpcTQ1amw5R1dEaklPWERUdHR4ZkdPR0ZqUWp5cXpnWkZiZFctQ3BNV09fNUU0eGF3ckNpN2dCejR2UTBnS09mVkpmTExBblktQlpjTHIwUXl6Q0lRM2ZtRjJUNzJrOE80ajN4bjgtRGQ4MDZ5YTRnOFJMWF84MWlKQlNyeENINnlxTzRiZEloc2dIQWEzbzBI?oc=5",
+    "title": "GTA VI’s Jet Ski Dog: EXCLUSIVE Interview With Real-Life Inspiration Owner",
+    "publisher": "RockstarINTEL",
+    "publishedAt": "2026-11-22T10:29:42.000Z",
+    "discoveredAt": "2026-11-22T14:18:21.490Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-835ea1b137",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPY2c3LXlRUWNFLUttVW9qMGVzTXUwMTRVU2tGLTNWTFU5djhUbHdaUXBKUjEzZGhrMUd4ZnZHMldPS0NRTGF5MzBYZm8wcXVUelNXTGdPWU9LbEtDQ0stTkdEUU5GMTFUZmxCNjY5TVRyNEJRdlRpNThxTVRWc2c5WFk4MnF1OEhlTmczTjNJWQ?oc=5",
+    "title": "GTA Online Event Week: GTA VI Launch Week (November 19th-25th)",
+    "publisher": "RockstarINTEL",
+    "publishedAt": "2026-11-19T15:35:06.000Z",
+    "discoveredAt": "2026-11-22T14:18:21.490Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-638bb84f7a",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KNGJrWENhS1ZacXN5LVNwSVNtU2tQNEpkTXNpYVk1M3dlMTFLUjdEQ2x6M1ZwUmMtRGoyWVhBOFhXYndYYVMwMjZPendfNVp6UHlMU0Y1OVVqdG1HZm1vdWxjNlk4Q2daUjVIVA?oc=5",
+    "title": "Leonida Brings GTA 6 PC Porting Tools to GitHub",
+    "publisher": "Demokratis.co.id",
+    "publishedAt": "2026-11-22T11:48:24.000Z",
+    "discoveredAt": "2026-11-22T14:18:21.490Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Microsoft / GitHub"
+      ],
+      "claims": [],
+      "category": "microsoft",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-f35a95bb49",
+    "url": "https://www.primetimer.com/news/gta-6-songs-full-list-of-tracks-included-in-the-game",
+    "title": "GTA 6 songs: Full list of tracks included in the game",
+    "publisher": "primetimer.com",
+    "publishedAt": "2026-11-18T00:54:00.000Z",
+    "discoveredAt": "2026-11-22T14:18:21.490Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-7049042689",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b02f9b2e9c041e699512ee7a0e8ae12&url=https%3a%2f%2fgamerant.com%2fgta-6-leak-comparison-never-doubt-rockstar%2f&c=5644490842754969450&mkt=en-us",
+    "title": "Grand Theft Auto 6 Leak Comparison Shows You Should Never Doubt Rockstar",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-22T05:24:00.000Z",
+    "discoveredAt": "2026-11-22T14:18:21.490Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
