@@ -6934,5 +6934,61 @@
     "domains": [
       "bing.com"
     ]
+  },
+  {
+    "date": "2026-11-23",
+    "feed": "google-news:CyberLeek",
+    "count": 23,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-11-23",
+    "feed": "google-news:Cyberleek",
+    "count": 1,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-11-23",
+    "feed": "google-news:GTA VI leak",
+    "count": 28,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-11-23",
+    "feed": "google-news:GTA 6 leak",
+    "count": 9,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-11-23",
+    "feed": "google-news:Take-Two CyberLeek",
+    "count": 6,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-11-23",
+    "feed": "google-news:CyberLeek arrest",
+    "count": 1,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-11-23",
+    "feed": "bing-news:CyberLeek",
+    "count": 5,
+    "domains": [
+      "bing.com"
+    ]
   }
 ]
