@@ -52237,5 +52237,162 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-c704ec5af2",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR2dtZlFwSHUzbXJKRjFZcTI2YkF2c1VLWWhKaTJLYXFEQVpINDNETUVlaHNTcUwxYllSbFJLTENvVWw2ZmwwYU1odkxLdW5xekZoUFJvMzl4T205SG1IWEh5cjBqc2Q2aHYzTXdpcUNnNUJSVTBYeGJlSWRJc29hRmlMWGtrQl81V2Nna05VUnlEV01rRUcyb0x5NWU2cU5wR3AzampPMzlfc3dHbGF2RlI1VmJETFNfYmc?oc=5",
+    "title": "GTA 6 has appeared on Steam, but it's not the PC port fans are waiting for",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-11-22T22:41:00.000Z",
+    "discoveredAt": "2026-11-23T06:34:07.065Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "community",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-5fad9a2ef3",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE43VUFhUEhMZnp2c2JDV1FERlJucWxFZnhwdE85dktBWERpc1JaaDVSVEdmSTVISHBrVGRFd1NNb0cxUG5Gc21zWXhsT3JHRkdjRUNVejduaWVHclF1UTBIQmNBT3dKaVJGaktFUl9XaERRU1g5a0pFMw?oc=5",
+    "title": "Crypto Attention Index: 123 (-20%) No.1 $CYBERLEEK 29 No.2 t",
+    "publisher": "KuCoin",
+    "publishedAt": "2026-11-22T12:46:21.000Z",
+    "discoveredAt": "2026-11-23T06:34:07.065Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-ebc42ffe63",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcFlkYV9TMEJYYVdXV3NJVDEyODBJamhKN3dvcl9WN21iRkE4MTM0eWtVa2N5c21hLWRqX2ZocTFkMVRmOWNNMTdYV2JUenNjRzdKUWY5NzB2dmk3aEpDTk5wQkxENlZSeTdPRmlxYm1GOEVwQU5iZ2JyN214U2YwNnFRTUw5dFFiSEphWG40aFprQQ?oc=5",
+    "title": "GTA VI Leak vs Launch: 99 Metacritic After 4 Years",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-11-23T02:44:26.000Z",
+    "discoveredAt": "2026-11-23T06:34:07.065Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-a09dcd027b",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcUpXYl9FbXdUN2p6UGE2ZXdQZzFaOG42dkFwTFpGVFB4OUJRdkZibGNFRmxLM25qWm1TeEFqdG9haWoxUVpjZDBpRXhWOHBwbmxOeHdOcWdteU9ad0RHMjVJYTcwMUJSb05rOUxlU3VXMDUwY2dRcTRqeGFfQjZxc2d5aDR6eTZzeUYzU0VrcklqUVN3Rzllbmt1QVpmbHFlT3lVLXFQTGVNQXZoU0RpbGlpajFXcjNYRHM0TDRfZTQxQQ?oc=5",
+    "title": "GTA 6 already has an infinite money glitch, but many players are skipping it",
+    "publisher": "TweakTown",
+    "publishedAt": "2026-11-22T17:20:04.000Z",
+    "discoveredAt": "2026-11-23T06:34:07.065Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-ad641b45fa",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS0dVLVVHSENmN0FCaTZuVWNZNVJBWVRnam13cnpJbUNGSFZFSnNYTkxmTUZ2UzBTN3czdzN5NXpEZjctTXNIb3hnOG5pczdTemxDMDRsRHgtT1BPQXR5QjZkV3VCNmFxbDMyeF9aRmJuUjQtMTM0SGxuZlBrYW11YnljcHZJZHZNcGtvMU1sN0Y1QQ?oc=5",
+    "title": "GTA VI First-Day Sales: $2.36B Estimate for Take-Two",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-11-22T10:31:26.000Z",
+    "discoveredAt": "2026-11-23T06:34:07.065Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-23f3a68ab9",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQ2VPOWoxNHZCMGxiNk1XcXI1Q1puM2cyX0gtdTRKUjJEbkhXNnZLakVyR3l5NGlMRDNiUXpGdVVaSlBuaDZqSVdwWGtBSHZWWXZkUGdxVFdueElGOW1ISUJLLXBJem43dTlaNFF1SHZkRndIZG9zWFFETE0xU2lzak5IU19kQQ?oc=5",
+    "title": "Spector Hopes GTA 6 Is the Last of Its Kind, $1B Cost",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-11-19T12:21:09.000Z",
+    "discoveredAt": "2026-11-23T06:34:07.065Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-58f50023bc",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZQWotUkl0bkFFZzhjRzlCRTJqQlJSUjZYeEVYTXduTGFqTHBKMVdtVjBuSWx1TGw2MGoxTHBpVXJUTnZkZmtrMUJLUFJPdHFFaDVZY3hJUkNXLV9XNE81c2RsVzgwYkJBY0Q1VktlX3hOVVNFbmVaNHR0d00?oc=5",
+    "title": "All GTA 6 Leaks & Rumors So Far",
+    "publisher": "The Game Haus",
+    "publishedAt": "2026-08-25T07:00:00.000Z",
+    "discoveredAt": "2026-11-23T06:34:07.065Z",
+    "feed": "google-news",
+    "query": "CyberLeek arrest",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "misinformation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-fd82f3a1db",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b03de63f1ce491eb28fddc18f260684&url=https%3a%2f%2fwww.techjuice.pk%2fan-old-gta-6-leak-might-have-hinted-at-the-next-game-by-rockstar-games%2f&c=13868671977734821958&mkt=en-us",
+    "title": "An Old GTA 6 Leak Might Have Hinted at the Next Game by Rockstar Games",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-22T16:00:00.000Z",
+    "discoveredAt": "2026-11-23T06:34:07.065Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
