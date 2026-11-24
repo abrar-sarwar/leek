@@ -16918,5 +16918,221 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-636114d2e7",
+    "title": "Leaker Cyberleek Releases The Xbox Build Executable for GTA 6",
+    "reportedAt": "2026-11-24T12:38:35.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYVc1ZmdkX0JXSFVTUkZSa3VrSGl3QVFwaWhCVkozU2VMSE90ejBJQUlRUmpMaFlzVjlqdU1LVHJKUVJrcThtNExWR2ltZV93SzdOeVdlSE5jc055MWswT1NucUhSRDViLWFDRmRocVM4N0pZeFkyck5kWXpuNnRscTlKZzZjT2RjU0lhQg?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-2e6db61454",
+    "title": "Catastrophic GTA 6 leak officially kickstarts race for PC port",
+    "reportedAt": "2026-11-24T18:24:27.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLWdwSHRyMk81NWhEWE5RaGpyXzh6azhnWWVva2ZoaFFZN3RqNGU3cWpjSHVuWnBFd2RlWlhxWU5JSThBRGFNS1E1Z2Q3M0RCTklUQmxlcU9CWnVLNGxLdHhveF9MY0MtZHVtN2RCdEdZamdvb3EwU2hmUjduZkhhS2M4cnVlMWpyNjY4WXgwYXZHWUUxZnV3cXE2SQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-635abe8f7e",
+    "title": "GTA VI Is Coming To PC Thanks To Major Leak",
+    "reportedAt": "2026-11-24T11:14:31.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiekFVX3lxTE5RUGNDVmZKTXF1UVlPdUFMcFF3eGloRzc2eXlrNjJ1YXNQYW11SWhQcEVQUG9SUUpZRzB5eG0tcWxLRjFsdndzaHd5Nm9ISkN6S0JpUDZSVjNFanM0RUdfMEFLTEZlOXdiRDdOVkpMc0o2YnR3Q0hGMlhR?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-185921ecc8",
+    "title": "GTA 6 EXE Leak: 57 MB File, 0 Playable PC Builds",
+    "reportedAt": "2026-11-24T15:17:09.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUXk2Yjl3UGFiN0llRG93MzByQk5SYy1hMGQ1aXZKV21Zb3UxN2dlV0RNcWFPbVZjQTFqRjhPZE1EbmJaSGVDclVheVJpRmQ5cXR2c2Nrbmp2ZXBoOXVzcDVTakFXZkppUnV2RFpaZzZVWlVnekRuMTNuNV9ZamFGOTZsQ2dTVnc?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-cde47e06e7",
+    "title": "GTA 6 reportedly reaches in-game rendering on PC just a day after Xbox executable leak",
+    "reportedAt": "2026-11-24T18:20:15.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUERCeGRvZHFhb0dZYlkwZ0pfYjBlakhSazZEUTdBT3NlWFRMUjRiMXQ2OGg0anIyYVV4RGEwcno0NUdqbnZzYTloOVd6VWxELWJvclg3aFgwYVp1d3I1dXlTSmhaSXJOb3Z1QmI2a0o0Y2Jadk5ncURnU3hjT3ExVDhNaEZFejVkNXNhMzNUM1A4TDVkRkpvY0ttZ0l2cnVhR0diRXE4V3JicjMzTTZJNmRQWkN0MTg0WUJwc2Z5ZDZ3TElpeDNyM2pBeFRsOU1L?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-b764184338",
+    "title": "Hackers leak GTA 6 Xbox file, fueling PC speculation",
+    "reportedAt": "2026-11-24T12:52:22.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiogFBVV95cUxOejI4UnN2T1lsemJheEpielp2clI5a2FSNjd0UkdCRTZ3SjZ6MWo3dnk2NlZCcVhOZ25PR1JWb01Zalhza0FpTFBxY2Fhd3hHa042TWlZNUtMQU5UTDdtYzhiLUtfUE1zSElPMEoxei14WHM3bnQ3c1hyOEltMUFCZjAwVjhmVUJpcDN3UmdLODRVWTFWM050eEpzZGpHQ1JUa1E?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-21a31a1b92",
+    "title": "The Hacker Who Leaked GTA 6 in 2022 Has Been Sentenced: Judge Calls Him “A Very Talented Young Man” Before Handing Down His Punishment",
+    "reportedAt": "2026-11-24T15:34:10.000Z",
+    "category": "legal",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTDhIeE9VSmJSSEZxbG1TQW8zam54MlJPSWlqU3FZWEdXTWdaLWdsRzFXbndURXBKQ0pUMVFlYW5xWXE5RmtyWXVwRDlEOXdHZlIzSXFuek9Ya0thVXVRSXpLa2FndkZyRjA1SEhsRUlLcWJmR3RtMXRwbENUU0ZDQzc1Sm5qR2pIS0xZcHR3ZHF3TlpDdkFZMDctUTY1ZDlpNTJ3VURtVDNwcTQ4NjNmVEp0ckpra0pzdnktck5kWXc2N1ItTHY2RFdGcmpGVEoyUnBqMm05cF9QakE4SDZyZEJFV2tLeUgtbVlHRFEwUVBjNS1ORDEw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-f89637ee47",
+    "title": "A leaked Xbox build of GTA VI worked on PC, consuming around 38GB of RAM.",
+    "reportedAt": "2026-11-24T15:08:15.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdFlJR0JtX2VqMDBHVklHTXZHczVZRnNJXzd4Z09LZnd3Y0hFLW1ZeEhCbFdHU1RhajI0TU9MSUU3Umc5b3V1MGpjR1NnV3Y0U2ROVDR6cVdldkRQUHp5UzlqNlBidm9UcVJKR2d5cWttVkRvRnJHV3Q1YTZFRnphZ1pBcHQ4UHNoV2dxbDlaZkNJaHBhMnd4M0dlNDhld2s4TDFTOHZGS2FXOWFYVjB6LWZGYkdFOEplMjlkR2lvZk0?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-10921af9f6",
+    "title": "GTA VI Hacker Case: 4 Victims, 90 Clips, 5-Year Order",
+    "reportedAt": "2026-11-23T18:26:39.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMikAFBVV95cUxON0pweVZrM0dyT3Z6azJIMjlad3h0YU1DUkVJY1BQNWxyY3FLcnBsR3pGa25MaUtiRmJyYnZZVmZfVGFYaWRpNllmODQzU0hsZGptSEhRNE1rdzZFMHU1RU9WVk5hcmZERF95d0o4QlZXTkhhN0Q0UHptMUt3U1lpbVdEajNDOTdmRjZxY285YUM?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-55ac3b1541",
+    "title": "British Hacker Jailed Seven Years Over GTA VI Leak, Cyberattacks On Major Companies",
+    "reportedAt": "2026-11-24T09:11:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbWZaSERIdExUR2xnc1lGWG9vM2swWE9rRUdSYy02RWdDSi01cWsxUDhpN3ZNeXk3YmR1MW1pSzdDNjl0QS03WHdfWFlJcG5EWXZsbXJrdXZaNUpCTXZwSmQtbDZYSEcyQ3FHWGV3cW5JVUJkRkhScGgydkVNTDVmYnJ5SnFYQXVUaEd5UDN4MGpKWjhhSnA2ZjhrYk81cU5mTzIxblJBTFNRUQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-8d80cc60e7",
+    "title": "GTA 6 Rakes In approximately $3.7 Billion on Launch Day; Hacked Leak Raises Specter of Unofficial PC Version",
+    "reportedAt": "2026-11-24T17:55:00.000Z",
+    "category": "take-two",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uaDcyTi0xRWgxRTFPb0hHV25YRlFCZXpWQy0yMjVtZmlUNFBlMUtBVllxU0RIa0N2dXpmcXJURkMzaUpCMjlMeHJBLWE1R3E5ZVdLN2tMWldOWWRFVUtMOVNDWldFZm1jSXItMDV6RWZQRHVJWlE?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-78b11b7900",
+    "title": "Rockstar Says Darts Were Cut From GTA 6 Because It Didn't Have 'Unlimited Money or Time' to Make It 'Feel Proper'",
+    "reportedAt": "2026-11-23T12:11:50.000Z",
+    "category": "rockstar",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOY0pZZ3dxTk5YSVpRY2F4d2JVbFZRTUFxdGJNSzFwTGtPN3RuTXQ5Zm9TRFoteWxIWTNVMzVPOFNCX0lRN2lNRmROdVFBZ0hkX2ZlNEU1c1psSmFjTHE5dElGajR0MWtPMXh5TDRxN2lubTA0SWF0UTZyZDZZcnBMbFpxNGR0djNLS3NULURaLWRxR0JCbzMwNklIQmNjbW9YUG9HNnBnZmNZZUFIZWhxNDM1OGVaV1ZFUkwzRF9kMkVrU3lMLW9NX3RlQWUtYUN5NWQtN243clQ2b0R2d291b0dfMA?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-0b76fd1faa",
+    "title": "21-year-old GTA 6 hacker is not going to jail, judge tells him you are very talented",
+    "reportedAt": "2026-11-24T09:56:15.000Z",
+    "category": "legal",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOY1VzRmJ3UVR0WUFucEZZT2w1Rm42dGIzN05oTkRaRmNtQ1lodmtRX3U2bjFONlVwcmwyNmd3eGF5T1NxQ3lhTVZrUFNTRGlMNXp6bWt4S3k1bVVsZmhudFNIMmJKRU1YYUJUeXQxVnpYUkh3YTl3QWFfUkJWeUtMbzJiZ1hYWFJnb0FlN3RwZ1U4Rnh0RmduSVltd3pmNjMzekJjU01pVEhSeW1KNVJpaWFNMU5zdW50R0ZpQ1dBUVAxTmZnb1F3dGxRXzRlNHA1MDFYeTBZMUlzbXlSV2hQbGdicHTSAeoBQVVfeXFMT0NkdU83RGdXUnZNUE9IN2lZWU9hUWdkTi1XLTZ3LTdUckhsdlp3U0lLVEMtM08wdWxsbmJoa2docE9Jc0JMWHNvdVBkS1FKNkd5UTljV21rMEYyTXZmSWhCQXBlN1FyNFNSYXBpQ0IxenpnYmcyYV8wMEdubEszRUxNUENTQzBxa0tMT1lkaUZDYVV6SXpyOURfS3hqNmxOdW9IakQ4TXVxUnZzVzlqMXJXOGFxekZRdHVDVTJaaERyTWNUT1ZBZTZMYkNkalJORUJJLS05LXk1a2NRaHR2U1JzVFJaRHB5UzdR?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-6a12c06de9",
+    "title": "Rockstar Says Jason's Viral Personality in GTA 6 Comes From Steve McQueen and Real-Life Veterans",
+    "reportedAt": "2026-11-22T08:00:00.000Z",
+    "category": "rockstar",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcU9tcC1oZkJWM1NFYmZMSWcwbVhMaHJPcVZ3S25DdzN4ZjZ2bWVtWi1vTXQzaXB6ZnYyNGpqSldYNElHTFlzdk9qSzJjaDFSaW9aX0tnSkM3cFZKSjB5X2plQkNsX0dNWHBNUDN6d3M0Y0ZfMURSR0wzRXpQb0w1UFBpZGlWY1JJaFVxTmQwZUtzc2FTRVNld2ZwS1RxbFh1RTcxd3g5V2dRal9SZ1lEUHBaQTctMUxidEMxV2dLZDVwNDM2SVRPT2ZkVkpfV0gxYWtOX1dwN1ktZGZl?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-47f47baccd",
+    "title": "Cyberleek Releases GTA 6 Xbox Build File — Leonida Github Gta Vi",
+    "reportedAt": "2026-11-24T11:44:00.000Z",
+    "category": "microsoft",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b060a22586746d58f6f72584fa33828&url=https%3a%2f%2fwww.el-balad.com%2f17069714&c=896552628933155320&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-2828ed437e",
+    "title": "GTA 6 Hacker Releases Full Xbox Build, And PC Modders Are Already Trying To Get It Running",
+    "reportedAt": "2026-11-24T03:23:00.000Z",
+    "category": "discord",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b060a22b6dd446494d873f457e90396&url=https%3a%2f%2fwww.gamespot.com%2farticles%2fgta-6-hacker-releases-full-xbox-build-and-pc-modders-are-already-trying-to-get-it-running%2f&c=1100929406144412288&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-22a9c42c7f",
+    "title": "Hacker behind GTA 6 leak released as judge says \"don't let this happen again\"",
+    "reportedAt": "2026-11-23T09:50:00.000Z",
+    "category": "legal",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b060a2272a8437b89804ee389e9bb63&url=https%3a%2f%2fwww.yahoo.com%2fnews%2fus%2farticles%2fhacker-behind-gta-6-leak-175006476.html&c=7946728134969685116&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-f053170e8e",
+    "title": "GTA 6 PC leak is real (hours away?)",
+    "reportedAt": "2026-11-24T03:48:08.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b060a2272a8437b89804ee389e9bb63&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fgta-6-pc-leak-is-real-hours-away%2fvi-AA2i7ujV&c=6718274459567224401&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
