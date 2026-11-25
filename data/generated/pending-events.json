@@ -17134,5 +17134,125 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-3647e9d880",
+    "title": "GTA 6 on PC: What Is Behind the Cyberleek Leak",
+    "reportedAt": "2026-11-24T08:52:08.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMifEFVX3lxTE1YOVFVR0hJdW1sZUR3bWZfemQ4WU9YZ25uR0tBQ05lOFR0cDA5N203XzFvLXRod2YwdEIwTjJqdTNkVkUyYlduUlVCQmNTaVBoX25DNG1ZLTUtVGFUaEJVcWpWWVNyUkhWVnZIOTVZWkRRalRDNzBUQUxpMTI?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-b1d8a1a433",
+    "title": "GTA 6 leak raises prospect of unofficial PC port and earlier official release",
+    "reportedAt": "2026-11-25T00:58:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqbEFOY0g4cHRDZzB1bTNVYi1IMzFOSDQtUkgtWkRCejVxZndsU1VuX09UbExCRHJjbVZXcnhtZks2NXpVQ2U0bWc4YUpabEJDWks5aC10TGRKbmxmQ2RtU2NaZTlaN2RSOFZoNy1GenhmMU1VWGZaN2dn0gGOAUFVX3lxTFBxVDZzZUQyaWlRSjZtdlZxSjJINWVWTEVuZzdnNnphbVdxLXlMNmMyZUQzYkNFd3ZuZm8yWGttN2ZZMzltRW9GY3RyR2twT0RPTWEyVF9NZDVobXc3QlROV2VjdG1yWVlMRTBTMVk3OFdPTDBKVHBJbHVZOGNocnFDY1poNUpOSXJ6U0tKSEE?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-9787fae9f3",
+    "title": "Rockstar reportedly kills Project Leonida, a 15-year-old's GTA 6 PC port effort, along with its 180,000-member Discord",
+    "reportedAt": "2026-11-24T23:03:10.000Z",
+    "category": "discord",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPRDM3eFh6Qnp6VTdnM0hmOXdBQ3VvLXNFT25qN2pkRmk4ZHZnYkpsd3FGc1Jhb2Q0Q2xGTV90Y21oR3ctZVZ5cnZ4ZDlPYTNMX1lzRW5FZmt1QzRySlQxdXRxczJ6SG5WOWZPVnBXY3ptQ1hmdFFLeDk5Zkt4T215LXY2TUVDTjdDZUhQdmpJM21LRk5XbU05eUZBMENtcG9RRHpfeEhHVU9yc0J2VE5ZQmlPM2dlTkIyZ01pOGRBWmJlbFNzYmVsckMtR3Bzb09RMWthZXhHS0xzTS05bGdIRF9Ydm9zeFRtZnBQSXA1ZHZSR2N3T3c?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-ff6f7518c5",
+    "title": "Project Leonida DMCA Takedown: 2,900+ Forks Hit",
+    "reportedAt": "2026-11-25T05:46:26.000Z",
+    "category": "legal",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU0NNajhPLWp5NkoydExLakJPOWJaLURqazZGWFpXMkhKVTVxb3dKTWFVbzAtRmgyWjY5RXNYYXB6aTBxVlNGZnVrZEdmV29kdlJJS2VKYkl5UzdiWDJCbVpZcGRQdXF5MkRXeF9ORFpGeUpRU0JkUzdOeURDT1E1UERjS3JwUEo2eVdad3ZuUEFPOXFXdGpWNw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-05d766fc19",
+    "title": "GTA 6 Hacker Freed After 7-Year Sentence, Judge Warns",
+    "reportedAt": "2026-11-24T09:57:02.000Z",
+    "category": "legal",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbTQ2WDhzRUsxX3ZhdjBpWnhSQW9fdmFWbzB5X2VXTzFULVpyanoxSGVGZHFOX1I3WG1Kd3RmS3pxWk1jMkdDTHBnNTNIY1p4N0lIRzlITVBjMDVSRWhPLS12MHVvM2VTYWkzNERiN1kxRWQyTzl6Zi1vb3haYzNFX2QyVmZ1dVktN1BWd2tieFJPQQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-f963bf763e",
+    "title": "FROM LEAKS TO OFFICIAL LAUNCH🌴 From a massive gameplay leak to multiple trailer reveals and release delays, Grand Theft Auto VI has had quite a journey. Kapamilya, here’s a look at the major milestones leading to its launch.",
+    "reportedAt": "2026-11-19T01:45:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUjlrd3YzUGJQd3BKd0FjNjNMRnVaZlZPWmZmbmJDR0VFLTBXZ0NSUUN2TUJuQ2t6RHBMcjNHVXlNS3lVQVNqbmNSQnRoWDhVRkNSa3dDVGxnUFJjTTQweDdZLUlXemtaY2ZsLXZHVUt5ZEZoUmthMHRhb0JKZmlpOUIwenZQeWF1dDJsemo1Z1Z6UXNXZkNxQWI3cy0zUndzbVNQdU9QZjVFOURpWW83TmhXeEVOa1BQYTFyYUVLS1ZwbkNLSXNrMnQ3VHI2R1FvYXdmRTlLQQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-837356fc89",
+    "title": "Hacker Who Leaked GTA 6 Footage Sentenced to Seven Years in Prison but Immediately Released",
+    "reportedAt": "2026-11-24T14:53:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OaDM2MldjZjRyVko3NnphdnFMa1dmaWRaSVBzZjJfajVIalk0Wlg5cWpEVG9zblQyejItSjd0NXYtSGg4Nk9VVDF2SXZnTUVMejFodnpzcHN5eTd1aFFDMTVnMDbSAWpBVV95cUxPNnE3Z05KVGhfUXgybllZQnNEcS0yOFRQTmR5Y1plWTVPVXFteWpaa1dTSE8zaHJCQUpkWUNNWXBTaWpWLVpNSk9lbUpmY1ZBdkdqRGJWc1VVZUJxZ1k2UXJpdEh3dzdNQm5R?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-be8bbb0ee6",
+    "title": "GTA VI reportedly boots on PC hours after leaked Xbox build’s executable surfaces",
+    "reportedAt": "2026-11-24T08:02:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0691015e2741398939c126b202ec49&url=https%3a%2f%2ftech.yahoo.com%2fgaming%2farticles%2fgta-vi-reportedly-boots-pc-160258186.html&c=4191354162419935466&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-cf9cf4f2e7",
+    "title": "GTA 6 leaked files enable PC play",
+    "reportedAt": "2026-11-24T06:40:37.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0691015e2741398939c126b202ec49&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fgta-6-leaked-files-enable-pc-play%2far-AA2i8aEm&c=70360277683445333&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-b97ab01ca2",
+    "title": "GTA 6 PC port takedown confirmed: Take-Two cites Rockstar's ban on reverse engineering",
+    "reportedAt": "2026-11-24T22:59:00.000Z",
+    "category": "legal",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b069102b028469e83ecdd60226f76d2&url=https%3a%2f%2fwww.tweaktown.com%2fnews%2f114877%2fgta-6-pc-port-takedown-confirmed-take-two-cites-rockstars-ban-on-reverse-engineering%2findex.html&c=8174281455208577119&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
