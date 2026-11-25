@@ -55625,5 +55625,477 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-1c80c48247",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUDczM2RIY3JnY2xIbEdqWmVJOFdwRlNIZ1dENWJxVXpDcFdNNnVSWnBXbU4zRS1lZ1ZkamJKMWE5X0U5c2RZcDFVbmI1S3JoVmtTeGpaQ2NGR2pwaVlEM2hCYTQ4alVXS2VMOVY4eUJSQ1E0Vlp2VV9rUXpBTnJydENBel9LQklIME4wOTdSUEhIUHFINnpoaHJockxncG04U1Y0MEdyY0pkM3MtRWQ2TWJEQV9YRVlsTURscFVkMEVqRlRYcE9oUTRkRVRPMXVmSEZZR0gyOVd4U1ZvYzZ6RkV0TjBNWWc?oc=5",
+    "title": "Take-Two Appears to Be Trying to Scrub GTA 6 PC Ports From the Internet, as Vibecoders Race Toward Controversial World First",
+    "publisher": "IGN",
+    "publishedAt": "2026-11-25T12:44:12.000Z",
+    "discoveredAt": "2026-11-25T21:21:14.367Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-c0753e12ff",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOGNPNXVxNDNqc3NPa1VzbllVdG52aFFJNGtBVUJRU1BBa2dBZW01R1QzZVFJN1V5cTd4SlNpVHpRR0J4UGxqSV9OS3ZLTFJtY3UtUzBkejlyeUZpbGxldkltLVlZT190emxMNVJEUkZwb215R05va0wzSlVlajc2TWxva0JpTEU?oc=5",
+    "title": "GTA 6 recompilers and vibe-coders implore AI chatbots to 'work faster' and 'make no mistakes' as they race to get the game running on PC",
+    "publisher": "Eurogamer.net",
+    "publishedAt": "2026-11-25T15:19:10.000Z",
+    "discoveredAt": "2026-11-25T21:21:14.367Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-fe29df6b9f",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VOERJLW1UYWt4U1BybHZDd2k3eEpkTHdsVlN0TnoteW9fRnAtbkd2T3dZaDRqbXRHVklNQlVzNThkTU92cVdjeDVDZHBVdnRrdTA3QWp0bUVfaEMwc1I3QVEwbzY2RWRxR2lQRXhsaw?oc=5",
+    "title": "CyberLeek Price History",
+    "publisher": "CoinGlass",
+    "publishedAt": "2026-11-16T12:35:15.000Z",
+    "discoveredAt": "2026-11-25T21:21:14.367Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-19ebca51e6",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQRm45SkhMN0wxVXFCblJvWk9NMl91dHY5b1FHaDZGWlpNeWgtSmpDQzE1N215RGpNdTludXFTOHdzQURPUTV0UTg0aEk2U0ZMX2hsMlJJRHlDdw?oc=5",
+    "title": "GTA 6 Leaker Missed a $15M Memecoin Goal but Released the Game Anyway",
+    "publisher": "Cryptonews.net",
+    "publishedAt": "2026-11-19T08:00:00.000Z",
+    "discoveredAt": "2026-11-25T21:21:14.367Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "$CYBERLEEK holders"
+      ],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-f7ae642031",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNXhvNEhOamk4R0VLR0otallSaGkwQUpELUZBR1N4Um1fY3BhLWZkbktDTnM4UXlwUkk4NldyeWtXSFRBVDlwSGN0MHJxdHpOenk1WElYMzB5VHBPQUpQWU84eXdkLXZjM3BjZ3lkLUhyYTBSbkw3RDliYmlCX0NvaWw1YTFldVpVdC1xZmt2U3pOUE1XYlVQZWx3?oc=5",
+    "title": "New 'GTA 6' Leak Is Great News For PC Gamers, But There's A Catch",
+    "publisher": "Polygon.com",
+    "publishedAt": "2026-11-25T18:10:10.000Z",
+    "discoveredAt": "2026-11-25T21:21:14.367Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-3393239e83",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObzJFLXFMVmc3VjM2NmNEU0ZvWnM5U2MwTGFZMkFneGR6T0RqRVBZNmR3X2NVXzQwV3JzZGdianhfYlIxd2d6Y1d3aTc2dzZ5bjI1eDBFR09zOHFtcXBZeWhOcnN5QU1GWnN1YzJ2SEtaWHgxMUFIZzdLMGJjeGd3MjVwSjhPUzZuOEJR?oc=5",
+    "title": "GTA 6 Netflix Extended Look: 27 Minutes After Leaks",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-11-25T17:11:29.000Z",
+    "discoveredAt": "2026-11-25T21:21:14.367Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Netflix"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-f25d24e58a",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQTl1T3hHTklTaDNFRnNoZ2o4ai03dVFzTWswSmp6X29hblFBT3M4N09laXducTBHMWhhbXFhZzNPcGMzQXVBZ2wyV2J5THNsNGVWbFZfdnpFMnRxdVYwWEZKcElBaXQ4Tl9tVHA3VWpmNWlSeXluWjlMZGFXOE5GM2ZVbU5fMjk5aG1YdHBvNkJvTWVPMGhRanFGUzJYdDRzaFNN?oc=5",
+    "title": "Take-Two Hits GTA 6 PC Port Leonida With DMCA, Taking Down 3,007 GitHub Repos",
+    "publisher": "Decrypt",
+    "publishedAt": "2026-11-25T10:35:57.000Z",
+    "discoveredAt": "2026-11-25T21:21:14.367Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive",
+        "Microsoft / GitHub"
+      ],
+      "claims": [
+        "LEEK-CLM-023"
+      ],
+      "category": "legal",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-010"
+    }
+  },
+  {
+    "id": "DISC-479704b31d",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMFZtR205RU4xam5uTFJ6czkxSVVCZHdISFhVMkF2Vzl0emVENG1rY0hYSlZEbE1NOFFaal9yZGJWVHlHUEFhVHVEOE1WdEkwc2ttaHE1Zi1TcjFucV9EYVVzbnBGOERoZ2luRi1pSWhkWXplb2ktVnk3QmFNV1YwbFR3Z3d5TFk0aWtldGl3Ny1pQlU?oc=5",
+    "title": "GTA 6 PC in March 2027? 1 Leak, 0 Rockstar Confirmations",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-11-25T11:31:28.000Z",
+    "discoveredAt": "2026-11-25T21:21:14.367Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-f1464b048e",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQM0JIZjZ1Yk4tazRtZThXRUNjSDBoUFBIdGViOHM0eGRTZEhyZ1JCWEs2YWhfc2NqY2o2eE83RVFTb2haUFRNMTVhQ2R5Snk0enZLRDdvTFdxRTBRNXZiSlRPOFpxSDVQWWJWX0kzRHZTMV84dGFnelRVdDRteGNLd2FfRnkzZDlhZEVUNEpKdEVwbDZSVFpKZnZCUUp0X1ZXUWs2QXMtTmlGRExKNHRqWHE2R0dVRG1PeWtyRjJRaTRqSXdnMkVhM1ZCN3d1NE4zeWc?oc=5",
+    "title": "GTA 6 hacker sentenced to seven years, walks free the same day after Rockstar Games leak",
+    "publisher": "TweakTown",
+    "publishedAt": "2026-11-25T15:23:01.000Z",
+    "discoveredAt": "2026-11-25T21:21:14.367Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-e34c0189ee",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVXBSdGh4bFZTS0ptMG5kd0Y4UVdrb1luR3RuWnhVU0xFZXFYSmNTd3VlNlNKYnZad3h2cG5nVm94VldTQ0dYRjhqT01wSFpxOEltUG5KQzR2QUlwaTRRcUVMOExjY0FGS2x0bmk1ekdrbERLUHdoWTExQ0I5cWZGTUE5ZWtrY3JxanlDVWk0RFM2SDVCeVJuYnBCbTRySUh0RDVmYXE4Ukxua2lUakRMcjBpZ25lTXNkaHhnZXJNQzNvTjhValFvQUk0ZzRQcjVrTF9fZjhWQmg4bHFzZGZyVzVyYTk?oc=5",
+    "title": "The unofficial GTA VI PC ports are still in development despite Take-Two's efforts to shut them down",
+    "publisher": "Instant Gaming News",
+    "publishedAt": "2026-11-25T09:50:55.000Z",
+    "discoveredAt": "2026-11-25T21:21:14.367Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-77fd166fda",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPenQ0YXY0ZWRQSExZWnNjVDhXNGpkcnhlYUNRbGpKWm8xb3h0QVBHb1RTUkY1WUxYQVBSYWhqNEtMOXprZ3FHM0s0T2g2RHRJVXRUSmE2TS1USFNpSVlwenQ2QnZBd3hDS241cEhDYkNkS21FNHZ5bW9Fcm1tbHZ3aGZRQ1Zwd0dzNDJTZEVCRnBIV2xNRUE0SXpvaFhrTkhLekpzcll3RVRPQk0?oc=5",
+    "title": "Report: GTA 6 Graphical Settings for Consoles Leak Out, Revealing Platform Differences",
+    "publisher": "MP1st",
+    "publishedAt": "2026-11-25T14:15:59.000Z",
+    "discoveredAt": "2026-11-25T21:21:14.367Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-f7d4a86545",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1jYTViamQzR3VvNFhxTkxjekJGX1ZadTV2eERqREJVaTJLblEtcFpDeHRvNl9WcjJGNEVKODVZYXpOWHc2d3Y0QnliclFTV0I5d1R4eTg0QjdmaFVrbzN4dVpHWlI4Q2I0Y3ZmTWpLeno5VmJZUm1fTQ?oc=5",
+    "title": "GTA 6: 99 Metascore vs 5.6 User Score on Metacritic",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-11-25T15:00:59.000Z",
+    "discoveredAt": "2026-11-25T21:21:14.367Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-6223ab3a8a",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYzFxU090R0pIekMxWmNsWlU1WnB6aG5TMDJHRlY3NHNTYnVQT29PTXEwbmtJRkRITWJHUVoyNXhhU3Bhemk2Q1B4NVNINTFJbTBZbDhVSlFQYnQ5S202SHBHX0pLRU1kdWxoMksyU0xKak1fTjJhV0xhbE9OYWFKdmdsVUdLTVlkaGZWQ3dn?oc=5",
+    "title": "Meghalaya GTA 6: 2 Shillong Artists at Rockstar",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-11-25T11:31:28.000Z",
+    "discoveredAt": "2026-11-25T21:21:14.367Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-db8e4d2951",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMU10QXhwWDRmZ2R6M2ozRFEwbkdLMnQyUXlCMFV0MmQ4S0tPT1JOSDRSZU1SUkdGcTF4TEVacnpmYUsyLTZCc1FnMmw2QmJWODFNVWtvR0M0NXByc3VVYzcyeVAzbGFJM2xFMU9GbDBZYkprX01sbEhXcjh5WktpMmdVU1JZWEVTUjFMd000LXI4cEpfT0NjTXdkbGRseVRiS0ZOUklsU0hsWjFJQVVIWmt0emtQdWdGUWp3eE5BQ0YzT2ROcUx3RmFndWJJZW0tc1E?oc=5",
+    "title": "Rockstar Games’ Parent Company Secured Takedown of Thousands of GTA VI Copies on GitHub after Game Files Leaked",
+    "publisher": "Incrypted",
+    "publishedAt": "2026-11-25T13:55:35.000Z",
+    "discoveredAt": "2026-11-25T21:21:14.367Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games",
+        "Microsoft / GitHub"
+      ],
+      "claims": [],
+      "category": "microsoft",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-077bba77aa",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5WlB3eXpKQkZURS00c1lNZkUxb3FMT1hBRFRkcHF3LV9KUVJIMWl1V3BGcEFNSnVGT3RoS1ZCQVpLOHB0djhmcXk1VVRhZXp3MktkakpjbHIyeGFYSWV6elJqRmdESjAtZFJhNFdHbFZmQmtzaW4yWkhqQQ?oc=5",
+    "title": "GTA 6 Decompile Market Sits at a Coin Flip After Xbox .exe Leak",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-11-24T19:17:38.000Z",
+    "discoveredAt": "2026-11-25T21:21:14.367Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-006"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-707eeed5f6",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Ya3ZPREcxTTlkTWEtWFV4RVY3anRqSHlUUFp6NEVlWjRBRkd4NDNHV0llSXZCSjVxTzNfVk10UDY5cnNEdGhvTERVLXVXN212RXZMRWhDbFVFZEF3VEdMcGxId3hZcjRWMU12RHZn?oc=5",
+    "title": "WoW Forever Breaks Records While PC Players Wait for GTA 6",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-11-23T11:42:40.000Z",
+    "discoveredAt": "2026-11-25T21:21:14.367Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-8afdc342b7",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSYnJtdmljYUtoZGhnYV96b1RSZlk3V1owMUlNT1B2anJuTlhLalpBWnNINmdWNlV2Mk50UUV5SW5jMUYyTC01cVl3MHdVY25XOHNiRVMxRHhQQXZKZG03c18teV95SV9YaEpqZnRuRnpkTkdGLTY3STl3cEdTamM?oc=5",
+    "title": "GTA 6 PC Recompile Odds Hit 63% on Manifold as Traders Pile In Before Nov 30",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-11-24T19:17:38.000Z",
+    "discoveredAt": "2026-11-25T21:21:14.367Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-922a741b01",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSDJqZmZTaUZxcE1kRm0tRkN2OHZJZDBPYmhrREtGWFBZbHpuMWZrN2YyZ2RKbElsNEFtZGpNMGJMY2oyaVJDb0l1ZEkzNnF5bkNDTXI2VXVCYTRwX2phUHl0RFBULVF5NlpXa3N2TTR5Y2hyemlBOF9Sd3BJR2dxU0ptMU8xbEpjQ2UtWnZCcklDM1pD?oc=5",
+    "title": "Take-Two's DMCA notice takes down GTA VI PC port and 3,007 GitHub repos",
+    "publisher": "MLQ.ai",
+    "publishedAt": "2026-11-25T20:43:54.000Z",
+    "discoveredAt": "2026-11-25T21:21:14.367Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive",
+        "Microsoft / GitHub"
+      ],
+      "claims": [
+        "LEEK-CLM-023"
+      ],
+      "category": "legal",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-010"
+    }
+  },
+  {
+    "id": "DISC-a9c21b186e",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Ib2NHeDh2MDBCX0ZyZHdybUlycXRJSWRfU0FzOVFQOHZiYjByVFc0Rm9vbVBrenkwVUJCQnNRWHExMTNpbjhCYkE2QXpHdGFHa2ZPb01lbFYtcWc?oc=5",
+    "title": "GTA 6 hacker released on licence with warning 'don't let this happen again'",
+    "publisher": "BBC",
+    "publishedAt": "2026-11-23T14:08:50.000Z",
+    "discoveredAt": "2026-11-25T21:21:14.367Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-6b5fa7ec8b",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZXItVTRnZ2UtNGJ4M29uMUktM09ZMXF3MlpsWlEyUDJGaVVETEdEY1JCbjVyM01QOW12VW1rWndaRi02OW5lYmpCUlVzQUN1VGp0RXFDanpSWC1yMkJ0Q25vckVBeWctcHJTRmJQZm02MWJRblM1TEVHcHNkWFpQd25sZzRjdGhwb1dNd3FPbE1LVFotTklqSW1ISFpWejFDOWM1eXhCM29FbU1obnZ6b1c1SU5BdERwTnB2ZzhxT0FhZXNrdktCMGRoRmpxdUJwN2hSR2lvUzNZUjhCdXJiOXZtWHg?oc=5",
+    "title": "Illegal GTA 6 PC port now has 3D models, rendering, shadows and physics, making incredibly fast progress",
+    "publisher": "TweakTown",
+    "publishedAt": "2026-11-23T21:33:10.000Z",
+    "discoveredAt": "2026-11-25T21:21:14.367Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-9a9c31de77",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b075151f5a445f9884bfcc4abce3bb7&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fleaked-gta-6-xbox-build-boots-on-pc-hours-after-cyberleek-exe-drop%2far-AA2icLhj&c=14189483548035953578&mkt=en-us",
+    "title": "Leaked GTA 6 Xbox build boots on PC hours after Cyberleek exe drop",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-25T03:31:43.000Z",
+    "discoveredAt": "2026-11-25T21:21:14.367Z",
+    "feed": "bing-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-006"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-031"
+    }
+  },
+  {
+    "id": "DISC-e9efff82f8",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b075151f25f448bb7e0c3a06b97ddd9&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fexciting-gta-6-leak-offers-good-news-for-pc-gamers-but-there-s-a-twist%2far-AA2iecLg&c=4167470719958824628&mkt=en-us",
+    "title": "Exciting GTA 6 leak offers good news for PC gamers, but there’s a twist",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-25T11:20:14.000Z",
+    "discoveredAt": "2026-11-25T21:21:14.367Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-006"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-830b7054c9",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b075152d0e74a99884a1d3a43861ccb&url=https%3a%2f%2fwww.msn.com%2fen-us%2fgaming%2fpc-games%2fit-seems-gta-6-on-pc-is-making-steady-progress-but-rockstar-is-not-making-it-easy-for-emulation-devs%2far-AA2idSuo&c=16675754647508013304&mkt=en-us",
+    "title": "It seems GTA 6 on PC is making steady progress, but Rockstar is not making it easy for emulation devs",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-25T10:06:00.000Z",
+    "discoveredAt": "2026-11-25T21:21:14.367Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
