@@ -7182,5 +7182,37 @@
     "domains": [
       "bing.com"
     ]
+  },
+  {
+    "date": "2026-11-26",
+    "feed": "google-news:CyberLeek",
+    "count": 4,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "feed": "google-news:GTA VI leak",
+    "count": 7,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "feed": "google-news:Rockstar CyberLeek",
+    "count": 4,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "feed": "google-news:CyberLeek arrest",
+    "count": 2,
+    "domains": [
+      "news.google.com"
+    ]
   }
 ]

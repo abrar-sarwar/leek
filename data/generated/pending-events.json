@@ -17350,5 +17350,101 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-210059baaa",
+    "title": "Cyberleek released the missing executable for its leaked 209GB GTA 6 Xbox build, and an open source project says the game now boots on Windows but runs at about 1 frame per second in the world, not playable",
+    "reportedAt": "2026-11-26T04:23:24.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMid0FVX3lxTE4ydmpITXZtb2hsYjMxZ3lha0s0WlJ3YUhkc1JmeG1wSC0ySzJLSmZnVTR0b2xvM3NOUmYxdFM1S3M1aVdyWVdBUmtKTnBIMS1OU3JRQlFBdEJyNkRRdllrWC0yaXpOWGFKVGtjc3I4dXhORjZOMDRN?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-c7033eef01",
+    "title": "“GTA 6”: Take-Two gets unofficial PC port removed from GitHub",
+    "reportedAt": "2026-11-25T07:48:00.000Z",
+    "category": "microsoft",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMGNrUk5lQ0NRZVNyTkhZMHRYV2psSHZraW9rYmQwRVhqQk43Yl9kSnd0clFWT21fdVhQU2VzMFIzbHB3c0tyYkhyVWxOWE4tcjdRSWFrQzdUYUg3UC1pMk5IQWtnSktMU2c5TU1SdElBWjBpU3JNWllKWkNnRFZxMFp6ai0ydHRFVjZMVXFsRGFoZEg1aWxDZ0FRMklxQUFqd1lZ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-a70be6719f",
+    "title": "After executable leak, modders work on unofficial GTA 6 PC port",
+    "reportedAt": "2026-11-24T08:54:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZUl6TEtyUW1VSGZNa0JCaVh0eWhubFRjN1Zlb3ZDZUtUOWJ5NFloT3ZxYjF4UExFdnlubm0yZmFJRHlKNUtpUWNHWkVWN1RtM1h1YWRnU1dzaDMzdnVmdkVGWDVQTXNISzR1NC1UYlZIWXVjNUdMbGZUa2sxck9lWWw5RFNnYVVJeEYzU1lRblMxYWtvaFFtYVZrOElYemttRmlVUl9KNk0?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-f5d5f7b830",
+    "title": "GTA 6 Leak for PC Gamers: 1 Build, 0 Official Dates",
+    "reportedAt": "2026-11-26T02:49:57.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMilAFBVV95cUxNODVMa09Na1hpbkpMbkFzQlN4aC1fQkVwQW9WUG9YQzFIanZ0N0FMTWh6b3BlMHl1VmJqNXl4ZkotLTJoTmJ4VVUtcWtBYTV1eEhXR0dBRlBhal9OTUY2N1o4a19iU0NQdE9pNTRLdnRXc1JNMDJLamJDUGJ0T2xrRWxQM1FETnEzMWNCNTFoMHFrN0da?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-a429efdcfc",
+    "title": "Leonida DMCA: 1 Repo, 2,900+ Forks, No GTA 6 PC Date",
+    "reportedAt": "2026-11-26T06:29:28.000Z",
+    "category": "legal",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTkVpWUhTV2VaOXJWMVFhVzlmZEhuYURCa1lyUllSbVdXZzktQmhSQl83MER2azI3STBtSTlvMEtjMHcwTmlHTUEzSUxtcEhEc1hseThDRTZVNVhnRE5HREJvOVVIcUFuRDBzQ0ZzTnV5Q1c5U0p3T2V1Vnp4dGRpNWJ3Zmk?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-cc65444150",
+    "title": "GTA 6 Leaker Announces Plan To Release Full Game To The Public",
+    "reportedAt": "2026-10-10T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMifEFVX3lxTFBMcUNTOUVqNlItNGprcWFYSk56Rm0wdGFQNjJfZlFSTDlySEFrWE5VRUZBSnd2QU5VR0FZbEcyZkxUa3hPNmlwVkJBMTIwN09lVjkwYTFlb1VMNkd3YVpTU051dmJSRW5FQmNLbXVxWjd6SkM1cnZrWEQxYUg?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-187446247c",
+    "title": "GTA 6 Release Date Still on Track, Rockstar Says",
+    "reportedAt": "2026-08-30T07:00:00.000Z",
+    "category": "rockstar",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QY3c0LW5uWm1PZWJfdkdqc0lCNUFUUFZLaXgtd2dic3I5OE9FZUREenFXcGw2czM2TzZQV2RXQ0NyVDNIWUE0Ymp0aVVTa0puWlAyTA?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-e4e1ea8c90",
+    "title": "Germany arrests suspect in string of power substation attacks",
+    "reportedAt": "2026-09-08T07:00:00.000Z",
+    "category": "investigation",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTlIzRE1hTlM0cUwwNWtNSVNfUUJmYmlIUXM0akYyVlFSeFA0MTd2V0ZIZGZQM09oMXV6RHVEbGl5cTRkYXZYYVA1cjVpTjJiTEJPQV9ka0ZfSUZweGg3RUpWVHFTWDg1RWlvamJRQTlGOVpxZkZ5TEo1Rk5wWWJEdmVfOGxweGdqbEVYU096RTE2TWl0OEZCXw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
