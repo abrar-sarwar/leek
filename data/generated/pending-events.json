@@ -17446,5 +17446,77 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-95b4da4f61",
+    "title": "GTA VI console graphics settings leaked, showing a lot of room for improvement on PC",
+    "reportedAt": "2026-11-26T12:39:09.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMickFVX3lxTE9idXoxRldTY0NaNmVZUzlKaGhaZTh2UXkzN2xtVzVwcmpNTXVfQmIxNFZBLUVONlhXTENZb2h0RkNGallYSlNXOVJvbkhEa0VFWEl0TDctZ2RLOEgwbzlUR24yNjhUbUJKaVRrQ25zSkFZQQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-999d0c6bf3",
+    "title": "In 2022, a teenager used Amazon Fire Stick to hack GTA 6 maker Rockstar Games and leak 90 gameplay clips;",
+    "reportedAt": "2026-11-26T07:30:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiigNBVV95cUxOd1pQUTM5SEhfRDFmQmpVeldFNmM3azJ5bHR6YWVqbTdPM1p3bWNRMndIbldCSWNzVlZDY3F4TWpRQXZsWTl6Y1pFWFBtaXF4MDU4cGRGR25lUk5FYnlYRGJfNEFRblRYaXRTLTNaY1R4TV9NUlFxSllISy02dnBsbld6ODdjMUFoaVcxX0pFRktuR1VCak12dUQ0Q0Y1S3pmNFRTb3BveG9ZS1NnbU45cUNOVW5ucVdxZkJxQ2xkZWJSZTZZcjh2ckhLWXVwTW91OWhrSVozTzdha2VsblZfUmM3ejBfeVpiUmtrR3ZHSktFbjM2cDdSNUtpSWR3dzFjZUZsTEVJc2l4Mk9icVhEOWVVaHNNRzZYZWw5WWl2bnJGX1FYZ1lfd2dkU3R6dVNST3hfb20yUHhoYklQLUdjb0JjRFRoOE1DUDdycGZMSnZJX3FTN0RKb1dUQnZDclR6YklFdnN1ajZYdEFfUm5oTl9FUGJ4TVRjRkVnTGt1aHY1UEFwZEQyWGpR0gGPA0FVX3lxTE9memJkUF9tU3dkTFRWX0NHem5tLWswWHl2dlZDVWE3SFlaZVZZYnAzc0RwR0JkVzhBMkc5dUxtUkdhSllJRXd1MmlpZlN3ZW9pWmtIcXhhdzFIR19zakR2ajA4M2U1Y3YzZVpQSEdTSnJ5VEh5N1lhNDNTaFNqXzZQemJHSlVwQWZZYlJaTnd5MkVPYWZDaFZQbFRlNl8wbFdMVjczOXUxU3lwY0J0Sm5CS0d5b2EwMlBxVTB6ZjczaWNueFFWT2FLd290b1d5RmpieUZFa3FyekhEekhWNlB5ZkVPS1JFZnI4NmpUWFdQWldlRWZIOHZjYVliZ0hSc0wtMldoZVRhb1NrM2Rtd0ExU3BWV1lyZkJDRjlaQWRzcGx0dGtVSGdiZFlwazNGNHhpTGF6MHVzTERNczFEaHl4dkFBZF9kSnVSS2h5M3VNVmVyZTJWQ1EtaEJyRkNUaDNWYmVtNEFYYndwQU1EUW5QbmQzdGdnT2x2alk1RlY0aks0Q28tYXVqN05OZEJMNA?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-3a7a6de910",
+    "title": "A deleted GTA 6 leak may have revealed Rockstar’s graphics settings",
+    "reportedAt": "2026-11-26T14:55:28.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZWZRcVVCbEFCSy1hd3pSS2ZzNUt6NHN5eFdRWWRoZDllNDVLVGNjeUtFYUE5NjR5S3AyRk45bnh5TXVGVksyTnZUbUJFei0wTmVPUFh0NElkR2VEU3N5OEh5RVJLV2FCcXhXTlMwSHNXT29MNDh5ejNSSEZRdVk3cE01NjNUUW9GcTdJd21wN0dMOVRyR3JhWVVQTGhDWkllWl9RcEVMLTk3S0U0YjlZVmlnMA?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-f046d4b397",
+    "title": "British Hacker Jailed for Seven Years Over GTA 6 Leaks...",
+    "reportedAt": "2026-11-25T08:33:16.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcDdRMXhFR2hxUGM5M014d2hWVkRTZGtrd2pxS1ZrNXdFdjNqWmtsSURnNEdOc2VWa29vSFUyaEZVZUpodWk2c3JoVlhJSkNKSFNVMmRtMktCODVSbzhUV0hUNVpaOVR3N0w4M1k1YlFLbXpBWjl1WHlpdVBFNmRtOWNFWTJibm9DSnV1UjE0UndscnNoRy0ybHZIZm9kMmNqZFVtQUJRSQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-c0e7de1437",
+    "title": "Cyberleek released the missing executable for its leaked 209GB GTA 6 Xbox build, and an open source project says the game now boots on Windows but runs at about 1 frame per ...",
+    "reportedAt": "2026-11-26T03:23:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b089fbc9e2a4ad083c7c37f1ef12ebd&url=https%3a%2f%2fwww.maketecheasier.com%2fcyberleek-gta-6-xbox-executable-released%2f&c=18345214991402942726&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-9284f7807f",
+    "title": "GTA 6 leaker releases Xbox build executable, and modders say a PC port already boots",
+    "reportedAt": "2026-11-23T10:51:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b089fbcd6fd41f2b45bcdc6a6b7d9aa&url=https%3a%2f%2fwww.techspot.com%2fnews%2f114672-gta-6-leaker-releases-xbox-build-executable-modders.html&c=16346809251885628336&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

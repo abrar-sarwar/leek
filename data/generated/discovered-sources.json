@@ -56435,5 +56435,254 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-0d02549c84",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUXVYLTdmZzQtYkcyTVExZXRhMlNfbjBDdk9SeWpzUFpMYzlsQ1Y4cmJGenItTzFuS2RTSG9MUjFmd2pYQXZaN0J0NlpZZHJubDdUS3ZLME5jRnV4X3hIbktjR3h3QUFzT05hbkxKWjd4RzNRSWJuWWdFdTI4OTVEZzNjZ0tnZklHMk84bTRBbE9lWWJrelRSeGtPdmJubW9Dc3ZPaDd5bWExTGg4Yzk0YzBNYVcyUEl1SFVGNWxLNEF6MW5pVk42cnpTYkczRWdxbFJ2cTBLaVoyblk3OHhR?oc=5",
+    "title": "GTA 6 PC version is close, modders say after Cyberleek releases executable: \"The game almost boots\"",
+    "publisher": "GamesRadar+",
+    "publishedAt": "2026-11-23T16:39:01.000Z",
+    "discoveredAt": "2026-11-26T21:08:07.675Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-007"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-f0417a8956",
+    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPcTdReHhwWDFTeGxpMUpBcmZ4MWw3RnFnNFlEdUR5X2pPVnVaTDkyS0s0SjVtRUlIWl9XTFdnNzR3UGllNlBEUmpEQ0NFNlJBRE05QmJ4aDAzWk00TU9MYmNrZjFDbXQ0c3BjckNCUGtTODk3cmVfbEFqckM3ZWladnVMLU9YREt5cnJjS1UzVlpkeVl1V1oxVXlJOWVubVZYczBpVDdMQm95QnhzSE9qUU92VGg1QXZpUGVOaFFLUUg3OFc0ajJMVUlrUlBlaVVpZHpCSWhpN1AzLTg4NGxXUElKZVl0RVZFNFhBV2ZnMkpUanJvVy02RXA5TFhEa1Z6UGsyX3RvUQ?oc=5",
+    "title": "Take-Two wipes out 3,007 GTA 6 PC port repos from GitHub in massive DMCA crackdown — as AI tools fuel wave of unofficial builds",
+    "publisher": "Tom's Hardware",
+    "publishedAt": "2026-11-26T11:30:00.000Z",
+    "discoveredAt": "2026-11-26T21:08:07.675Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive",
+        "Microsoft / GitHub"
+      ],
+      "claims": [
+        "LEEK-CLM-023"
+      ],
+      "category": "legal",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-010"
+    }
+  },
+  {
+    "id": "DISC-3b6c5e5ef2",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTEo4UTVvaFJ3MmVlTDI1cndSaGJCVHBBSndCLUVlQktLVDI5OHFtbFhfenV1aXU3YXpNQ0ZVUm1mdHFpTzRFTmtHTWFjZ05KTmJIVEJhX1UwUnB1c0JEb21FQ3BVbjc1U0xxWGRwTl9laV8xSV91OVVfT3d4M1RuMzRBZXAtMmVMYno3eENnelZHbzhfdm56Q1piOA?oc=5",
+    "title": "GTA VI Launch Glitches: 5 Issues Rockstar Logged",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-11-26T13:24:25.000Z",
+    "discoveredAt": "2026-11-26T21:08:07.675Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-305cc7bff3",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTzUtSXZWNVZFblBzdExBM3VveU1DUmhad3pQczAyMkFUc0d2dC1IaldZc09STFRBN1ZXWlVIODJITFBOQm9Hc05WdldIZFNmZFJyYXFIMGI5OTlyeFI5a01VQ0JwZTZNT2JYOXBSWVV3eTZZZDhHV3NJYmduNEJucFVCRW44aXhCVVE?oc=5",
+    "title": "GTA 6 Encrypted Hard Drive: What Is on It?",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-11-26T14:44:27.000Z",
+    "discoveredAt": "2026-11-26T21:08:07.675Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-ec1aff8eef",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWDc2d0ROQmRNLXloZFR6QWE5TFNsRktCV1pOR2xGTkxPZTdRYXR1b0VKWU5hTEttMkdoblZVSUxNOWtNX0ZqNmMzZ1gyN1BtM2t0eW9xYWFnTWV4ckM2NkZyQlNRQ2QtOThWZVUzQ2NleDNJM1VRUlAyQ0c0MEExVUV1elRfa2dDZWFIVUx6bk14REFlb1JXcEd3N1Z5VDJRTU5F?oc=5",
+    "title": "GTA 6 recomp hits 90% progress – and here's what that means",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-11-26T09:20:00.000Z",
+    "discoveredAt": "2026-11-26T21:08:07.675Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-95b4da4f61",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9idXoxRldTY0NaNmVZUzlKaGhaZTh2UXkzN2xtVzVwcmpNTXVfQmIxNFZBLUVONlhXTENZb2h0RkNGallYSlNXOVJvbkhEa0VFWEl0TDctZ2RLOEgwbzlUR24yNjhUbUJKaVRrQ25zSkFZQQ?oc=5",
+    "title": "GTA VI console graphics settings leaked, showing a lot of room for improvement on PC",
+    "publisher": "Club386",
+    "publishedAt": "2026-11-26T12:39:09.000Z",
+    "discoveredAt": "2026-11-26T21:08:07.675Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-999d0c6bf3",
+    "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxOd1pQUTM5SEhfRDFmQmpVeldFNmM3azJ5bHR6YWVqbTdPM1p3bWNRMndIbldCSWNzVlZDY3F4TWpRQXZsWTl6Y1pFWFBtaXF4MDU4cGRGR25lUk5FYnlYRGJfNEFRblRYaXRTLTNaY1R4TV9NUlFxSllISy02dnBsbld6ODdjMUFoaVcxX0pFRktuR1VCak12dUQ0Q0Y1S3pmNFRTb3BveG9ZS1NnbU45cUNOVW5ucVdxZkJxQ2xkZWJSZTZZcjh2ckhLWXVwTW91OWhrSVozTzdha2VsblZfUmM3ejBfeVpiUmtrR3ZHSktFbjM2cDdSNUtpSWR3dzFjZUZsTEVJc2l4Mk9icVhEOWVVaHNNRzZYZWw5WWl2bnJGX1FYZ1lfd2dkU3R6dVNST3hfb20yUHhoYklQLUdjb0JjRFRoOE1DUDdycGZMSnZJX3FTN0RKb1dUQnZDclR6YklFdnN1ajZYdEFfUm5oTl9FUGJ4TVRjRkVnTGt1aHY1UEFwZEQyWGpR0gGPA0FVX3lxTE9memJkUF9tU3dkTFRWX0NHem5tLWswWHl2dlZDVWE3SFlaZVZZYnAzc0RwR0JkVzhBMkc5dUxtUkdhSllJRXd1MmlpZlN3ZW9pWmtIcXhhdzFIR19zakR2ajA4M2U1Y3YzZVpQSEdTSnJ5VEh5N1lhNDNTaFNqXzZQemJHSlVwQWZZYlJaTnd5MkVPYWZDaFZQbFRlNl8wbFdMVjczOXUxU3lwY0J0Sm5CS0d5b2EwMlBxVTB6ZjczaWNueFFWT2FLd290b1d5RmpieUZFa3FyekhEekhWNlB5ZkVPS1JFZnI4NmpUWFdQWldlRWZIOHZjYVliZ0hSc0wtMldoZVRhb1NrM2Rtd0ExU3BWV1lyZkJDRjlaQWRzcGx0dGtVSGdiZFlwazNGNHhpTGF6MHVzTERNczFEaHl4dkFBZF9kSnVSS2h5M3VNVmVyZTJWQ1EtaEJyRkNUaDNWYmVtNEFYYndwQU1EUW5QbmQzdGdnT2x2alk1RlY0aks0Q28tYXVqN05OZEJMNA?oc=5",
+    "title": "In 2022, a teenager used Amazon Fire Stick to hack GTA 6 maker Rockstar Games and leak 90 gameplay clips;",
+    "publisher": "The Times of India",
+    "publishedAt": "2026-11-26T07:30:00.000Z",
+    "discoveredAt": "2026-11-26T21:08:07.675Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-3a7a6de910",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZWZRcVVCbEFCSy1hd3pSS2ZzNUt6NHN5eFdRWWRoZDllNDVLVGNjeUtFYUE5NjR5S3AyRk45bnh5TXVGVksyTnZUbUJFei0wTmVPUFh0NElkR2VEU3N5OEh5RVJLV2FCcXhXTlMwSHNXT29MNDh5ejNSSEZRdVk3cE01NjNUUW9GcTdJd21wN0dMOVRyR3JhWVVQTGhDWkllWl9RcEVMLTk3S0U0YjlZVmlnMA?oc=5",
+    "title": "A deleted GTA 6 leak may have revealed Rockstar’s graphics settings",
+    "publisher": "KitGuru",
+    "publishedAt": "2026-11-26T14:55:28.000Z",
+    "discoveredAt": "2026-11-26T21:08:07.675Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-5a11d23b42",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbG1vYlF5VnM3TnM5N2VyNGFMR0RFLThJTmFMSlNhdGtYNHphaVc4TE5aY25Iang2TEtXd2F0a1doQmNqTm9jbmNQdl93Znd2NEUtanRLQXc2SHZ5NzBXaEZnb3RvM2xway1rNDVSZUJNajlEMFdjdGZyaGhuVUJQTkY5aUZPdmZYb2hLZWV0bkNYLWpDMlFEQW5heWMtcGtRYnRrMWhaQjFDTmM?oc=5",
+    "title": "Arion Kurtaj Sentence: 9 Years Minus 2, Freed Same Day",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-11-25T15:25:03.000Z",
+    "discoveredAt": "2026-11-26T21:08:07.675Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-018"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-f046d4b397",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcDdRMXhFR2hxUGM5M014d2hWVkRTZGtrd2pxS1ZrNXdFdjNqWmtsSURnNEdOc2VWa29vSFUyaEZVZUpodWk2c3JoVlhJSkNKSFNVMmRtMktCODVSbzhUV0hUNVpaOVR3N0w4M1k1YlFLbXpBWjl1WHlpdVBFNmRtOWNFWTJibm9DSnV1UjE0UndscnNoRy0ybHZIZm9kMmNqZFVtQUJRSQ?oc=5",
+    "title": "British Hacker Jailed for Seven Years Over GTA 6 Leaks...",
+    "publisher": "www.jordannews.jo",
+    "publishedAt": "2026-11-25T08:33:16.000Z",
+    "discoveredAt": "2026-11-26T21:08:07.675Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-028"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-c0e7de1437",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b089fbc9e2a4ad083c7c37f1ef12ebd&url=https%3a%2f%2fwww.maketecheasier.com%2fcyberleek-gta-6-xbox-executable-released%2f&c=18345214991402942726&mkt=en-us",
+    "title": "Cyberleek released the missing executable for its leaked 209GB GTA 6 Xbox build, and an open source project says the game now boots on Windows but runs at about 1 frame per ...",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-26T03:23:00.000Z",
+    "discoveredAt": "2026-11-26T21:08:07.675Z",
+    "feed": "bing-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-006"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-9284f7807f",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b089fbcd6fd41f2b45bcdc6a6b7d9aa&url=https%3a%2f%2fwww.techspot.com%2fnews%2f114672-gta-6-leaker-releases-xbox-build-executable-modders.html&c=16346809251885628336&mkt=en-us",
+    "title": "GTA 6 leaker releases Xbox build executable, and modders say a PC port already boots",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-23T10:51:00.000Z",
+    "discoveredAt": "2026-11-26T21:08:07.675Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-006"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
