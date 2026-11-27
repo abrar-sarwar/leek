@@ -17518,5 +17518,77 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-aa029fd314",
+    "title": "GTA 6 Graphics Settings Leak: 4 Consoles, 0 Confirmed",
+    "reportedAt": "2026-11-27T02:50:06.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR0tYaFdyX1JHQml4UmNVVG8yNmZiRDFmNGhnMEFIcy1zVmF0WERWUWxidHRzWlFGQmY0am9Ma1lpWjNLYjRIN2pEVDdaTEJmcFJTSTZzeEw1TC00TUJ6YWNuVzU0eEhGUThHMWVtMWl1aUZCR1J5QnF5RVU0eE95WGtVbnlidGhBNVQyZ0k1T1piZkt5MUVLaXVoQ0VNM2Zp?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-7bc91c125c",
+    "title": "'GTA VI' Leaker's Hacking Spree Ends With Seven Year Sentence and Same-Day Release",
+    "reportedAt": "2026-11-27T06:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX0FQODVfcUlZb243cEFIUUd0SEtrM2ViZkd0bTBnbGRGUmZXREVjUTJTQjVlNmdLVERTb2duWFlVUkVhNXVRSTNIVVRlMzBwNzgtTzBhV0pIQXp5VmRoX3Q2UHVRUURaODZtNmd2eGZlT055aURhZHByNFdycUt3a0ZLd08xbWNfRjJVdVpGSTRZYjd1WlE?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-02b818ce62",
+    "title": "Rockstar removed CGBJ's 25 FPS GTA 6 PC port from GitHub in minutes.",
+    "reportedAt": "2026-11-26T10:44:53.000Z",
+    "category": "microsoft",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX0RMZnNuXzZVUUEyZkg1S2RXd0p5aUVnTjJXV0FQdkhSR1VHc1d0Tl84R2x4SU9ZTVhjVkppNzNpNm5WU2RDNXpCOEJ5eTFWUXBfMndQczFTenVwX09mZHZha0dqM29QMXVUek9icGhKNU9fdzhXZW1HVG8wR3NWRTctQTlSZ1lUX0Z5Y0JNVmRHYklMOHVTRFM3bHd1cHh0eFdBakFKdGo4NlRvRWVraThXX0FxR1FEWmtJU1JoQQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-20101f089b",
+    "title": "GTA 6 hacker Arion Kurtaj gets 7 years and walks free the same day",
+    "reportedAt": "2026-11-25T06:15:13.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://www.msn.com/en-us/news/other/gta-6-hacker-arion-kurtaj-gets-7-years-and-walks-free-the-same-day/ar-AA2icWUO?ocid=BingNewsVerp"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-90c0540069",
+    "title": "Rockstar boss was \"praying\" that GTA 6's early plot twist wouldn't leak \"given everything that we've gone through\"",
+    "reportedAt": "2026-11-26T12:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0930e1e33a4b68904ab37226830136&url=https%3a%2f%2ftech.yahoo.com%2fgaming%2farticles%2frockstar-boss-praying-gta-6s-200000785.html&c=12018423495243583782&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-1129e19d3c",
+    "title": "PlayStation lost, GTA 6 got leaked again",
+    "reportedAt": "2026-11-26T18:43:29.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0930e1e33a4b68904ab37226830136&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fplaystation-lost-gta-6-got-leaked-again%2fvi-AA2ijZNy&c=10430258278174521992&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

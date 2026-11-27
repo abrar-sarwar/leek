@@ -56684,5 +56684,209 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-aa029fd314",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR0tYaFdyX1JHQml4UmNVVG8yNmZiRDFmNGhnMEFIcy1zVmF0WERWUWxidHRzWlFGQmY0am9Ma1lpWjNLYjRIN2pEVDdaTEJmcFJTSTZzeEw1TC00TUJ6YWNuVzU0eEhGUThHMWVtMWl1aUZCR1J5QnF5RVU0eE95WGtVbnlidGhBNVQyZ0k1T1piZkt5MUVLaXVoQ0VNM2Zp?oc=5",
+    "title": "GTA 6 Graphics Settings Leak: 4 Consoles, 0 Confirmed",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-11-27T02:50:06.000Z",
+    "discoveredAt": "2026-11-27T07:27:23.785Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-7bc91c125c",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX0FQODVfcUlZb243cEFIUUd0SEtrM2ViZkd0bTBnbGRGUmZXREVjUTJTQjVlNmdLVERTb2duWFlVUkVhNXVRSTNIVVRlMzBwNzgtTzBhV0pIQXp5VmRoX3Q2UHVRUURaODZtNmd2eGZlT055aURhZHByNFdycUt3a0ZLd08xbWNfRjJVdVpGSTRZYjd1WlE?oc=5",
+    "title": "'GTA VI' Leaker's Hacking Spree Ends With Seven Year Sentence and Same-Day Release",
+    "publisher": "Complex",
+    "publishedAt": "2026-11-27T06:00:00.000Z",
+    "discoveredAt": "2026-11-27T07:27:23.785Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-27dccdbdcb",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNzFncERzMlFvZDlNd1ZyelBZeUNNNlh5d0xDTEZ2REFzLVlraDc2N0VlZzZWVEdJREhMSXg0TjlaUHljMlh5YUlJN204VVo0ZUQyQ1d5MmZYVHpFeWlHZDlLMWptMjV0OHdjc0RHakgyekVpWG02eE01alowU2VCaWoxZW5rU0xlVmFrR0tDT2dRTV9GYm1uZ1dha3h0bUZ4TWh5aWVlUGUyMklKV1RpLTZR?oc=5",
+    "title": "Vibecoded GTA 6 PC Ports Are Now Rendering In-Game Graphics Despite Take-Two Crackdown",
+    "publisher": "Decrypt",
+    "publishedAt": "2026-11-26T22:01:02.000Z",
+    "discoveredAt": "2026-11-27T07:27:23.785Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-02b818ce62",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX0RMZnNuXzZVUUEyZkg1S2RXd0p5aUVnTjJXV0FQdkhSR1VHc1d0Tl84R2x4SU9ZTVhjVkppNzNpNm5WU2RDNXpCOEJ5eTFWUXBfMndQczFTenVwX09mZHZha0dqM29QMXVUek9icGhKNU9fdzhXZW1HVG8wR3NWRTctQTlSZ1lUX0Z5Y0JNVmRHYklMOHVTRFM3bHd1cHh0eFdBakFKdGo4NlRvRWVraThXX0FxR1FEWmtJU1JoQQ?oc=5",
+    "title": "Rockstar removed CGBJ's 25 FPS GTA 6 PC port from GitHub in minutes.",
+    "publisher": "GameGPU",
+    "publishedAt": "2026-11-26T10:44:53.000Z",
+    "discoveredAt": "2026-11-27T07:27:23.785Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games",
+        "Microsoft / GitHub"
+      ],
+      "claims": [],
+      "category": "microsoft",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-0a5555be57",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTW5MOG1ZTVFmUGtWTlZYRDhZQTYtZHJmSlQ4Vm0yeWotMmZlc2E3OW42NWJJOGhFNFNIMkdmV29FRmVubXlpQ3FxdDhMVkhhSEJjMDE0bk9GWU9td3pwUlgwcmMtaTdDTTFJbEZxMnBLNWoyZWRFZUZuOFVFZHo0T2psMTkwLWdRZW8xcDhCR19hWVhwSlkyYzJBVERsaEdaU3dnM0wtaXJWZzNTT1ZlWVlfMWxOZklpVDU2ZW9Xem9IeUdvZ3c?oc=5",
+    "title": "Specs for unofficial GTA 6 port are worrying some PC gamers — but this is nothing to panic about",
+    "publisher": "TechRadar",
+    "publishedAt": "2026-11-26T15:24:41.000Z",
+    "discoveredAt": "2026-11-27T07:27:23.785Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-b96e74ed46",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbFRlX2lWbnlGcDhqcGRnSTB4Zmd1US1WOWYtbTBpTERKWl83SHRPalQ0OWQtOURCb1gwZFNRWXZVSDNUclpRSGNfM3VQM3dGMW84SjM4VXZsdUZKYVFwbW9JR204WDI1d3JJSGJfWkM3Tm5vLU8zUWM2aUpWR1dtWlRlMW9LclpoVW5scmxjanp6OGhIQ09JN1pRUWtNNEoxZUl3OThBMXJvQkdmb0pDREVmbW1wNlhW?oc=5",
+    "title": "Unofficial GTA 6 PC port and over 3,000 repositories taken down as Take-Two takes action",
+    "publisher": "PC Guide",
+    "publishedAt": "2026-11-25T10:27:41.000Z",
+    "discoveredAt": "2026-11-27T07:27:23.785Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive"
+      ],
+      "claims": [
+        "LEEK-CLM-028"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-20101f089b",
+    "url": "https://www.msn.com/en-us/news/other/gta-6-hacker-arion-kurtaj-gets-7-years-and-walks-free-the-same-day/ar-AA2icWUO?ocid=BingNewsVerp",
+    "title": "GTA 6 hacker Arion Kurtaj gets 7 years and walks free the same day",
+    "publisher": "msn.com",
+    "publishedAt": "2026-11-25T06:15:13.000Z",
+    "discoveredAt": "2026-11-27T07:27:23.785Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-018"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-37c5810b8e",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0930e1e33a4b68904ab37226830136&url=https%3a%2f%2fbeebom.com%2fcan-you-play-gta-6-on-pc%2f&c=8225576052554786723&mkt=en-us",
+    "title": "Can You Play GTA 6 on PC Right Now? GTA 6 PC Port Rumors and Leaks Explained",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-26T16:00:00.000Z",
+    "discoveredAt": "2026-11-27T07:27:23.785Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "misinformation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-90c0540069",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0930e1e33a4b68904ab37226830136&url=https%3a%2f%2ftech.yahoo.com%2fgaming%2farticles%2frockstar-boss-praying-gta-6s-200000785.html&c=12018423495243583782&mkt=en-us",
+    "title": "Rockstar boss was \"praying\" that GTA 6's early plot twist wouldn't leak \"given everything that we've gone through\"",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-26T12:00:00.000Z",
+    "discoveredAt": "2026-11-27T07:27:23.785Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-1129e19d3c",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0930e1e33a4b68904ab37226830136&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fplaystation-lost-gta-6-got-leaked-again%2fvi-AA2ijZNy&c=10430258278174521992&mkt=en-us",
+    "title": "PlayStation lost, GTA 6 got leaked again",
+    "publisher": "bing.com",
+    "publishedAt": "2026-11-26T18:43:29.000Z",
+    "discoveredAt": "2026-11-27T07:27:23.785Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-001",
+        "LEEK-CLM-006",
+        "LEEK-CLM-025"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
