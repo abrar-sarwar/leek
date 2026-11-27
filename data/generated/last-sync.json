@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-11-27T07:27:23.785Z",
+  "ranAt": "2026-11-27T20:52:28.274Z",
   "feeds": [
     {
       "name": "google-news:CyberLeek",
@@ -24,7 +24,7 @@
     {
       "name": "google-news:Take-Two CyberLeek",
       "ok": true,
-      "items": 71
+      "items": 100
     },
     {
       "name": "google-news:Rockstar CyberLeek",
@@ -34,12 +34,12 @@
     {
       "name": "google-news:CyberLeek Microsoft",
       "ok": true,
-      "items": 32
+      "items": 63
     },
     {
       "name": "google-news:CyberLeek Discord",
       "ok": true,
-      "items": 46
+      "items": 66
     },
     {
       "name": "google-news:CyberLeek subpoena",
@@ -49,17 +49,17 @@
     {
       "name": "google-news:CyberLeek dead man switch",
       "ok": true,
-      "items": 21
+      "items": 50
     },
     {
       "name": "google-news:CyberLeek arrest",
       "ok": true,
-      "items": 11
+      "items": 52
     },
     {
       "name": "google-news:CyberLeek $CYBERLEEK",
       "ok": true,
-      "items": 14
+      "items": 27
     },
     {
       "name": "bing-news:CyberLeek",
@@ -74,18 +74,18 @@
     {
       "name": "bing-news:GTA VI leak",
       "ok": true,
-      "items": 2
+      "items": 12
     },
     {
       "name": "bing-news:GTA 6 leak",
       "ok": true,
-      "items": 12
+      "items": 11
     },
     {
       "name": "gdelt",
       "ok": false,
       "items": 0,
-      "error": "Unexpected token 'P', \"Parenthese\"... is not valid JSON"
+      "error": "HTTP 429"
     },
     {
       "name": "courtlistener",
@@ -94,8 +94,8 @@
       "error": "HTTP 401"
     }
   ],
-  "discovered": 2714,
-  "newSinceLastRun": 10,
-  "pending": 1466,
+  "discovered": 2733,
+  "newSinceLastRun": 19,
+  "pending": 1476,
   "analysisMode": "rules-only"
 }

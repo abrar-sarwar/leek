@@ -17590,5 +17590,125 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-93af693044",
+    "title": "GTA 6 Xbox Executable Leaks, Fan PC Port Projects Begin Testing",
+    "reportedAt": "2026-11-23T16:51:56.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BTDNzZ1JSS3lMNmdnNWlSTFZRUF8yTldRWnlJZVFld09VRjhhU0ZVcTgyZ0toUGx0U2t3R2VHY1RDbl9TcnZpSGRzTy0zUkJSQVVSN09mLTFkckItUVZ5YlZTN0dfSWlVbW04andR?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-a483b5551f",
+    "title": "Leaked GTA 6 Xbox Build Boots on Windows at About 1 FPS",
+    "reportedAt": "2026-11-27T15:35:04.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVjEyU1hNTXFuaVNLRDh3YVFaMTRNNngyOERwRk1ZM0JkOU11Q2dvVXE2dk5ldWxZN2pQZHRmMjdrakZnSlNzMnhvUGJhVlFDcTJWa21aT1NSVEdtQ3YwV2QyUmdpVG5oNU8xUVU3amNoYVNGN1Z5dHFGLWVXOElKLVZQdDZRMXNVUVY0bFNHQXdTZw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-d08bfbbdd5",
+    "title": "First mods for unofficial GTA VI PC port have officially dropped",
+    "reportedAt": "2026-11-26T08:50:33.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbDc2TGZZVG1xMVptZkJpbU1qcC1GSEVZUnhzMXZEQkRHa01DYXlqaWZNVWdqaUwxN1FVSFNWem9XNXp3QzRSSEFRTUtQaHZISk9VRlExbHdaNDNZYnFnNEZNeFgxb0hyeUhDOG1OYnVad0M1X0F5RHZBbk52WW5BVV8way1qbWt6WjBUYXFkb0pjcFNfdzJF?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-63127adfb1",
+    "title": "Take-Two DMCA Wipes 3,007 GTA 6 PC Port Repos",
+    "reportedAt": "2026-11-24T17:11:09.000Z",
+    "category": "legal",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM0FsUzdCbVEtczBUN2pGYndnUHlaV3NkYjRRVnpFd2FNZ2w4WXMyMF9YcnplNWFCakxrTHNhTTMzcTNFdWJzcnVPRXVrNXJycnNuSDVnX1hybm10MVU4RUlNUFo4YVdyZ183ZW1POW8tRldVMGpVMFYta09ZaTRWaHNuYWlodkxGZHc?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-b343b7250b",
+    "title": "GTA 6 PC-port project hits a GitHub roadblock: 3,007 repos removed",
+    "reportedAt": "2026-11-24T18:19:36.000Z",
+    "category": "microsoft",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiREFVX3lxTE1FRTExYWo4MDdHcmkxekRsYm5hbzUzODQxekZPal9Mbm5wNDMtSm5QcjlfUFRSMjNaR2toaE9QcnIxdGZl?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-6de7caa86c",
+    "title": "Leaked GTA 6 XBOX build reportedly runs on PC at 25 FPS",
+    "reportedAt": "2026-11-26T20:34:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSVo1ZTFydG1iMkNRYS1Yc2ZNX3RReU9uZnR5U2R1Tmw2TWp3X1BWREoxQU0tWV9pcFYxRkV6Mkl3MnI4aGNmMktYMlktZ0pxNEx6QzZaYTdBNFlqVW8zd29RQkstUXZkZExBcUlXaEtwaEkwYWJnVkdGM0xyQ2tFaFI3bU1CS19KNUtTc2xUdXBKSjN0VUE?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-1efe277678",
+    "title": "GTA 6 PC: AI Ports, Takedowns and Take-Two Stock",
+    "reportedAt": "2026-11-27T10:29:57.000Z",
+    "category": "take-two",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdWtaZXREdXF2elhsWngtQ1BiSTVkbm54LVpOdEd5RmtjaXMxUFJCMXd1SFlHdDRVLWRPTENwMTBFd3pCRFY3MDhWV25sS2RMb2Y3WnNrOTJILVp0N0lUNTdHMlREQXNlSEZhTXdfMTJaOHQxUGZzS3FLMGV1bWY3QmtaeEdqWjJr?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-0634b7623b",
+    "title": "Cyberleek Releases .exe in Gta 6 Pc Port Push",
+    "reportedAt": "2026-11-26T23:42:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09ed9170774e1dbc257d987c220bc0&url=https%3a%2f%2fwww.el-balad.com%2f17070362&c=12002832456536988710&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-f967ea2c02",
+    "title": "Rockstar boss was \"praying\" that GTA 6's big Chapter 1 twist wouldn't leak",
+    "reportedAt": "2026-11-26T12:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09ed92e8b04f7a882fcfa5812ee735&url=https%3a%2f%2fwww.msn.com%2fen-gb%2fentertainment%2fcelebrities%2frockstar-boss-was-praying-that-gta-6-s-big-chapter-1-twist-wouldn-t-leak%2far-AA2ijLCt&c=15362578092703265201&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-46d0b693d1",
+    "title": "GTA 6 PC port project taken down after Xbox executable leaks online: Here is what happened",
+    "reportedAt": "2026-11-24T21:22:00.000Z",
+    "category": "microsoft",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09ed92e8b04f7a882fcfa5812ee735&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fgta-6-pc-port-project-taken-down-after-xbox-executable-leaks-online-here-is-what-happened%2far-AA2iiHFW&c=3820945582342712086&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
