@@ -17710,5 +17710,89 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-df2c802a9d",
+    "title": "Coders use AI to attempt GTA VI PC ports as Take-Two targets GitHub projects",
+    "reportedAt": "2026-11-28T01:59:00.000Z",
+    "category": "microsoft",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM2dvYk9YQXp5REt0cUZTZDZRLUVwVkNOdzRyQkY5RDBrX29qd1BjNTNDTHh3WGNfOFVfYlR4YVNwV1hlTW16SlplTUFVMmxWdkVsRWVMTGh1MGJZakhheVJWcnd1d2NmcExoTUNxM05WTWppYXB2X19CLUo0TFBjYnhBQm51NFlLUTc5MFBDMDhYZGdGbUh0eXd2aWFMTUR5bXU0ZEpRYXlPZ0ozTW8w?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-c3d2a09c09",
+    "title": "GTA 6: The AI race to clone the world's biggest video game for PC",
+    "reportedAt": "2026-11-28T01:30:50.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KdGFSMXE0OHRvdWlRZ0tyT1lhakVJM3lzbmlibjJ0Nm8ydDNOWlgydVJxcWd2SHQ1cUtoeUtmNnFUem9kcUFlcVJnVGpTZ1Zpa25IYjVhUVkycTg?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-d6b5b682ac",
+    "title": "GTA 6 PC Port: 5 Days After Leak, Playable Unconfirmed",
+    "reportedAt": "2026-11-24T15:17:09.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaGg4ZV9UbE5TMWRUREx5MTVGUmZSaXlRT0NpZVI4LXI3Y2ZPc3hFUVpuSUlHdGhUdzZBQWROQ21vWkF1NjJtcVlPS0dNVl9HaTJ5WW0xZVVZQVpwZWRBVm9CaUY0VGh6WmZVMHZaeUlhcnJ1U1BvNzBnMmpOZG0tcjJtSjRMcDdHU1d0Wg?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-36c524ad5d",
+    "title": "Xbox GDK leak could boost GTA 6 PC ports, unlocking console development secrets",
+    "reportedAt": "2026-11-28T04:21:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN1B4dzM2c0FNSWpFSjlPWTA4TW9Kek1sbW9RV1JETDg0aFd3QUdtR0NZdC1Mc25ZWXVnY3dkTlFINUwxQVJWNURfeHRmZ3JRVnVvMTlNelVVOVdCcU5EQ2taM0RhVVFoZ0J2VURRQmpmMzA0NW8xbld2T1pZdjRoZXM1VUFkSnN4MnpNUURDdjdLNTRTQ3lpZHYtYmo2WklSX1FlQ21wY2Flc0dIamZ4b0NqRTNDbTB6aGQxTzRxLTk?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-a428b1044c",
+    "title": "New GTA 6 gameplay video is leaving fans stunned",
+    "reportedAt": "2026-11-11T08:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV0UyZmRWLUZDTElVcGtGMzlpeXk2VmRjbGZXUHhka1ZRa3V5eVdYaG5pbExwX1lFbzRaZkVoTjNHOU5RcnV5Y09sODBWSHJCeVlNYXNKRzlJNmE1c0FEQWVYcFFxTmFNTlBEZnlLMjVteDBtc2RhQ2RXbDFlT1ViZkZOVElkeHR3d0t5ZGxfaw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-f421b8945c",
+    "title": "Unofficial GTA VI PC Port is Possible Thanks to Cyberleek’s Leaked Xbox Build",
+    "reportedAt": "2026-11-24T08:04:41.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNlhwaHMtWTNYQnJ0SWJNTEprcWdKRlc0b2cwMEVQUFdUc3hhS0lrdnNhSkc0bkRndU1wam5lX29ER0pBZklkakEwZGxFaWhBWWg0MS1UbjEyMWJET0FqQ1g0Wm9UUE5zaGhXekFQMjhoTTBBR2ZBbUc2Z19YWU1YTmczeDQtcTg4Zkc4Rk1OQUhNY3MzTUVFVGNUck9KRnZ2NWxPOXNDcm0?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-75d0841eca",
+    "title": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
+    "reportedAt": "2026-11-27T17:30:50.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0a7b61cb144387a93cd9dedb180398&url=https%3a%2f%2fwww.msn.com%2fen-us%2fgaming%2frockstar-games%2fhow-gamers-are-using-ai-and-leaked-files-to-clone-grand-theft-auto-6%2far-AA2io7RI&c=12580334126218245271&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

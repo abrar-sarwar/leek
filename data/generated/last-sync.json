@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-11-27T20:52:28.274Z",
+  "ranAt": "2026-11-28T06:57:31.875Z",
   "feeds": [
     {
       "name": "google-news:CyberLeek",
@@ -34,7 +34,7 @@
     {
       "name": "google-news:CyberLeek Microsoft",
       "ok": true,
-      "items": 63
+      "items": 60
     },
     {
       "name": "google-news:CyberLeek Discord",
@@ -44,22 +44,22 @@
     {
       "name": "google-news:CyberLeek subpoena",
       "ok": true,
-      "items": 42
+      "items": 26
     },
     {
       "name": "google-news:CyberLeek dead man switch",
       "ok": true,
-      "items": 50
+      "items": 49
     },
     {
       "name": "google-news:CyberLeek arrest",
       "ok": true,
-      "items": 52
+      "items": 10
     },
     {
       "name": "google-news:CyberLeek $CYBERLEEK",
       "ok": true,
-      "items": 27
+      "items": 11
     },
     {
       "name": "bing-news:CyberLeek",
@@ -79,7 +79,7 @@
     {
       "name": "bing-news:GTA 6 leak",
       "ok": true,
-      "items": 11
+      "items": 0
     },
     {
       "name": "gdelt",
@@ -94,8 +94,8 @@
       "error": "HTTP 401"
     }
   ],
-  "discovered": 2733,
-  "newSinceLastRun": 19,
-  "pending": 1476,
+  "discovered": 2742,
+  "newSinceLastRun": 9,
+  "pending": 1483,
   "analysisMode": "rules-only"
 }
